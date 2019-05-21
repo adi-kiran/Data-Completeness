@@ -5,7 +5,7 @@ import os
 def main():
       
     for filename in os.listdir("/Users/chirag.tubakad/Documents/Projects/temp/204/"): 
-        dst = "204_" + filename + ".csv"
+        dst = "204_" + filename
         src ='/Users/chirag.tubakad/Documents/Projects/temp/204/'+ filename 
         dst ='/Users/chirag.tubakad/Documents/Projects/temp/CSV_All/'+ dst 
           
