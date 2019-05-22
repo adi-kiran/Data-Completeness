@@ -1,0 +1,1 @@
+{"schema": {"Name": "object", "Nationality": "object", "Club": "object", "From": "int64", "Until": "object"}}
