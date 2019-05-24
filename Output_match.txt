@@ -308,8 +308,6 @@ Format of output is : Table_Name    Column_Name    Data_Type
 203_866.csv match score 1 of 5
 203_875.csv			Name			object
 203_875.csv match score 1 of 5
-203_876.csv			Name			object
-203_876.csv match score 1 of 5
 203_9.csv			Name			object
 203_9.csv match score 1 of 5
 204_100.csv			Nationality			object
