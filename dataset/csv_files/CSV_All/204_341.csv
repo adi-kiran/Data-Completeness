@@ -1,51 +1,51 @@
-"Name in English","Name in Turkish","Area (km2)","Depth","Location (districts and/or provinces)"
-"Lake Van","Van Gölü","3755 km2","451 m","Van, Bitlis"
-"Lake Tuz","Tuz Gölü","1500 km2","2 m","Aksaray, Ankara, Konya"
-"Lake Beyşehir","Beyşehir Gölü","656 km2","10 m","Beyşehir in Konya, Isparta"
-"Lake Eğirdir","Eğirdir Gölü","482 km2","","Isparta"
-"Lake İznik","İznik Gölü","308 km2","","İznik in Bursa, Yalova"
-"Lake Burdur","Burdur Gölü","200 km2","","Burdur, Isparta"
-"Lake Manyas","Manyas Gölü","166 km2","","Balıkesir"
-"Lake Acıgöl","Acıgöl","153 km2","","Denizli, Afyonkarahisar"
-"Lake Uluabat","Uluabat Gölü","134 km2","1–2 m","Bursa"
-"Lake Çıldır","Çıldır Gölü","115 km2","","Ardahan, Kars"
-"Lake Palas Tuzla","Palas Tuzla Gölü","106 km2","15 m","Palas/Kayseri"
-"Lake Akşehir","Akşehir Gölü","105 km2","","Akşehir in Konya, Afyonkarahisar"
-"Lake Eber","Eber Gölü","104 km2","","Afyonkarahisar"
-"Lake Erçek","Erçek Gölü","98 km2","","Van"
-"Lake Hazar","Hazar Gölü","86 km2","","Elazığ"
-"Lake Bafa","Bafa Gölü","60 km2","","Aydın, Muğla"
-"Lake Köyceğiz","Köyceğiz Gölü","52 km2","","Köyceğiz in Muğla"
-"Lake Işıklı","Işıklı Gölü","49 km2","","Denizli"
-"Lake Nazik","Nazik Gölü","48 km2","","Bitlis"
-"Lake Sapanca","Sapanca Gölü","47 km2","","Sakarya Province"
-"Lake Salda","Salda Gölü","45 km2","184 m","Burdur"
-"Lake Yay","Yay Gölü","37 km2","","Kayseri"
-"Lake Akyatan","Akyatan Gölü","35 km2","","Adana"
-"Lake Balık","Balık Gölü","34 km2","","Doğubeyazıt in Ağrı"
-"Lake Marmara","Marmara Gölü","34 km2","","Salihli, Gölmarmara in Manisa"
-"Lake Çöl","Çöl Gölü","32 km2","","Ankara"
-"Lake Durusu (Lake Terkos)","Durusu Gölü","25 km2","","İstanbul"
-"Lake Karine","Karine Gölü","24 km2","",""
-"Lake Tuzla","Tuzla Gölü","23 km2","","Tuzla"
-"Lake Küçükçekmece","Küçükçekmece Gölü","16 km2","","Küçükçekmece, İstanbul"
-"Lake Yaraşlı","Yaraşlı Gölü","16 km2","","Burdur"
-"Lake Haçlı","Haçlı Gölü","16 km2","","Muş"
-"Lake Seyfe","Seyfe Gölü","15 km2","","Kırşehir"
-"Lake Akyayan","Akyayan Gölü","15 km2","",""
-"Lake Hozapin","Hozapin Gölü","14 km2","",""
-"Lake Arin","Arin Gölü","13 km2","",""
-"Lake Nemrut","Nemrut Gölü","12 km2","","Bitlis Province"
-"Lake Balık","Balık Gölü","12 km2","",""
-"Lake Büyükçekmece","Büyükçekmece Gölü","11 km2","","Büyükçekmece, Istanbul"
-"Lake Boluk","Boluk Gölü","11 km2","",""
-"Lake Akdoğan","Akdoğan Gölü","11 km2","",""
-"Lake Çavuşlu","Çavuşlu Gölü","9 km2","",""
-"Lake Düden","Düden Gölü","8 km2","",""
-"Lake Gala","Gala Gölü","8 km2","","Edirne"
-"Lake Karataş","Karataş Gölü","6 km2","",""
-"Lake Mogan","Mogan Gölü","6 km2","","Ankara"
-"Paradeniz","Paradeniz","4 km2","","Mersin"
-"Lake Eymir","Eymir Gölü","1.8 km2","","Ankara"
-"Lake Abant","Abant Gölü","1.28 km2","18 m","Bolu"
-"Lake Gölcük","Gölcük Gölü","1 km2","","İzmir"
+Name in English,Name in Turkish,Area (km2),Depth,Location (districts and/or provinces)
+Lake Van,Van Gölu,3755 km2,451 m,"Van, Bitlis"
+Lake Tuz,Tuz Gölu,1500 km2,2 m,"Aksaray, Ankara, Konya"
+Lake Beyşehir,Beyşehir Gölu,656 km2,10 m,"Beyşehir in Konya, Isparta"
+Lake Eğirdir,Eğirdir Gölu,482 km2,,Isparta
+Lake İznik,İznik Gölu,308 km2,,"İznik in Bursa, Yalova"
+Lake Burdur,Burdur Gölu,200 km2,,"Burdur, Isparta"
+Lake Manyas,Manyas Gölu,166 km2,,Balıkesir
+Lake Acıgöl,Acıgöl,153 km2,,"Denizli, Afyonkarahisar"
+Lake Uluabat,Uluabat Gölu,134 km2,,Bursa
+Lake Çıldır,Çıldır Gölu,115 km2,,"Ardahan, Kars"
+Lake Palas Tuzla,Palas Tuzla Gölu,106 km2,15 m,Palas/Kayseri
+Lake Akşehir,Akşehir Gölu,105 km2,,"Akşehir in Konya, Afyonkarahisar"
+Lake Eber,Eber Gölu,104 km2,,Afyonkarahisar
+Lake Erçek,Erçek Gölu,98 km2,,Van
+Lake Hazar,Hazar Gölu,86 km2,,Elazığ
+Lake Bafa,Bafa Gölu,60 km2,,"Aydın, Muğla"
+Lake Köyceğiz,Köyceğiz Gölu,52 km2,,Köyceğiz in Muğla
+Lake Işıklı,Işıklı Gölu,49 km2,,Denizli
+Lake Nazik,Nazik Gölu,48 km2,,Bitlis
+Lake Sapanca,Sapanca Gölu,47 km2,,Sakarya Province
+Lake Salda,Salda Gölu,45 km2,184 m,Burdur
+Lake Yay,Yay Gölu,37 km2,,Kayseri
+Lake Akyatan,Akyatan Gölu,35 km2,,Adana
+Lake Balık,Balık Gölu,34 km2,,Doğubeyazıt in Ağrı
+Lake Marmara,Marmara Gölu,34 km2,,"Salihli, Gölmarmara in Manisa"
+Lake Çöl,Çöl Gölu,32 km2,,Ankara
+Lake Durusu (Lake Terkos),Durusu Gölu,25 km2,,İstanbul
+Lake Karine,Karine Gölu,24 km2,,
+Lake Tuzla,Tuzla Gölu,23 km2,,Tuzla
+Lake Kuçukçekmece,Kuçukçekmece Gölu,16 km2,,"Kuçukçekmece, İstanbul"
+Lake Yaraşlı,Yaraşlı Gölu,16 km2,,Burdur
+Lake Haçlı,Haçlı Gölu,16 km2,,Muş
+Lake Seyfe,Seyfe Gölu,15 km2,,Kırşehir
+Lake Akyayan,Akyayan Gölu,15 km2,,
+Lake Hozapin,Hozapin Gölu,14 km2,,
+Lake Arin,Arin Gölu,13 km2,,
+Lake Nemrut,Nemrut Gölu,12 km2,,Bitlis Province
+Lake Balık,Balık Gölu,12 km2,,
+Lake Buyukçekmece,Buyukçekmece Gölu,11 km2,,"Buyukçekmece, Istanbul"
+Lake Boluk,Boluk Gölu,11 km2,,
+Lake Akdoğan,Akdoğan Gölu,11 km2,,
+Lake Çavuşlu,Çavuşlu Gölu,9 km2,,
+Lake Duden,Duden Gölu,8 km2,,
+Lake Gala,Gala Gölu,8 km2,,Edirne
+Lake Karataş,Karataş Gölu,6 km2,,
+Lake Mogan,Mogan Gölu,6 km2,,Ankara
+Paradeniz,Paradeniz,4 km2,,Mersin
+Lake Eymir,Eymir Gölu,1.8 km2,,Ankara
+Lake Abant,Abant Gölu,1.28 km2,18 m,Bolu
+Lake Gölcuk,Gölcuk Gölu,1 km2,,İzmir

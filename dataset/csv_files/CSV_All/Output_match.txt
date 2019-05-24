@@ -1,0 +1,671 @@
+Format of output is : Table_Name    Column_Name    Data_Type
+200_18.csv			Name			object
+200_18.csv match score 1 of 5
+200_20.csv			Name			object
+200_20.csv match score 1 of 5
+200_44.csv			Name			object
+200_44.csv match score 1 of 5
+201_1.csv			Name			object
+201_1.csv match score 1 of 5
+201_10.csv			Name			object
+201_10.csv match score 1 of 5
+201_2.csv			Name			object
+201_2.csv match score 1 of 5
+201_26.csv			Club			object
+201_26.csv match score 1 of 5
+201_28.csv			Name			object
+201_28.csv match score 1 of 5
+201_29.csv			Name			object
+201_29.csv match score 1 of 5
+201_35.csv			Name			object
+201_35.csv match score 1 of 5
+201_43.csv			Name			object
+201_43.csv match score 1 of 5
+201_46.csv			Name			object
+201_46.csv match score 1 of 5
+202_117.csv			Nationality			object
+202_117.csv match score 1 of 5
+202_119.csv			Name			object
+202_119.csv match score 1 of 5
+202_126.csv			Name			object
+202_126.csv match score 1 of 5
+202_14.csv			Name			object
+202_14.csv match score 1 of 5
+202_202.csv			Name			object
+202_202.csv match score 1 of 5
+202_26.csv			Club			object
+202_26.csv match score 1 of 5
+202_260.csv			Name			object
+202_260.csv match score 1 of 5
+202_262.csv			Name			object
+202_262.csv match score 1 of 5
+202_264.csv			Name			object
+202_264.csv match score 1 of 5
+202_270.csv			Name			object
+202_270.csv match score 1 of 5
+202_289.csv			Name			object
+202_289.csv match score 1 of 5
+202_295.csv			Club			object
+202_295.csv match score 1 of 5
+202_80.csv			Name			object
+202_80.csv match score 1 of 5
+202_85.csv			Club			object
+202_85.csv match score 1 of 5
+202_90.csv			Name			object
+202_90.csv match score 1 of 5
+203_0.csv			Name			object
+203_0.csv match score 1 of 5
+203_105.csv			Name			object
+203_105.csv match score 1 of 5
+203_106.csv			Name			object
+203_106.csv match score 1 of 5
+203_107.csv			Name			object
+203_107.csv match score 1 of 5
+203_108.csv			Name			object
+203_108.csv match score 1 of 5
+203_125.csv			Club			object
+203_125.csv match score 1 of 5
+203_130.csv			Name			object
+203_130.csv match score 1 of 5
+203_136.csv			Name			object
+203_136.csv match score 1 of 5
+203_139.csv			Name			object
+203_139.csv match score 1 of 5
+203_141.csv			Name			object
+203_141.csv match score 1 of 5
+203_145.csv			Club			object
+203_145.csv match score 1 of 5
+203_148.csv			Name			object
+203_148.csv			Nationality			object
+203_148.csv match score 2 of 5
+203_16.csv			Name			object
+203_16.csv match score 1 of 5
+203_17.csv			Name			object
+203_17.csv match score 1 of 5
+203_176.csv			Name			object
+203_176.csv			Club			object
+203_176.csv match score 2 of 5
+203_190.csv			Name			object
+203_190.csv match score 1 of 5
+203_194.csv			Name			object
+203_194.csv match score 1 of 5
+203_2.csv			Name			object
+203_2.csv match score 1 of 5
+203_213.csv			Name			object
+203_213.csv match score 1 of 5
+203_219.csv			Name			object
+203_219.csv match score 1 of 5
+203_221.csv			Name			object
+203_221.csv			Nationality			object
+203_221.csv match score 2 of 5
+203_222.csv			Name			object
+203_222.csv match score 1 of 5
+203_223.csv			Name			object
+203_223.csv match score 1 of 5
+203_225.csv			Name			object
+203_225.csv match score 1 of 5
+203_233.csv			Name			object
+203_233.csv match score 1 of 5
+203_236.csv			Name			object
+203_236.csv match score 1 of 5
+203_237.csv			Name			object
+203_237.csv match score 1 of 5
+203_241.csv			Name			object
+203_241.csv match score 1 of 5
+203_242.csv			Club			object
+203_242.csv match score 1 of 5
+203_243.csv			Name			object
+203_243.csv			Nationality			object
+203_243.csv match score 2 of 5
+203_250.csv			Name			object
+203_250.csv match score 1 of 5
+203_268.csv			Name			object
+203_268.csv			Nationality			object
+203_268.csv match score 2 of 5
+203_269.csv			Club			object
+203_269.csv match score 1 of 5
+203_273.csv			Name			object
+203_273.csv match score 1 of 5
+203_283.csv			Name			object
+203_283.csv match score 1 of 5
+203_292.csv			Name			object
+203_292.csv match score 1 of 5
+203_298.csv			Name			object
+203_298.csv match score 1 of 5
+203_302.csv			Name			object
+203_302.csv match score 1 of 5
+203_305.csv			Nationality			object
+203_305.csv match score 1 of 5
+203_312.csv			Name			object
+203_312.csv			Club			object
+203_312.csv match score 2 of 5
+203_313.csv			Name			object
+203_313.csv match score 1 of 5
+203_317.csv			Name			object
+203_317.csv match score 1 of 5
+203_319.csv			Name			object
+203_319.csv match score 1 of 5
+203_322.csv			Club			object
+203_322.csv match score 1 of 5
+203_326.csv			Name			object
+203_326.csv match score 1 of 5
+203_333.csv			Name			object
+203_333.csv match score 1 of 5
+203_345.csv			Name			object
+203_345.csv match score 1 of 5
+203_348.csv			Name			object
+203_348.csv match score 1 of 5
+203_372.csv			From			int64
+203_372.csv			Name			object
+203_372.csv match score 2 of 5
+203_375.csv			Name			object
+203_375.csv match score 1 of 5
+203_376.csv			Name			object
+203_376.csv match score 1 of 5
+203_39.csv			Name			object
+203_39.csv match score 1 of 5
+203_4.csv			Name			object
+203_4.csv match score 1 of 5
+203_404.csv			Name			object
+203_404.csv match score 1 of 5
+203_407.csv			Name			object
+203_407.csv match score 1 of 5
+203_41.csv			Name			object
+203_41.csv match score 1 of 5
+203_421.csv			Name			object
+203_421.csv			Until			object
+203_421.csv match score 2 of 5
+203_427.csv			Club			object
+203_427.csv			Nationality			object
+203_427.csv match score 2 of 5
+203_433.csv			Nationality			object
+203_433.csv match score 1 of 5
+203_446.csv			Name			object
+203_446.csv match score 1 of 5
+203_447.csv			Name			object
+203_447.csv match score 1 of 5
+203_449.csv			Name			object
+203_449.csv			Nationality			object
+203_449.csv match score 2 of 5
+203_45.csv			Name			object
+203_45.csv match score 1 of 5
+203_455.csv			Nationality			object
+203_455.csv match score 1 of 5
+203_458.csv			Nationality			object
+203_458.csv match score 1 of 5
+203_465.csv			Name			object
+203_465.csv match score 1 of 5
+203_474.csv			Name			object
+203_474.csv match score 1 of 5
+203_480.csv			Name			object
+203_480.csv match score 1 of 5
+203_481.csv			Name			object
+203_481.csv			Nationality			object
+203_481.csv match score 2 of 5
+203_500.csv			Name			object
+203_500.csv match score 1 of 5
+203_503.csv			Name			object
+203_503.csv			Nationality			object
+203_503.csv match score 2 of 5
+203_544.csv			Name			object
+203_544.csv match score 1 of 5
+203_550.csv			Name			object
+203_550.csv match score 1 of 5
+203_559.csv			Name			object
+203_559.csv match score 1 of 5
+203_566.csv			Nationality			object
+203_566.csv match score 1 of 5
+203_573.csv			Name			object
+203_573.csv match score 1 of 5
+203_578.csv			Name			object
+203_578.csv			Club			object
+203_578.csv			Nationality			object
+203_578.csv match score 3 of 5
+203_581.csv			Club			object
+203_581.csv match score 1 of 5
+203_599.csv			Name			object
+203_599.csv match score 1 of 5
+203_602.csv			Name			object
+203_602.csv match score 1 of 5
+203_617.csv			Nationality			object
+203_617.csv match score 1 of 5
+203_622.csv			Name			object
+203_622.csv match score 1 of 5
+203_624.csv			Club			object
+203_624.csv match score 1 of 5
+203_625.csv			Name			object
+203_625.csv match score 1 of 5
+203_639.csv			Name			object
+203_639.csv match score 1 of 5
+203_640.csv			Name			object
+203_640.csv match score 1 of 5
+203_642.csv			Name			object
+203_642.csv match score 1 of 5
+203_650.csv			Name			object
+203_650.csv match score 1 of 5
+203_658.csv			Name			object
+203_658.csv match score 1 of 5
+203_664.csv			Club			object
+203_664.csv match score 1 of 5
+203_665.csv			Name			object
+203_665.csv match score 1 of 5
+203_671.csv			Name			object
+203_671.csv match score 1 of 5
+203_674.csv			Name			object
+203_674.csv			From			int64
+203_674.csv match score 2 of 5
+203_69.csv			From			int64
+203_69.csv match score 1 of 5
+203_693.csv			Name			object
+203_693.csv match score 1 of 5
+203_694.csv			Name			object
+203_694.csv match score 1 of 5
+203_699.csv			Name			object
+203_699.csv match score 1 of 5
+203_702.csv			Name			object
+203_702.csv match score 1 of 5
+203_705.csv			Name			object
+203_705.csv match score 1 of 5
+203_71.csv			Name			object
+203_71.csv match score 1 of 5
+203_711.csv			Name			object
+203_711.csv match score 1 of 5
+203_712.csv			Name			object
+203_712.csv match score 1 of 5
+203_753.csv			Name			object
+203_753.csv match score 1 of 5
+203_760.csv			Name			object
+203_760.csv match score 1 of 5
+203_764.csv			Name			object
+203_764.csv match score 1 of 5
+203_767.csv			Club			object
+203_767.csv match score 1 of 5
+203_774.csv			Name			object
+203_774.csv match score 1 of 5
+203_776.csv			Club			object
+203_776.csv match score 1 of 5
+203_806.csv			Name			object
+203_806.csv match score 1 of 5
+203_820.csv			Nationality			object
+203_820.csv match score 1 of 5
+203_824.csv			Nationality			object
+203_824.csv match score 1 of 5
+203_827.csv			Name			object
+203_827.csv match score 1 of 5
+203_833.csv			Nationality			object
+203_833.csv match score 1 of 5
+203_835.csv			Club			object
+203_835.csv match score 1 of 5
+203_837.csv			Name			object
+203_837.csv match score 1 of 5
+203_84.csv			Name			object
+203_84.csv match score 1 of 5
+203_840.csv			Name			object
+203_840.csv match score 1 of 5
+203_863.csv			Name			object
+203_863.csv match score 1 of 5
+203_866.csv			Name			object
+203_866.csv match score 1 of 5
+203_875.csv			Name			object
+203_875.csv match score 1 of 5
+203_9.csv			Name			object
+203_9.csv match score 1 of 5
+204_100.csv			Nationality			object
+204_100.csv match score 1 of 5
+204_102.csv			Name			object
+204_102.csv match score 1 of 5
+204_103.csv			Name			object
+204_103.csv match score 1 of 5
+204_105.csv			Name			object
+204_105.csv match score 1 of 5
+204_111.csv			Name			object
+204_111.csv match score 1 of 5
+204_122.csv			Name			object
+204_122.csv match score 1 of 5
+204_124.csv			Name			object
+204_124.csv match score 1 of 5
+204_125.csv			Name			object
+204_125.csv match score 1 of 5
+204_135.csv			Club			object
+204_135.csv match score 1 of 5
+204_140.csv			Nationality			object
+204_140.csv match score 1 of 5
+204_148.csv			Name			object
+204_148.csv match score 1 of 5
+204_155.csv			Nationality			object
+204_155.csv match score 1 of 5
+204_159.csv			Name			object
+204_159.csv match score 1 of 5
+204_16.csv			Name			object
+204_16.csv match score 1 of 5
+204_160.csv			Name			object
+204_160.csv			Nationality			object
+204_160.csv match score 2 of 5
+204_161.csv			Name			object
+204_161.csv match score 1 of 5
+204_173.csv			Name			object
+204_173.csv			Nationality			object
+204_173.csv match score 2 of 5
+204_174.csv			Name			object
+204_174.csv			Nationality			object
+204_174.csv match score 2 of 5
+204_189.csv			Name			object
+204_189.csv match score 1 of 5
+204_198.csv			Club			object
+204_198.csv match score 1 of 5
+204_201.csv			Name			object
+204_201.csv match score 1 of 5
+204_203.csv			Name			object
+204_203.csv			Nationality			object
+204_203.csv match score 2 of 5
+204_218.csv			Name			object
+204_218.csv match score 1 of 5
+204_240.csv			Name			object
+204_240.csv match score 1 of 5
+204_255.csv			Name			object
+204_255.csv match score 1 of 5
+204_256.csv			Club			object
+204_256.csv match score 1 of 5
+204_259.csv			Name			object
+204_259.csv			Nationality			object
+204_259.csv match score 2 of 5
+204_26.csv			Name			object
+204_26.csv			Club			object
+204_26.csv match score 2 of 5
+204_27.csv			Name			object
+204_27.csv match score 1 of 5
+204_272.csv			Nationality			object
+204_272.csv match score 1 of 5
+204_29.csv			Name			object
+204_29.csv			Nationality			object
+204_29.csv match score 2 of 5
+204_291.csv			Name			object
+204_291.csv match score 1 of 5
+204_292.csv			Name			object
+204_292.csv match score 1 of 5
+204_293.csv			Name			object
+204_293.csv match score 1 of 5
+204_3.csv			Name			object
+204_3.csv			Nationality			object
+204_3.csv match score 2 of 5
+204_30.csv			Name			object
+204_30.csv match score 1 of 5
+204_300.csv			Name			object
+204_300.csv match score 1 of 5
+204_301.csv			Nationality			object
+204_301.csv			Name			object
+204_301.csv match score 2 of 5
+204_304.csv			Name			object
+204_304.csv			Nationality			object
+204_304.csv match score 2 of 5
+204_310.csv			Club			object
+204_310.csv match score 1 of 5
+204_316.csv			Nationality			object
+204_316.csv match score 1 of 5
+204_325.csv			Name			object
+204_325.csv match score 1 of 5
+204_327.csv			Nationality			object
+204_327.csv match score 1 of 5
+204_33.csv			Name			object
+204_33.csv match score 1 of 5
+204_340.csv			Name			object
+204_340.csv match score 1 of 5
+204_370.csv			Name			object
+204_370.csv match score 1 of 5
+204_372.csv			Name			object
+204_372.csv match score 1 of 5
+204_385.csv			Nationality			object
+204_385.csv match score 1 of 5
+204_387.csv			Name			object
+204_387.csv match score 1 of 5
+204_401.csv			Name			object
+204_401.csv			Nationality			object
+204_401.csv match score 2 of 5
+204_41.csv			Name			object
+204_41.csv			Nationality			object
+204_41.csv match score 2 of 5
+204_413.csv			Name			object
+204_413.csv match score 1 of 5
+204_414.csv			Name			object
+204_414.csv match score 1 of 5
+204_421.csv			Name			object
+204_421.csv			Nationality			object
+204_421.csv match score 2 of 5
+204_422.csv			Name			object
+204_422.csv			Nationality			object
+204_422.csv match score 2 of 5
+204_423.csv			Name			object
+204_423.csv match score 1 of 5
+204_425.csv			Name			object
+204_425.csv			Nationality			object
+204_425.csv match score 2 of 5
+204_43.csv			Name			object
+204_43.csv match score 1 of 5
+204_432.csv			Name			object
+204_432.csv match score 1 of 5
+204_433.csv			Name			object
+204_433.csv			Nationality			object
+204_433.csv match score 2 of 5
+204_444.csv			Name			object
+204_444.csv match score 1 of 5
+204_472.csv			Name			object
+204_472.csv match score 1 of 5
+204_476.csv			Name			object
+204_476.csv match score 1 of 5
+204_482.csv			Name			object
+204_482.csv match score 1 of 5
+204_485.csv			Name			object
+204_485.csv match score 1 of 5
+204_486.csv			Name			object
+204_486.csv match score 1 of 5
+204_489.csv			Name			object
+204_489.csv match score 1 of 5
+204_490.csv			Name			object
+204_490.csv match score 1 of 5
+204_491.csv			Name			object
+204_491.csv match score 1 of 5
+204_517.csv			Name			object
+204_517.csv			Club			object
+204_517.csv match score 2 of 5
+204_521.csv			Name			object
+204_521.csv			Nationality			object
+204_521.csv match score 2 of 5
+204_522.csv			Name			object
+204_522.csv match score 1 of 5
+204_526.csv			Name			object
+204_526.csv match score 1 of 5
+204_534.csv			Name			object
+204_534.csv match score 1 of 5
+204_539.csv			Name			object
+204_539.csv match score 1 of 5
+204_540.csv			Name			object
+204_540.csv match score 1 of 5
+204_541.csv			Name			object
+204_541.csv match score 1 of 5
+204_542.csv			Club			object
+204_542.csv match score 1 of 5
+204_544.csv			Name			object
+204_544.csv			Nationality			object
+204_544.csv match score 2 of 5
+204_545.csv			Name			object
+204_545.csv match score 1 of 5
+204_547.csv			Name			object
+204_547.csv			Nationality			object
+204_547.csv match score 2 of 5
+204_554.csv			Name			object
+204_554.csv match score 1 of 5
+204_558.csv			Name			object
+204_558.csv match score 1 of 5
+204_560.csv			Name			object
+204_560.csv match score 1 of 5
+204_561.csv			Name			object
+204_561.csv match score 1 of 5
+204_568.csv			Name			object
+204_568.csv match score 1 of 5
+204_575.csv			Name			object
+204_575.csv match score 1 of 5
+204_577.csv			Name			object
+204_577.csv match score 1 of 5
+204_59.csv			Nationality			object
+204_59.csv match score 1 of 5
+204_598.csv			Name			object
+204_598.csv match score 1 of 5
+204_600.csv			Name			object
+204_600.csv match score 1 of 5
+204_602.csv			Name			object
+204_602.csv match score 1 of 5
+204_608.csv			Name			object
+204_608.csv match score 1 of 5
+204_618.csv			Name			object
+204_618.csv match score 1 of 5
+204_626.csv			Name			object
+204_626.csv match score 1 of 5
+204_633.csv			Name			object
+204_633.csv match score 1 of 5
+204_649.csv			Name			object
+204_649.csv match score 1 of 5
+204_65.csv			Name			object
+204_65.csv			Nationality			object
+204_65.csv match score 2 of 5
+204_650.csv			Name			object
+204_650.csv			Nationality			object
+204_650.csv match score 2 of 5
+204_663.csv			Name			object
+204_663.csv match score 1 of 5
+204_664.csv			Name			object
+204_664.csv			Nationality			object
+204_664.csv match score 2 of 5
+204_665.csv			Name			object
+204_665.csv match score 1 of 5
+204_669.csv			Nationality			object
+204_669.csv match score 1 of 5
+204_673.csv			Name			object
+204_673.csv match score 1 of 5
+204_68.csv			Name			object
+204_68.csv match score 1 of 5
+204_686.csv			Name			object
+204_686.csv match score 1 of 5
+204_688.csv			Name			object
+204_688.csv match score 1 of 5
+204_694.csv			Name			object
+204_694.csv match score 1 of 5
+204_695.csv			Nationality			object
+204_695.csv match score 1 of 5
+204_698.csv			Name			object
+204_698.csv			Nationality			object
+204_698.csv match score 2 of 5
+204_699.csv			Name			object
+204_699.csv match score 1 of 5
+204_700.csv			Name			object
+204_700.csv match score 1 of 5
+204_705.csv			Club			object
+204_705.csv match score 1 of 5
+204_71.csv			Name			object
+204_71.csv			Nationality			object
+204_71.csv match score 2 of 5
+204_712.csv			Nationality			object
+204_712.csv match score 1 of 5
+204_720.csv			Name			object
+204_720.csv match score 1 of 5
+204_741.csv			Name			object
+204_741.csv			Nationality			object
+204_741.csv match score 2 of 5
+204_745.csv			Name			object
+204_745.csv match score 1 of 5
+204_748.csv			Nationality			object
+204_748.csv match score 1 of 5
+204_752.csv			Name			object
+204_752.csv match score 1 of 5
+204_753.csv			Name			object
+204_753.csv match score 1 of 5
+204_782.csv			Name			object
+204_782.csv match score 1 of 5
+204_799.csv			Name			object
+204_799.csv match score 1 of 5
+204_805.csv			Name			object
+204_805.csv			Club			object
+204_805.csv match score 2 of 5
+204_806.csv			Name			object
+204_806.csv match score 1 of 5
+204_81.csv			Name			object
+204_81.csv match score 1 of 5
+204_83.csv			Name			object
+204_83.csv match score 1 of 5
+204_832.csv			Name			object
+204_832.csv			Nationality			object
+204_832.csv			Club			object
+204_832.csv			From			int64
+204_832.csv			Until			object
+204_832.csv match score 5 of 5
+204_834.csv			Name			object
+204_834.csv			Nationality			object
+204_834.csv match score 2 of 5
+204_835.csv			Name			object
+204_835.csv			Nationality			object
+204_835.csv match score 2 of 5
+204_844.csv			Nationality			object
+204_844.csv match score 1 of 5
+204_847.csv			Name			object
+204_847.csv match score 1 of 5
+204_849.csv			Name			object
+204_849.csv			Nationality			object
+204_849.csv match score 2 of 5
+204_856.csv			Name			object
+204_856.csv match score 1 of 5
+204_866.csv			Name			object
+204_866.csv			Nationality			object
+204_866.csv match score 2 of 5
+204_867.csv			Name			object
+204_867.csv match score 1 of 5
+204_872.csv			Name			object
+204_872.csv match score 1 of 5
+204_873.csv			Name			object
+204_873.csv match score 1 of 5
+204_877.csv			Name			object
+204_877.csv match score 1 of 5
+204_883.csv			Name			object
+204_883.csv match score 1 of 5
+204_884.csv			Name			object
+204_884.csv match score 1 of 5
+204_891.csv			Name			object
+204_891.csv match score 1 of 5
+204_893.csv			Name			object
+204_893.csv			Nationality			object
+204_893.csv match score 2 of 5
+204_90.csv			Name			object
+204_90.csv			Nationality			object
+204_90.csv match score 2 of 5
+204_902.csv			Name			object
+204_902.csv			Nationality			object
+204_902.csv match score 2 of 5
+204_910.csv			Name			object
+204_910.csv			Nationality			object
+204_910.csv match score 2 of 5
+204_923.csv			Club			object
+204_923.csv match score 1 of 5
+204_925.csv			Name			object
+204_925.csv match score 1 of 5
+204_93.csv			Nationality			object
+204_93.csv match score 1 of 5
+204_931.csv			Nationality			object
+204_931.csv match score 1 of 5
+204_935.csv			Name			object
+204_935.csv match score 1 of 5
+204_945.csv			Name			object
+204_945.csv match score 1 of 5
+204_95.csv			Name			object
+204_95.csv match score 1 of 5
+204_959.csv			Club			object
+204_959.csv match score 1 of 5
+204_963.csv			Name			object
+204_963.csv match score 1 of 5
+204_978.csv			Name			object
+204_978.csv match score 1 of 5
+204_980.csv			Name			object
+204_980.csv match score 1 of 5
+204_985.csv			Club			object
+204_985.csv match score 1 of 5
+204_99.csv			Club			object
+204_99.csv match score 1 of 5
+204_991.csv			Name			object
+204_991.csv match score 1 of 5

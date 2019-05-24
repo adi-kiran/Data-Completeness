@@ -1,22 +1,22 @@
-"#","Club","Winner","Last win","Runner-up","Last losing final"
-"1","Esteghlal (Taj)","6","2012","3","2004"
-"2","Persepolis","5","2011","2","2013"
-"3","Sepahan","4","2013","0","N/A"
-"4","Malavan","3","1990","4","2011"
-"5","Zob Ahan","2","2009","1","2001"
-"6","Bahman","1","1995","2","2000"
-"=","Fajr Sepasi","1","2001","2","2003"
-"=","Tractor Sazi","1","2014","2","1995"
-"8","Bargh Shiraz","1","1997","1","1996"
-"=","Saba Qom (Saba Battery)","1","2005","1","2007"
-"10","Saipa","1","1994","0","N/A"
-"=","Shahin Ahvaz","1","1988","0","N/A"
-"13","Homa","0","N/A","1","1977"
-"=","Kheibar Khorramabad","0","N/A","1","1986"
-"=","Jonoob Ahvaz","0","N/A","1","1994"
-"=","Aboomoslem","0","N/A","1","2005"
-"=","Damash (Pegah)","0","N/A","1","2008"
-"=","Rah Ahan","0","N/A","1","2009"
-"=","Gostaresh Foolad","0","N/A","1","2010"
-"=","Shahin Bushehr","0","N/A","1","2012"
-"=","Mes Kerman","0","N/A","1","2014"
+num,Club,Winner,Last win,Runner-up,Last losing final
+1,Esteghlal (Taj),6,2012.0,3,2004.0
+2,Persepolis,5,2011.0,2,2013.0
+3,Sepahan,4,2013.0,0,
+4,Malavan,3,1990.0,4,2011.0
+5,Zob Ahan,2,2009.0,1,2001.0
+6,Bahman,1,1995.0,2,2000.0
+=,Fajr Sepasi,1,2001.0,2,2003.0
+=,Tractor Sazi,1,2014.0,2,1995.0
+8,Bargh Shiraz,1,1997.0,1,1996.0
+=,Saba Qom (Saba Battery),1,2005.0,1,2007.0
+10,Saipa,1,1994.0,0,
+=,Shahin Ahvaz,1,1988.0,0,
+13,Homa,0,,1,1977.0
+=,Kheibar Khorramabad,0,,1,1986.0
+=,Jonoob Ahvaz,0,,1,1994.0
+=,Aboomoslem,0,,1,2005.0
+=,Damash (Pegah),0,,1,2008.0
+=,Rah Ahan,0,,1,2009.0
+=,Gostaresh Foolad,0,,1,2010.0
+=,Shahin Bushehr,0,,1,2012.0
+=,Mes Kerman,0,,1,2014.0

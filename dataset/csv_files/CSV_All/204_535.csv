@@ -1,35 +1,35 @@
-"Pos","Rider","Manufacturer","Laps","Time/Retired","Grid","Points"
-"1","Manuel Poggiali","Gilera","25","41:18.211","1","25"
-"2","Dani Pedrosa","Honda","25","+0.019","4","20"
-"3","Steve Jenkner","Aprilia","25","+9.888","3","16"
-"4","Lucio Cecchinello","Aprilia","25","+15.397","5","13"
-"5","Simone Sanna","Aprilia","25","+15.452","8","11"
-"6","Joan Olivé","Honda","25","+15.486","20","10"
-"7","Stefano Bianco","Aprilia","25","+15.549","11","9"
-"8","Pablo Nieto","Aprilia","25","+16.218","2","8"
-"9","Mika Kallio","Honda","25","+22.762","10","7"
-"10","Mirko Giansanti","Honda","25","+22.839","16","6"
-"11","Arnaud Vincent","Aprilia","25","+23.067","23","5"
-"12","Andrea Ballerini","Honda","25","+23.134","18","4"
-"13","Stefano Perugini","Italjet","25","+43.345","17","3"
-"14","Jorge Lorenzo","Derbi","25","+43.973","7","2"
-"15","Masao Azuma","Honda","25","+47.189","13","1"
-"16","Jakub Smrž","Honda","25","+47.333","24",""
-"17","Gianluigi Scalvini","Aprilia","25","+52.000","22",""
-"18","Héctor Barberá","Aprilia","25","+1:11.358","27",""
-"19","Mattia Angeloni","Gilera","25","+1:11.488","29",""
-"20","Alex Baldolini","Aprilia","25","+1:21.603","32",""
-"21","Jaroslav Huleš","Aprilia","25","+1:21.681","15",""
-"22","Julian Simon","Honda","25","+1:31.723","26",""
-"23","Imre Tóth","Honda","25","+1:31.794","31",""
-"24","Leon Camier","Italjet","24","+1 Lap","33",""
-"Ret","Chaz Davies","Aprilia","18","Retirement","21",""
-"Ret","Michel Fabrizio","Gilera","14","Accident","19",""
-"Ret","Youichi Ui","Derbi","13","Accident","6",""
-"Ret","Alex de Angelis","Aprilia","13","Accident","12",""
-"Ret","Ángel Rodríguez","Aprilia","4","Retirement","25",""
-"Ret","Gino Borsoi","Aprilia","0","Accident","9",""
-"Ret","Andrea Dovizioso","Honda","0","Accident","14",""
-"Ret","Alessandro Brannetti","Honda","0","Accident","30",""
-"Ret","Álvaro Bautista","Aprilia","0","Accident","28",""
-"DNQ","Javier Machado","Honda","","","",""
+Pos,Rider,Manufacturer,Laps,Time/Retired,Grid,Points
+1,Manuel Poggiali,Gilera,25.0,41:18.211,1.0,25.0
+2,Dani Pedrosa,Honda,25.0,+0.019,4.0,20.0
+3,Steve Jenkner,Aprilia,25.0,+9.888,3.0,16.0
+4,Lucio Cecchinello,Aprilia,25.0,+15.397,5.0,13.0
+5,Simone Sanna,Aprilia,25.0,+15.452,8.0,11.0
+6,Joan Olive,Honda,25.0,+15.486,20.0,10.0
+7,Stefano Bianco,Aprilia,25.0,+15.549,11.0,9.0
+8,Pablo Nieto,Aprilia,25.0,+16.218,2.0,8.0
+9,Mika Kallio,Honda,25.0,+22.762,10.0,7.0
+10,Mirko Giansanti,Honda,25.0,+22.839,16.0,6.0
+11,Arnaud Vincent,Aprilia,25.0,+23.067,23.0,5.0
+12,Andrea Ballerini,Honda,25.0,+23.134,18.0,4.0
+13,Stefano Perugini,Italjet,25.0,+43.345,17.0,3.0
+14,Jorge Lorenzo,Derbi,25.0,+43.973,7.0,2.0
+15,Masao Azuma,Honda,25.0,+47.189,13.0,1.0
+16,Jakub Smrž,Honda,25.0,+47.333,24.0,
+17,Gianluigi Scalvini,Aprilia,25.0,+52.000,22.0,
+18,Hector Barberá,Aprilia,25.0,+1:11.358,27.0,
+19,Mattia Angeloni,Gilera,25.0,+1:11.488,29.0,
+20,Alex Baldolini,Aprilia,25.0,+1:21.603,32.0,
+21,Jaroslav Huleš,Aprilia,25.0,+1:21.681,15.0,
+22,Julian Simon,Honda,25.0,+1:31.723,26.0,
+23,Imre Toth,Honda,25.0,+1:31.794,31.0,
+24,Leon Camier,Italjet,24.0,+1 Lap,33.0,
+Ret,Chaz Davies,Aprilia,18.0,Retirement,21.0,
+Ret,Michel Fabrizio,Gilera,14.0,Accident,19.0,
+Ret,Youichi Ui,Derbi,13.0,Accident,6.0,
+Ret,Alex de Angelis,Aprilia,13.0,Accident,12.0,
+Ret,Ángel Rodriguez,Aprilia,4.0,Retirement,25.0,
+Ret,Gino Borsoi,Aprilia,0.0,Accident,9.0,
+Ret,Andrea Dovizioso,Honda,0.0,Accident,14.0,
+Ret,Alessandro Brannetti,Honda,0.0,Accident,30.0,
+Ret,Álvaro Bautista,Aprilia,0.0,Accident,28.0,
+DNQ,Javier Machado,Honda,,,,

@@ -1,9 +1,9 @@
-"Rank","Name","Nationality","Time"
-"","Mark Henderson","United States","54.11"
-"","Eduardo Piccinini","Brazil","54.63"
-"","Brian Alderman","United States","54.75"
-"4","Francisco Sánchez","Venezuela","54.99"
-"5","Edward Parenti","Canada","55.23"
-"6","Diego Cuenca","Colombia","55.67"
-"7","José Meolans","Argentina","55.91"
-"8","Ruben Calderon","El Salvador","56.04"
+Rank,Name,Nationality,Time
+,Mark Henderson,United States,54.11
+,Eduardo Piccinini,Brazil,54.63
+,Brian Alderman,United States,54.75
+4.0,Francisco Sánchez,Venezuela,54.99
+5.0,Edward Parenti,Canada,55.23
+6.0,Diego Cuenca,Colombia,55.67
+7.0,Jose Meolans,Argentina,55.91
+8.0,Ruben Calderon,El Salvador,56.04

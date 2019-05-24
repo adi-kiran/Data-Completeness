@@ -1,11 +1,11 @@
-"Pos.","Driver","Co-driver","Car","Time","Difference","Points"
-"1.","Raffaele Pinto","Arnaldo Bernacchini","Fiat Abarth 124 Rallye","6:26:15","0.0","20"
-"2.","Alcide Paganelli","Ninni Russo","Fiat Abarth 124 Rallye","6:30:12","3.57",""
-"3.","Markku Alén","Ilkka Kivimäki","Fiat Abarth 124 Rallye","6:37:17","11.02",""
-"4.","Ove Andersson","Arne Hertz","Toyota Corolla","6:40:54","14.39","10"
-"5.","Harry Källström","Claes Billstam","Datsun 260Z","6:54:27","28.12","8"
-"6.","Bob Neyret","Yveline Vanoni","Alpine-Renault A110 1800","7:04:18","38.03","6"
-"7.","Georg Fischer","Harald Gottlieb","BMW 2002","7:05:02","38.47","4"
-"8.","Francisco Romãozinho","José Bernardo","Citroën GS","7:17:04","50.49","3"
-"9.","Chris Sclater","Neil Wilson","Ford Escort RS1600","7:26:59","1:00.44","2"
-"10.","António Borges","Miguel Sottomayor","Fiat 124 Sport Spyder","7:27:55","1:01.40",""
+Pos.,Driver,Co-driver,Car,Time,Difference,Points
+1.0,Raffaele Pinto,Arnaldo Bernacchini,Fiat Abarth 124 Rallye,6:26:15,0.0,20.0
+2.0,Alcide Paganelli,Ninni Russo,Fiat Abarth 124 Rallye,6:30:12,3.57,
+3.0,Markku Alen,Ilkka Kivimäki,Fiat Abarth 124 Rallye,6:37:17,11.02,
+4.0,Ove Andersson,Arne Hertz,Toyota Corolla,6:40:54,14.39,10.0
+5.0,Harry Källström,Claes Billstam,Datsun 260Z,6:54:27,28.12,8.0
+6.0,Bob Neyret,Yveline Vanoni,Alpine-Renault A110 1800,7:04:18,38.03,6.0
+7.0,Georg Fischer,Harald Gottlieb,BMW 2002,7:05:02,38.47,4.0
+8.0,Francisco Romãozinho,Jose Bernardo,Citroën GS,7:17:04,50.49,3.0
+9.0,Chris Sclater,Neil Wilson,Ford Escort RS1600,7:26:59,1:00.44,2.0
+10.0,Antonio Borges,Miguel Sottomayor,Fiat 124 Sport Spyder,7:27:55,1:01.40,

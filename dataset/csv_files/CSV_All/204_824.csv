@@ -1,9 +1,9 @@
-"No.","Train No:","Origin","Destination","Train Name"
-"1.","56654","Mangalore Central","Kozhikode","Passenger"
-"2.","56324","Mangalore Central","Coimbatore city Junction","Fast Passenger"
-"3.","56656","Mangalore Central","Kannur","Passenger"
-"4.","56643/56645","Mangalore Central","Kabakaputtur","Passenger"
-"5.","56640","Mangalore Central","Verna","Passenger"
-"6.","56647","Mangalore Central","Subrahmanya Road","Passenger"
-"7.","56661","Mangalore Central","Cheruvathur","Passenger"
-"8.","70106","Mangalore Central","Bhatkal","DEMU"
+No.,Train No:,Origin,Destination,Train Name
+1.0,56654,Mangalore Central,Kozhikode,Passenger
+2.0,56324,Mangalore Central,Coimbatore city Junction,Fast Passenger
+3.0,56656,Mangalore Central,Kannur,Passenger
+4.0,56643/56645,Mangalore Central,Kabakaputtur,Passenger
+5.0,56640,Mangalore Central,Verna,Passenger
+6.0,56647,Mangalore Central,Subrahmanya Road,Passenger
+7.0,56661,Mangalore Central,Cheruvathur,Passenger
+8.0,70106,Mangalore Central,Bhatkal,DEMU
