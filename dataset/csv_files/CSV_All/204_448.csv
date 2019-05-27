@@ -10,7 +10,7 @@ Manchester City,3,1,"1970, 1976, 2014",1974
 Arsenal,2,5,"1987, 1993","1968, 1969, 1988, 2007, 2011"
 Norwich City,2,2,"1962, 1985","1973, 1975"
 Birmingham City,2,1,"1963, 2011",2001
-Wolverhampton Wanderers,2,0,"1974, 1980",—
+Wolverhampton Wanderers,2,0,"1974, 1980",
 West Bromwich Albion,1,2,1966,"1967, 1970"
 Middlesbrough,1,2,2004,"1997, 1998"
 Queens Park Rangers,1,1,1967,1986
@@ -18,20 +18,20 @@ Leeds United,1,1,1968,1996
 Stoke City,1,1,1972,1964
 Luton Town,1,1,1988,1989
 Sheffield Wednesday,1,1,1991,1993
-Swindon Town,1,0,1969,—
-Oxford United,1,0,1986,—
-Blackburn Rovers,1,0,2002,—
-Swansea City,1,0,2013,—
-West Ham United,0,2,—,"1966, 1981"
-Everton,0,2,—,"1977, 1984"
-Bolton Wanderers,0,2,—,"1995, 2004"
-Sunderland,0,2,—,"1985, 2014"
-Rotherham United,0,1,—,1961
-Rochdale,0,1,—,1962
-Newcastle United,0,1,—,1976
-Southampton,0,1,—,1979
-Oldham Athletic,0,1,—,1990
-Tranmere Rovers,0,1,—,2000
-Wigan Athletic,0,1,—,2006
-Cardiff City,0,1,—,2012
-Bradford City,0,1,—,2013
+Swindon Town,1,0,1969,
+Oxford United,1,0,1986,
+Blackburn Rovers,1,0,2002,
+Swansea City,1,0,2013,
+West Ham United,0,2,,"1966, 1981"
+Everton,0,2,,"1977, 1984"
+Bolton Wanderers,0,2,,"1995, 2004"
+Sunderland,0,2,,"1985, 2014"
+Rotherham United,0,1,,1961
+Rochdale,0,1,,1962
+Newcastle United,0,1,,1976
+Southampton,0,1,,1979
+Oldham Athletic,0,1,,1990
+Tranmere Rovers,0,1,,2000
+Wigan Athletic,0,1,,2006
+Cardiff City,0,1,,2012
+Bradford City,0,1,,2013

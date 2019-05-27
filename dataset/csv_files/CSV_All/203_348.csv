@@ -2,10 +2,10 @@ Number,Name,Team,Position,Years with franchise,Note
 9,Bob Pettit,Atlanta Hawks,F,,
 21,Dominique Wilkins,Atlanta Hawks,F,,Currently team vice president and television color analyst.
 23,Lou Hudson,Atlanta Hawks,F,,
-17,Ted Turner,Atlanta Hawks,—,,"As team owner. While the team presented Turner a framed Hawks jersey with No. 17, the banner raised to the rafters carried an old Hawks logo with Turner's name instead of a number."
+17,Ted Turner,Atlanta Hawks,,,"As team owner. While the team presented Turner a framed Hawks jersey with No. 17, the banner raised to the rafters carried an old Hawks logo with Turner's name instead of a number."
 00,Robert Parish,Boston Celtics,C,,
-1,Walter A. Brown,Boston Celtics,—,,
-2,Red Auerbach,Boston Celtics,—,,
+1,Walter A. Brown,Boston Celtics,,,
+2,Red Auerbach,Boston Celtics,,,
 3,Dennis Johnson,Boston Celtics,G,,
 6,Bill Russell,Boston Celtics,C,,
 10,Jo Jo White,Boston Celtics,G,,
@@ -25,7 +25,7 @@ Number,Name,Team,Position,Years with franchise,Note
 33,Larry Bird,Boston Celtics,F,,
 35,Reggie Lewis,Boston Celtics,G,,Died of a heart attack while still playing for the team; number retired posthumously.
 LOSCY,Jim Loscutoff,Boston Celtics,F,,Wore No. 18 but decided to keep it active; number ultimately retired for Dave Cowens.
-Microphone,Johnny Most,Boston Celtics,—,,As broadcaster.
+Microphone,Johnny Most,Boston Celtics,,,As broadcaster.
 3,Dražen Petrović,Brooklyn Nets,G,,Died in a car crash while playing for the team; with the team when it was known as the New Jersey Nets. His jersey was retired posthumously.
 4,Wendell Ladner,Brooklyn Nets,F,,Died in a plane crash; with the team when it was on Long Island as the New York Nets. His jersey was retired posthumously; however no banner is currently raised at the Barclays Center.
 5,Jason Kidd,Brooklyn Nets,G,,
@@ -35,10 +35,10 @@ Microphone,Johnny Most,Boston Celtics,—,,As broadcaster.
 52,Buck Williams,Brooklyn Nets,F,,The team was then the New Jersey Nets.
 4,Jerry Sloan,Chicago Bulls,G,,
 10,Bob Love,Chicago Bulls,F,,
-18,Phil Jackson,Chicago Bulls,—,,
+18,Phil Jackson,Chicago Bulls,,,
 23,Michael Jordan,Chicago Bulls,G,,Briefly wore No. 45 in 1995 & 12 for one game in 1991 (due to his jersey stolen).
 33,Scottie Pippen,Chicago Bulls,F,,
-—,Jerry Krause,Chicago Bulls,—,,As general manager.
+,Jerry Krause,Chicago Bulls,,,As general manager.
 7,Bingo Smith,Cleveland Cavaliers,F,,
 11,Žydrūnas Ilgauskas,Cleveland Cavaliers,C,,
 22,Larry Nance,Cleveland Cavaliers,F,,Briefly wore No. 6 in 1988.
@@ -46,15 +46,15 @@ Microphone,Johnny Most,Boston Celtics,—,,As broadcaster.
 34,Austin Carr,Cleveland Cavaliers,G,,
 42,Nate Thurmond,Cleveland Cavaliers,C,,
 43,Brad Daugherty,Cleveland Cavaliers,C,,
-Microphone,Joe Tait,Cleveland Cavaliers,—,,As broadcaster.
+Microphone,Joe Tait,Cleveland Cavaliers,,,As broadcaster.
 15,Brad Davis,Dallas Mavericks,G,,
 22,Rolando Blackman,Dallas Mavericks,G,,
 2,Alex English,Denver Nuggets,F,,
 33,David Thompson,Denver Nuggets,F,,
 40,Byron Beck,Denver Nuggets,C,,
 44,Dan Issel,Denver Nuggets,C,,
-432,Doug Moe,Denver Nuggets,—,,As head coach; the number represents his 432 victories coaching the Nuggets.
-2,Chuck Daly,Detroit Pistons,—,,As head coach; the number represents the two NBA championship teams he coached.
+432,Doug Moe,Denver Nuggets,,,As head coach; the number represents his 432 victories coaching the Nuggets.
+2,Chuck Daly,Detroit Pistons,,,As head coach; the number represents the two NBA championship teams he coached.
 4,Joe Dumars,Detroit Pistons,G,,
 10,Dennis Rodman,Detroit Pistons,F,,"Number currently issued to Greg Monroe at the time of the announcement, and he is allowed to continue wearing the number."
 11,Isiah Thomas,Detroit Pistons,G,,Wore No. 42 for one playoff game in 1985 (due to his jersey stolen).
@@ -62,8 +62,8 @@ Microphone,Joe Tait,Cleveland Cavaliers,—,,As broadcaster.
 16,Bob Lanier,Detroit Pistons,C,,
 21,Dave Bing,Detroit Pistons,G,,
 40,Bill Laimbeer,Detroit Pistons,C,,
-—,William Davidson,Detroit Pistons,—,,As team owner.
-—,Jack McCloskey,Detroit Pistons,—,,As general manager.
+,William Davidson,Detroit Pistons,,,As team owner.
+,Jack McCloskey,Detroit Pistons,,,As general manager.
 13,Wilt Chamberlain,Golden State Warriors,C,,
 14,Tom Meschery,Golden State Warriors,F,,
 16,Al Attles,Golden State Warriors,G,,
@@ -75,12 +75,12 @@ Microphone,Joe Tait,Cleveland Cavaliers,—,,As broadcaster.
 24,Moses Malone,Houston Rockets,C,,
 34,Hakeem Olajuwon,Houston Rockets,C,,
 45,Rudy Tomjanovich,Houston Rockets,F,,
-CD,Carroll Dawson,Houston Rockets,—,,
+CD,Carroll Dawson,Houston Rockets,,,
 30,George McGinnis,Indiana Pacers,F,,
 31,Reggie Miller,Indiana Pacers,G,,
 34,Mel Daniels,Indiana Pacers,C,,
 35,Roger Brown,Indiana Pacers,F,,
-529,Bobby Leonard,Indiana Pacers,—,,As head coach; the number represents his 529 victories coaching the Pacers.
+529,Bobby Leonard,Indiana Pacers,,,As head coach; the number represents his 529 victories coaching the Pacers.
 13,Wilt Chamberlain,Los Angeles Lakers,C,,
 22,Elgin Baylor,Los Angeles Lakers,F,,
 25,Gail Goodrich,Los Angeles Lakers,G,,
@@ -90,9 +90,9 @@ CD,Carroll Dawson,Houston Rockets,—,,
 42,James Worthy,Los Angeles Lakers,F,,
 44,Jerry West,Los Angeles Lakers,G,,
 52,Jamaal Wilkes,Los Angeles Lakers,F,,
-Microphone,Chick Hearn,Los Angeles Lakers,—,,As broadcaster.
+Microphone,Chick Hearn,Los Angeles Lakers,,,As broadcaster.
 10,Tim Hardaway,Miami Heat,G,,
-23,Michael Jordan,Miami Heat,G,—,"Never played for the franchise; number retired for \contributions to basketball\""."""
+23,Michael Jordan,Miami Heat,G,,"Never played for the franchise; number retired for \contributions to basketball\""."""
 32,Shaquille O'Neal,Miami Heat,C,,
 33,Alonzo Mourning,Miami Heat,C,,
 1,Oscar Robertson,Milwaukee Bucks,G,,
@@ -103,7 +103,7 @@ Microphone,Chick Hearn,Los Angeles Lakers,—,,As broadcaster.
 32,Brian Winters,Milwaukee Bucks,G,,
 33,Kareem Abdul-Jabbar,Milwaukee Bucks,C,,Served under the name of Lew Alcindor for two seasons before becoming Kareem Abdul-Jabbar.
 2,Malik Sealy,Minnesota Timberwolves,F,,Died in a car crash while playing for the team. His jersey was retired posthumously.
-7,Pete Maravich,New Orleans Pelicans,G,—,
+7,Pete Maravich,New Orleans Pelicans,G,,
 13,Bobby Phills,New Orleans Pelicans,G,,Died in a car crash while playing for the team; with the team when it was in Charlotte. His jersey was retired posthumously.
 10,Walt Frazier,New York Knicks,G,,Also served as a broadcaster.
 12,Dick Barnett,New York Knicks,G,,
@@ -114,8 +114,8 @@ Microphone,Chick Hearn,Los Angeles Lakers,—,,As broadcaster.
 22,Dave DeBusschere,New York Knicks,F,,
 24,Bill Bradley,New York Knicks,F,,
 33,Patrick Ewing,New York Knicks,C,,
-613,Red Holzman,New York Knicks,—,,As head coach; the number represents his 613 victories coaching the Knicks.
-6,The fans,Orlando Magic,—,—,
+613,Red Holzman,New York Knicks,,,As head coach; the number represents his 613 victories coaching the Knicks.
+6,The fans,Orlando Magic,,,
 2,Moses Malone,Philadelphia 76ers,C,,"Not officially retired, but taken out of circulation."
 3,Allen Iverson,Philadelphia 76ers,G,,
 6,Julius Erving,Philadelphia 76ers,F,,
@@ -125,7 +125,7 @@ Microphone,Chick Hearn,Los Angeles Lakers,—,,As broadcaster.
 24,Bobby Jones,Philadelphia 76ers,F,,
 32,Billy Cunningham,Philadelphia 76ers,F,,
 34,Charles Barkley,Philadelphia 76ers,F,,
-Microphone,Dave Zinkoff,Philadelphia 76ers,—,,As P.A. announcer.
+Microphone,Dave Zinkoff,Philadelphia 76ers,,,As P.A. announcer.
 5,Dick Van Arsdale,Phoenix Suns,G,,Also served as head coach (1987).
 6,Walter Davis,Phoenix Suns,G,,
 7,Kevin Johnson,Phoenix Suns,G,,
@@ -135,11 +135,11 @@ Microphone,Dave Zinkoff,Philadelphia 76ers,—,,As P.A. announcer.
 34,Charles Barkley,Phoenix Suns,F,,
 42,Connie Hawkins,Phoenix Suns,F,,
 44,Paul Westphal,Phoenix Suns,G,,
-—,Jerry Colangelo,Phoenix Suns,—,,
-—,Cotton Fitzsimmons,Phoenix Suns,—,,As head coach; inducted in the Suns' Ring of Honor posthumously.
-—,John MacLeod,Phoenix Suns,—,,
-—,Joe Proski,Phoenix Suns,—,,As athletic trainer.
-1,Larry Weinberg,Portland Trail Blazers,—,,As team founder and owner; number still available.
+,Jerry Colangelo,Phoenix Suns,,,
+,Cotton Fitzsimmons,Phoenix Suns,,,As head coach; inducted in the Suns' Ring of Honor posthumously.
+,John MacLeod,Phoenix Suns,,,
+,Joe Proski,Phoenix Suns,,,As athletic trainer.
+1,Larry Weinberg,Portland Trail Blazers,,,As team founder and owner; number still available.
 13,Dave Twardzik,Portland Trail Blazers,G,,
 14,Lionel Hollins,Portland Trail Blazers,G,,
 15,Larry Steele,Portland Trail Blazers,G,,
@@ -150,7 +150,7 @@ Microphone,Dave Zinkoff,Philadelphia 76ers,—,,As P.A. announcer.
 32,Bill Walton,Portland Trail Blazers,C,,
 36,Lloyd Neal,Portland Trail Blazers,C,,
 45,Geoff Petrie,Portland Trail Blazers,G,,
-77,Jack Ramsay,Portland Trail Blazers,—,,As head coach; the number represents the 1977 NBA Championship he won while coaching the Blazers.
+77,Jack Ramsay,Portland Trail Blazers,,,As head coach; the number represents the 1977 NBA Championship he won while coaching the Blazers.
 1,Nate Archibald,Sacramento Kings,G,,
 2,Mitch Richmond,Sacramento Kings,G,,
 4,Chris Webber,Sacramento Kings,F,,
@@ -174,18 +174,18 @@ Microphone,Dave Zinkoff,Philadelphia 76ers,—,,As P.A. announcer.
 24,Spencer Haywood,Seattle SuperSonics,F,,
 32,Fred Brown,Seattle SuperSonics,G,,
 43,Jack Sikma,Seattle SuperSonics,C,,
-Microphone,Bob Blackburn,Seattle SuperSonics,—,,Announcer for the Seattle SuperSonics.
-1,Frank Layden,Utah Jazz,—,,
+Microphone,Bob Blackburn,Seattle SuperSonics,,,Announcer for the Seattle SuperSonics.
+1,Frank Layden,Utah Jazz,,,
 4,Adrian Dantley,Utah Jazz,F,,
 7,Pete Maravich,Utah Jazz,G,,
-9,Larry Miller,Utah Jazz,—,,As owner.
+9,Larry Miller,Utah Jazz,,,As owner.
 12,John Stockton,Utah Jazz,G,,
 14,Jeff Hornacek,Utah Jazz,G,,
 32,Karl Malone,Utah Jazz,F,,
 35,Darrell Griffith,Utah Jazz,G,,
 53,Mark Eaton,Utah Jazz,C,,
-"1,223",Jerry Sloan,Utah Jazz,—,,As head coach; the number represents his 1223 victories coaching the Jazz.
-Microphone,Rod Hundley,Utah Jazz,—,,As broadcaster.
+"1,223",Jerry Sloan,Utah Jazz,,,As head coach; the number represents his 1223 victories coaching the Jazz.
+Microphone,Rod Hundley,Utah Jazz,,,As broadcaster.
 10,Earl Monroe,Washington Wizards,G,,The team was then known as the Baltimore Bullets.
 11,Elvin Hayes,Washington Wizards,F,,
 25,Gus Johnson,Washington Wizards,F,,The team was then known as the Baltimore Bullets.

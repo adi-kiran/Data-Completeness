@@ -6,7 +6,7 @@
 {"tablename": "200_14.csv", "keys": ["Act"]}
 {"tablename": "200_18.csv", "keys": ["Frequency", "Call sign", "Name"]}
 {"tablename": "200_20.csv", "keys": ["num"]}
-{"tablename": "200_22.csv", "keys": ["Single", "Certifications (sales thresholds)"]}
+{"tablename": "200_22.csv", "keys": ["Single", "Peak chart positions IRE", "Peak chart positions US", "Certifications (sales thresholds)"]}
 {"tablename": "200_24.csv", "keys": ["Date"]}
 {"tablename": "200_25.csv", "keys": ["Service", "2012/13 Total Cost (million)"]}
 {"tablename": "200_26.csv", "keys": ["City served / Location"]}
@@ -32,7 +32,7 @@
 {"tablename": "200_7.csv", "keys": ["Afrikaans", "IPA", "Dutch", "English", "German"]}
 {"tablename": "200_8.csv", "keys": ["District", "Location", "Communities served"]}
 {"tablename": "200_9.csv", "keys": ["Category", "Examples", "Cancers", "Gene functions"]}
-{"tablename": "201_0.csv", "keys": ["Single"]}
+{"tablename": "201_0.csv", "keys": ["Single", "Peak chart positions AUS", "Peak chart positions AUT", "Peak chart positions BEL (Fl)", "Peak chart positions BEL (Wa)", "Peak chart positions FIN", "Peak chart positions FRA", "Peak chart positions GER", "Peak chart positions NED", "Peak chart positions SWE", "Peak chart positions SUI"]}
 {"tablename": "201_1.csv", "keys": ["From", "To", "Name", "Position"]}
 {"tablename": "201_10.csv", "keys": ["num", "Name"]}
 {"tablename": "201_11.csv", "keys": ["Region", "Population", "Area", "Density"]}
@@ -54,7 +54,7 @@
 {"tablename": "201_28.csv", "keys": ["Name"]}
 {"tablename": "201_29.csv", "keys": ["num", "Took office", "Left office"]}
 {"tablename": "201_3.csv", "keys": ["Month", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec", "Year"]}
-{"tablename": "201_30.csv", "keys": ["Title", "Chart positions AU", "Chart positions UK", "Chart positions US Airplay"]}
+{"tablename": "201_30.csv", "keys": ["Title", "Chart positions AU", "Chart positions IE", "Chart positions NL", "Chart positions NZ", "Chart positions UK", "Chart positions US Hot 100", "Chart positions US Airplay"]}
 {"tablename": "201_33.csv", "keys": ["Month", "Jan", "Feb", "Mar", "Apr", "May", "Jul", "Sep", "Oct", "Nov", "Dec", "Year"]}
 {"tablename": "201_34.csv", "keys": ["Film"]}
 {"tablename": "201_35.csv", "keys": ["Name", "Link"]}
@@ -63,14 +63,14 @@
 {"tablename": "201_38.csv", "keys": ["Season", "Winner"]}
 {"tablename": "201_39.csv", "keys": ["No", "Title"]}
 {"tablename": "201_4.csv", "keys": ["Year"]}
-{"tablename": "201_40.csv", "keys": ["Single"]}
+{"tablename": "201_40.csv", "keys": ["Single", "Peak chart positions AUS", "Peak chart positions CAN", "Peak chart positions NLD", "Peak chart positions NZ", "Peak chart positions UK"]}
 {"tablename": "201_42.csv", "keys": ["Year", "Notes"]}
 {"tablename": "201_43.csv", "keys": ["Name", "Area (km2)", "Population (As of 2005)"]}
 {"tablename": "201_44.csv", "keys": ["Title"]}
 {"tablename": "201_45.csv", "keys": ["Month", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec", "Year"]}
 {"tablename": "201_46.csv", "keys": ["Drainage basin area [km2]", "Confluence [by Lahn-km]"]}
 {"tablename": "201_47.csv", "keys": ["Rank", "City", "Passengers"]}
-{"tablename": "201_48.csv", "keys": ["Title"]}
+{"tablename": "201_48.csv", "keys": ["Title", "Peak chart positions US", "Peak chart positions US Alt.", "Peak chart positions US Main. Rock", "Peak chart positions AUS", "Peak chart positions AUT", "Peak chart positions FIN", "Peak chart positions GER", "Peak chart positions NLD", "Peak chart positions SWI", "Peak chart positions UK"]}
 {"tablename": "201_49.csv", "keys": ["Month", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec", "Year"]}
 {"tablename": "201_6.csv", "keys": ["Month", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec", "Year"]}
 {"tablename": "201_7.csv", "keys": ["Year", "Gross Domestic Product", "Inflation Index (2000=100)", "Per Capita Income (as percentage of USA)"]}
@@ -101,7 +101,7 @@
 {"tablename": "202_15.csv", "keys": ["Title"]}
 {"tablename": "202_150.csv", "keys": ["Election"]}
 {"tablename": "202_154.csv", "keys": ["Period", "CBR1", "CDR1", "NC1", "IMR1"]}
-{"tablename": "202_157.csv", "keys": ["Affiliation"]}
+{"tablename": "202_157.csv", "keys": ["Affiliation", "House Members At Dissolution"]}
 {"tablename": "202_159.csv", "keys": ["Character"]}
 {"tablename": "202_160.csv", "keys": ["Season"]}
 {"tablename": "202_161.csv", "keys": ["Dutch language group Electoral district (as of 2012)", "Dutch language group Seats", "French language group Electoral district (as of 2012)", "French language group Seats"]}
@@ -114,7 +114,7 @@
 {"tablename": "202_178.csv", "keys": []}
 {"tablename": "202_179.csv", "keys": ["No", "Driver", "Grid", "Points"]}
 {"tablename": "202_180.csv", "keys": ["Road numbers"]}
-{"tablename": "202_184.csv", "keys": ["Title"]}
+{"tablename": "202_184.csv", "keys": ["Title", "Peak chart positions AUS", "Peak chart positions NZ"]}
 {"tablename": "202_186.csv", "keys": ["Vessel", "Date"]}
 {"tablename": "202_191.csv", "keys": ["Party", "Votes", "percentage", "Seats"]}
 {"tablename": "202_192.csv", "keys": ["Region"]}
@@ -147,7 +147,7 @@
 {"tablename": "202_233.csv", "keys": ["Date and time"]}
 {"tablename": "202_236.csv", "keys": ["Bank"]}
 {"tablename": "202_239.csv", "keys": ["Unnamed: 0", "synthesis", "derivation", "suffixing"]}
-{"tablename": "202_241.csv", "keys": ["Year", "Album"]}
+{"tablename": "202_241.csv", "keys": ["Year", "Peak chart positions US", "Peak chart positions US Pop", "Peak chart positions US R&B", "Peak chart positions GER", "Peak chart positions NL", "Peak chart positions NOR", "Peak chart positions NZ", "Peak chart positions SWI", "Peak chart positions UK", "Album"]}
 {"tablename": "202_242.csv", "keys": ["Year"]}
 {"tablename": "202_244.csv", "keys": ["Rank", "Title", "Actors", "Gross"]}
 {"tablename": "202_248.csv", "keys": ["Film"]}
@@ -170,7 +170,7 @@
 {"tablename": "202_273.csv", "keys": ["Party", "Candidate", "Votes", "percentage", "incpercentage"]}
 {"tablename": "202_276.csv", "keys": ["Role"]}
 {"tablename": "202_277.csv", "keys": ["Event", "Gold", "Gold.1", "Silver", "Silver.1", "Bronze", "Bronze.1"]}
-{"tablename": "202_278.csv", "keys": ["Single"]}
+{"tablename": "202_278.csv", "keys": ["Single", "Peak chart positions UK", "Peak chart positions U.S. Dance", "Peak chart positions U.S. Rock", "Peak chart positions GER", "Peak chart positions SUI", "Peak chart positions NED", "Peak chart positions SWE"]}
 {"tablename": "202_279.csv", "keys": ["Title", "Role"]}
 {"tablename": "202_28.csv", "keys": ["Year", "Inflation Rate percentage"]}
 {"tablename": "202_281.csv", "keys": ["Date", "Res.", "Spectators"]}
@@ -183,7 +183,7 @@
 {"tablename": "202_290.csv", "keys": ["Title", "Role"]}
 {"tablename": "202_294.csv", "keys": ["15"]}
 {"tablename": "202_295.csv", "keys": []}
-{"tablename": "202_31.csv", "keys": ["Year", "Album details", "Peak chart positions US Billboard 200", "Peak chart positions US Christian"]}
+{"tablename": "202_31.csv", "keys": ["Year", "Album details", "Peak chart positions US Billboard 200", "Peak chart positions US Christian", "Peak chart positions US Heatseekers"]}
 {"tablename": "202_32.csv", "keys": ["Cast (Nabucco, Abigaille, Zaccaria, Ismaele, Fenena)", "Conductor, Opera House and Orchestra", "Label"]}
 {"tablename": "202_38.csv", "keys": []}
 {"tablename": "202_43.csv", "keys": []}
@@ -264,7 +264,7 @@
 {"tablename": "203_134.csv", "keys": ["Player", "Score"]}
 {"tablename": "203_135.csv", "keys": ["Institution", "Location", "Founded", "Enrollment"]}
 {"tablename": "203_136.csv", "keys": []}
-{"tablename": "203_137.csv", "keys": ["Title", "Album details"]}
+{"tablename": "203_137.csv", "keys": ["Title", "Album details", "Peak chart positions US", "Peak chart positions US R&B"]}
 {"tablename": "203_138.csv", "keys": ["num", "Score", "Result"]}
 {"tablename": "203_139.csv", "keys": ["Name", "Abbr.", "Leader"]}
 {"tablename": "203_14.csv", "keys": ["num", "Score"]}
@@ -324,7 +324,7 @@
 {"tablename": "203_191.csv", "keys": ["Group"]}
 {"tablename": "203_192.csv", "keys": []}
 {"tablename": "203_193.csv", "keys": ["Ship Name", "Project Number"]}
-{"tablename": "203_194.csv", "keys": ["Took office", "Left office"]}
+{"tablename": "203_194.csv", "keys": ["num", "Took office", "Left office"]}
 {"tablename": "203_195.csv", "keys": ["Pump type and source", "35 degC (e.g. heated screed floor)", "45 degC (e.g. heated screed floor)"]}
 {"tablename": "203_196.csv", "keys": ["Terminal"]}
 {"tablename": "203_197.csv", "keys": ["num", "Title", "Artist"]}
@@ -424,12 +424,12 @@
 {"tablename": "203_286.csv", "keys": ["Position", "Sail Number", "Yacht", "Yacht Type", "LOA (Metres)", "Skipper", "Elapsed Time d:hh:mm:ss"]}
 {"tablename": "203_287.csv", "keys": ["Rank", "Area", "Date", "Presenter", "Seven wonders covered"]}
 {"tablename": "203_288.csv", "keys": ["Season", "Premiere date", "The Winner", "Runner-up", "Finalists", "Contestants in order of elimination"]}
-{"tablename": "203_289.csv", "keys": ["Version", "Length"]}
+{"tablename": "203_289.csv", "keys": ["Version", "Length", "Album"]}
 {"tablename": "203_290.csv", "keys": ["Game", "Date", "Score", "Attendance", "Record"]}
 {"tablename": "203_291.csv", "keys": ["Pick", "Player"]}
 {"tablename": "203_292.csv", "keys": []}
 {"tablename": "203_294.csv", "keys": ["Date"]}
-{"tablename": "203_295.csv", "keys": ["Position", "Driver / Passenger", "Points"]}
+{"tablename": "203_295.csv", "keys": ["Position", "Driver / Passenger", "Points", "Wins", "Second"]}
 {"tablename": "203_296.csv", "keys": ["Country"]}
 {"tablename": "203_297.csv", "keys": ["Season"]}
 {"tablename": "203_298.csv", "keys": ["Rank", "Name", "Nation(s)", "Born", "Ascended", "Years reigned"]}
@@ -484,7 +484,7 @@
 {"tablename": "203_344.csv", "keys": ["num", "Win", "Loss", "Attendance", "Record"]}
 {"tablename": "203_345.csv", "keys": ["Took Office", "Left Office"]}
 {"tablename": "203_346.csv", "keys": ["Location", "Venue"]}
-{"tablename": "203_348.csv", "keys": []}
+{"tablename": "203_348.csv", "keys": ["Years with franchise"]}
 {"tablename": "203_349.csv", "keys": ["No. in series", "No. in season", "Title", "Directed by", "Production code"]}
 {"tablename": "203_35.csv", "keys": ["Rider", "Points"]}
 {"tablename": "203_350.csv", "keys": ["Team num1", "Team num2"]}
@@ -569,7 +569,7 @@
 {"tablename": "203_423.csv", "keys": ["District", "Incumbent", "Candidates"]}
 {"tablename": "203_424.csv", "keys": ["Year", "Winnings"]}
 {"tablename": "203_425.csv", "keys": ["Season", "Points"]}
-{"tablename": "203_426.csv", "keys": ["Title"]}
+{"tablename": "203_426.csv", "keys": ["Title", "Peak chart positions NZ"]}
 {"tablename": "203_427.csv", "keys": ["Season"]}
 {"tablename": "203_428.csv", "keys": ["Year"]}
 {"tablename": "203_429.csv", "keys": ["Venue", "Notes"]}
@@ -598,7 +598,7 @@
 {"tablename": "203_451.csv", "keys": ["Film"]}
 {"tablename": "203_452.csv", "keys": ["Pos", "Driver", "Points"]}
 {"tablename": "203_453.csv", "keys": []}
-{"tablename": "203_454.csv", "keys": ["Title"]}
+{"tablename": "203_454.csv", "keys": ["Title", "Peak chart positions US", "Peak chart positions US R&B", "Peak chart positions US Rap"]}
 {"tablename": "203_455.csv", "keys": ["num", "Player", "College/Junior/Club Team (League)"]}
 {"tablename": "203_456.csv", "keys": ["Player"]}
 {"tablename": "203_457.csv", "keys": ["Tramway", "City", "Span width, leaning straight line", "Year of inauguration"]}
@@ -715,7 +715,7 @@
 {"tablename": "203_56.csv", "keys": ["Star", "Start year", "End year", "Maximum year", "Distance at maximum (LY)"]}
 {"tablename": "203_561.csv", "keys": ["Pos", "Team", "Total", "Average"]}
 {"tablename": "203_562.csv", "keys": ["State"]}
-{"tablename": "203_563.csv", "keys": ["num", "Judge", "Active"]}
+{"tablename": "203_563.csv", "keys": ["num", "Judge", "Active", "Chief", "Senior"]}
 {"tablename": "203_564.csv", "keys": ["Hand"]}
 {"tablename": "203_565.csv", "keys": ["Date:"]}
 {"tablename": "203_566.csv", "keys": ["Pick num", "Player", "NHL team"]}
@@ -775,7 +775,7 @@
 {"tablename": "203_616.csv", "keys": ["County", "Votes", "Seymour", "Votes.1", "Votes.2", "Votes.3", "Votes.4"]}
 {"tablename": "203_617.csv", "keys": ["Pick num", "Player", "NHL team"]}
 {"tablename": "203_618.csv", "keys": ["Pick", "Player", "School"]}
-{"tablename": "203_619.csv", "keys": ["Single"]}
+{"tablename": "203_619.csv", "keys": ["Single", "Chart Positions US Country", "Chart Positions US"]}
 {"tablename": "203_62.csv", "keys": ["Date", "Opponentnum", "Result"]}
 {"tablename": "203_620.csv", "keys": ["Home team", "Score", "Away team"]}
 {"tablename": "203_621.csv", "keys": ["Player", "Minutes Played", "Minutes Played Per Game", "Rebounds", "Points"]}
@@ -822,7 +822,7 @@
 {"tablename": "203_659.csv", "keys": ["Pos", "No", "Driver", "Grid"]}
 {"tablename": "203_66.csv", "keys": ["Year", "Toy sales (US $ Billions)"]}
 {"tablename": "203_660.csv", "keys": ["County", "Obamanum", "McCainnum", "Total"]}
-{"tablename": "203_661.csv", "keys": ["Single"]}
+{"tablename": "203_661.csv", "keys": ["Single", "Peak chart positions US Mod", "Peak chart positions UK"]}
 {"tablename": "203_662.csv", "keys": []}
 {"tablename": "203_663.csv", "keys": ["Country", "National Federation", "National Championship"]}
 {"tablename": "203_664.csv", "keys": ["Club", "Founded", "Colours", "Website"]}
@@ -857,9 +857,9 @@
 {"tablename": "203_690.csv", "keys": ["Fleet Series"]}
 {"tablename": "203_691.csv", "keys": ["Week", "Date", "Opponent", "Attendance"]}
 {"tablename": "203_692.csv", "keys": ["name"]}
-{"tablename": "203_693.csv", "keys": ["Name"]}
+{"tablename": "203_693.csv", "keys": ["Rank", "Name"]}
 {"tablename": "203_694.csv", "keys": ["Name", "Took Office", "Left Office"]}
-{"tablename": "203_696.csv", "keys": ["Single", "Certification"]}
+{"tablename": "203_696.csv", "keys": ["Single", "Charts BEL Wa", "Charts SWI", "Certification"]}
 {"tablename": "203_698.csv", "keys": ["Election year", "num of constituency votes", "num of party list votes"]}
 {"tablename": "203_699.csv", "keys": ["Name"]}
 {"tablename": "203_70.csv", "keys": ["Rank", "Nation"]}
@@ -915,7 +915,7 @@
 {"tablename": "203_749.csv", "keys": ["Call sign"]}
 {"tablename": "203_75.csv", "keys": ["Date", "Record"]}
 {"tablename": "203_750.csv", "keys": ["num", "Date", "Score"]}
-{"tablename": "203_751.csv", "keys": []}
+{"tablename": "203_751.csv", "keys": ["Peak chart positions US Air", "Peak chart positions US Main", "Peak chart positions US Mod"]}
 {"tablename": "203_752.csv", "keys": ["Rank", "Circuit", "Headquarters", "Screens"]}
 {"tablename": "203_753.csv", "keys": ["Name", "Years"]}
 {"tablename": "203_754.csv", "keys": ["Player", "Career"]}
@@ -944,7 +944,7 @@
 {"tablename": "203_776.csv", "keys": ["Season", "Home", "Away"]}
 {"tablename": "203_777.csv", "keys": ["Years", "Building", "Height (CTBUH)", "Floors"]}
 {"tablename": "203_778.csv", "keys": ["Termination of Mission"]}
-{"tablename": "203_779.csv", "keys": ["Age", "Giant Slalom", "Downhill"]}
+{"tablename": "203_779.csv", "keys": ["Age", "Giant Slalom", "Downhill", "Combined"]}
 {"tablename": "203_78.csv", "keys": ["Location"]}
 {"tablename": "203_780.csv", "keys": ["Rank", "Diver", "Preliminary Points", "Preliminary Rank", "Final Total"]}
 {"tablename": "203_781.csv", "keys": []}
@@ -1040,9 +1040,9 @@
 {"tablename": "203_874.csv", "keys": []}
 {"tablename": "203_875.csv", "keys": ["num", "Name", "Office started"]}
 {"tablename": "203_876.csv", "keys": ["Name"]}
-{"tablename": "203_877.csv", "keys": ["Single"]}
+{"tablename": "203_877.csv", "keys": ["Single", "US Cashbox", "US Hot 100", "UK Singles"]}
 {"tablename": "203_88.csv", "keys": ["Language", "Number", "males"]}
-{"tablename": "203_89.csv", "keys": ["Name (Birth-Death)", "Took office", "Left office"]}
+{"tablename": "203_89.csv", "keys": ["num", "Name (Birth-Death)", "Took office", "Left office"]}
 {"tablename": "203_9.csv", "keys": ["State"]}
 {"tablename": "203_90.csv", "keys": ["Religious group", "Population percentage", "Sex ratio (total)", "Literacy (percentage)", "Work participation (percentage)", "Sex ratio (rural)", "Sex ratio (urban)", "Sex ratio (child)"]}
 {"tablename": "203_91.csv", "keys": ["Notes"]}
@@ -1173,7 +1173,7 @@
 {"tablename": "204_205.csv", "keys": ["Drivers"]}
 {"tablename": "204_206.csv", "keys": ["Member", "Date", "Time (Greatest) UTC", "Location Lat,Long", "Gamma", "Ref"]}
 {"tablename": "204_207.csv", "keys": ["Week", "Date", "Opponent", "Attendance"]}
-{"tablename": "204_208.csv", "keys": ["Year"]}
+{"tablename": "204_208.csv", "keys": []}
 {"tablename": "204_209.csv", "keys": ["Released", "Title", "Number"]}
 {"tablename": "204_21.csv", "keys": ["Model", "2011", "2012", "2013"]}
 {"tablename": "204_210.csv", "keys": []}
@@ -1196,7 +1196,7 @@
 {"tablename": "204_227.csv", "keys": ["Week", "Date", "Opponent", "Score", "Record"]}
 {"tablename": "204_228.csv", "keys": ["Title"]}
 {"tablename": "204_229.csv", "keys": ["Property", "4275", "4301", "4435", "4630", "4645"]}
-{"tablename": "204_23.csv", "keys": []}
+{"tablename": "204_23.csv", "keys": ["num"]}
 {"tablename": "204_230.csv", "keys": ["Team num1", "Agg.", "Team num2", "1st match", "2nd match"]}
 {"tablename": "204_231.csv", "keys": ["Nation"]}
 {"tablename": "204_232.csv", "keys": ["Nation"]}
@@ -1212,8 +1212,8 @@
 {"tablename": "204_241.csv", "keys": ["Player"]}
 {"tablename": "204_242.csv", "keys": ["Season"]}
 {"tablename": "204_243.csv", "keys": ["Album"]}
-{"tablename": "204_244.csv", "keys": ["Album", "Peak US"]}
-{"tablename": "204_245.csv", "keys": ["Date"]}
+{"tablename": "204_244.csv", "keys": ["Album", "Peak US", "Peak US Holiday"]}
+{"tablename": "204_245.csv", "keys": ["num", "Date"]}
 {"tablename": "204_246.csv", "keys": ["Department"]}
 {"tablename": "204_247.csv", "keys": ["Player", "Score"]}
 {"tablename": "204_248.csv", "keys": ["Nation"]}
@@ -1295,7 +1295,7 @@
 {"tablename": "204_316.csv", "keys": ["Rank", "Diver", "Final Points", "Final Rank"]}
 {"tablename": "204_317.csv", "keys": ["Metropolitan area", "Rank"]}
 {"tablename": "204_318.csv", "keys": ["Date", "Attendance"]}
-{"tablename": "204_319.csv", "keys": []}
+{"tablename": "204_319.csv", "keys": ["Postseason"]}
 {"tablename": "204_32.csv", "keys": ["Season", "W-L", "Home", "Road", "GF", "GA", "Avg Attendance"]}
 {"tablename": "204_320.csv", "keys": ["Nation"]}
 {"tablename": "204_321.csv", "keys": ["Community"]}
@@ -1346,7 +1346,7 @@
 {"tablename": "204_362.csv", "keys": ["Episode", "Airdate", "Viewers"]}
 {"tablename": "204_363.csv", "keys": ["Record", "Event", "Date", "Time", "Notes"]}
 {"tablename": "204_364.csv", "keys": ["Notes"]}
-{"tablename": "204_365.csv", "keys": ["Single"]}
+{"tablename": "204_365.csv", "keys": ["Single", "Chart positions USA Billboard Hot Dance Club Play", "Chart positions Polish Charts"]}
 {"tablename": "204_366.csv", "keys": ["Pos", "No.", "Driver", "Grid"]}
 {"tablename": "204_367.csv", "keys": ["Date", "Score"]}
 {"tablename": "204_368.csv", "keys": ["Position", "Officer"]}
@@ -1378,7 +1378,7 @@
 {"tablename": "204_391.csv", "keys": ["Team", "Head Coach", "Team Captain"]}
 {"tablename": "204_392.csv", "keys": ["num", "Stadium"]}
 {"tablename": "204_393.csv", "keys": ["Result"]}
-{"tablename": "204_394.csv", "keys": ["Album"]}
+{"tablename": "204_394.csv", "keys": ["Album", "Peak chart positions US", "Peak chart positions US R&B"]}
 {"tablename": "204_395.csv", "keys": ["Venue"]}
 {"tablename": "204_396.csv", "keys": ["Country"]}
 {"tablename": "204_397.csv", "keys": ["Rank", "Team", "Athletes", "Run 1", "Run 2", "Run 3", "Run 4", "Final"]}
@@ -1459,7 +1459,7 @@
 {"tablename": "204_469.csv", "keys": ["Coach"]}
 {"tablename": "204_47.csv", "keys": ["Date", "Opponents"]}
 {"tablename": "204_470.csv", "keys": ["Year"]}
-{"tablename": "204_471.csv", "keys": ["Title"]}
+{"tablename": "204_471.csv", "keys": ["Title", "Peak chart positions GER"]}
 {"tablename": "204_472.csv", "keys": ["Name"]}
 {"tablename": "204_473.csv", "keys": ["No", "Driver", "Grid", "Points"]}
 {"tablename": "204_474.csv", "keys": ["Year"]}
@@ -1490,7 +1490,7 @@
 {"tablename": "204_497.csv", "keys": []}
 {"tablename": "204_498.csv", "keys": ["km"]}
 {"tablename": "204_499.csv", "keys": ["Date:"]}
-{"tablename": "204_500.csv", "keys": ["Title"]}
+{"tablename": "204_500.csv", "keys": ["Title", "Peak chart positions US"]}
 {"tablename": "204_501.csv", "keys": ["Institution", "Nickname", "Founded", "Enrollment"]}
 {"tablename": "204_502.csv", "keys": ["Winner"]}
 {"tablename": "204_503.csv", "keys": ["Venue", "Position"]}
@@ -1505,7 +1505,7 @@
 {"tablename": "204_511.csv", "keys": []}
 {"tablename": "204_512.csv", "keys": ["Common name", "Hebrew", "Arabic", "Mayor"]}
 {"tablename": "204_513.csv", "keys": ["Date", "Opponentnum", "Attendance"]}
-{"tablename": "204_514.csv", "keys": ["Date", "Flight", "Pax.", "Description"]}
+{"tablename": "204_514.csv", "keys": ["Date", "Sub", "Flight", "Pax.", "Description"]}
 {"tablename": "204_515.csv", "keys": ["Unnamed: 0", "Year", "City", "Date", "Venue", "No. of Athletes"]}
 {"tablename": "204_516.csv", "keys": ["Date", "Result F - A", "Attendance"]}
 {"tablename": "204_517.csv", "keys": ["Name", "Club"]}
@@ -1552,7 +1552,7 @@
 {"tablename": "204_557.csv", "keys": ["num", "Date", "Score", "Record"]}
 {"tablename": "204_558.csv", "keys": ["Name"]}
 {"tablename": "204_559.csv", "keys": ["Ship", "Hull No.", "NVR Page"]}
-{"tablename": "204_56.csv", "keys": ["Song"]}
+{"tablename": "204_56.csv", "keys": ["Song", "US R&B", "US Rap"]}
 {"tablename": "204_560.csv", "keys": ["Name", "Location", "Area", "Description"]}
 {"tablename": "204_561.csv", "keys": ["Name", "Jockey"]}
 {"tablename": "204_562.csv", "keys": ["No.", "Date", "Opponent in final", "Score"]}
@@ -1624,7 +1624,7 @@
 {"tablename": "204_623.csv", "keys": ["Opponent"]}
 {"tablename": "204_624.csv", "keys": ["School", "Team Name", "Enrollment (2010-11 & 2011-12)"]}
 {"tablename": "204_625.csv", "keys": ["Model"]}
-{"tablename": "204_626.csv", "keys": ["Name", "Birth date", "Death date"]}
+{"tablename": "204_626.csv", "keys": ["Image", "Name", "Birth date", "Death date"]}
 {"tablename": "204_627.csv", "keys": ["Date", "Score"]}
 {"tablename": "204_628.csv", "keys": ["Trial Number", "Name of Trial"]}
 {"tablename": "204_629.csv", "keys": ["First TOPS", "First TOPS.1", "First TOPS.2", "First TOPS.3"]}
@@ -1649,7 +1649,7 @@
 {"tablename": "204_646.csv", "keys": ["Coordinates (links to map & photo sources)"]}
 {"tablename": "204_647.csv", "keys": ["Film", "Role"]}
 {"tablename": "204_648.csv", "keys": []}
-{"tablename": "204_649.csv", "keys": ["Name"]}
+{"tablename": "204_649.csv", "keys": ["Name", "Image"]}
 {"tablename": "204_65.csv", "keys": ["Rank", "Lane", "Name", "Nationality", "Time"]}
 {"tablename": "204_650.csv", "keys": ["Season"]}
 {"tablename": "204_651.csv", "keys": ["Date", "Championship", "Location"]}
@@ -1671,7 +1671,7 @@
 {"tablename": "204_666.csv", "keys": ["IME Exchange (Including spot, credit and forward transactions)", "2007/08", "2008/09", "2009/10", "2010/11", "2011/12"]}
 {"tablename": "204_667.csv", "keys": ["Year", "Film Title", "Cast"]}
 {"tablename": "204_668.csv", "keys": ["num", "Menteri Besar", "Took office", "Left office"]}
-{"tablename": "204_669.csv", "keys": ["Athlete"]}
+{"tablename": "204_669.csv", "keys": ["Rank", "Athlete"]}
 {"tablename": "204_67.csv", "keys": ["num", "Stadium", "Capacity", "Home Team"]}
 {"tablename": "204_670.csv", "keys": ["Week", "Date", "Opponent", "Result", "Record", "Attendance"]}
 {"tablename": "204_671.csv", "keys": ["Airing date", "Genre", "Notes", "Official website"]}
@@ -1868,7 +1868,7 @@
 {"tablename": "204_850.csv", "keys": ["name"]}
 {"tablename": "204_852.csv", "keys": []}
 {"tablename": "204_853.csv", "keys": ["Pos", "Grid", "Driver"]}
-{"tablename": "204_854.csv", "keys": ["Date"]}
+{"tablename": "204_854.csv", "keys": ["num", "Date"]}
 {"tablename": "204_855.csv", "keys": ["Attendance"]}
 {"tablename": "204_856.csv", "keys": ["Name", "Jockey"]}
 {"tablename": "204_857.csv", "keys": ["Date", "Result"]}

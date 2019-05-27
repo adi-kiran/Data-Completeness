@@ -1,61 +1,61 @@
 num,Judge,State,Born/Died,Active,Chief,Senior,Appointed by,Reason for termination
-1,Don Albert Pardee,LA,,,——,——,,death
-2,Andrew Phelps McCormick,TX,,,——,——,B. Harrison,death
-3,David Davie Shelby,AL,,,——,——,McKinley,death
-4,"Richard Wilde Walker, Jr.",AL,,,——,,Wilson,death
-5,Robert Lynn Batts,TX,,,——,——,Wilson,resignation
-6,Nathan P. Bryan,FL,,,——,——,Wilson,death
-7,Alexander Campbell King,GA,,,——,——,Wilson,resignation
-8,Rufus Edward Foster,LA,,,——,——,Coolidge,death
-9,Samuel Hale Sibley,GA,,,——,,Hoover,death
+1,Don Albert Pardee,LA,,,,,,death
+2,Andrew Phelps McCormick,TX,,,,,B. Harrison,death
+3,David Davie Shelby,AL,,,,,McKinley,death
+4,"Richard Wilde Walker, Jr.",AL,,,,,Wilson,death
+5,Robert Lynn Batts,TX,,,,,Wilson,resignation
+6,Nathan P. Bryan,FL,,,,,Wilson,death
+7,Alexander Campbell King,GA,,,,,Wilson,resignation
+8,Rufus Edward Foster,LA,,,,,Coolidge,death
+9,Samuel Hale Sibley,GA,,,,,Hoover,death
 10,"Joseph Chappell Hutcheson, Jr.",TX,,,,,Hoover,death
-11,Edwin Ruthven Holmes,MS,,,——,,F. Roosevelt,death
-12,Leon Clarence McCord,AL,,,——,,F. Roosevelt,death
-13,Curtis Longino Waller,FL,,,——,——,F. Roosevelt,death
-14,Elmo Pearce Lee,LA,,,——,——,F. Roosevelt,death
-15,Wayne G. Borah,LA,,,——,,Truman,death
-16,Robert Lee Russell,GA,,,——,——,Truman,death
-17,Louie Willard Strum,FL,,,——,——,Truman,death
+11,Edwin Ruthven Holmes,MS,,,,,F. Roosevelt,death
+12,Leon Clarence McCord,AL,,,,,F. Roosevelt,death
+13,Curtis Longino Waller,FL,,,,,F. Roosevelt,death
+14,Elmo Pearce Lee,LA,,,,,F. Roosevelt,death
+15,Wayne G. Borah,LA,,,,,Truman,death
+16,Robert Lee Russell,GA,,,,,Truman,death
+17,Louie Willard Strum,FL,,,,,Truman,death
 18,Richard Rives,AL,,,,,Truman,reassignment to 11th Circuit
 19,Elbert Tuttle,GA,,,,,Eisenhower,reassignment to 11th Circuit
-20,Benjamin Franklin Cameron,MS,,,——,——,Eisenhower,death
-21,Warren Leroy Jones,FL,,,——,,Eisenhower,reassignment to 11th Circuit
+20,Benjamin Franklin Cameron,MS,,,,,Eisenhower,death
+21,Warren Leroy Jones,FL,,,,,Eisenhower,reassignment to 11th Circuit
 22,John Robert Brown,TX,,,,,Eisenhower,death
-23,John Minor Wisdom,LA,,,——,,Eisenhower,death
-24,Griffin Bell,GA,,,——,——,Kennedy,resignation
-25,Walter Pettus Gewin,AL,,,——,,Kennedy,death
-26,William Homer Thornberry,TX,,,——,,L. Johnson,death
+23,John Minor Wisdom,LA,,,,,Eisenhower,death
+24,Griffin Bell,GA,,,,,Kennedy,resignation
+25,Walter Pettus Gewin,AL,,,,,Kennedy,death
+26,William Homer Thornberry,TX,,,,,L. Johnson,death
 27,James Plemon Coleman,MS,,,,,L. Johnson,resignation
-28,"Robert Andrew Ainsworth, Jr.",LA,,,——,——,L. Johnson,death
-29,John Cooper Godbold,AL,,,,——,L. Johnson,reassignment to 11th Circuit
-30,Irving Loeb Goldberg,TX,,,——,,L. Johnson,death
-31,David William Dyer,FL,,,——,,L. Johnson,reassignment to 11th Circuit
-32,John Milton Bryan Simpson,FL,,,——,,L. Johnson,reassignment to 11th Circuit
-33,Claude Feemster Clayton,MS,,,——,——,L. Johnson,death
-34,Lewis Render Morgan,GA,,,——,,L. Johnson,reassignment to 11th Circuit
-35,Harold Carswell,FL,,,——,——,Nixon,resignation
-36,Charles Clark,MS,,,,——,Nixon,retirement
-37,Joe McDonald Ingraham,TX,,,——,,Nixon,death
-38,Paul Hitch Roney,FL,,,——,——,Nixon,reassignment to 11th Circuit
-39,Thomas Gibbs Gee,TX,,,——,——,Nixon,retirement
-40,Gerald Bard Tjoflat,FL,,,——,——,Ford,reassignment to 11th Circuit
-41,James Clinkscales Hill,GA,,,——,——,Ford,reassignment to 11th Circuit
-42,Peter Thorp Fay,FL,,,——,——,Ford,reassignment to 11th Circuit
-43,Alvin Benjamin Rubin,LA,,,——,,Carter,death
-44,Robert Smith Vance,AL,,,——,——,Carter,reassignment to 11th Circuit
-45,Phyllis A. Kravitch,GA,,,——,——,Carter,reassignment to 11th Circuit
-46,Frank Minis Johnson,AL,,,——,——,Carter,reassignment to 11th Circuit
-47,R. Lanier Anderson III,GA,,,——,——,Carter,reassignment to 11th Circuit
-48,Reynaldo Guerra Garza,TX,,,——,,Carter,death
-49,Joseph Woodrow Hatchett,FL,,,——,——,Carter,reassignment to 11th Circuit
-50,Albert John Henderson,GA,,,——,——,Carter,reassignment to 11th Circuit
+28,"Robert Andrew Ainsworth, Jr.",LA,,,,,L. Johnson,death
+29,John Cooper Godbold,AL,,,,,L. Johnson,reassignment to 11th Circuit
+30,Irving Loeb Goldberg,TX,,,,,L. Johnson,death
+31,David William Dyer,FL,,,,,L. Johnson,reassignment to 11th Circuit
+32,John Milton Bryan Simpson,FL,,,,,L. Johnson,reassignment to 11th Circuit
+33,Claude Feemster Clayton,MS,,,,,L. Johnson,death
+34,Lewis Render Morgan,GA,,,,,L. Johnson,reassignment to 11th Circuit
+35,Harold Carswell,FL,,,,,Nixon,resignation
+36,Charles Clark,MS,,,,,Nixon,retirement
+37,Joe McDonald Ingraham,TX,,,,,Nixon,death
+38,Paul Hitch Roney,FL,,,,,Nixon,reassignment to 11th Circuit
+39,Thomas Gibbs Gee,TX,,,,,Nixon,retirement
+40,Gerald Bard Tjoflat,FL,,,,,Ford,reassignment to 11th Circuit
+41,James Clinkscales Hill,GA,,,,,Ford,reassignment to 11th Circuit
+42,Peter Thorp Fay,FL,,,,,Ford,reassignment to 11th Circuit
+43,Alvin Benjamin Rubin,LA,,,,,Carter,death
+44,Robert Smith Vance,AL,,,,,Carter,reassignment to 11th Circuit
+45,Phyllis A. Kravitch,GA,,,,,Carter,reassignment to 11th Circuit
+46,Frank Minis Johnson,AL,,,,,Carter,reassignment to 11th Circuit
+47,R. Lanier Anderson III,GA,,,,,Carter,reassignment to 11th Circuit
+48,Reynaldo Guerra Garza,TX,,,,,Carter,death
+49,Joseph Woodrow Hatchett,FL,,,,,Carter,reassignment to 11th Circuit
+50,Albert John Henderson,GA,,,,,Carter,reassignment to 11th Circuit
 52,Henry Anthony Politz,LA,,,,,Carter,death
-54,"Samuel D. Johnson, Jr.",TX,,,——,,Carter,death
-55,"Albert Tate, Jr.",LA,,,——,——,Carter,death
-56,Thomas Alonzo Clark,GA,,,——,——,Carter,reassignment to 11th Circuit
-57,Jerre Stockton Williams,TX,,,——,,Carter,death
-58,William Lockhart Garwood,TX,,,——,,Reagan,death
-62,Robert Madden Hill,TX,,,——,——,Reagan,death
-65,"John Malcolm Duhe, Jr.",LA,1933-,,——,,Reagan,retirement
-72,Robert Manley Parker,TX,,,——,——,Clinton,retirement
-76,Charles W. Pickering,MS,,,——,——,G.W. Bush,retirement
+54,"Samuel D. Johnson, Jr.",TX,,,,,Carter,death
+55,"Albert Tate, Jr.",LA,,,,,Carter,death
+56,Thomas Alonzo Clark,GA,,,,,Carter,reassignment to 11th Circuit
+57,Jerre Stockton Williams,TX,,,,,Carter,death
+58,William Lockhart Garwood,TX,,,,,Reagan,death
+62,Robert Madden Hill,TX,,,,,Reagan,death
+65,"John Malcolm Duhe, Jr.",LA,1933-,,,,Reagan,retirement
+72,Robert Manley Parker,TX,,,,,Clinton,retirement
+76,Charles W. Pickering,MS,,,,,G.W. Bush,retirement

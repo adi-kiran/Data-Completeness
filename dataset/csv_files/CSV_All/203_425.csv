@@ -1,15 +1,15 @@
 Season,Driver,Equipment,Position,Points,Races,Wins,Second,Third
-2001.0,Modris Stelle,Zabel-AYR,27.0,14,10,—,—,—
-2002.0,Modris Stelle,Zabel-AYR,23.0,69,12,—,—,—
-2003.0,Daniël Willemsen,Zabel-VMC,1.0,561,24,13,9,—
-2004.0,Daniël Willemsen,Zabel-VMC,1.0,572,26,18,4,1
-2005.0,Kristers Serģis,MTH-BSU,2.0,440,22,7,12,—
-2006.0,Kristers Serģis,KTM-Mefo,19.0,64,4,—,2,1
-2007.0,Kristers Serģis,KTM-Mefo,3.0,242,16,1,8,1
-2008.0,Kristers Serģis,KTM-AYR,2.0,434,24,4,12,2
-2009.0,Nicky Pulinx,Zabel-VMC,12.0,229,25,—,—,—
-2010.0,Maris Rupeiks,KTM-WSP,5.0,423,28,1,4,2
-2011.0,Maris Rupeiks,Zabel-WSP,4.0,316,22,1,4,—
-2012.0,Etienne Bax,Zabel-WSP,2.0,447,22,9,8,1
-2013.0,Etienne Bax,Zabel-VMC,2.0,513,25,14,6,—
-,,,,"4,224",250,68,69,8
+2001.0,Modris Stelle,Zabel-AYR,27.0,14,10,,,
+2002.0,Modris Stelle,Zabel-AYR,23.0,69,12,,,
+2003.0,Daniël Willemsen,Zabel-VMC,1.0,561,24,13.0,9.0,
+2004.0,Daniël Willemsen,Zabel-VMC,1.0,572,26,18.0,4.0,1.0
+2005.0,Kristers Serģis,MTH-BSU,2.0,440,22,7.0,12.0,
+2006.0,Kristers Serģis,KTM-Mefo,19.0,64,4,,2.0,1.0
+2007.0,Kristers Serģis,KTM-Mefo,3.0,242,16,1.0,8.0,1.0
+2008.0,Kristers Serģis,KTM-AYR,2.0,434,24,4.0,12.0,2.0
+2009.0,Nicky Pulinx,Zabel-VMC,12.0,229,25,,,
+2010.0,Maris Rupeiks,KTM-WSP,5.0,423,28,1.0,4.0,2.0
+2011.0,Maris Rupeiks,Zabel-WSP,4.0,316,22,1.0,4.0,
+2012.0,Etienne Bax,Zabel-WSP,2.0,447,22,9.0,8.0,1.0
+2013.0,Etienne Bax,Zabel-VMC,2.0,513,25,14.0,6.0,
+,,,,"4,224",250,68.0,69.0,8.0

@@ -168,7 +168,7 @@ zwj,,U+200D (8205),HTML 4.0,HTMLspecial,NEW RFC 2070,zero-width joiner
 lrm,,U+200E (8206),HTML 4.0,HTMLspecial,NEW RFC 2070,left-to-right mark
 rlm,,U+200F (8207),HTML 4.0,HTMLspecial,NEW RFC 2070,right-to-left mark
 ndash,,U+2013 (8211),HTML 4.0,HTMLspecial,ISOpub,en dash
-mdash,—,U+2014 (8212),HTML 4.0,HTMLspecial,ISOpub,em dash
+mdash,,U+2014 (8212),HTML 4.0,HTMLspecial,ISOpub,em dash
 lsquo,‘,U+2018 (8216),HTML 4.0,HTMLspecial,ISOnum,left single quotation mark
 rsquo,',U+2019 (8217),HTML 4.0,HTMLspecial,ISOnum,right single quotation mark
 sbquo,‚,U+201A (8218),HTML 4.0,HTMLspecial,NEW,single low-9 quotation mark
