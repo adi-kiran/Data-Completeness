@@ -1,17 +1,17 @@
 Week,Date,Opponent,Result,Attendance
-1.0,"September 13, 1987",Cleveland Browns,,"59,900"
-2.0,"September 20, 1987",at Philadelphia Eagles,,"57,485"
+1.0,"September 13, 1987",Cleveland Browns,,59900.0
+2.0,"September 20, 1987",at Philadelphia Eagles,,57485.0
 ,"September 27, 1987",Atlanta Falcons,canceled,
-3.0,"October 4, 1987",Los Angeles Rams,,"29,745"
-4.0,"October 11, 1987",at St. Louis Cardinals,,"11,795"
-5.0,"October 18, 1987",at Chicago Bears,,"46,813"
-6.0,"October 25, 1987",San Francisco 49ers,,"60,497"
-7.0,"November 1, 1987",at Atlanta Falcons,,"42,196"
-8.0,"November 8, 1987",at Los Angeles Rams,,"43,379"
-9.0,"November 15, 1987",at San Francisco 49ers,,"60,436"
-10.0,"November 22, 1987",New York Giants,,"67,639"
-11.0,"November 29, 1987",at Pittsburgh Steelers,,"47,896"
-12.0,"December 6, 1987",Tampa Bay Buccaneers,,"66,471"
-13.0,"December 13, 1987",Houston Oilers,,"68,257"
-14.0,"December 20, 1987",at Cincinnati Bengals,,"43,424"
-15.0,"December 27, 1987",Green Bay Packers,,"68,364"
+3.0,"October 4, 1987",Los Angeles Rams,,29745.0
+4.0,"October 11, 1987",at St. Louis Cardinals,,11795.0
+5.0,"October 18, 1987",at Chicago Bears,,46813.0
+6.0,"October 25, 1987",San Francisco 49ers,,60497.0
+7.0,"November 1, 1987",at Atlanta Falcons,,42196.0
+8.0,"November 8, 1987",at Los Angeles Rams,,43379.0
+9.0,"November 15, 1987",at San Francisco 49ers,,60436.0
+10.0,"November 22, 1987",New York Giants,,67639.0
+11.0,"November 29, 1987",at Pittsburgh Steelers,,47896.0
+12.0,"December 6, 1987",Tampa Bay Buccaneers,,66471.0
+13.0,"December 13, 1987",Houston Oilers,,68257.0
+14.0,"December 20, 1987",at Cincinnati Bengals,,43424.0
+15.0,"December 27, 1987",Green Bay Packers,,68364.0

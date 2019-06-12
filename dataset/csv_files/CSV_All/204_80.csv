@@ -1,17 +1,17 @@
 Week,Date,Opponent,Result,Attendance
-1.0,"September 13, 1987",San Diego Chargers,,"56,940"
-2.0,"September 20, 1987",at Seattle Seahawks,,"61,667"
+1.0,"September 13, 1987",San Diego Chargers,,56940.0
+2.0,"September 20, 1987",at Seattle Seahawks,,61667.0
 ,"September 27, 1987",Minnesota Vikings,canceled,
-3.0,"October 4, 1987",at Los Angeles Raiders,,"10,708"
-4.0,"October 11, 1987",at Miami Dolphins,,"25,867"
-5.0,"October 18, 1987",Denver Broncos,,"20,296"
-6.0,"October 25, 1987",at San Diego Chargers,,"47,972"
-7.0,"November 1, 1987",at Chicago Bears,,"63,498"
-8.0,"November 8, 1987",Pittsburgh Steelers,,"45,249"
-9.0,"November 15, 1987",New York Jets,,"40,718"
-10.0,"November 22, 1987",Green Bay Packers,,"34,611"
-11.0,"November 26, 1987",at Detroit Lions,,"43,820"
-12.0,"December 6, 1987",at Cincinnati Bengals,,"46,489"
-13.0,"December 13, 1987",Los Angeles Raiders,,"63,834"
-14.0,"December 19, 1987",at Denver Broncos,,"75,053"
-15.0,"December 27, 1987",Seattle Seahawks,,"20,370"
+3.0,"October 4, 1987",at Los Angeles Raiders,,10708.0
+4.0,"October 11, 1987",at Miami Dolphins,,25867.0
+5.0,"October 18, 1987",Denver Broncos,,20296.0
+6.0,"October 25, 1987",at San Diego Chargers,,47972.0
+7.0,"November 1, 1987",at Chicago Bears,,63498.0
+8.0,"November 8, 1987",Pittsburgh Steelers,,45249.0
+9.0,"November 15, 1987",New York Jets,,40718.0
+10.0,"November 22, 1987",Green Bay Packers,,34611.0
+11.0,"November 26, 1987",at Detroit Lions,,43820.0
+12.0,"December 6, 1987",at Cincinnati Bengals,,46489.0
+13.0,"December 13, 1987",Los Angeles Raiders,,63834.0
+14.0,"December 19, 1987",at Denver Broncos,,75053.0
+15.0,"December 27, 1987",Seattle Seahawks,,20370.0

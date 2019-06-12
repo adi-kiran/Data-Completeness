@@ -2,7 +2,7 @@ MLB season,Team season,League,Division,Finish,Wins,Losses,Win percentage,GB,Post
 1969,1969,AL,West,6th,64,98,0.395,33,,
 1970,1970,AL,West,4th,65,97,0.401,33,,
 1971,1971,AL,West,6th,69,92,0.429,32,,
-1972,1972,AL,East,6th,65,91,0.41700000000000004,21,,
+1972,1972,AL,East,6th,65,91,0.417,21,,
 1973,1973,AL,East,5th,74,88,0.457,23,,
 1974,1974,AL,East,5th,76,86,0.469,15,,
 1975,1975,AL,East,5th,68,94,0.42,28,,
@@ -15,7 +15,7 @@ MLB season,Team season,League,Division,Finish,Wins,Losses,Win percentage,GB,Post
 1981,1981,AL,East*,1st,31,22,0.585,,,"Rollie Fingers (MVP, CYA)"
 1982,1982,AL‡,East*,1st,95,67,0.586,,,Robin Yount (MVP) Pete Vuckovich (CYA)
 1983,1983,AL,East,5th,87,75,0.537,11,,Cecil Cooper (RCA)
-1984,1984,AL,East,7th,67,94,0.41600000000000004,36½,,
+1984,1984,AL,East,7th,67,94,0.416,36½,,
 1985,1985,AL,East,6th,71,90,0.441,28,,
 1986,1986,AL,East,6th,77,84,0.478,18,,
 1987,1987,AL,East,3rd,91,71,0.562,7,,
@@ -34,10 +34,10 @@ MLB season,Team season,League,Division,Finish,Wins,Losses,Win percentage,GB,Post
 2000,2000,NL,Central,3rd,73,89,0.451,22,,
 2001,2001,NL,Central,4th,68,94,0.42,25,,
 2002,2002,NL,Central,6th,56,106,0.34600000000000003,41,,
-2003,2003,NL,Central,6th,68,94,0.41200000000000003,20,,
-2004,2004,NL,Central,6th,67,94,0.41100000000000003,37½,,
+2003,2003,NL,Central,6th,68,94,0.412,20,,
+2004,2004,NL,Central,6th,67,94,0.411,37½,,
 2005,2005,NL,Central,3rd,81,81,0.5,19,,
-2006,2006,NL,Central,4th,75,87,0.46299999999999997,8½,,
+2006,2006,NL,Central,4th,75,87,0.463,8½,,
 2007,2007,NL,Central,2nd,83,79,0.512,2,,Ryan Braun (ROY) Prince Fielder (HAA)
 2008,2008,NL,Central,2nd§,90,72,0.556,7½,,
 2009,2009,NL,Central,3rd,80,82,0.494,11,,
@@ -45,4 +45,4 @@ MLB season,Team season,League,Division,Finish,Wins,Losses,Win percentage,GB,Post
 2011,2011,NL,Central*,1st,96,66,0.593,,,Ryan Braun (MVP) John Axford (ROL)
 2012,2012,NL,Central,3rd,83,79,0.512,14,,
 2013,2013,NL,Central,4th,74,88,0.457,23,,
-2014,2014,NL,Central,3rd,1,2,0.33299999999999996,1,,
+2014,2014,NL,Central,3rd,1,2,0.333,1,,

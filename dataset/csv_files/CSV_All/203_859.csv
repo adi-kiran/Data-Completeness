@@ -1,15 +1,15 @@
 Game,Date,Visitor,Score,Home,Decision,Attendance,Record,Points
-34,January 3,NY Rangers,,Philadelphia,Parent,"17,007",,48
-35,January 5,Philadelphia,,Minnesota,Parent,"15,296",,49
-36,January 7,Philadelphia,,Montreal,Parent,"19,040",,49
-37,January 10,Minnesota,,Philadelphia,Parent,"17,007",,51
-38,January 11,Philadelphia,,Atlanta,Taylor,"5,141",,53
-39,January 13,Atlanta,,Philadelphia,Parent,"17,007",,55
-40,January 17,Buffalo,,Philadelphia,Parent,"17,007",,57
-41,January 19,Los Angeles,,Philadelphia,Parent,"17,007",,59
-42,January 20,Pittsburgh,,Philadelphia,Parent,"17,007",,59
-43,January 22,Philadelphia,,Vancouver,Taylor,"15,570",,61
-44,January 24,Philadelphia,,Los Angeles,Parent,"14,343",,62
-45,January 25,Philadelphia,,California,Parent,"10,776",,64
-46,January 27,Philadelphia,,Boston,Taylor,"15,003",,64
-47,January 31,Buffalo,,Philadelphia,Parent,"17,007",,66
+34,January 3,NY Rangers,,Philadelphia,Parent,17007,,48
+35,January 5,Philadelphia,,Minnesota,Parent,15296,,49
+36,January 7,Philadelphia,,Montreal,Parent,19040,,49
+37,January 10,Minnesota,,Philadelphia,Parent,17007,,51
+38,January 11,Philadelphia,,Atlanta,Taylor,5141,,53
+39,January 13,Atlanta,,Philadelphia,Parent,17007,,55
+40,January 17,Buffalo,,Philadelphia,Parent,17007,,57
+41,January 19,Los Angeles,,Philadelphia,Parent,17007,,59
+42,January 20,Pittsburgh,,Philadelphia,Parent,17007,,59
+43,January 22,Philadelphia,,Vancouver,Taylor,15570,,61
+44,January 24,Philadelphia,,Los Angeles,Parent,14343,,62
+45,January 25,Philadelphia,,California,Parent,10776,,64
+46,January 27,Philadelphia,,Boston,Taylor,15003,,64
+47,January 31,Buffalo,,Philadelphia,Parent,17007,,66
