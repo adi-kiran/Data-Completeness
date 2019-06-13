@@ -1,0 +1,20 @@
+Date,Ship,Nationality,Tonnage,Fate,Name of ship
+19 August 1941,SS Aguila,United Kingdom,3255,Sunk,
+27 November 1941,HMAS Parramatta,Royal Australian Navy,1060,Sunk,
+23 December 1941,SS Shuntien,United Kingdom,3059,Sunk,
+26 December 1941,SS Warszawa,Poland,2487,Sunk,
+10 June 1942,MV Athene,Norway,4681,Sunk,
+10 June 1942,SS Brambleleaf,United Kingdom,5917,Damaged,
+5 June 1940,,United Kingdom,798,Sunk at 58°48′N 08°45′W﻿ / ﻿58.800°N 8.750°W,SS Stancor
+7 June 1940,,United Kingdom,4212,Sunk at 55°33′N 08°26′W﻿ / ﻿55.550°N 8.433°W,SS Frances Massey
+7 June 1940,,United Kingdom,5888,Damaged at 55°33′N 08°26′W﻿ / ﻿55.550°N 8.433°W,SS Eros
+11 June 1940,,Greece,2375,Sunk at 44°04′N 12°30′W﻿ / ﻿44.067°N 12.500°W,SS Violando N Goulandris
+19 June 1940,,Norway,6607,Sunk at 45°10′N 11°50′W﻿ / ﻿45.167°N 11.833°W,MV Tudor
+19 June 1940,,United Kingdom,3164,Sunk at 45°00′N 11°21′W﻿ / ﻿45.000°N 11.350°W,SS Baron Loudoun
+19 June 1940,,United Kingdom,5661,Sunk at 45°00′N 11°21′W﻿ / ﻿45.000°N 11.350°W,SS British Monarch
+20 June 1940,,Netherlands,7493,Sunk at 43°34′N 14°20′W﻿ / ﻿43.567°N 14.333°W,MV Moerdrecht
+16 August 1940,,Sweden,2325,Sunk at 57°10′N 16°37′W﻿ / ﻿57.167°N 16.617°W,SS Hedrun
+19 August 1940,,Belgium,7590,Sunk at 55°28′N 15°10′W﻿ / ﻿55.467°N 15.167°W,SS Ville de Gand
+24 August 1940,,United Kingdom,6666,Sunk at 57°24′N 11°21′W﻿ / ﻿57.400°N 11.350°W,SS La Brea
+25 August 1940,,United Kingdom,5763,Sunk at 58°30′N 10°15′W﻿ / ﻿58.500°N 10.250°W,SS Empire Merlin
+25 August 1940,,United Kingdom,6825,Sunk at 58°24′N 11°25′W﻿ / ﻿58.400°N 11.417°W,MV Athelcrest
