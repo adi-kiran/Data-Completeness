@@ -1,1 +1,1 @@
-{"schema": {"Name": "object", "Nationality": "object", "Club": "object", "From": "int64", "Until": "object"}}
+{"schema": {"Date": "object", "Nationality": "object", "Tonnage": "int64", "Fate": "object"},"categories":["submarines", "october", "machine", "1941", "1942", "war", "british", "warships"]}
