@@ -1,0 +1,1 @@
+{"schema": {"Date": "object", "Nationality": "object", "Avg Tonnage (GRT)": "int64", "Fate": "object"}}

@@ -1,0 +1,50 @@
+-----------------------
+Transformation Match
+Transformations detected are :  {'Tonnage (GRT)': 'avg'}
+1t.csv : 202_117.csv and 203_148.csv
+possible transformations are :  {'Tonnage (GRT)': 'avg'}
+Columns that match with input_schema:
+ 202_117.csv :  ['Date', 'Nationality', 'Fate'] 	 203_148.csv :  ['Date', 'Nationality', 'Fate']
+2t.csv : 202_117.csv and 203_268.csv
+possible transformations are :  {'Tonnage (GRT)': 'avg'}
+Columns that match with input_schema:
+ 202_117.csv :  ['Date', 'Nationality', 'Fate'] 	 203_268.csv :  ['Date', 'Nationality', 'Fate']
+3t.csv : 203_148.csv and 203_268.csv
+possible transformations are :  {'Tonnage (GRT)': 'avg'}
+Columns that match with input_schema:
+ 203_148.csv :  ['Date', 'Nationality', 'Tonnage (GRT)', 'Fate'] 	 203_268.csv :  ['Date', 'Nationality', 'Tonnage (GRT)', 'Fate']
+202_117.csv
+Columns that match with input_schema:
+ 202_117.csv :  ['Date', 'Nationality', 'Fate']
+203_148.csv
+Columns that match with input_schema:
+ 203_148.csv :  ['Date', 'Nationality', 'Tonnage (GRT)', 'Fate']
+203_268.csv
+Columns that match with input_schema:
+ 203_268.csv :  ['Date', 'Nationality', 'Tonnage (GRT)', 'Fate']
+204_100.csv
+Columns that match with input_schema:
+ 204_100.csv :  ['Date', 'Nationality', 'Fate']
+-------------
+Direct Match
+1.csv : 202_117.csv and 203_148.csv
+Columns that match with input_schema:
+ 202_117.csv :  ['Date', 'Nationality', 'Fate'] 	 203_148.csv :  ['Date', 'Nationality', 'Fate']
+2.csv : 202_117.csv and 203_268.csv
+Columns that match with input_schema:
+ 202_117.csv :  ['Date', 'Nationality', 'Fate'] 	 203_268.csv :  ['Date', 'Nationality', 'Fate']
+3.csv : 203_148.csv and 203_268.csv
+Columns that match with input_schema:
+ 203_148.csv :  ['Date', 'Nationality', 'Fate'] 	 203_268.csv :  ['Date', 'Nationality', 'Fate']
+202_117.csv
+Columns that match with input_schema:
+ 202_117.csv :  ['Date', 'Nationality', 'Fate']
+203_148.csv
+Columns that match with input_schema:
+ 203_148.csv :  ['Date', 'Nationality', 'Fate']
+203_268.csv
+Columns that match with input_schema:
+ 203_268.csv :  ['Date', 'Nationality', 'Fate']
+204_100.csv
+Columns that match with input_schema:
+ 204_100.csv :  ['Date', 'Nationality', 'Fate']

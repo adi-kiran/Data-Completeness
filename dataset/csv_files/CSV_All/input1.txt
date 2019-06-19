@@ -1,0 +1,1 @@
+{"schema": {"Season": "float64", "Competition": "object", "Round": "object", "Club": "object", "Home": "float64"}, "categories": ["association", "establishments", "clubs", "established", "football", "1994"]}
