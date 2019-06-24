@@ -1,50 +1,81 @@
 -----------------------
 Transformation Match
+
 Transformations detected are :  {'Tonnage (GRT)': 'avg'}
+
 1t.csv : 202_117.csv and 203_148.csv
 possible transformations are :  {'Tonnage (GRT)': 'avg'}
+Missing Values(NANs):  {'Date': '0/15', 'Ship': '9/15', 'Nationality': '0/15', 'Tonnage': '9/15', 'Fate': '0/15', 'Name': '6/15', 'Tonnage (GRT)': '6/15'}
 Columns that match with input_schema:
  202_117.csv :  ['Date', 'Nationality', 'Fate'] 	 203_148.csv :  ['Date', 'Nationality', 'Fate']
+
 2t.csv : 202_117.csv and 203_268.csv
 possible transformations are :  {'Tonnage (GRT)': 'avg'}
+Missing Values(NANs):  {'Date': '0/22', 'Ship': '16/22', 'Nationality': '0/22', 'Tonnage': '16/22', 'Fate': '0/22', 'Name': '6/22', 'Tonnage (GRT)': '6/22'}
 Columns that match with input_schema:
  202_117.csv :  ['Date', 'Nationality', 'Fate'] 	 203_268.csv :  ['Date', 'Nationality', 'Fate']
+
 3t.csv : 203_148.csv and 203_268.csv
 possible transformations are :  {'Tonnage (GRT)': 'avg'}
+Missing Values(NANs):  {'Date': '0/25', 'Name': '0/25', 'Nationality': '0/25', 'Tonnage (GRT)': '0/25', 'Fate': '0/25'}
 Columns that match with input_schema:
  203_148.csv :  ['Date', 'Nationality', 'Tonnage (GRT)', 'Fate'] 	 203_268.csv :  ['Date', 'Nationality', 'Tonnage (GRT)', 'Fate']
+
 202_117.csv
 Columns that match with input_schema:
  202_117.csv :  ['Date', 'Nationality', 'Fate']
+Missing Values(NANs):  {'Date': '0/6', 'Ship': '0/6', 'Nationality': '0/6', 'Tonnage': '0/6', 'Fate': '0/6'}
+
 203_148.csv
 Columns that match with input_schema:
  203_148.csv :  ['Date', 'Nationality', 'Tonnage (GRT)', 'Fate']
+Missing Values(NANs):  {'Date': '0/9', 'Name': '0/9', 'Nationality': '0/9', 'Tonnage (GRT)': '0/9', 'Fate': '0/9'}
+
 203_268.csv
 Columns that match with input_schema:
  203_268.csv :  ['Date', 'Nationality', 'Tonnage (GRT)', 'Fate']
+Missing Values(NANs):  {'Date': '0/16', 'Name': '0/16', 'Nationality': '0/16', 'Tonnage (GRT)': '0/16', 'Fate': '0/16'}
+
 204_100.csv
 Columns that match with input_schema:
  204_100.csv :  ['Date', 'Nationality', 'Fate']
+Missing Values(NANs):  {'Date': '0/13', 'Name of ship': '0/13', 'Nationality': '0/13', 'Tonnage': '0/13', 'Fate': '0/13'}
+
 -------------
 Direct Match
+
 1.csv : 202_117.csv and 203_148.csv
+Missing Values(NANs):  {'Date': '0/15', 'Ship': '9/15', 'Nationality': '0/15', 'Tonnage': '9/15', 'Fate': '0/15', 'Name': '6/15', 'Tonnage (GRT)': '6/15'}
 Columns that match with input_schema:
  202_117.csv :  ['Date', 'Nationality', 'Fate'] 	 203_148.csv :  ['Date', 'Nationality', 'Fate']
+
 2.csv : 202_117.csv and 203_268.csv
+Missing Values(NANs):  {'Date': '0/22', 'Ship': '16/22', 'Nationality': '0/22', 'Tonnage': '16/22', 'Fate': '0/22', 'Name': '6/22', 'Tonnage (GRT)': '6/22'}
 Columns that match with input_schema:
  202_117.csv :  ['Date', 'Nationality', 'Fate'] 	 203_268.csv :  ['Date', 'Nationality', 'Fate']
+
 3.csv : 203_148.csv and 203_268.csv
+Missing Values(NANs):  {'Date': '0/25', 'Name': '0/25', 'Nationality': '0/25', 'Tonnage (GRT)': '0/25', 'Fate': '0/25'}
 Columns that match with input_schema:
  203_148.csv :  ['Date', 'Nationality', 'Fate'] 	 203_268.csv :  ['Date', 'Nationality', 'Fate']
+
 202_117.csv
 Columns that match with input_schema:
  202_117.csv :  ['Date', 'Nationality', 'Fate']
+Missing Values(NANs):  {'Date': '0/6', 'Ship': '0/6', 'Nationality': '0/6', 'Tonnage': '0/6', 'Fate': '0/6'}
+
 203_148.csv
 Columns that match with input_schema:
  203_148.csv :  ['Date', 'Nationality', 'Fate']
+Missing Values(NANs):  {'Date': '0/9', 'Name': '0/9', 'Nationality': '0/9', 'Tonnage (GRT)': '0/9', 'Fate': '0/9'}
+
 203_268.csv
 Columns that match with input_schema:
  203_268.csv :  ['Date', 'Nationality', 'Fate']
+Missing Values(NANs):  {'Date': '0/16', 'Name': '0/16', 'Nationality': '0/16', 'Tonnage (GRT)': '0/16', 'Fate': '0/16'}
+
 204_100.csv
 Columns that match with input_schema:
  204_100.csv :  ['Date', 'Nationality', 'Fate']
+Missing Values(NANs):  {'Date': '0/13', 'Name of ship': '0/13', 'Nationality': '0/13', 'Tonnage': '0/13', 'Fate': '0/13'}
+
