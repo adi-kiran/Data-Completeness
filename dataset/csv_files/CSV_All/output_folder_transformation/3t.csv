@@ -1,26 +1,23 @@
-Date,Name,Nationality,Tonnage (GRT),Fate
-18 January 1940,Flandria,Sweden,1179,Sunk
-19 January 1940,Patria,Sweden,1188,Sunk
-11 February 1940,Linda,Estonia,1213,Sunk
-4 May 1940,San Tiburcio,United Kingdom,5995,Sunk (mine)
-9 May 1940,Doris,French Navy,552,Sunk
-11 May 1940,Tringa,United Kingdom,1930,Sunk
-11 May 1940,Viiu,Estonia,1908,Sunk
-23 May 1940,Sigurd Faulbaum,Belgium,3256,Sunk
-11 May 1944,Shtorm,Soviet Union,412,Damaged
-7 October 1941,Svend Foyn,United Kingdom,14795,Damaged
-16 February 1942,Monagas,Venezuela,2650,Sunk
-16 February 1942,San Nicholas,United Kingdom,2391,Sunk
-16 February 1942,Tia Juana,United Kingdom,2395,Sunk
-22 February 1942,J.N.Pew,United States,9033,Sunk
-23 February 1942,Sun,United States,9002,Damaged
-23 February 1942,Thalia,Panama,8329,Sunk
-11 May 1942,Cape of Good Hope,United Kingdom,4963,Sunk
-24 May 1942,Gonçalves Dias,Brazil,4996,Sunk
-28 May 1942,Alcoa Pilgrim,United States,6759,Sunk
-3 June 1942,M.F. Ellliot,United States,6940,Sunk
-9 June 1942,Bruxelles,Belgium,5085,Sunk
-9 June 1942,Franklin K. Lane,United States,6589,Sunk
-15 June 1942,Cold Harbor,Panama,5010,Sunk
-15 June 1942,Scottsburg,United States,8010,Sunk
-15 June 1942,West Hardaway,United States,5702,Sunk
+Date,Ship,Nationality,Tonnage,Fate,Name,Tonnage (GRT)
+19 August 1941,SS Aguila,United Kingdom,3255.0,Sunk,,
+27 November 1941,HMAS Parramatta,Royal Australian Navy,1060.0,Sunk,,
+23 December 1941,SS Shuntien,United Kingdom,3059.0,Sunk,,
+26 December 1941,SS Warszawa,Poland,2487.0,Sunk,,
+10 June 1942,MV Athene,Norway,4681.0,Sunk,,
+10 June 1942,SS Brambleleaf,United Kingdom,5917.0,Damaged,,
+7 October 1941,,United Kingdom,,Damaged,Svend Foyn,14795.0
+16 February 1942,,Venezuela,,Sunk,Monagas,2650.0
+16 February 1942,,United Kingdom,,Sunk,San Nicholas,2391.0
+16 February 1942,,United Kingdom,,Sunk,Tia Juana,2395.0
+22 February 1942,,United States,,Sunk,J.N.Pew,9033.0
+23 February 1942,,United States,,Damaged,Sun,9002.0
+23 February 1942,,Panama,,Sunk,Thalia,8329.0
+11 May 1942,,United Kingdom,,Sunk,Cape of Good Hope,4963.0
+24 May 1942,,Brazil,,Sunk,Gonçalves Dias,4996.0
+28 May 1942,,United States,,Sunk,Alcoa Pilgrim,6759.0
+3 June 1942,,United States,,Sunk,M.F. Ellliot,6940.0
+9 June 1942,,Belgium,,Sunk,Bruxelles,5085.0
+9 June 1942,,United States,,Sunk,Franklin K. Lane,6589.0
+15 June 1942,,Panama,,Sunk,Cold Harbor,5010.0
+15 June 1942,,United States,,Sunk,Scottsburg,8010.0
+15 June 1942,,United States,,Sunk,West Hardaway,5702.0
