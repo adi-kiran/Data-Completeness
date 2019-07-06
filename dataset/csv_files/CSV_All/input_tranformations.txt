@@ -1,1 +1,1 @@
-{"schema": {"Date": "object", "Nationality": "object", "Avg Tonnage (GRT)": "int64", "Fate": "object"}}
+{"schema": {"Date": "object", "Nationality": "object", "Tonnage (GRT)": "int64", "Fate": "object"},"transformations":{"Tonnage (GRT)":["sum","avg"]}}

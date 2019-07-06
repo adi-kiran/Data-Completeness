@@ -1,110 +1,68 @@
-------------------------------
-
-Direct Match
-
-1.csv : 202_117.csv		203_148.csv		203_268.csv		
-Missing Values(NANs):  {'Date': '0/31', 'Ship': '25/31', 'Nationality': '0/31', 'Tonnage': '25/31', 'Fate': '0/31', 'Name': '6/31', 'Tonnage (GRT)': '6/31'}
-Columns that match with input_schema: 
-202_117.csv :  ['Date', 'Nationality', 'Fate']
-203_148.csv :  ['Date', 'Nationality', 'Fate']
-203_268.csv :  ['Date', 'Nationality', 'Fate']
-
-2.csv : 202_117.csv		203_148.csv		
-Missing Values(NANs):  {'Date': '0/15', 'Ship': '9/15', 'Nationality': '0/15', 'Tonnage': '9/15', 'Fate': '0/15', 'Name': '6/15', 'Tonnage (GRT)': '6/15'}
-Columns that match with input_schema: 
-202_117.csv :  ['Date', 'Nationality', 'Fate']
-203_148.csv :  ['Date', 'Nationality', 'Fate']
-
-3.csv : 202_117.csv		203_268.csv		
-Missing Values(NANs):  {'Date': '0/22', 'Ship': '16/22', 'Nationality': '0/22', 'Tonnage': '16/22', 'Fate': '0/22', 'Name': '6/22', 'Tonnage (GRT)': '6/22'}
-Columns that match with input_schema: 
-202_117.csv :  ['Date', 'Nationality', 'Fate']
-203_268.csv :  ['Date', 'Nationality', 'Fate']
-
-4.csv : 203_148.csv		203_268.csv		
-Missing Values(NANs):  {'Date': '0/25', 'Name': '0/25', 'Nationality': '0/25', 'Tonnage (GRT)': '0/25', 'Fate': '0/25'}
-Columns that match with input_schema: 
-203_148.csv :  ['Date', 'Nationality', 'Fate']
-203_268.csv :  ['Date', 'Nationality', 'Fate']
-
-202_117.csv
-Missing Values(NANs score):  {'Date': '0/6', 'Ship': '0/6', 'Nationality': '0/6', 'Tonnage': '0/6', 'Fate': '0/6'}
-Columns that match with input_schema:
- 202_117.csv :  ['Date', 'Nationality', 'Fate']
-
-203_148.csv
-Missing Values(NANs score):  {'Date': '0/9', 'Name': '0/9', 'Nationality': '0/9', 'Tonnage (GRT)': '0/9', 'Fate': '0/9'}
-Columns that match with input_schema:
- 203_148.csv :  ['Date', 'Nationality', 'Fate']
-
-203_268.csv
-Missing Values(NANs score):  {'Date': '0/16', 'Name': '0/16', 'Nationality': '0/16', 'Tonnage (GRT)': '0/16', 'Fate': '0/16'}
-Columns that match with input_schema:
- 203_268.csv :  ['Date', 'Nationality', 'Fate']
-
-204_100.csv
-Missing Values(NANs score):  {'Date': '0/13', 'Name of ship': '0/13', 'Nationality': '0/13', 'Tonnage': '0/13', 'Fate': '0/13'}
-Columns that match with input_schema:
- 204_100.csv :  ['Date', 'Nationality', 'Fate']
-
-------------------------------
 ******************************
 
-Transformation Match
+All Possible Matches
 
-Transformations detected are :  {'Tonnage (GRT)': 'avg'}
+Transformations detected from input are :  {'Tonnage (GRT)': ['sum', 'avg']}
 
-1t.csv : 202_117.csv		203_148.csv		203_268.csv		
-possible transformations are :  {'Tonnage (GRT)': 'avg'}
+1.csv : 202_117.csv		203_148.csv		203_268.csv		
+possible transformations are :  {'Tonnage (GRT)': ['sum', 'avg']}
 Missing Values(NANs):  {'Date': '0/31', 'Ship': '25/31', 'Nationality': '0/31', 'Tonnage': '25/31', 'Fate': '0/31', 'Name': '6/31', 'Tonnage (GRT)': '6/31'}
 Columns that match with input_schema: 
 202_117.csv :  ['Date', 'Nationality', 'Fate']
 203_148.csv :  ['Date', 'Nationality', 'Tonnage (GRT)', 'Fate']
 203_268.csv :  ['Date', 'Nationality', 'Tonnage (GRT)', 'Fate']
+Coverage Score :  1.0 	 Completeness Score :  0.9516129032258065
 
-2t.csv : 202_117.csv		203_148.csv		
-possible transformations are :  {'Tonnage (GRT)': 'avg'}
+2.csv : 202_117.csv		203_148.csv		
+possible transformations are :  {'Tonnage (GRT)': ['sum', 'avg']}
 Missing Values(NANs):  {'Date': '0/15', 'Ship': '9/15', 'Nationality': '0/15', 'Tonnage': '9/15', 'Fate': '0/15', 'Name': '6/15', 'Tonnage (GRT)': '6/15'}
 Columns that match with input_schema: 
 202_117.csv :  ['Date', 'Nationality', 'Fate']
 203_148.csv :  ['Date', 'Nationality', 'Tonnage (GRT)', 'Fate']
+Coverage Score :  1.0 	 Completeness Score :  0.9
 
-3t.csv : 202_117.csv		203_268.csv		
-possible transformations are :  {'Tonnage (GRT)': 'avg'}
+3.csv : 202_117.csv		203_268.csv		
+possible transformations are :  {'Tonnage (GRT)': ['sum', 'avg']}
 Missing Values(NANs):  {'Date': '0/22', 'Ship': '16/22', 'Nationality': '0/22', 'Tonnage': '16/22', 'Fate': '0/22', 'Name': '6/22', 'Tonnage (GRT)': '6/22'}
 Columns that match with input_schema: 
 202_117.csv :  ['Date', 'Nationality', 'Fate']
 203_268.csv :  ['Date', 'Nationality', 'Tonnage (GRT)', 'Fate']
+Coverage Score :  1.0 	 Completeness Score :  0.9318181818181819
 
-4t.csv : 203_148.csv		203_268.csv		
-possible transformations are :  {'Tonnage (GRT)': 'avg'}
+4.csv : 203_148.csv		203_268.csv		
+possible transformations are :  {'Tonnage (GRT)': ['sum', 'avg']}
 Missing Values(NANs):  {'Date': '0/25', 'Name': '0/25', 'Nationality': '0/25', 'Tonnage (GRT)': '0/25', 'Fate': '0/25'}
 Columns that match with input_schema: 
 203_148.csv :  ['Date', 'Nationality', 'Tonnage (GRT)', 'Fate']
 203_268.csv :  ['Date', 'Nationality', 'Tonnage (GRT)', 'Fate']
+Coverage Score :  1.0 	 Completeness Score :  1.0
 
 202_117.csv
 possible transformations are :  {}
 Missing Values(NANs score):  {'Date': '0/6', 'Ship': '0/6', 'Nationality': '0/6', 'Tonnage': '0/6', 'Fate': '0/6'}
 Columns that match with input_schema:
  202_117.csv :  ['Date', 'Nationality', 'Fate']
+Coverage Score :  0.75 	 Completeness Score :  0.75
 
 203_148.csv
-possible transformations are :  {'Tonnage (GRT)': 'avg'}
+possible transformations are :  {'Tonnage (GRT)': ['sum', 'avg']}
 Missing Values(NANs score):  {'Date': '0/9', 'Name': '0/9', 'Nationality': '0/9', 'Tonnage (GRT)': '0/9', 'Fate': '0/9'}
 Columns that match with input_schema:
  203_148.csv :  ['Date', 'Nationality', 'Tonnage (GRT)', 'Fate']
+Coverage Score :  1.0 	 Completeness Score :  1.0
 
 203_268.csv
-possible transformations are :  {'Tonnage (GRT)': 'avg'}
+possible transformations are :  {'Tonnage (GRT)': ['sum', 'avg']}
 Missing Values(NANs score):  {'Date': '0/16', 'Name': '0/16', 'Nationality': '0/16', 'Tonnage (GRT)': '0/16', 'Fate': '0/16'}
 Columns that match with input_schema:
  203_268.csv :  ['Date', 'Nationality', 'Tonnage (GRT)', 'Fate']
+Coverage Score :  1.0 	 Completeness Score :  1.0
 
 204_100.csv
 possible transformations are :  {}
 Missing Values(NANs score):  {'Date': '0/13', 'Name of ship': '0/13', 'Nationality': '0/13', 'Tonnage': '0/13', 'Fate': '0/13'}
 Columns that match with input_schema:
  204_100.csv :  ['Date', 'Nationality', 'Fate']
+Coverage Score :  0.75 	 Completeness Score :  0.75
 
 ******************************
