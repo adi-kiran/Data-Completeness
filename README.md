@@ -3,4 +3,5 @@
 The dataset used is the WikiTables Dataset
 https://github.com/ppasupat/WikiTableQuestions/
 
-Create_schema notebook is to be run in all_csv folder(a copy is already present in that folder), it creates schema as json objects in a txt file and the names of the files that do not get parsed are stored in an error file
+The demo_file present within folder datasets/csv/CSV_All must be run to view results. Results are present in demo folder.
+the demo_file present in the toplevel folder is view only as the path to csv files neede for merging is different
