@@ -1,78 +1,293 @@
 -------------------------------
+INPUT 1
 Input Schema : 
-{"schema": {"Date": "object", "Nationality": "object", "Tonnage (GRT)": "int64", "Fate": "object"},"transformations":{"Tonnage (GRT)":["sum","avg"],"Nationality":["funct1"]}}
+{"schema": {"Round": "int64", "Round.1": "object", "Circuit": "object", "Date": "object", "Pole Position": "object", "Fastest Lap": "object", "Winning Driver": "object"}}
+
+******************************
+
+All Possible Matches
+
+Matching Tables :  ['203_408.csv', '203_514.csv', '204_253.csv', '204_40.csv', '204_455.csv', '204_569.csv', '204_63.csv']
+
+No Transformations In Input Schema
+
+1.csv : 203_514.csv(2008 Superleague Formula season)		204_40.csv(2008 Superbike World Championship season)		204_569.csv(1998 Swedish Touring Car Championship season)		
+Missing Values(NANs):  {'Round': '0/52', 'Round.1': '0/52', 'Race': '40/52', 'Date': '0/52', 'Pole Position': '12/52', 'Fastest Lap': '0/52', 'Winning Club': '40/52', 'Winning Team': '0/52', 'Report': '12/52', 'Country': '24/52', 'Circuit': '12/52', 'Winning Rider': '24/52', 'Winning Driver': '40/52', 'Winning Privateer': '40/52'}
+Columns that match with input_schema: 
+203_514.csv :  ['Round', 'Round.1', 'Date', 'Pole Position', 'Fastest Lap']
+204_40.csv :  ['Round', 'Round.1', 'Circuit', 'Date', 'Pole Position', 'Fastest Lap']
+204_569.csv :  ['Round', 'Round.1', 'Circuit', 'Date', 'Pole Position', 'Fastest Lap', 'Winning Driver']
+Coverage Score :  1.0 	 Completeness Score :  0.8241758241758241 	 Number of Rows :  52
+
+2.csv : 204_253.csv(1990 Superbike World Championship season)		204_40.csv(2008 Superbike World Championship season)		204_569.csv(1998 Swedish Touring Car Championship season)		
+Missing Values(NANs):  {'Round': '0/66', 'Round.1': '0/66', 'Circuit': '0/66', 'Date': '0/66', 'Pole Position': '6/66', 'Fastest Lap': '0/66', 'Winning Rider': '12/66', 'Country': '38/66', 'Winning Team': '26/66', 'Report': '38/66', 'Winning Driver': '54/66', 'Winning Privateer': '54/66'}
+Columns that match with input_schema: 
+204_253.csv :  ['Round', 'Round.1', 'Circuit', 'Date', 'Pole Position', 'Fastest Lap']
+204_40.csv :  ['Round', 'Round.1', 'Circuit', 'Date', 'Pole Position', 'Fastest Lap']
+204_569.csv :  ['Round', 'Round.1', 'Circuit', 'Date', 'Pole Position', 'Fastest Lap', 'Winning Driver']
+Coverage Score :  1.0 	 Completeness Score :  0.8701298701298701 	 Number of Rows :  66
+
+3.csv : 204_253.csv(1990 Superbike World Championship season)		204_569.csv(1998 Swedish Touring Car Championship season)		204_63.csv(2002 Italian Formula Three season)		
+Missing Values(NANs):  {'Round': '0/47', 'Round.1': '9/47', 'Circuit': '0/47', 'Date': '0/47', 'Pole Position': '6/47', 'Fastest Lap': '9/47', 'Winning Rider': '21/47', 'Winning Driver': '35/47', 'Winning Team': '35/47', 'Winning Privateer': '35/47', 'Winning driver': '38/47', 'Winning team': '38/47', 'Trophy winner': '38/47'}
+Columns that match with input_schema: 
+204_253.csv :  ['Round', 'Round.1', 'Circuit', 'Date', 'Pole Position', 'Fastest Lap']
+204_569.csv :  ['Round', 'Round.1', 'Circuit', 'Date', 'Pole Position', 'Fastest Lap', 'Winning Driver']
+204_63.csv :  ['Round', 'Circuit', 'Date', 'Pole Position']
+Coverage Score :  1.0 	 Completeness Score :  0.8206686930091186 	 Number of Rows :  47
+
+4.csv : 203_408.csv(1989 Formula One season)		204_455.csv(1989 Formula One season)		
+Missing Values(NANs):  {'Rd.': '0/16', 'Grand Prix': '0/16', 'Date': '0/16', 'Location': '0/16', 'Pole Position': '0/16', 'Fastest Lap': '0/16', 'Winning Driver': '0/16', 'Constructor': '0/16', 'Report': '0/16'}
+Columns that match with input_schema: 
+203_408.csv :  ['Date', 'Pole Position', 'Fastest Lap', 'Winning Driver']
+204_455.csv :  ['Date', 'Pole Position', 'Fastest Lap', 'Winning Driver']
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714 	 Number of Rows :  16
+
+5.csv : 203_514.csv(2008 Superleague Formula season)		204_40.csv(2008 Superbike World Championship season)		
+Missing Values(NANs):  {'Round': '0/40', 'Round.1': '0/40', 'Race': '28/40', 'Date': '0/40', 'Pole Position': '6/40', 'Fastest Lap': '0/40', 'Winning Club': '28/40', 'Winning Team': '0/40', 'Report': '0/40', 'Country': '12/40', 'Circuit': '12/40', 'Winning Rider': '12/40'}
+Columns that match with input_schema: 
+203_514.csv :  ['Round', 'Round.1', 'Date', 'Pole Position', 'Fastest Lap']
+204_40.csv :  ['Round', 'Round.1', 'Circuit', 'Date', 'Pole Position', 'Fastest Lap']
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.7928571428571428 	 Number of Rows :  40
+
+6.csv : 203_514.csv(2008 Superleague Formula season)		204_569.csv(1998 Swedish Touring Car Championship season)		
+Missing Values(NANs):  {'Round': '0/24', 'Round.1': '0/24', 'Race': '12/24', 'Date': '0/24', 'Pole Position': '12/24', 'Fastest Lap': '0/24', 'Winning Club': '12/24', 'Winning Team': '0/24', 'Report': '12/24', 'Circuit': '12/24', 'Winning Driver': '12/24', 'Winning Privateer': '12/24'}
+Columns that match with input_schema: 
+203_514.csv :  ['Round', 'Round.1', 'Date', 'Pole Position', 'Fastest Lap']
+204_569.csv :  ['Round', 'Round.1', 'Circuit', 'Date', 'Pole Position', 'Fastest Lap', 'Winning Driver']
+Coverage Score :  1.0 	 Completeness Score :  0.7857142857142857 	 Number of Rows :  24
+
+7.csv : 204_253.csv(1990 Superbike World Championship season)		204_40.csv(2008 Superbike World Championship season)		
+Missing Values(NANs):  {'Round': '0/54', 'Round.1': '0/54', 'Circuit': '0/54', 'Date': '0/54', 'Pole Position': '0/54', 'Fastest Lap': '0/54', 'Winning Rider': '0/54', 'Country': '26/54', 'Winning Team': '26/54', 'Report': '26/54'}
+Columns that match with input_schema: 
+204_253.csv :  ['Round', 'Round.1', 'Circuit', 'Date', 'Pole Position', 'Fastest Lap']
+204_40.csv :  ['Round', 'Round.1', 'Circuit', 'Date', 'Pole Position', 'Fastest Lap']
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571 	 Number of Rows :  54
+
+8.csv : 204_253.csv(1990 Superbike World Championship season)		204_569.csv(1998 Swedish Touring Car Championship season)		
+Missing Values(NANs):  {'Round': '0/38', 'Round.1': '0/38', 'Circuit': '0/38', 'Date': '0/38', 'Pole Position': '6/38', 'Fastest Lap': '0/38', 'Winning Rider': '12/38', 'Winning Driver': '26/38', 'Winning Team': '26/38', 'Winning Privateer': '26/38'}
+Columns that match with input_schema: 
+204_253.csv :  ['Round', 'Round.1', 'Circuit', 'Date', 'Pole Position', 'Fastest Lap']
+204_569.csv :  ['Round', 'Round.1', 'Circuit', 'Date', 'Pole Position', 'Fastest Lap', 'Winning Driver']
+Coverage Score :  1.0 	 Completeness Score :  0.8796992481203008 	 Number of Rows :  38
+
+9.csv : 204_253.csv(1990 Superbike World Championship season)		204_63.csv(2002 Italian Formula Three season)		
+Missing Values(NANs):  {'Round': '0/35', 'Round.1': '9/35', 'Circuit': '0/35', 'Date': '0/35', 'Pole Position': '0/35', 'Fastest Lap': '9/35', 'Winning Rider': '9/35', 'Winning driver': '26/35', 'Winning team': '26/35', 'Trophy winner': '26/35'}
+Columns that match with input_schema: 
+204_253.csv :  ['Round', 'Round.1', 'Circuit', 'Date', 'Pole Position', 'Fastest Lap']
+204_63.csv :  ['Round', 'Circuit', 'Date', 'Pole Position']
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.7836734693877551 	 Number of Rows :  35
+
+10.csv : 204_40.csv(2008 Superbike World Championship season)		204_569.csv(1998 Swedish Touring Car Championship season)		
+Missing Values(NANs):  {'Round': '0/40', 'Round.1': '0/40', 'Country': '12/40', 'Circuit': '0/40', 'Date': '0/40', 'Pole Position': '6/40', 'Fastest Lap': '0/40', 'Winning Rider': '12/40', 'Winning Team': '0/40', 'Report': '12/40', 'Winning Driver': '28/40', 'Winning Privateer': '28/40'}
+Columns that match with input_schema: 
+204_40.csv :  ['Round', 'Round.1', 'Circuit', 'Date', 'Pole Position', 'Fastest Lap']
+204_569.csv :  ['Round', 'Round.1', 'Circuit', 'Date', 'Pole Position', 'Fastest Lap', 'Winning Driver']
+Coverage Score :  1.0 	 Completeness Score :  0.8785714285714284 	 Number of Rows :  40
+
+11.csv : 204_569.csv(1998 Swedish Touring Car Championship season)		204_63.csv(2002 Italian Formula Three season)		
+Missing Values(NANs):  {'Round': '0/21', 'Round.1': '9/21', 'Circuit': '0/21', 'Date': '0/21', 'Pole Position': '6/21', 'Fastest Lap': '9/21', 'Winning Driver': '9/21', 'Winning Team': '9/21', 'Winning Privateer': '9/21', 'Winning driver': '12/21', 'Winning team': '12/21', 'Trophy winner': '12/21'}
+Columns that match with input_schema: 
+204_569.csv :  ['Round', 'Round.1', 'Circuit', 'Date', 'Pole Position', 'Fastest Lap', 'Winning Driver']
+204_63.csv :  ['Round', 'Circuit', 'Date', 'Pole Position']
+Coverage Score :  1.0 	 Completeness Score :  0.7755102040816325 	 Number of Rows :  21
+
+203_408.csv(1989 Formula One season)
+Missing Values(NANs score):  {'Rd.': '0/16', 'Grand Prix': '0/16', 'Date': '0/16', 'Location': '0/16', 'Pole Position': '0/16', 'Fastest Lap': '0/16', 'Winning Driver': '0/16', 'Constructor': '0/16', 'Report': '0/16'}
+Columns that match with input_schema:
+ 203_408.csv :  ['Date', 'Pole Position', 'Fastest Lap', 'Winning Driver']
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714 	 Number of Rows :  16
+
+203_514.csv(2008 Superleague Formula season)
+Missing Values(NANs score):  {'Round': '0/12', 'Round.1': '0/12', 'Race': '0/12', 'Date': '0/12', 'Pole Position': '6/12', 'Fastest Lap': '0/12', 'Winning Club': '0/12', 'Winning Team': '0/12', 'Report': '0/12'}
+Columns that match with input_schema:
+ 203_514.csv :  ['Round', 'Round.1', 'Date', 'Pole Position', 'Fastest Lap']
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.6428571428571429 	 Number of Rows :  12
+
+204_253.csv(1990 Superbike World Championship season)
+Missing Values(NANs score):  {'Round': '0/26', 'Round.1': '0/26', 'Circuit': '0/26', 'Date': '0/26', 'Pole Position': '0/26', 'Fastest Lap': '0/26', 'Winning Rider': '0/26'}
+Columns that match with input_schema:
+ 204_253.csv :  ['Round', 'Round.1', 'Circuit', 'Date', 'Pole Position', 'Fastest Lap']
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571 	 Number of Rows :  26
+
+204_40.csv(2008 Superbike World Championship season)
+Missing Values(NANs score):  {'Round': '0/28', 'Round.1': '0/28', 'Country': '0/28', 'Circuit': '0/28', 'Date': '0/28', 'Pole Position': '0/28', 'Fastest Lap': '0/28', 'Winning Rider': '0/28', 'Winning Team': '0/28', 'Report': '0/28'}
+Columns that match with input_schema:
+ 204_40.csv :  ['Round', 'Round.1', 'Circuit', 'Date', 'Pole Position', 'Fastest Lap']
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571 	 Number of Rows :  28
+
+204_455.csv(1989 Formula One season)
+Missing Values(NANs score):  {'Rd.': '0/16', 'Grand Prix': '0/16', 'Date': '0/16', 'Location': '0/16', 'Pole Position': '0/16', 'Fastest Lap': '0/16', 'Winning Driver': '0/16', 'Constructor': '0/16', 'Report': '0/16'}
+Columns that match with input_schema:
+ 204_455.csv :  ['Date', 'Pole Position', 'Fastest Lap', 'Winning Driver']
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714 	 Number of Rows :  16
+
+204_569.csv(1998 Swedish Touring Car Championship season)
+Missing Values(NANs score):  {'Round': '0/12', 'Round.1': '0/12', 'Circuit': '0/12', 'Date': '0/12', 'Pole Position': '6/12', 'Fastest Lap': '0/12', 'Winning Driver': '0/12', 'Winning Team': '0/12', 'Winning Privateer': '0/12'}
+Columns that match with input_schema:
+ 204_569.csv :  ['Round', 'Round.1', 'Circuit', 'Date', 'Pole Position', 'Fastest Lap', 'Winning Driver']
+Coverage Score :  1.0 	 Completeness Score :  0.9285714285714286 	 Number of Rows :  12
+
+204_63.csv(2002 Italian Formula Three season)
+Missing Values(NANs score):  {'Round': '0/9', 'Circuit': '0/9', 'Date': '0/9', 'Pole Position': '0/9', 'Winning driver': '0/9', 'Winning team': '0/9', 'Trophy winner': '0/9'}
+Columns that match with input_schema:
+ 204_63.csv :  ['Round', 'Circuit', 'Date', 'Pole Position']
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714 	 Number of Rows :  9
+
+******************************
+-------------------------------
+-------------------------------
+INPUT 2
+Input Schema : 
+{"schema": {"Round": "int64", "Round.1": "object", "Circuit": "object", "Date": "object", "Pole Position": "object", "Fastest Lap": "object", "Winning Driver": "object"},"categories": ["motorsport", "car", "seasons"]}
+
+******************************
+
+All Possible Matches
+
+Matching Tables :  ['203_514.csv', '204_253.csv', '204_569.csv', '204_63.csv']
+
+No Transformations In Input Schema
+
+12.csv : 204_253.csv(1990 Superbike World Championship season)		204_569.csv(1998 Swedish Touring Car Championship season)		204_63.csv(2002 Italian Formula Three season)		
+Missing Values(NANs):  {'Round': '0/47', 'Round.1': '9/47', 'Circuit': '0/47', 'Date': '0/47', 'Pole Position': '6/47', 'Fastest Lap': '9/47', 'Winning Rider': '21/47', 'Winning Driver': '35/47', 'Winning Team': '35/47', 'Winning Privateer': '35/47', 'Winning driver': '38/47', 'Winning team': '38/47', 'Trophy winner': '38/47'}
+Columns that match with input_schema: 
+204_253.csv :  ['Round', 'Round.1', 'Circuit', 'Date', 'Pole Position', 'Fastest Lap']
+204_569.csv :  ['Round', 'Round.1', 'Circuit', 'Date', 'Pole Position', 'Fastest Lap', 'Winning Driver']
+204_63.csv :  ['Round', 'Circuit', 'Date', 'Pole Position']
+Coverage Score :  1.0 	 Completeness Score :  0.8206686930091186 	 Number of Rows :  47
+
+13.csv : 203_514.csv(2008 Superleague Formula season)		204_569.csv(1998 Swedish Touring Car Championship season)		
+Missing Values(NANs):  {'Round': '0/24', 'Round.1': '0/24', 'Race': '12/24', 'Date': '0/24', 'Pole Position': '12/24', 'Fastest Lap': '0/24', 'Winning Club': '12/24', 'Winning Team': '0/24', 'Report': '12/24', 'Circuit': '12/24', 'Winning Driver': '12/24', 'Winning Privateer': '12/24'}
+Columns that match with input_schema: 
+203_514.csv :  ['Round', 'Round.1', 'Date', 'Pole Position', 'Fastest Lap']
+204_569.csv :  ['Round', 'Round.1', 'Circuit', 'Date', 'Pole Position', 'Fastest Lap', 'Winning Driver']
+Coverage Score :  1.0 	 Completeness Score :  0.7857142857142857 	 Number of Rows :  24
+
+14.csv : 204_253.csv(1990 Superbike World Championship season)		204_569.csv(1998 Swedish Touring Car Championship season)		
+Missing Values(NANs):  {'Round': '0/38', 'Round.1': '0/38', 'Circuit': '0/38', 'Date': '0/38', 'Pole Position': '6/38', 'Fastest Lap': '0/38', 'Winning Rider': '12/38', 'Winning Driver': '26/38', 'Winning Team': '26/38', 'Winning Privateer': '26/38'}
+Columns that match with input_schema: 
+204_253.csv :  ['Round', 'Round.1', 'Circuit', 'Date', 'Pole Position', 'Fastest Lap']
+204_569.csv :  ['Round', 'Round.1', 'Circuit', 'Date', 'Pole Position', 'Fastest Lap', 'Winning Driver']
+Coverage Score :  1.0 	 Completeness Score :  0.8796992481203008 	 Number of Rows :  38
+
+15.csv : 204_253.csv(1990 Superbike World Championship season)		204_63.csv(2002 Italian Formula Three season)		
+Missing Values(NANs):  {'Round': '0/35', 'Round.1': '9/35', 'Circuit': '0/35', 'Date': '0/35', 'Pole Position': '0/35', 'Fastest Lap': '9/35', 'Winning Rider': '9/35', 'Winning driver': '26/35', 'Winning team': '26/35', 'Trophy winner': '26/35'}
+Columns that match with input_schema: 
+204_253.csv :  ['Round', 'Round.1', 'Circuit', 'Date', 'Pole Position', 'Fastest Lap']
+204_63.csv :  ['Round', 'Circuit', 'Date', 'Pole Position']
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.7836734693877551 	 Number of Rows :  35
+
+16.csv : 204_569.csv(1998 Swedish Touring Car Championship season)		204_63.csv(2002 Italian Formula Three season)		
+Missing Values(NANs):  {'Round': '0/21', 'Round.1': '9/21', 'Circuit': '0/21', 'Date': '0/21', 'Pole Position': '6/21', 'Fastest Lap': '9/21', 'Winning Driver': '9/21', 'Winning Team': '9/21', 'Winning Privateer': '9/21', 'Winning driver': '12/21', 'Winning team': '12/21', 'Trophy winner': '12/21'}
+Columns that match with input_schema: 
+204_569.csv :  ['Round', 'Round.1', 'Circuit', 'Date', 'Pole Position', 'Fastest Lap', 'Winning Driver']
+204_63.csv :  ['Round', 'Circuit', 'Date', 'Pole Position']
+Coverage Score :  1.0 	 Completeness Score :  0.7755102040816325 	 Number of Rows :  21
+
+203_514.csv(2008 Superleague Formula season)
+Missing Values(NANs score):  {'Round': '0/12', 'Round.1': '0/12', 'Race': '0/12', 'Date': '0/12', 'Pole Position': '6/12', 'Fastest Lap': '0/12', 'Winning Club': '0/12', 'Winning Team': '0/12', 'Report': '0/12'}
+Columns that match with input_schema:
+ 203_514.csv :  ['Round', 'Round.1', 'Date', 'Pole Position', 'Fastest Lap']
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.6428571428571429 	 Number of Rows :  12
+
+204_253.csv(1990 Superbike World Championship season)
+Missing Values(NANs score):  {'Round': '0/26', 'Round.1': '0/26', 'Circuit': '0/26', 'Date': '0/26', 'Pole Position': '0/26', 'Fastest Lap': '0/26', 'Winning Rider': '0/26'}
+Columns that match with input_schema:
+ 204_253.csv :  ['Round', 'Round.1', 'Circuit', 'Date', 'Pole Position', 'Fastest Lap']
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571 	 Number of Rows :  26
+
+204_569.csv(1998 Swedish Touring Car Championship season)
+Missing Values(NANs score):  {'Round': '0/12', 'Round.1': '0/12', 'Circuit': '0/12', 'Date': '0/12', 'Pole Position': '6/12', 'Fastest Lap': '0/12', 'Winning Driver': '0/12', 'Winning Team': '0/12', 'Winning Privateer': '0/12'}
+Columns that match with input_schema:
+ 204_569.csv :  ['Round', 'Round.1', 'Circuit', 'Date', 'Pole Position', 'Fastest Lap', 'Winning Driver']
+Coverage Score :  1.0 	 Completeness Score :  0.9285714285714286 	 Number of Rows :  12
+
+204_63.csv(2002 Italian Formula Three season)
+Missing Values(NANs score):  {'Round': '0/9', 'Circuit': '0/9', 'Date': '0/9', 'Pole Position': '0/9', 'Winning driver': '0/9', 'Winning team': '0/9', 'Trophy winner': '0/9'}
+Columns that match with input_schema:
+ 204_63.csv :  ['Round', 'Circuit', 'Date', 'Pole Position']
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714 	 Number of Rows :  9
+
+******************************
+-------------------------------
+-------------------------------
+INPUT 3
+Input Schema : 
+{"schema": {"Date": "object", "Nationality": "object", "Tonnage (GRT)": "int64", "Fate": "object"},"transformations":{"Tonnage (GRT)":["sum","funct1"],"Nationality":["funct1"]}}
 
 ******************************
 
 All Possible Matches
 
 Matching Tables :  ['202_117.csv', '203_148.csv', '203_268.csv', '204_100.csv']
-Transformations detected from input are :  {'Tonnage (GRT)': ['sum', 'avg'], 'Nationality': ['funct1']}
 
-1.csv : 202_117.csv		203_148.csv		203_268.csv		
-possible transformations are :  {'Tonnage (GRT)': ['sum', 'avg'], 'Nationality': ['funct1']}
+Transformations detected from input are :  {'Tonnage (GRT)': ['sum', 'funct1'], 'Nationality': ['funct1']}
+
+17.csv : 202_117.csv(German submarine U-559)		203_148.csv(German submarine U-9 (1935))		203_268.csv(German submarine U-502)		
+possible transformations are :  {'Tonnage (GRT)': ['sum'], 'Nationality': ['funct1']}
 Missing Values(NANs):  {'Date': '0/31', 'Ship': '25/31', 'Nationality': '0/31', 'Tonnage': '25/31', 'Fate': '0/31', 'Name': '6/31', 'Tonnage (GRT)': '6/31'}
 Columns that match with input_schema: 
 202_117.csv :  ['Date', 'Nationality', 'Fate']
 203_148.csv :  ['Date', 'Nationality', 'Tonnage (GRT)', 'Fate']
 203_268.csv :  ['Date', 'Nationality', 'Tonnage (GRT)', 'Fate']
-Coverage Score :  1.0 	 Completeness Score :  0.9516129032258065
+Coverage Score :  1.0 	 Completeness Score :  0.9516129032258065 	 Number of Rows :  31
 
-2.csv : 202_117.csv		203_148.csv		
-possible transformations are :  {'Tonnage (GRT)': ['sum', 'avg'], 'Nationality': ['funct1']}
+18.csv : 202_117.csv(German submarine U-559)		203_148.csv(German submarine U-9 (1935))		
+possible transformations are :  {'Tonnage (GRT)': ['sum'], 'Nationality': ['funct1']}
 Missing Values(NANs):  {'Date': '0/15', 'Ship': '9/15', 'Nationality': '0/15', 'Tonnage': '9/15', 'Fate': '0/15', 'Name': '6/15', 'Tonnage (GRT)': '6/15'}
 Columns that match with input_schema: 
 202_117.csv :  ['Date', 'Nationality', 'Fate']
 203_148.csv :  ['Date', 'Nationality', 'Tonnage (GRT)', 'Fate']
-Coverage Score :  1.0 	 Completeness Score :  0.9
+Coverage Score :  1.0 	 Completeness Score :  0.9 	 Number of Rows :  15
 
-3.csv : 202_117.csv		203_268.csv		
-possible transformations are :  {'Tonnage (GRT)': ['sum', 'avg'], 'Nationality': ['funct1']}
+19.csv : 202_117.csv(German submarine U-559)		203_268.csv(German submarine U-502)		
+possible transformations are :  {'Tonnage (GRT)': ['sum'], 'Nationality': ['funct1']}
 Missing Values(NANs):  {'Date': '0/22', 'Ship': '16/22', 'Nationality': '0/22', 'Tonnage': '16/22', 'Fate': '0/22', 'Name': '6/22', 'Tonnage (GRT)': '6/22'}
 Columns that match with input_schema: 
 202_117.csv :  ['Date', 'Nationality', 'Fate']
 203_268.csv :  ['Date', 'Nationality', 'Tonnage (GRT)', 'Fate']
-Coverage Score :  1.0 	 Completeness Score :  0.9318181818181819
+Coverage Score :  1.0 	 Completeness Score :  0.9318181818181819 	 Number of Rows :  22
 
-4.csv : 203_148.csv		203_268.csv		
-possible transformations are :  {'Tonnage (GRT)': ['sum', 'avg'], 'Nationality': ['funct1']}
+20.csv : 203_148.csv(German submarine U-9 (1935))		203_268.csv(German submarine U-502)		
+possible transformations are :  {'Tonnage (GRT)': ['sum'], 'Nationality': ['funct1']}
 Missing Values(NANs):  {'Date': '0/25', 'Name': '0/25', 'Nationality': '0/25', 'Tonnage (GRT)': '0/25', 'Fate': '0/25'}
 Columns that match with input_schema: 
 203_148.csv :  ['Date', 'Nationality', 'Tonnage (GRT)', 'Fate']
 203_268.csv :  ['Date', 'Nationality', 'Tonnage (GRT)', 'Fate']
-Coverage Score :  1.0 	 Completeness Score :  1.0
+Coverage Score :  1.0 	 Completeness Score :  1.0 	 Number of Rows :  25
 
-202_117.csv
+202_117.csv(German submarine U-559)
 possible transformations are :  {'Nationality': ['funct1']}
 Missing Values(NANs score):  {'Date': '0/6', 'Ship': '0/6', 'Nationality': '0/6', 'Tonnage': '0/6', 'Fate': '0/6'}
 Columns that match with input_schema:
  202_117.csv :  ['Date', 'Nationality', 'Fate']
-Coverage Score :  0.75 	 Completeness Score :  0.75
+Coverage Score :  0.75 	 Completeness Score :  0.75 	 Number of Rows :  6
 
-203_148.csv
-possible transformations are :  {'Tonnage (GRT)': ['sum', 'avg'], 'Nationality': ['funct1']}
+203_148.csv(German submarine U-9 (1935))
+possible transformations are :  {'Tonnage (GRT)': ['sum'], 'Nationality': ['funct1']}
 Missing Values(NANs score):  {'Date': '0/9', 'Name': '0/9', 'Nationality': '0/9', 'Tonnage (GRT)': '0/9', 'Fate': '0/9'}
 Columns that match with input_schema:
  203_148.csv :  ['Date', 'Nationality', 'Tonnage (GRT)', 'Fate']
-Coverage Score :  1.0 	 Completeness Score :  1.0
+Coverage Score :  1.0 	 Completeness Score :  1.0 	 Number of Rows :  9
 
-203_268.csv
-possible transformations are :  {'Tonnage (GRT)': ['sum', 'avg'], 'Nationality': ['funct1']}
+203_268.csv(German submarine U-502)
+possible transformations are :  {'Tonnage (GRT)': ['sum'], 'Nationality': ['funct1']}
 Missing Values(NANs score):  {'Date': '0/16', 'Name': '0/16', 'Nationality': '0/16', 'Tonnage (GRT)': '0/16', 'Fate': '0/16'}
 Columns that match with input_schema:
  203_268.csv :  ['Date', 'Nationality', 'Tonnage (GRT)', 'Fate']
-Coverage Score :  1.0 	 Completeness Score :  1.0
+Coverage Score :  1.0 	 Completeness Score :  1.0 	 Number of Rows :  16
 
-204_100.csv
+204_100.csv(Hans-Rudolf Rosing)
 possible transformations are :  {'Nationality': ['funct1']}
 Missing Values(NANs score):  {'Date': '0/13', 'Name of ship': '0/13', 'Nationality': '0/13', 'Tonnage': '0/13', 'Fate': '0/13'}
 Columns that match with input_schema:
  204_100.csv :  ['Date', 'Nationality', 'Fate']
-Coverage Score :  0.75 	 Completeness Score :  0.75
+Coverage Score :  0.75 	 Completeness Score :  0.75 	 Number of Rows :  13
 
 ******************************
 -------------------------------
 -------------------------------
+INPUT 4
 Input Schema : 
 {"schema": {"Date": "object", "Nationality": "object", "Tonnage (GRT)": "int64", "Fate": "object"},"transformations":{"Tonnage (GRT)":["sum"],"Nationality":["funct1"]},"categories":["submarines", "war", "ships", "sea", "aircraft", "germany", "shipwrecks", "maritime", "world", "german", "sunk", "navy", "uboats"]}
 ******************************
@@ -80,61 +295,62 @@ Input Schema :
 All Possible Matches
 
 Matching Tables :  ['202_117.csv', '203_148.csv', '203_268.csv']
+
 Transformations detected from input are :  {'Tonnage (GRT)': ['sum'], 'Nationality': ['funct1']}
 
-1.csv : 202_117.csv		203_148.csv		203_268.csv		
+21.csv : 202_117.csv(German submarine U-559)		203_148.csv(German submarine U-9 (1935))		203_268.csv(German submarine U-502)		
 possible transformations are :  {'Tonnage (GRT)': ['sum'], 'Nationality': ['funct1']}
 Missing Values(NANs):  {'Date': '0/31', 'Ship': '25/31', 'Nationality': '0/31', 'Tonnage': '25/31', 'Fate': '0/31', 'Name': '6/31', 'Tonnage (GRT)': '6/31'}
 Columns that match with input_schema: 
 202_117.csv :  ['Date', 'Nationality', 'Fate']
 203_148.csv :  ['Date', 'Nationality', 'Tonnage (GRT)', 'Fate']
 203_268.csv :  ['Date', 'Nationality', 'Tonnage (GRT)', 'Fate']
-Coverage Score :  1.0 	 Completeness Score :  0.9516129032258065
+Coverage Score :  1.0 	 Completeness Score :  0.9516129032258065 	 Number of Rows :  31
 
-2.csv : 202_117.csv		203_148.csv		
+22.csv : 202_117.csv(German submarine U-559)		203_148.csv(German submarine U-9 (1935))		
 possible transformations are :  {'Tonnage (GRT)': ['sum'], 'Nationality': ['funct1']}
 Missing Values(NANs):  {'Date': '0/15', 'Ship': '9/15', 'Nationality': '0/15', 'Tonnage': '9/15', 'Fate': '0/15', 'Name': '6/15', 'Tonnage (GRT)': '6/15'}
 Columns that match with input_schema: 
 202_117.csv :  ['Date', 'Nationality', 'Fate']
 203_148.csv :  ['Date', 'Nationality', 'Tonnage (GRT)', 'Fate']
-Coverage Score :  1.0 	 Completeness Score :  0.9
+Coverage Score :  1.0 	 Completeness Score :  0.9 	 Number of Rows :  15
 
-3.csv : 202_117.csv		203_268.csv		
+23.csv : 202_117.csv(German submarine U-559)		203_268.csv(German submarine U-502)		
 possible transformations are :  {'Tonnage (GRT)': ['sum'], 'Nationality': ['funct1']}
 Missing Values(NANs):  {'Date': '0/22', 'Ship': '16/22', 'Nationality': '0/22', 'Tonnage': '16/22', 'Fate': '0/22', 'Name': '6/22', 'Tonnage (GRT)': '6/22'}
 Columns that match with input_schema: 
 202_117.csv :  ['Date', 'Nationality', 'Fate']
 203_268.csv :  ['Date', 'Nationality', 'Tonnage (GRT)', 'Fate']
-Coverage Score :  1.0 	 Completeness Score :  0.9318181818181819
+Coverage Score :  1.0 	 Completeness Score :  0.9318181818181819 	 Number of Rows :  22
 
-4.csv : 203_148.csv		203_268.csv		
+24.csv : 203_148.csv(German submarine U-9 (1935))		203_268.csv(German submarine U-502)		
 possible transformations are :  {'Tonnage (GRT)': ['sum'], 'Nationality': ['funct1']}
 Missing Values(NANs):  {'Date': '0/25', 'Name': '0/25', 'Nationality': '0/25', 'Tonnage (GRT)': '0/25', 'Fate': '0/25'}
 Columns that match with input_schema: 
 203_148.csv :  ['Date', 'Nationality', 'Tonnage (GRT)', 'Fate']
 203_268.csv :  ['Date', 'Nationality', 'Tonnage (GRT)', 'Fate']
-Coverage Score :  1.0 	 Completeness Score :  1.0
+Coverage Score :  1.0 	 Completeness Score :  1.0 	 Number of Rows :  25
 
-202_117.csv
+202_117.csv(German submarine U-559)
 possible transformations are :  {'Nationality': ['funct1']}
 Missing Values(NANs score):  {'Date': '0/6', 'Ship': '0/6', 'Nationality': '0/6', 'Tonnage': '0/6', 'Fate': '0/6'}
 Columns that match with input_schema:
  202_117.csv :  ['Date', 'Nationality', 'Fate']
-Coverage Score :  0.75 	 Completeness Score :  0.75
+Coverage Score :  0.75 	 Completeness Score :  0.75 	 Number of Rows :  6
 
-203_148.csv
+203_148.csv(German submarine U-9 (1935))
 possible transformations are :  {'Tonnage (GRT)': ['sum'], 'Nationality': ['funct1']}
 Missing Values(NANs score):  {'Date': '0/9', 'Name': '0/9', 'Nationality': '0/9', 'Tonnage (GRT)': '0/9', 'Fate': '0/9'}
 Columns that match with input_schema:
  203_148.csv :  ['Date', 'Nationality', 'Tonnage (GRT)', 'Fate']
-Coverage Score :  1.0 	 Completeness Score :  1.0
+Coverage Score :  1.0 	 Completeness Score :  1.0 	 Number of Rows :  9
 
-203_268.csv
+203_268.csv(German submarine U-502)
 possible transformations are :  {'Tonnage (GRT)': ['sum'], 'Nationality': ['funct1']}
 Missing Values(NANs score):  {'Date': '0/16', 'Name': '0/16', 'Nationality': '0/16', 'Tonnage (GRT)': '0/16', 'Fate': '0/16'}
 Columns that match with input_schema:
  203_268.csv :  ['Date', 'Nationality', 'Tonnage (GRT)', 'Fate']
-Coverage Score :  1.0 	 Completeness Score :  1.0
+Coverage Score :  1.0 	 Completeness Score :  1.0 	 Number of Rows :  16
 
 ******************************
 -------------------------------

@@ -1,0 +1,41 @@
+Round,Round.1,Country,Circuit,Date,Pole Position,Fastest Lap,Winning Rider,Winning Team,Report,Winning Driver,Winning Privateer
+1,R1,Qatar,Losail,23 February,Troy Corser,Noriyuki Haga,Troy Bayliss,Xerox Ducati,Report,,
+1,R2,Qatar,Losail,23 February,Troy Corser,Fonsi Nieto,Fonsi Nieto,Alstare Suzuki,Report,,
+2,R1,Australia,Phillip Island,2 March,Troy Bayliss,Troy Bayliss,Troy Bayliss,Xerox Ducati,Report,,
+2,R2,Australia,Phillip Island,2 March,Troy Bayliss,Max Biaggi,Troy Bayliss,Xerox Ducati,Report,,
+3,R1,Spain,Valencia,6 April,Max Neukirchner,Noriyuki Haga,Lorenzo Lanzi,Team R.G,Report,,
+3,R2,Spain,Valencia,6 April,Max Neukirchner,Carlos Checa,Noriyuki Haga,Yamaha Motor Italia,Report,,
+4,R1,Netherlands,Assen,27 April,Troy Bayliss,Max Neukirchner,Troy Bayliss,Xerox Ducati,Report,,
+4,R2,Netherlands,Assen,27 April,Troy Bayliss,Troy Bayliss,Troy Bayliss,Xerox Ducati,Report,,
+5,R1,Italy,Monza,11 May,Troy Bayliss,Noriyuki Haga,Max Neukirchner,Alstare Suzuki,Report,,
+5,R2,Italy,Monza,11 May,Troy Bayliss,Noriyuki Haga,Noriyuki Haga,Yamaha Motor Italia,Report,,
+6,R1,United States,Miller Motorsports Park,1 June,Carlos Checa,Carlos Checa,Carlos Checa,Ten Kate Honda,Report,,
+6,R2,United States,Miller Motorsports Park,1 June,Carlos Checa,Carlos Checa,Carlos Checa,Ten Kate Honda,Report,,
+7,R1,Germany,Nurburgring,15 June,Max Neukirchner,Troy Bayliss,Noriyuki Haga,Yamaha Motor Italia,Report,,
+7,R2,Germany,Nurburgring,15 June,Max Neukirchner,Noriyuki Haga,Noriyuki Haga,Yamaha Motor Italia,Report,,
+8,R1,San Marino,Misano Adriatico,29 June,Troy Corser,Jakub Smrž,Max Neukirchner,Alstare Suzuki,Report,,
+8,R2,San Marino,Misano Adriatico,29 June,Troy Corser,Troy Corser,Ruben Xaus,Sterilgarda Go Eleven,Report,,
+9,R1,Czech Republic,Brno,20 July,Troy Bayliss,Troy Bayliss,Troy Bayliss,Xerox Ducati,Report,,
+9,R2,Czech Republic,Brno,20 July,Troy Bayliss,Michel Fabrizio,Troy Bayliss,Xerox Ducati,Report,,
+10,R1,Great Britain,Brands Hatch,3 August,Troy Bayliss,Ryuichi Kiyonari,Ryuichi Kiyonari,Ten Kate Honda,Report,,
+10,R2,Great Britain,Brands Hatch,3 August,Troy Bayliss,Michel Fabrizio,Ryuichi Kiyonari,Ten Kate Honda,Report,,
+11,R1,Europe,Donington Park,7 September,Troy Bayliss,Troy Bayliss,Troy Bayliss,Xerox Ducati,Report,,
+11,R2,Europe,Donington Park,7 September,Troy Bayliss,James Ellison,Ryuichi Kiyonari,Ten Kate Honda,Report,,
+12,R1,Italy,Vallelunga,21 September,Troy Bayliss,Carlos Checa,Noriyuki Haga,Yamaha Motor Italia,Report,,
+12,R2,Italy,Vallelunga,21 September,Troy Bayliss,Troy Corser,Noriyuki Haga,Yamaha Motor Italia,Report,,
+13,R1,France,Magny-Cours,5 October,Noriyuki Haga,Carlos Checa,Noriyuki Haga,Yamaha Motor Italia,Report,,
+13,R2,France,Magny-Cours,5 October,Noriyuki Haga,Troy Bayliss,Troy Bayliss,Xerox Ducati,Report,,
+14,R1,Portugal,Portimão,2 November,Troy Bayliss,Troy Bayliss,Troy Bayliss,Xerox Ducati,Report,,
+14,R2,Portugal,Portimão,2 November,Troy Bayliss,Troy Bayliss,Troy Bayliss,Xerox Ducati,Report,,
+1,R1,,Mantorp Park,10 May,Mattias Ekström,Fredrik Ekblom,,Kristoffersson Motorsport,,Mats Linden,Richard Göransson
+1,R2,,Mantorp Park,10 May,,Peggen Andersson,,BMW Dealer Team,,Fredrik Ekblom,Pontus Mörth
+2,R3,,Karlskoga-Gelleråsen,31 May,Jan Nilsson,Jan Nilsson,,Flash Engineering,,Jan Nilsson,Pontus Mörth
+2,R4,,Karlskoga-Gelleråsen,31 May,,Fredrik Ekblom,,BMW Dealer Team,,Peggen Andersson,Pontus Mörth
+3,R5,,Anderstorp,28 June,Mattias Ekström,Fredrik Ekblom,,Flash Engineering,,Jan Nilsson,Pontus Mörth
+3,R6,,Anderstorp,28 June,,Peggen Andersson,,BMW Dealer Team,,Peggen Andersson,Georg Bakajev
+4,R7,,Falkenberg,9 July,Jens Edman,Jens Edman,,Flash Engineering,,Jan Nilsson,Pontus Mörth
+4,R8,,Falkenberg,9 July,,Mattias Ekström,,Flash Engineering,,Jens Edman,Pontus Mörth
+5,R9,,Ring Knutstorp,6 September,Fredrik Ekblom,Fredrik Ekblom,,BMW Dealer Team,,Fredrik Ekblom,Pontus Mörth
+5,R10,,Ring Knutstorp,6 September,,Mats Linden,,Flash Engineering,,Jan Nilsson,Georg Bakajev
+6,R11,,Mantorp Park,27 September,Tommy Kristoffersson,Fredrik Ekblom,,BMW Dealer Team,,Fredrik Ekblom,Pontus Mörth
+6,R12,,Mantorp Park,27 September,,Peggen Andersson,,Flash Engineering,,Jan Nilsson,Pontus Mörth

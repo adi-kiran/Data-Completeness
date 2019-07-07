@@ -1,26 +1,17 @@
-Date,Name,Nationality,Tonnage (GRT),Fate
-18 January 1940,Flandria,Sweden,1179,Sunk
-19 January 1940,Patria,Sweden,1188,Sunk
-11 February 1940,Linda,Estonia,1213,Sunk
-4 May 1940,San Tiburcio,United Kingdom,5995,Sunk (mine)
-9 May 1940,Doris,French Navy,552,Sunk
-11 May 1940,Tringa,United Kingdom,1930,Sunk
-11 May 1940,Viiu,Estonia,1908,Sunk
-23 May 1940,Sigurd Faulbaum,Belgium,3256,Sunk
-11 May 1944,Shtorm,Soviet Union,412,Damaged
-7 October 1941,Svend Foyn,United Kingdom,14795,Damaged
-16 February 1942,Monagas,Venezuela,2650,Sunk
-16 February 1942,San Nicholas,United Kingdom,2391,Sunk
-16 February 1942,Tia Juana,United Kingdom,2395,Sunk
-22 February 1942,J.N.Pew,United States,9033,Sunk
-23 February 1942,Sun,United States,9002,Damaged
-23 February 1942,Thalia,Panama,8329,Sunk
-11 May 1942,Cape of Good Hope,United Kingdom,4963,Sunk
-24 May 1942,Gonçalves Dias,Brazil,4996,Sunk
-28 May 1942,Alcoa Pilgrim,United States,6759,Sunk
-3 June 1942,M.F. Ellliot,United States,6940,Sunk
-9 June 1942,Bruxelles,Belgium,5085,Sunk
-9 June 1942,Franklin K. Lane,United States,6589,Sunk
-15 June 1942,Cold Harbor,Panama,5010,Sunk
-15 June 1942,Scottsburg,United States,8010,Sunk
-15 June 1942,West Hardaway,United States,5702,Sunk
+Rd.,Grand Prix,Date,Location,Pole Position,Fastest Lap,Winning Driver,Constructor,Report
+1,Brazilian Grand Prix,26 March,Jacarepaguá,Ayrton Senna,Riccardo Patrese,Nigel Mansell,Ferrari,Report
+2,San Marino Grand Prix,23 April,Imola,Ayrton Senna,Alain Prost,Ayrton Senna,McLaren-Honda,Report
+3,Monaco Grand Prix,7 May,Monaco,Ayrton Senna,Alain Prost,Ayrton Senna,McLaren-Honda,Report
+4,Mexican Grand Prix,28 May,Hermanos Rodriguez,Ayrton Senna,Nigel Mansell,Ayrton Senna,McLaren-Honda,Report
+5,United States Grand Prix,4 June,Phoenix,Ayrton Senna,Ayrton Senna,Alain Prost,McLaren-Honda,Report
+6,Canadian Grand Prix,18 June,Circuit Gilles Villeneuve,Alain Prost,Jonathan Palmer,Thierry Boutsen,Williams-Renault,Report
+7,French Grand Prix,9 July,Paul Ricard,Alain Prost,Mauricio Gugelmin,Alain Prost,McLaren-Honda,Report
+8,British Grand Prix,16 July,Silverstone,Ayrton Senna,Nigel Mansell,Alain Prost,McLaren-Honda,Report
+9,German Grand Prix,30 July,Hockenheimring,Ayrton Senna,Ayrton Senna,Ayrton Senna,McLaren-Honda,Report
+10,Hungarian Grand Prix,13 August,Hungaroring,Riccardo Patrese,Nigel Mansell,Nigel Mansell,Ferrari,Report
+11,Belgian Grand Prix,27 August,Spa-Francorchamps,Ayrton Senna,Alain Prost,Ayrton Senna,McLaren-Honda,Report
+12,Italian Grand Prix,10 September,Monza,Ayrton Senna,Alain Prost,Alain Prost,McLaren-Honda,Report
+13,Portuguese Grand Prix,24 September,Estoril,Ayrton Senna,Gerhard Berger,Gerhard Berger,Ferrari,Report
+14,Spanish Grand Prix,1 October,Jerez,Ayrton Senna,Ayrton Senna,Ayrton Senna,McLaren-Honda,Report
+15,Japanese Grand Prix,22 October,Suzuka,Ayrton Senna,Alain Prost,Alessandro Nannini,Benetton-Ford,Report
+16,Australian Grand Prix,5 November,Adelaide,Ayrton Senna,Satoru Nakajima,Thierry Boutsen,Williams-Renault,Report

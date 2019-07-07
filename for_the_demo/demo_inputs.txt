@@ -1,0 +1,4 @@
+{"schema": {"Round": "int64", "Round.1": "object", "Circuit": "object", "Date": "object", "Pole Position": "object", "Fastest Lap": "object", "Winning Driver": "object"}}
+{"schema": {"Round": "int64", "Round.1": "object", "Circuit": "object", "Date": "object", "Pole Position": "object", "Fastest Lap": "object", "Winning Driver": "object"},"categories": ["motorsport", "car", "seasons"]}
+{"schema": {"Date": "object", "Nationality": "object", "Tonnage (GRT)": "int64", "Fate": "object"},"transformations":{"Tonnage (GRT)":["sum","funct1"],"Nationality":["funct1"]}}
+{"schema": {"Date": "object", "Nationality": "object", "Tonnage (GRT)": "int64", "Fate": "object"},"transformations":{"Tonnage (GRT)":["sum"],"Nationality":["funct1"]},"categories":["submarines", "war", "ships", "sea", "aircraft", "germany", "shipwrecks", "maritime", "world", "german", "sunk", "navy", "uboats"]}

@@ -1,32 +1,53 @@
-Date,Ship,Nationality,Tonnage,Fate,Name,Tonnage (GRT)
-19 August 1941,SS Aguila,United Kingdom,3255.0,Sunk,,
-27 November 1941,HMAS Parramatta,Royal Australian Navy,1060.0,Sunk,,
-23 December 1941,SS Shuntien,United Kingdom,3059.0,Sunk,,
-26 December 1941,SS Warszawa,Poland,2487.0,Sunk,,
-10 June 1942,MV Athene,Norway,4681.0,Sunk,,
-10 June 1942,SS Brambleleaf,United Kingdom,5917.0,Damaged,,
-18 January 1940,,Sweden,,Sunk,Flandria,1179.0
-19 January 1940,,Sweden,,Sunk,Patria,1188.0
-11 February 1940,,Estonia,,Sunk,Linda,1213.0
-4 May 1940,,United Kingdom,,Sunk (mine),San Tiburcio,5995.0
-9 May 1940,,French Navy,,Sunk,Doris,552.0
-11 May 1940,,United Kingdom,,Sunk,Tringa,1930.0
-11 May 1940,,Estonia,,Sunk,Viiu,1908.0
-23 May 1940,,Belgium,,Sunk,Sigurd Faulbaum,3256.0
-11 May 1944,,Soviet Union,,Damaged,Shtorm,412.0
-7 October 1941,,United Kingdom,,Damaged,Svend Foyn,14795.0
-16 February 1942,,Venezuela,,Sunk,Monagas,2650.0
-16 February 1942,,United Kingdom,,Sunk,San Nicholas,2391.0
-16 February 1942,,United Kingdom,,Sunk,Tia Juana,2395.0
-22 February 1942,,United States,,Sunk,J.N.Pew,9033.0
-23 February 1942,,United States,,Damaged,Sun,9002.0
-23 February 1942,,Panama,,Sunk,Thalia,8329.0
-11 May 1942,,United Kingdom,,Sunk,Cape of Good Hope,4963.0
-24 May 1942,,Brazil,,Sunk,Gonçalves Dias,4996.0
-28 May 1942,,United States,,Sunk,Alcoa Pilgrim,6759.0
-3 June 1942,,United States,,Sunk,M.F. Ellliot,6940.0
-9 June 1942,,Belgium,,Sunk,Bruxelles,5085.0
-9 June 1942,,United States,,Sunk,Franklin K. Lane,6589.0
-15 June 1942,,Panama,,Sunk,Cold Harbor,5010.0
-15 June 1942,,United States,,Sunk,Scottsburg,8010.0
-15 June 1942,,United States,,Sunk,West Hardaway,5702.0
+Round,Round.1,Race,Date,Pole Position,Fastest Lap,Winning Club,Winning Team,Report,Country,Circuit,Winning Rider,Winning Driver,Winning Privateer
+1,R1,Donington Park,August 31,Beijing Guoan,Beijing Guoan,Beijing Guoan,Zakspeed,Report,,,,,
+1,R2,Donington Park,August 31,,PSV Eindhoven,Sevilla FC,GTA Motor Competicion,Report,,,,,
+2,R1,Nurburgring,September 21,A.C. Milan,PSV Eindhoven,A.C. Milan,Scuderia Playteam,Report,,,,,
+2,R2,Nurburgring,September 21,,SC Corinthians,PSV Eindhoven,Azerti Motorsport,Report,,,,,
+3,R1,Zolder,October 5,Borussia Dortmund,Liverpool F.C.,Liverpool F.C.,Hitech Junior Team,Report,,,,,
+3,R2,Zolder,October 5,,Atletico Madrid,Beijing Guoan,Zakspeed,Report,,,,,
+4,R1,Estoril,October 19,A.S. Roma,Atletico Madrid,Liverpool F.C.,Hitech Junior Team,Report,,,,,
+4,R2,Estoril,October 19,,Borussia Dortmund,Al Ain,Azerti Motorsport,Report,,,,,
+5,R1,Vallelunga,November 2,Liverpool F.C.,Beijing Guoan,Beijing Guoan,Zakspeed,Report,,,,,
+5,R2,Vallelunga,November 2,,Atletico Madrid,F.C. Porto,Hitech Junior Team,Report,,,,,
+6,R1,Jerez,November 23,Liverpool F.C.,R.S.C. Anderlecht,A.C. Milan,Scuderia Playteam,Report,,,,,
+6,R2,Jerez,November 23,,Beijing Guoan,Borussia Dortmund,Zakspeed,Report,,,,,
+1,R1,,23 February,Troy Corser,Noriyuki Haga,,Xerox Ducati,Report,Qatar,Losail,Troy Bayliss,,
+1,R2,,23 February,Troy Corser,Fonsi Nieto,,Alstare Suzuki,Report,Qatar,Losail,Fonsi Nieto,,
+2,R1,,2 March,Troy Bayliss,Troy Bayliss,,Xerox Ducati,Report,Australia,Phillip Island,Troy Bayliss,,
+2,R2,,2 March,Troy Bayliss,Max Biaggi,,Xerox Ducati,Report,Australia,Phillip Island,Troy Bayliss,,
+3,R1,,6 April,Max Neukirchner,Noriyuki Haga,,Team R.G,Report,Spain,Valencia,Lorenzo Lanzi,,
+3,R2,,6 April,Max Neukirchner,Carlos Checa,,Yamaha Motor Italia,Report,Spain,Valencia,Noriyuki Haga,,
+4,R1,,27 April,Troy Bayliss,Max Neukirchner,,Xerox Ducati,Report,Netherlands,Assen,Troy Bayliss,,
+4,R2,,27 April,Troy Bayliss,Troy Bayliss,,Xerox Ducati,Report,Netherlands,Assen,Troy Bayliss,,
+5,R1,,11 May,Troy Bayliss,Noriyuki Haga,,Alstare Suzuki,Report,Italy,Monza,Max Neukirchner,,
+5,R2,,11 May,Troy Bayliss,Noriyuki Haga,,Yamaha Motor Italia,Report,Italy,Monza,Noriyuki Haga,,
+6,R1,,1 June,Carlos Checa,Carlos Checa,,Ten Kate Honda,Report,United States,Miller Motorsports Park,Carlos Checa,,
+6,R2,,1 June,Carlos Checa,Carlos Checa,,Ten Kate Honda,Report,United States,Miller Motorsports Park,Carlos Checa,,
+7,R1,,15 June,Max Neukirchner,Troy Bayliss,,Yamaha Motor Italia,Report,Germany,Nurburgring,Noriyuki Haga,,
+7,R2,,15 June,Max Neukirchner,Noriyuki Haga,,Yamaha Motor Italia,Report,Germany,Nurburgring,Noriyuki Haga,,
+8,R1,,29 June,Troy Corser,Jakub Smrž,,Alstare Suzuki,Report,San Marino,Misano Adriatico,Max Neukirchner,,
+8,R2,,29 June,Troy Corser,Troy Corser,,Sterilgarda Go Eleven,Report,San Marino,Misano Adriatico,Ruben Xaus,,
+9,R1,,20 July,Troy Bayliss,Troy Bayliss,,Xerox Ducati,Report,Czech Republic,Brno,Troy Bayliss,,
+9,R2,,20 July,Troy Bayliss,Michel Fabrizio,,Xerox Ducati,Report,Czech Republic,Brno,Troy Bayliss,,
+10,R1,,3 August,Troy Bayliss,Ryuichi Kiyonari,,Ten Kate Honda,Report,Great Britain,Brands Hatch,Ryuichi Kiyonari,,
+10,R2,,3 August,Troy Bayliss,Michel Fabrizio,,Ten Kate Honda,Report,Great Britain,Brands Hatch,Ryuichi Kiyonari,,
+11,R1,,7 September,Troy Bayliss,Troy Bayliss,,Xerox Ducati,Report,Europe,Donington Park,Troy Bayliss,,
+11,R2,,7 September,Troy Bayliss,James Ellison,,Ten Kate Honda,Report,Europe,Donington Park,Ryuichi Kiyonari,,
+12,R1,,21 September,Troy Bayliss,Carlos Checa,,Yamaha Motor Italia,Report,Italy,Vallelunga,Noriyuki Haga,,
+12,R2,,21 September,Troy Bayliss,Troy Corser,,Yamaha Motor Italia,Report,Italy,Vallelunga,Noriyuki Haga,,
+13,R1,,5 October,Noriyuki Haga,Carlos Checa,,Yamaha Motor Italia,Report,France,Magny-Cours,Noriyuki Haga,,
+13,R2,,5 October,Noriyuki Haga,Troy Bayliss,,Xerox Ducati,Report,France,Magny-Cours,Troy Bayliss,,
+14,R1,,2 November,Troy Bayliss,Troy Bayliss,,Xerox Ducati,Report,Portugal,Portimão,Troy Bayliss,,
+14,R2,,2 November,Troy Bayliss,Troy Bayliss,,Xerox Ducati,Report,Portugal,Portimão,Troy Bayliss,,
+1,R1,,10 May,Mattias Ekström,Fredrik Ekblom,,Kristoffersson Motorsport,,,Mantorp Park,,Mats Linden,Richard Göransson
+1,R2,,10 May,,Peggen Andersson,,BMW Dealer Team,,,Mantorp Park,,Fredrik Ekblom,Pontus Mörth
+2,R3,,31 May,Jan Nilsson,Jan Nilsson,,Flash Engineering,,,Karlskoga-Gelleråsen,,Jan Nilsson,Pontus Mörth
+2,R4,,31 May,,Fredrik Ekblom,,BMW Dealer Team,,,Karlskoga-Gelleråsen,,Peggen Andersson,Pontus Mörth
+3,R5,,28 June,Mattias Ekström,Fredrik Ekblom,,Flash Engineering,,,Anderstorp,,Jan Nilsson,Pontus Mörth
+3,R6,,28 June,,Peggen Andersson,,BMW Dealer Team,,,Anderstorp,,Peggen Andersson,Georg Bakajev
+4,R7,,9 July,Jens Edman,Jens Edman,,Flash Engineering,,,Falkenberg,,Jan Nilsson,Pontus Mörth
+4,R8,,9 July,,Mattias Ekström,,Flash Engineering,,,Falkenberg,,Jens Edman,Pontus Mörth
+5,R9,,6 September,Fredrik Ekblom,Fredrik Ekblom,,BMW Dealer Team,,,Ring Knutstorp,,Fredrik Ekblom,Pontus Mörth
+5,R10,,6 September,,Mats Linden,,Flash Engineering,,,Ring Knutstorp,,Jan Nilsson,Georg Bakajev
+6,R11,,27 September,Tommy Kristoffersson,Fredrik Ekblom,,BMW Dealer Team,,,Mantorp Park,,Fredrik Ekblom,Pontus Mörth
+6,R12,,27 September,,Peggen Andersson,,Flash Engineering,,,Mantorp Park,,Jan Nilsson,Pontus Mörth

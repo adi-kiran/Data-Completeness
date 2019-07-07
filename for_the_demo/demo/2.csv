@@ -1,0 +1,67 @@
+Round,Round.1,Circuit,Date,Pole Position,Fastest Lap,Winning Rider,Country,Winning Team,Report,Winning Driver,Winning Privateer
+1,R1,Jerez,18 March,Raymond Roche,Stephane Mertens,Raymond Roche,,,,,
+1,R2,Jerez,18 March,Raymond Roche,Raymond Roche,Raymond Roche,,,,,
+2,R1,Donington,16 April,Giancarlo Falappa,Rob Phillis,Fred Merkel,,,,,
+2,R2,Donington,16 April,Giancarlo Falappa,Raymond Roche,Giancarlo Falappa,,,,,
+3,R1,Hungaroring,30 April,Malcolm Campbell,Raymond Roche,Fred Merkel,,,,,
+3,R2,Hungaroring,30 April,Malcolm Campbell,Fred Merkel,Raymond Roche,,,,,
+4,R1,Hockenheim,6 May,Raymond Roche,Fred Merkel,Fred Merkel,,,,,
+4,R2,Hockenheim,6 May,Raymond Roche,Raymond Roche,Stephane Mertens,,,,,
+5,R1,Mosport,3 June,Giancarlo Falappa,Raymond Roche,Raymond Roche,,,,,
+5,R2,Mosport,3 June,Giancarlo Falappa,Jamie James,Raymond Roche,,,,,
+6,R1,Brainerd,10 June,Doug Chandler,Doug Chandler,Stephane Mertens,,,,,
+6,R2,Brainerd,10 June,Doug Chandler,Fabrizio Pirovano,Doug Chandler,,,,,
+7,R1,Österreichring,1 July,Stephane Mertens,Rob McElnea,Fabrizio Pirovano,,,,,
+7,R2,Österreichring,1 July,Stephane Mertens,Stephane Mertens,Stephane Mertens,,,,,
+8,R1,Sugo,26 August,Raymond Roche,Raymond Roche,Raymond Roche,,,,,
+8,R2,Sugo,26 August,Raymond Roche,Peter Goddard,Doug Chandler,,,,,
+9,R1,Le Mans,9 September,Baldassarre Monti,Raymond Roche,Raymond Roche,,,,,
+9,R2,Le Mans,9 September,Baldassarre Monti,Jamie James,Raymond Roche,,,,,
+10,R1,Monza,7 October,Baldassarre Monti,Rob Phillis,Fabrizio Pirovano,,,,,
+10,R2,Monza,7 October,Baldassarre Monti,Rob Phillis,Fabrizio Pirovano,,,,,
+11,R1,Shah Alam,4 November,Rob Phillis,Fabrizio Pirovano,Fabrizio Pirovano,,,,,
+11,R2,Shah Alam,4 November,Rob Phillis,Raymond Roche,Fabrizio Pirovano,,,,,
+12,R1,Phillip Island,11 November,Peter Goddard,Fabrizio Pirovano,Peter Goddard,,,,,
+12,R2,Phillip Island,11 November,Peter Goddard,Malcolm Campbell,Rob Phillis,,,,,
+13,R1,Manfeild,18 November,Rob Phillis,Brian Morrison,Terry Rymer,,,,,
+13,R2,Manfeild,18 November,Rob Phillis,Raymond Roche,Rob Phillis,,,,,
+1,R1,Losail,23 February,Troy Corser,Noriyuki Haga,Troy Bayliss,Qatar,Xerox Ducati,Report,,
+1,R2,Losail,23 February,Troy Corser,Fonsi Nieto,Fonsi Nieto,Qatar,Alstare Suzuki,Report,,
+2,R1,Phillip Island,2 March,Troy Bayliss,Troy Bayliss,Troy Bayliss,Australia,Xerox Ducati,Report,,
+2,R2,Phillip Island,2 March,Troy Bayliss,Max Biaggi,Troy Bayliss,Australia,Xerox Ducati,Report,,
+3,R1,Valencia,6 April,Max Neukirchner,Noriyuki Haga,Lorenzo Lanzi,Spain,Team R.G,Report,,
+3,R2,Valencia,6 April,Max Neukirchner,Carlos Checa,Noriyuki Haga,Spain,Yamaha Motor Italia,Report,,
+4,R1,Assen,27 April,Troy Bayliss,Max Neukirchner,Troy Bayliss,Netherlands,Xerox Ducati,Report,,
+4,R2,Assen,27 April,Troy Bayliss,Troy Bayliss,Troy Bayliss,Netherlands,Xerox Ducati,Report,,
+5,R1,Monza,11 May,Troy Bayliss,Noriyuki Haga,Max Neukirchner,Italy,Alstare Suzuki,Report,,
+5,R2,Monza,11 May,Troy Bayliss,Noriyuki Haga,Noriyuki Haga,Italy,Yamaha Motor Italia,Report,,
+6,R1,Miller Motorsports Park,1 June,Carlos Checa,Carlos Checa,Carlos Checa,United States,Ten Kate Honda,Report,,
+6,R2,Miller Motorsports Park,1 June,Carlos Checa,Carlos Checa,Carlos Checa,United States,Ten Kate Honda,Report,,
+7,R1,Nurburgring,15 June,Max Neukirchner,Troy Bayliss,Noriyuki Haga,Germany,Yamaha Motor Italia,Report,,
+7,R2,Nurburgring,15 June,Max Neukirchner,Noriyuki Haga,Noriyuki Haga,Germany,Yamaha Motor Italia,Report,,
+8,R1,Misano Adriatico,29 June,Troy Corser,Jakub Smrž,Max Neukirchner,San Marino,Alstare Suzuki,Report,,
+8,R2,Misano Adriatico,29 June,Troy Corser,Troy Corser,Ruben Xaus,San Marino,Sterilgarda Go Eleven,Report,,
+9,R1,Brno,20 July,Troy Bayliss,Troy Bayliss,Troy Bayliss,Czech Republic,Xerox Ducati,Report,,
+9,R2,Brno,20 July,Troy Bayliss,Michel Fabrizio,Troy Bayliss,Czech Republic,Xerox Ducati,Report,,
+10,R1,Brands Hatch,3 August,Troy Bayliss,Ryuichi Kiyonari,Ryuichi Kiyonari,Great Britain,Ten Kate Honda,Report,,
+10,R2,Brands Hatch,3 August,Troy Bayliss,Michel Fabrizio,Ryuichi Kiyonari,Great Britain,Ten Kate Honda,Report,,
+11,R1,Donington Park,7 September,Troy Bayliss,Troy Bayliss,Troy Bayliss,Europe,Xerox Ducati,Report,,
+11,R2,Donington Park,7 September,Troy Bayliss,James Ellison,Ryuichi Kiyonari,Europe,Ten Kate Honda,Report,,
+12,R1,Vallelunga,21 September,Troy Bayliss,Carlos Checa,Noriyuki Haga,Italy,Yamaha Motor Italia,Report,,
+12,R2,Vallelunga,21 September,Troy Bayliss,Troy Corser,Noriyuki Haga,Italy,Yamaha Motor Italia,Report,,
+13,R1,Magny-Cours,5 October,Noriyuki Haga,Carlos Checa,Noriyuki Haga,France,Yamaha Motor Italia,Report,,
+13,R2,Magny-Cours,5 October,Noriyuki Haga,Troy Bayliss,Troy Bayliss,France,Xerox Ducati,Report,,
+14,R1,Portimão,2 November,Troy Bayliss,Troy Bayliss,Troy Bayliss,Portugal,Xerox Ducati,Report,,
+14,R2,Portimão,2 November,Troy Bayliss,Troy Bayliss,Troy Bayliss,Portugal,Xerox Ducati,Report,,
+1,R1,Mantorp Park,10 May,Mattias Ekström,Fredrik Ekblom,,,Kristoffersson Motorsport,,Mats Linden,Richard Göransson
+1,R2,Mantorp Park,10 May,,Peggen Andersson,,,BMW Dealer Team,,Fredrik Ekblom,Pontus Mörth
+2,R3,Karlskoga-Gelleråsen,31 May,Jan Nilsson,Jan Nilsson,,,Flash Engineering,,Jan Nilsson,Pontus Mörth
+2,R4,Karlskoga-Gelleråsen,31 May,,Fredrik Ekblom,,,BMW Dealer Team,,Peggen Andersson,Pontus Mörth
+3,R5,Anderstorp,28 June,Mattias Ekström,Fredrik Ekblom,,,Flash Engineering,,Jan Nilsson,Pontus Mörth
+3,R6,Anderstorp,28 June,,Peggen Andersson,,,BMW Dealer Team,,Peggen Andersson,Georg Bakajev
+4,R7,Falkenberg,9 July,Jens Edman,Jens Edman,,,Flash Engineering,,Jan Nilsson,Pontus Mörth
+4,R8,Falkenberg,9 July,,Mattias Ekström,,,Flash Engineering,,Jens Edman,Pontus Mörth
+5,R9,Ring Knutstorp,6 September,Fredrik Ekblom,Fredrik Ekblom,,,BMW Dealer Team,,Fredrik Ekblom,Pontus Mörth
+5,R10,Ring Knutstorp,6 September,,Mats Linden,,,Flash Engineering,,Jan Nilsson,Georg Bakajev
+6,R11,Mantorp Park,27 September,Tommy Kristoffersson,Fredrik Ekblom,,,BMW Dealer Team,,Fredrik Ekblom,Pontus Mörth
+6,R12,Mantorp Park,27 September,,Peggen Andersson,,,Flash Engineering,,Jan Nilsson,Pontus Mörth
