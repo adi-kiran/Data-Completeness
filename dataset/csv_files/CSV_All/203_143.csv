@@ -1,39 +1,39 @@
-Date,Opponent,Venue,Result,Attendance,Scorers
-13 August 2005,Charlton Athletic,Stadium of Light,,34446,Gray
-20 August 2005,Liverpool,Anfield,,44913,
-23 August 2005,Manchester City,Stadium of Light,,33357,Le Tallec
-27 August 2005,Wigan Athletic,JJB Stadium,,17223,
-10 September 2005,Chelsea,Stamford Bridge,,41969,
-17 September 2005,West Bromwich Albion,Stadium of Light,,31657,Breen
-25 September 2005,Middlesbrough,Riverside Stadium,,29583,"Miller, Arca"
-1 October 2005,West Ham United,Stadium of Light,,31212,Miller
-15 October 2005,Manchester United,Stadium of Light,,39085,Elliott
-23 October 2005,Newcastle United,St James' Park,,52302,"Lawrence, Elliott"
-29 October 2005,Portsmouth,Stadium of Light,,34926,Whitehead (pen)
-5 November 2005,Arsenal,Highbury,,38210,Stubbs
-19 November 2005,Aston Villa,Stadium of Light,,39707,Whitehead (pen)
-26 November 2005,Birmingham City,Stadium of Light,,32442,
-30 November 2005,Liverpool,Stadium of Light,,32697,
-3 December 2005,Tottenham Hotspur,White Hart Lane,,36244,"Whitehead, Le Tallec"
-10 December 2005,Charlton Athletic,The Valley,,26065,
-26 December 2005,Bolton Wanderers,Stadium of Light,,32232,
-31 December 2005,Everton,Stadium of Light,,30567,
-2 January 2006,Fulham,Craven Cottage,,19372,Lawrence
-15 January 2006,Chelsea,Stadium of Light,,32420,Lawrence
-21 January 2006,West Bromwich Albion,The Hawthorns,,26464,Watson (own goal)
-31 January 2006,Middlesbrough,Stadium of Light,,31675,
-4 February 2006,West Ham United,Boleyn Ground,,34745,
-12 February 2006,Tottenham Hotspur,Stadium of Light,,34700,Murphy
-15 February 2006,Blackburn Rovers,Ewood Park,,18220,
-25 February 2006,Birmingham City,St. Andrew's,,29257,
-3 March 2006,Manchester City,City of Manchester Stadium,,42200,Kyle
-11 March 2006,Wigan Athletic,Stadium of Light,,31194,
-18 March 2006,Bolton Wanderers,Reebok Stadium,,23568,
-25 March 2006,Blackburn Rovers,Stadium of Light,,29593,
-1 April 2006,Everton,Goodison Park,,38093,"Stead, Delap"
-14 April 2006,Manchester United,Old Trafford,,72519,
-17 April 2006,Newcastle United,Stadium of Light,,40032,Hoyte
-22 April 2006,Portsmouth,Fratton Park,,20078,Miller
-1 May 2006,Arsenal,Stadium of Light,,44003,
-4 May 2006,Fulham,Stadium of Light,,28226,"Le Tallec, Brown"
-7 May 2006,Aston Villa,Villa Park,,33820,D. Collins
+date,opponent,venue,attendance,scorers
+13 August 2005,Charlton Athletic,Stadium of Light,34446,Gray
+20 August 2005,Liverpool,Anfield,44913,
+23 August 2005,Manchester City,Stadium of Light,33357,Le Tallec
+27 August 2005,Wigan Athletic,JJB Stadium,17223,
+10 September 2005,Chelsea,Stamford Bridge,41969,
+17 September 2005,West Bromwich Albion,Stadium of Light,31657,Breen
+25 September 2005,Middlesbrough,Riverside Stadium,29583,"Miller, Arca"
+1 October 2005,West Ham United,Stadium of Light,31212,Miller
+15 October 2005,Manchester United,Stadium of Light,39085,Elliott
+23 October 2005,Newcastle United,St James' Park,52302,"Lawrence, Elliott"
+29 October 2005,Portsmouth,Stadium of Light,34926,Whitehead (pen)
+5 November 2005,Arsenal,Highbury,38210,Stubbs
+19 November 2005,Aston Villa,Stadium of Light,39707,Whitehead (pen)
+26 November 2005,Birmingham City,Stadium of Light,32442,
+30 November 2005,Liverpool,Stadium of Light,32697,
+3 December 2005,Tottenham Hotspur,White Hart Lane,36244,"Whitehead, Le Tallec"
+10 December 2005,Charlton Athletic,The Valley,26065,
+26 December 2005,Bolton Wanderers,Stadium of Light,32232,
+31 December 2005,Everton,Stadium of Light,30567,
+2 January 2006,Fulham,Craven Cottage,19372,Lawrence
+15 January 2006,Chelsea,Stadium of Light,32420,Lawrence
+21 January 2006,West Bromwich Albion,The Hawthorns,26464,Watson (own goal)
+31 January 2006,Middlesbrough,Stadium of Light,31675,
+4 February 2006,West Ham United,Boleyn Ground,34745,
+12 February 2006,Tottenham Hotspur,Stadium of Light,34700,Murphy
+15 February 2006,Blackburn Rovers,Ewood Park,18220,
+25 February 2006,Birmingham City,St. Andrew's,29257,
+3 March 2006,Manchester City,City of Manchester Stadium,42200,Kyle
+11 March 2006,Wigan Athletic,Stadium of Light,31194,
+18 March 2006,Bolton Wanderers,Reebok Stadium,23568,
+25 March 2006,Blackburn Rovers,Stadium of Light,29593,
+1 April 2006,Everton,Goodison Park,38093,"Stead, Delap"
+14 April 2006,Manchester United,Old Trafford,72519,
+17 April 2006,Newcastle United,Stadium of Light,40032,Hoyte
+22 April 2006,Portsmouth,Fratton Park,20078,Miller
+1 May 2006,Arsenal,Stadium of Light,44003,
+4 May 2006,Fulham,Stadium of Light,28226,"Le Tallec, Brown"
+7 May 2006,Aston Villa,Villa Park,33820,D. Collins

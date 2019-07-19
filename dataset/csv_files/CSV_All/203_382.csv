@@ -1,12 +1,12 @@
-Date,Opponent,Site,Result
-September 5,Alcorn State,Independence Stadium • Shreveport. LA,
-September 12,vs. Central State*,"Yankee Stadium • New York, NY",
-September 26,Bethune-Cookman*,"Eddie Robinson Stadium • Grambling, LA",
-October 3,vs. Prairie View A&M,"Cotton Bowl • Dallas, TX",
-October 10,at Tennessee State*,"Dudley Field • Nashville, TN",
-October 17,Mississippi Valley State,"Eddie Robinson Stadium • Grambling, LA",
-October 24,at Jackson State,"Mississippi Veterans Memorial Stadium • Jackson, MS",
-October 31,Texas Southern,"Eddie Robinson Stadium • Grambling, LA",
-November 7,at Alabama State,"Cramton Bowl • Montgomery, AL",
-November 14,South Carolina State*,"Eddie Robinson Stadium • Grambling, LA",
-November 28,vs. Southern,"Louisiana Superdome • New Orleans, LA (XIV Bayou Classic)",
+date,opponent,site
+September 5,Alcorn State,Independence Stadium • Shreveport. LA
+September 12,vs. Central State*,"Yankee Stadium • New York, NY"
+September 26,Bethune-Cookman*,"Eddie Robinson Stadium • Grambling, LA"
+October 3,vs. Prairie View A&M,"Cotton Bowl • Dallas, TX"
+October 10,at Tennessee State*,"Dudley Field • Nashville, TN"
+October 17,Mississippi Valley State,"Eddie Robinson Stadium • Grambling, LA"
+October 24,at Jackson State,"Mississippi Veterans Memorial Stadium • Jackson, MS"
+October 31,Texas Southern,"Eddie Robinson Stadium • Grambling, LA"
+November 7,at Alabama State,"Cramton Bowl • Montgomery, AL"
+November 14,South Carolina State*,"Eddie Robinson Stadium • Grambling, LA"
+November 28,vs. Southern,"Louisiana Superdome • New Orleans, LA (XIV Bayou Classic)"

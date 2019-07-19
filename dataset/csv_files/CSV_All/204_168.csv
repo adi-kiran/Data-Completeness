@@ -1,33 +1,33 @@
-Date,Time,Opponent,Site,TV,Result,Attendance,Record
-11/09/2013*,1:00 pm,Trinity Baptist,"Moore Gymnasium • Daytona Beach, FL",,,409.0,
-11/12/2013*,7:00 pm,at South Florida,"USF Sun Dome • Tampa, FL",ESPN3,,3549.0,
-11/17/2013*,2:00 pm,at UCF,"CFE Arena • Orlando, FL",ESPN3,,4095.0,
-11/19/2013*,7:00 pm,Trinity (FL),"Moore Gymnasium • Daytona Beach, FL",,,1180.0,
-11/21/2013*,7:00 pm,FIU,"Moore Gymnasium • Daytona Beach, FL",,,,
-11/25/2013*,9:00 pm,at New Mexico State,"Pan American Center • Las Cruces, NM (Colorado State Challenge)",,,4985.0,
-11/27/2013*,4:00 pm,at New Mexico State,"Moby Arena • Fort Collins, CO (Colorado State Challenge)",,,2945.0,
-11/29/2013*,9:00 pm,vs. Prairie View A&M,,,,102.0,
-11/30/2013*,9:00 pm,at Northern Colorado,,,,,
-12/03/2013*,7:00 pm,at Stetson,"Edmunds Center • DeLand, FL",,,1056.0,
-12/07/2013,6:00 pm,at Norfolk State,"Joseph G. Echols Memorial Hall • Norfolk, VA",,,1425.0,
-12/09/2013,7:00 pm,at Hampton,"Hampton Convocation Center • Hampton, VA",,,1428.0,
-12/14/2013*,4:00 pm,at Akron,"James A. Rhodes Arena • Akron, OH",,,2763.0,
-12/17/2013*,7:00 pm,at Youngstown State,"Beeghly Center • Youngstown, OH",,,1399.0,
-12/21/2013*,7:00 pm,at North Florida,"UNF Arena • Jacksonville, FL",,,617.0,
-12/30/2013*,8:00 pm,at Detroit,"Calihan Hall • Detroit, MI",,,3107.0,
-01/03/2014*,8:00 pm,at Northern Illinois,"Convocation Center • DeKalb, IL",,,657.0,
-01/11/2014,4:00 pm,North Carolina A&T,"Moore Gymnasium • Daytona Beach, FL",,,1091.0,
-01/13/2014,7:30 pm,North Carolina Central,"Moore Gymnasium • Daytona Beach, FL",,,1210.0,
-01/18/2014,6:00 pm,at Savannah State,"Tiger Arena • Savannah, GA",,,3220.0,
-01/20/2014,7:30 pm,at South Carolina State,"SHM Memorial Center • Orangeburg, SC",,,751.0,
-01/25/2014,4:00 pm,Maryland Eastern Shore,"Moore Gymnasium • Daytona Beach, FL",,,1030.0,
-01/27/2014,7:30 pm,Howard,"Moore Gymnasium • Daytona Beach, FL",,,1216.0,
-02/01/2014,4:00 pm,Savannah State,"Moore Gymnasium • Daytona Beach, FL",,,1075.0,
-02/03/2014,7:30 pm,South Carolina State,"Moore Gymnasium • Daytona Beach, FL",,,1063.0,
-02/08/2014,4:00 pm,at North Carolina Central,,,,2420.0,
-02/10/2014,8:00 pm,at North Carolina A&T,"Corbett Sports Center • Greensboro, NC",,,1019.0,
-02/15/2014,4:00 pm,Delaware State,"Moore Gymnasium • Daytona Beach, FL",,,843.0,
-02/22/2014,4:00 pm,Florida A&M,"Moore Gymnasium • Daytona Beach, FL",,,3231.0,
-03/01/2014,4:00 pm,at Morgan State,"Talmadge L. Hill Field House • Baltimore, MD",,,2056.0,
-03/06/2014,7:30 pm,at Florida A&M,"Teaching Gym • Tallahassee, FL",,,2376.0,
-03/11/2014,6:30 pm,vs. Coppin State,"Norfolk Scope • Norfolk, VA (First round)",,,4658.0,
+date,time,opponent,site,tv,attendance
+11/09/2013*,1:00 pm,Trinity Baptist,"Moore Gymnasium • Daytona Beach, FL",,409.0
+11/12/2013*,7:00 pm,at South Florida,"USF Sun Dome • Tampa, FL",ESPN3,3549.0
+11/17/2013*,2:00 pm,at UCF,"CFE Arena • Orlando, FL",ESPN3,4095.0
+11/19/2013*,7:00 pm,Trinity (FL),"Moore Gymnasium • Daytona Beach, FL",,1180.0
+11/21/2013*,7:00 pm,FIU,"Moore Gymnasium • Daytona Beach, FL",,
+11/25/2013*,9:00 pm,at New Mexico State,"Pan American Center • Las Cruces, NM (Colorado State Challenge)",,4985.0
+11/27/2013*,4:00 pm,at New Mexico State,"Moby Arena • Fort Collins, CO (Colorado State Challenge)",,2945.0
+11/29/2013*,9:00 pm,vs. Prairie View A&M,,,102.0
+11/30/2013*,9:00 pm,at Northern Colorado,,,
+12/03/2013*,7:00 pm,at Stetson,"Edmunds Center • DeLand, FL",,1056.0
+12/07/2013,6:00 pm,at Norfolk State,"Joseph G. Echols Memorial Hall • Norfolk, VA",,1425.0
+12/09/2013,7:00 pm,at Hampton,"Hampton Convocation Center • Hampton, VA",,1428.0
+12/14/2013*,4:00 pm,at Akron,"James A. Rhodes Arena • Akron, OH",,2763.0
+12/17/2013*,7:00 pm,at Youngstown State,"Beeghly Center • Youngstown, OH",,1399.0
+12/21/2013*,7:00 pm,at North Florida,"UNF Arena • Jacksonville, FL",,617.0
+12/30/2013*,8:00 pm,at Detroit,"Calihan Hall • Detroit, MI",,3107.0
+01/03/2014*,8:00 pm,at Northern Illinois,"Convocation Center • DeKalb, IL",,657.0
+01/11/2014,4:00 pm,North Carolina A&T,"Moore Gymnasium • Daytona Beach, FL",,1091.0
+01/13/2014,7:30 pm,North Carolina Central,"Moore Gymnasium • Daytona Beach, FL",,1210.0
+01/18/2014,6:00 pm,at Savannah State,"Tiger Arena • Savannah, GA",,3220.0
+01/20/2014,7:30 pm,at South Carolina State,"SHM Memorial Center • Orangeburg, SC",,751.0
+01/25/2014,4:00 pm,Maryland Eastern Shore,"Moore Gymnasium • Daytona Beach, FL",,1030.0
+01/27/2014,7:30 pm,Howard,"Moore Gymnasium • Daytona Beach, FL",,1216.0
+02/01/2014,4:00 pm,Savannah State,"Moore Gymnasium • Daytona Beach, FL",,1075.0
+02/03/2014,7:30 pm,South Carolina State,"Moore Gymnasium • Daytona Beach, FL",,1063.0
+02/08/2014,4:00 pm,at North Carolina Central,,,2420.0
+02/10/2014,8:00 pm,at North Carolina A&T,"Corbett Sports Center • Greensboro, NC",,1019.0
+02/15/2014,4:00 pm,Delaware State,"Moore Gymnasium • Daytona Beach, FL",,843.0
+02/22/2014,4:00 pm,Florida A&M,"Moore Gymnasium • Daytona Beach, FL",,3231.0
+03/01/2014,4:00 pm,at Morgan State,"Talmadge L. Hill Field House • Baltimore, MD",,2056.0
+03/06/2014,7:30 pm,at Florida A&M,"Teaching Gym • Tallahassee, FL",,2376.0
+03/11/2014,6:30 pm,vs. Coppin State,"Norfolk Scope • Norfolk, VA (First round)",,4658.0

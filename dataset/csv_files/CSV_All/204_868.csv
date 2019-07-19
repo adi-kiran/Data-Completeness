@@ -1,8 +1,8 @@
-Outcome,No.,Date,Tournament,Surface,Opponent,Score
-Runner-up,1.0,1 August 2011,"São Paulo, Brazil",Clay,Maria Fernanda Alves,
-Winner,1.0,24 October 2011,"Goiânia, Brazil",Clay,Bárbara Luz,
-Winner,2.0,2 April 2012,"Ribeirão Preto, Brazil",Hard,Natasha Fourouclas,
-Winner,3.0,25 March 2013,"Ribeirão Preto, Brazil",Clay,Andrea Benitez,
-Winner,4.0,15 April 2013,"Antalya 15, Turkey",Hard,Tereza Martincová,
-Runner-up,2.0,20 May 2013,"Caserta, Italy",Clay,Renata Voráčová,
-Runner-up,3.0,17 June 2013,"Lenzerheide, Switzerland",Clay,Laura Siegemund,
+outcome,no ,date,tournament,surface,opponent
+Runner-up,1.0,1 August 2011,"São Paulo, Brazil",Clay,Maria Fernanda Alves
+Winner,1.0,24 October 2011,"Goiânia, Brazil",Clay,Bárbara Luz
+Winner,2.0,2 April 2012,"Ribeirão Preto, Brazil",Hard,Natasha Fourouclas
+Winner,3.0,25 March 2013,"Ribeirão Preto, Brazil",Clay,Andrea Benitez
+Winner,4.0,15 April 2013,"Antalya 15, Turkey",Hard,Tereza Martincová
+Runner-up,2.0,20 May 2013,"Caserta, Italy",Clay,Renata Voráčová
+Runner-up,3.0,17 June 2013,"Lenzerheide, Switzerland",Clay,Laura Siegemund

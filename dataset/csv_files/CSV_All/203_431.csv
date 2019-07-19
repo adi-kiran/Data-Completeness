@@ -1,17 +1,17 @@
-num,Date,Venue,Opponent,Score,Result,Competition
-1.0,30 May 1928,"Olympic Stadium (Amsterdam), Amsterdam, Netherland",Mexico,,,1928 Summer Olympics
-2.0,30 May 1928,"Olympic Stadium (Amsterdam), Amsterdam, Netherland",Mexico,,,1928 Summer Olympics
-3.0,22 June 1930,"Bologna, Italy",Italy,,,Friendly
-4.0,22 June 1930,"Bologna, Italy",Italy,,,Friendly
-5.0,13 December 1931,"Dublin, Ireland",Ireland,,,Friendly
-6.0,13 December 1931,"Dublin, Ireland",Ireland,,,Friendly
-7.0,24 April 1932,"Oviedo, Spain",Yugoslavia,,,Friendly
-8.0,21 June 1933,"Madrid, Spain",Bulgaria,,,Friendly
-9.0,21 June 1933,"Madrid, Spain",Bulgaria,,,Friendly
-10.0,11 March 1934,"Madrid, Spain",Portugal,,,1934 World Cup Qualifier
-11.0,11 March 1934,"Madrid, Spain",Portugal,,,1934 World Cup Qualifier
-12.0,21 June 1934,"Firenze, Italy",Italy,,,1934 FIFA World Cup
-13.0,24 January 1935,"Madrid, Spain",Bulgaria,,,Friendly
-14.0,19 January 1936,"Madrid, Spain",Austria,,,Friendly
-15.0,19 January 1936,"Madrid, Spain",Austria,,,Friendly
-16.0,23 February 1936,"Barcelona, Spain",Germany,,,Friendly
+num,date,venue,opponent,competition
+1.0,30 May 1928,"Olympic Stadium (Amsterdam), Amsterdam, Netherland",Mexico,1928 Summer Olympics
+2.0,30 May 1928,"Olympic Stadium (Amsterdam), Amsterdam, Netherland",Mexico,1928 Summer Olympics
+3.0,22 June 1930,"Bologna, Italy",Italy,Friendly
+4.0,22 June 1930,"Bologna, Italy",Italy,Friendly
+5.0,13 December 1931,"Dublin, Ireland",Ireland,Friendly
+6.0,13 December 1931,"Dublin, Ireland",Ireland,Friendly
+7.0,24 April 1932,"Oviedo, Spain",Yugoslavia,Friendly
+8.0,21 June 1933,"Madrid, Spain",Bulgaria,Friendly
+9.0,21 June 1933,"Madrid, Spain",Bulgaria,Friendly
+10.0,11 March 1934,"Madrid, Spain",Portugal,1934 World Cup Qualifier
+11.0,11 March 1934,"Madrid, Spain",Portugal,1934 World Cup Qualifier
+12.0,21 June 1934,"Firenze, Italy",Italy,1934 FIFA World Cup
+13.0,24 January 1935,"Madrid, Spain",Bulgaria,Friendly
+14.0,19 January 1936,"Madrid, Spain",Austria,Friendly
+15.0,19 January 1936,"Madrid, Spain",Austria,Friendly
+16.0,23 February 1936,"Barcelona, Spain",Germany,Friendly

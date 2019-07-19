@@ -1,12 +1,12 @@
-Outcome,No.,Date,Tournament,Surface,Opponent,Score
-Runner-up,1.0,25 October 2009,"Kremlin Cup, Russia",Hard (i),Mikhail Youzhny,
-Runner-up,2.0,19 June 2010,"UNICEF Open, Netherlands",Grass,Sergiy Stakhovsky,
-Runner-up,3.0,27 February 2011,"International Tennis Championships, United States",Hard,Juan Martin del Potro,
-Runner-up,4.0,18 June 2011,"Aegon International, United Kingdom",Grass,Andreas Seppi,
-Winner,1.0,2 October 2011,"Malaysian Open, Malaysia",Hard (i),Marcos Baghdatis,
-Winner,2.0,23 October 2011,"Kremlin Cup, Russia",Hard (i),Viktor Troicki,
-Runner-up,5.0,30 October 2011,"St. Petersburg Open, Russia",Hard (i),Marin Čilić,
-Runner-up,6.0,8 January 2012,"Chennai Open, India",Hard,Milos Raonic,
-Winner,3.0,15 July 2012,"Stuttgart Open, Germany",Clay,Juan Monaco,
-Runner-up,7.0,22 July 2012,"Swiss Open, Switzerland",Clay,Thomaz Bellucci,
-Winner,4.0,6 January 2013,"Chennai Open, India",Hard,Roberto Bautista-Agut,
+outcome,no ,date,tournament,surface,opponent
+Runner-up,1.0,25 October 2009,"Kremlin Cup, Russia",Hard (i),Mikhail Youzhny
+Runner-up,2.0,19 June 2010,"UNICEF Open, Netherlands",Grass,Sergiy Stakhovsky
+Runner-up,3.0,27 February 2011,"International Tennis Championships, United States",Hard,Juan Martin del Potro
+Runner-up,4.0,18 June 2011,"Aegon International, United Kingdom",Grass,Andreas Seppi
+Winner,1.0,2 October 2011,"Malaysian Open, Malaysia",Hard (i),Marcos Baghdatis
+Winner,2.0,23 October 2011,"Kremlin Cup, Russia",Hard (i),Viktor Troicki
+Runner-up,5.0,30 October 2011,"St. Petersburg Open, Russia",Hard (i),Marin Čilić
+Runner-up,6.0,8 January 2012,"Chennai Open, India",Hard,Milos Raonic
+Winner,3.0,15 July 2012,"Stuttgart Open, Germany",Clay,Juan Monaco
+Runner-up,7.0,22 July 2012,"Swiss Open, Switzerland",Clay,Thomaz Bellucci
+Winner,4.0,6 January 2013,"Chennai Open, India",Hard,Roberto Bautista-Agut

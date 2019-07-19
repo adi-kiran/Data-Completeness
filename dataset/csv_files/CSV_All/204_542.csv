@@ -1,8 +1,8 @@
-Season,Competition,Round,Club,Home,Away,Aggregate
-,UEFA Europa League,Q3,Motherwell,,,
-,UEFA Europa League,Q1,Neath,,,
-,UEFA Europa League,Q2,Ferencváros,,,
-,UEFA Europa League,Q3,Elfsborg,,,
-,UEFA Europa League,Play-off,AZ,,,
-,UEFA Europa League,Q2,Tirana,,,
-,UEFA Europa League,Q3,APOEL,,,
+competition,round,club
+UEFA Europa League,Q3,Motherwell
+UEFA Europa League,Q1,Neath
+UEFA Europa League,Q2,Ferencváros
+UEFA Europa League,Q3,Elfsborg
+UEFA Europa League,Play-off,AZ
+UEFA Europa League,Q2,Tirana
+UEFA Europa League,Q3,APOEL

@@ -1,4 +1,4 @@
-interval name,size (steps),size (cents),midi,just ratio,just (cents),midi.1,error
+interval name,size (steps),size (cents),midi,just ratio,just (cents),midi 1,error
 perfect fifth,42,700.0,play (help·info),3:2,701.96,play (help·info),-1.96
 septendecimal tritone,36,600.0,,17:12,603.0,,-3.0
 septimal tritone,35,583.33,play (help·info),7:5,582.51,play (help·info),0.82

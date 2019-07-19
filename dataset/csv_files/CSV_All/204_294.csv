@@ -1,13 +1,13 @@
-Date,Time,Opponentnum,Ranknum,Site,TV,Result,Attendance
-September 1,2:30 PM,Nevada*,#19,"Memorial Stadium • Lincoln, NE",ABC,,84078
-September 8,11:00 AM,at Wake Forest*,#17,"BB&T Field • Winston-Salem, NC",ESPN,,32483
-September 15,7:00 PM,#1 USC*,#14,"Memorial Stadium • Lincoln, NE",ABC,,84959
-September 22,11:30 AM,Ball State*,#22,"Memorial Stadium • Lincoln, NE",FSN PPV,,84294
-September 29,1:05 PM,Iowa State,#22,"Memorial Stadium • Lincoln, NE",,,84703
-October 6,8:15 PM,at #17 Missouri,#23,"Faurot Field • Columbia, MO (Rivalry)",ESPN,,70049
-October 13,11:30 AM,Oklahoma State,,"Memorial Stadium • Lincoln, NE",PPV,,84334
-October 20,1:05 PM,Texas A&M,,"Memorial Stadium • Lincoln, NE",,,84473
-October 27,2:30 PM,at #16 Texas,,,ABC,,85968
-November 3,11:30 AM,at #8 Kansas,,"Memorial Stadium • Lawrence, KS",FSN,,51910
-November 10,11:30 AM,Kansas State,,"Memorial Stadium • Lincoln, NE",Versus,,84665
-November 23,11:00 AM,at Colorado,,"Folsom Field • Boulder, CO (Rivalry)",ABC,,51403
+date,time,opponentnum,ranknum,site,tv,attendance
+September 1,2:30 PM,Nevada*,#19,"Memorial Stadium • Lincoln, NE",ABC,84078
+September 8,11:00 AM,at Wake Forest*,#17,"BB&T Field • Winston-Salem, NC",ESPN,32483
+September 15,7:00 PM,#1 USC*,#14,"Memorial Stadium • Lincoln, NE",ABC,84959
+September 22,11:30 AM,Ball State*,#22,"Memorial Stadium • Lincoln, NE",FSN PPV,84294
+September 29,1:05 PM,Iowa State,#22,"Memorial Stadium • Lincoln, NE",,84703
+October 6,8:15 PM,at #17 Missouri,#23,"Faurot Field • Columbia, MO (Rivalry)",ESPN,70049
+October 13,11:30 AM,Oklahoma State,,"Memorial Stadium • Lincoln, NE",PPV,84334
+October 20,1:05 PM,Texas A&M,,"Memorial Stadium • Lincoln, NE",,84473
+October 27,2:30 PM,at #16 Texas,,,ABC,85968
+November 3,11:30 AM,at #8 Kansas,,"Memorial Stadium • Lawrence, KS",FSN,51910
+November 10,11:30 AM,Kansas State,,"Memorial Stadium • Lincoln, NE",Versus,84665
+November 23,11:00 AM,at Colorado,,"Folsom Field • Boulder, CO (Rivalry)",ABC,51403

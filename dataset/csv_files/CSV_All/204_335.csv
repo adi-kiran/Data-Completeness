@@ -1,9 +1,9 @@
-Outcome,No.,Date,Tournament,Surface,Partner,Opponents in the final,Score in the final
-Runner-up,1.0,1969,"Los Angeles, U.S.",Hard,Jim McManus,Pancho Gonzales  Ron Holmberg,
-Runner-up,2.0,1970,"Merion, U.S.",Hard,Jim McManus,William Bowrey  Ray Ruffels,
-Winner,1.0,1971,"Columbus, U.S.",Hard,Jim McManus,Jimmy Connors  Roscoe Tanner,
-Winner,2.0,1971,"Merion, U.S.",Hard,Clark Graebner,Robert McKinley  Dick Stockton,
-Winner,3.0,1971,"Sacramento, U.S.",Hard,Jim McManus,Bob Maud  Frew McMillan,
-Winner,4.0,1972,"Los Angeles, U.S.",Outdoor,Jim McManus,Ilie Năstase  Ion Ţiriac,
-Winner,5.0,1972,"London/Queen's Club, England",Grass,Jim McManus,Jurgen Fassbender  Karl Meiler,
-Runner-up,3.0,1972,"Tanglewood, U.S.",Other,Jim McManus,Bob Hewitt  Andrew Pattison,
+outcome,no ,date,tournament,surface,partner,opponents in the final
+Runner-up,1.0,1969,"Los Angeles, U.S.",Hard,Jim McManus,Pancho Gonzales  Ron Holmberg
+Runner-up,2.0,1970,"Merion, U.S.",Hard,Jim McManus,William Bowrey  Ray Ruffels
+Winner,1.0,1971,"Columbus, U.S.",Hard,Jim McManus,Jimmy Connors  Roscoe Tanner
+Winner,2.0,1971,"Merion, U.S.",Hard,Clark Graebner,Robert McKinley  Dick Stockton
+Winner,3.0,1971,"Sacramento, U.S.",Hard,Jim McManus,Bob Maud  Frew McMillan
+Winner,4.0,1972,"Los Angeles, U.S.",Outdoor,Jim McManus,Ilie Năstase  Ion Ţiriac
+Winner,5.0,1972,"London/Queen's Club, England",Grass,Jim McManus,Jurgen Fassbender  Karl Meiler
+Runner-up,3.0,1972,"Tanglewood, U.S.",Other,Jim McManus,Bob Hewitt  Andrew Pattison

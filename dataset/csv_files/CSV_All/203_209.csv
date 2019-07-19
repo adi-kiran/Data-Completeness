@@ -1,54 +1,54 @@
-Date,Site,Winning team,Winning team.1,Losing team,Losing team.1,Series
-1959,Ames,Missouri,14,Iowa State,0,
-1960,Columbia,Missouri,34,Iowa State,8,
-1961,Ames,Missouri,13,Iowa State,7,
-1962,Columbia,Missouri,21,Iowa State,6,
-1963,Ames,Missouri,7,Iowa State,0,
-1964,Columbia,Missouri,10,Iowa State,0,
-1965,Ames,Missouri,23,Iowa State,7,
-1966,Columbia,Missouri,10,Iowa State,10,
-1967,Ames,Missouri,23,Iowa State,7,
-1968,Columbia,Missouri,42,Iowa State,7,
-1969,Ames,Missouri,40,Iowa State,13,
-1970,Columbia,Iowa State,31,Missouri,19,
-1971,Ames,Iowa State,45,Missouri,17,
-1972,Columbia,Missouri,6,Iowa State,5,
-1973,Ames,Iowa State,17,Missouri,7,
-1974,Columbia,Missouri,10,Iowa State,7,
-1975,Ames,Missouri,44,Iowa State,14,
-1976,Columbia,Iowa State,21,Missouri,17,
-1977,Ames,Iowa State,7,Missouri,0,
-1978,Columbia,Missouri,26,Iowa State,13,
-1979,Ames,Missouri,18,Iowa State,9,
-1980,Columbia,Missouri,14,Iowa State,10,
-1981,Ames,Iowa State,34,Missouri,13,
-1982,Columbia,Iowa State,17,Missouri,17,
-1983,Ames,Missouri,41,Iowa State,18,
-1984,Columbia,Iowa State,14,Missouri,14,
-1985,Ames,Missouri,28,Iowa State,27,
-1986,Columbia,Iowa State,37,Missouri,14,
-1987,Ames,Missouri,42,Iowa State,17,
-1988,Columbia,Iowa State,21,Missouri,3,
-1989,Columbia,Iowa State,35,Missouri,21,
-1990,Ames,Iowa State,27,Missouri,25,
-1991,Columbia,Iowa State,23,Missouri,22,
-1992,Ames,Iowa State,28,Missouri,14,
-1993,Columbia,Missouri,37,Iowa State,34,
-1994,Ames,Missouri,34,Iowa State,20,
-1995,Columbia,Missouri,45,Iowa State,31,
-1996,Ames,Iowa State,45,Missouri,31,
-1997,Columbia,Missouri,45,Iowa State,21,
-1998,Ames,#21 Missouri,35,Iowa State,19,
-1999,Columbia,Iowa State,24,Missouri,21,
-2000,Ames,Iowa State,39,Missouri,20,
-2001,Columbia,Iowa State,20,Missouri,14,
-2002,Ames,#22 Iowa State,42,Missouri,35,
-2003,Columbia,Missouri,45,Iowa State,7,
-2004,Ames,Missouri,17,Iowa State,14,
-2005,Columbia,Missouri,27,Iowa State,24,
-2006,Ames,Iowa State,21,Missouri,16,
-2007,Columbia,#13 Missouri,42,Iowa State,28,
-2008,Ames,#11 Missouri,52,Iowa State,20,
-2009,Columbia,Missouri,34,Iowa State,24,
-2010,Ames,#15 Missouri,14,Iowa State,0,
-2011,Columbia,Missouri,52,Iowa State,17,
+date,site,winning team,winning team 1,losing team,losing team 1
+1959,Ames,Missouri,14,Iowa State,0
+1960,Columbia,Missouri,34,Iowa State,8
+1961,Ames,Missouri,13,Iowa State,7
+1962,Columbia,Missouri,21,Iowa State,6
+1963,Ames,Missouri,7,Iowa State,0
+1964,Columbia,Missouri,10,Iowa State,0
+1965,Ames,Missouri,23,Iowa State,7
+1966,Columbia,Missouri,10,Iowa State,10
+1967,Ames,Missouri,23,Iowa State,7
+1968,Columbia,Missouri,42,Iowa State,7
+1969,Ames,Missouri,40,Iowa State,13
+1970,Columbia,Iowa State,31,Missouri,19
+1971,Ames,Iowa State,45,Missouri,17
+1972,Columbia,Missouri,6,Iowa State,5
+1973,Ames,Iowa State,17,Missouri,7
+1974,Columbia,Missouri,10,Iowa State,7
+1975,Ames,Missouri,44,Iowa State,14
+1976,Columbia,Iowa State,21,Missouri,17
+1977,Ames,Iowa State,7,Missouri,0
+1978,Columbia,Missouri,26,Iowa State,13
+1979,Ames,Missouri,18,Iowa State,9
+1980,Columbia,Missouri,14,Iowa State,10
+1981,Ames,Iowa State,34,Missouri,13
+1982,Columbia,Iowa State,17,Missouri,17
+1983,Ames,Missouri,41,Iowa State,18
+1984,Columbia,Iowa State,14,Missouri,14
+1985,Ames,Missouri,28,Iowa State,27
+1986,Columbia,Iowa State,37,Missouri,14
+1987,Ames,Missouri,42,Iowa State,17
+1988,Columbia,Iowa State,21,Missouri,3
+1989,Columbia,Iowa State,35,Missouri,21
+1990,Ames,Iowa State,27,Missouri,25
+1991,Columbia,Iowa State,23,Missouri,22
+1992,Ames,Iowa State,28,Missouri,14
+1993,Columbia,Missouri,37,Iowa State,34
+1994,Ames,Missouri,34,Iowa State,20
+1995,Columbia,Missouri,45,Iowa State,31
+1996,Ames,Iowa State,45,Missouri,31
+1997,Columbia,Missouri,45,Iowa State,21
+1998,Ames,#21 Missouri,35,Iowa State,19
+1999,Columbia,Iowa State,24,Missouri,21
+2000,Ames,Iowa State,39,Missouri,20
+2001,Columbia,Iowa State,20,Missouri,14
+2002,Ames,#22 Iowa State,42,Missouri,35
+2003,Columbia,Missouri,45,Iowa State,7
+2004,Ames,Missouri,17,Iowa State,14
+2005,Columbia,Missouri,27,Iowa State,24
+2006,Ames,Iowa State,21,Missouri,16
+2007,Columbia,#13 Missouri,42,Iowa State,28
+2008,Ames,#11 Missouri,52,Iowa State,20
+2009,Columbia,Missouri,34,Iowa State,24
+2010,Ames,#15 Missouri,14,Iowa State,0
+2011,Columbia,Missouri,52,Iowa State,17

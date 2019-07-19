@@ -1,13 +1,13 @@
-num,Date,Venue,Opponent,Score,Result,Competition
-1,"April 4, 1985","Portland, Oregon",Canada,,,Friendly
-2,"August 13, 1988","St. Louis, Missouri",Jamaica,,5-1,1990 World Cup qualifying
-3,"September 17, 1989","Tegucigalpa, Honduras",El Salvador,,,1990 World Cup qualifying
-4,"July 3, 1991","Los Angeles, California",Costa Rica,,,1991 CONCACAF Gold Cup
-5,"March 18, 1992","Casablanca, Morocco",Morocco,,,Friendly
-6,"April 4, 1992","Palo Alto, California",China PR,,1-0,Friendly
-7,"April 4, 1992","Palo Alto, California",China PR,,1-0,Friendly
-8,"March 14, 1993","Tokyo, Japan",Japan,,,Friendly
-9,"October 16, 1993","High Point, North Carolina",Ukraine,,,Friendly
-10,"December 5, 1993","Los Angeles, California",El Salvador,,,Friendly
-11,"February 20, 1994","Miami, Florida",Sweden,,,Friendly
-12,"March 26, 1994","Dallas, Texas",Bolivia,,,Friendly
+num,date,venue,opponent,result,competition
+1,"April 4, 1985","Portland, Oregon",Canada,,Friendly
+2,"August 13, 1988","St. Louis, Missouri",Jamaica,5-1,1990 World Cup qualifying
+3,"September 17, 1989","Tegucigalpa, Honduras",El Salvador,,1990 World Cup qualifying
+4,"July 3, 1991","Los Angeles, California",Costa Rica,,1991 CONCACAF Gold Cup
+5,"March 18, 1992","Casablanca, Morocco",Morocco,,Friendly
+6,"April 4, 1992","Palo Alto, California",China PR,1-0,Friendly
+7,"April 4, 1992","Palo Alto, California",China PR,1-0,Friendly
+8,"March 14, 1993","Tokyo, Japan",Japan,,Friendly
+9,"October 16, 1993","High Point, North Carolina",Ukraine,,Friendly
+10,"December 5, 1993","Los Angeles, California",El Salvador,,Friendly
+11,"February 20, 1994","Miami, Florida",Sweden,,Friendly
+12,"March 26, 1994","Dallas, Texas",Bolivia,,Friendly

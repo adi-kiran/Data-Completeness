@@ -1,4 +1,4 @@
-Model name,Date,Type,Thrust (kg) / Power (eshp),Fitted to
+model name,date,type,thrust (kg) / power (eshp),fitted to
 RTD-1/VDR-2,1938,Two-stage centrifugal compressor Turbojet,500 kg estimated,Test-bed only
 S-18/VDR-3,1945,Axial flow compressor Turbojet,"1,250 kg",Gu-VRD project
 TR-1,1946,8-stage Axial flow compressor Turbojet,"1,300 kg","Alekseyev I-21, Ilyushin Il-22, Sukhoi Su-10, Sukhoi Su-11"

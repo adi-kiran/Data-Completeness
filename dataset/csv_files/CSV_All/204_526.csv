@@ -1,17 +1,17 @@
-Name,num,Position,Height,Weight,Year,Home Town,High School
-Harrison Barnes,40,Forward,,210,Freshman,"Ames, IA",Ames
-Daniel Bolick,3,Guard,,175,Senior,"Carrboro, NC",Chapel Hill
-Reggie Bullock,35,Guard,,190,Freshman,"Kinston, NC",Kinston
-Stewart Cooper,15,Forward,,205,Junior,"Winston-Salem, NC",Forsyth County Day
-Patrick Crouch,30,Guard,,175,Junior,"Asheville, NC",T.C. Roberson
-Larry Drew II*,11,Guard,,180,Junior,"Encino, CA",Woodland Hills Taft
-David Dupont,22,Forward,,195,Junior,"Greensboro, NC",Grimsley
-Van Hatchell,13,Forward,,185,Senior,"Chapel Hill, NC",Cresset Christian
-John Henson,31,Forward,,210,Sophomore,"Tampa, FL",Sickles
-D.J. Johnston,32,Forward,,195,Junior,"Lower Gwynedd, PA",Germantown
-Justin Knox,25,Forward,,240,Graduate,"Tuscaloosa, AL",Central
-Kendall Marshall,5,Guard,,186,Freshman,"Dumfries, VA",Bishop O'Connell
-Leslie McDonald,15,Guard,,215,Sophomore,"Memphis, TN",Briarcrest Christian
-Dexter Strickland,1,Guard,,180,Sophomore,"Rahway, NJ",St. Patrick
-Justin Watts,24,Guard,,210,Junior,"Durham, NC",Jordan
-Tyler Zeller,44,Forward,,250,Junior,"Washington, IN",Washington
+name,num,position,weight,year,home town,high school
+Harrison Barnes,40,Forward,210,Freshman,"Ames, IA",Ames
+Daniel Bolick,3,Guard,175,Senior,"Carrboro, NC",Chapel Hill
+Reggie Bullock,35,Guard,190,Freshman,"Kinston, NC",Kinston
+Stewart Cooper,15,Forward,205,Junior,"Winston-Salem, NC",Forsyth County Day
+Patrick Crouch,30,Guard,175,Junior,"Asheville, NC",T.C. Roberson
+Larry Drew II*,11,Guard,180,Junior,"Encino, CA",Woodland Hills Taft
+David Dupont,22,Forward,195,Junior,"Greensboro, NC",Grimsley
+Van Hatchell,13,Forward,185,Senior,"Chapel Hill, NC",Cresset Christian
+John Henson,31,Forward,210,Sophomore,"Tampa, FL",Sickles
+D.J. Johnston,32,Forward,195,Junior,"Lower Gwynedd, PA",Germantown
+Justin Knox,25,Forward,240,Graduate,"Tuscaloosa, AL",Central
+Kendall Marshall,5,Guard,186,Freshman,"Dumfries, VA",Bishop O'Connell
+Leslie McDonald,15,Guard,215,Sophomore,"Memphis, TN",Briarcrest Christian
+Dexter Strickland,1,Guard,180,Sophomore,"Rahway, NJ",St. Patrick
+Justin Watts,24,Guard,210,Junior,"Durham, NC",Jordan
+Tyler Zeller,44,Forward,250,Junior,"Washington, IN",Washington

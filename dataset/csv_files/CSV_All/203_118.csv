@@ -1,17 +1,17 @@
-Game,Date,Opponent,Location,Score,OT,Attendance,Record
-1,"January 8, 2005",Philadelphia Wings,Arrowhead Pond,,,5732,
-2,"January 22, 2005",Rochester Knighthawks,Arrowhead Pond,,,4053,
-3,"January 28, 2005",@ Minnesota Swarm,Xcel Energy Center,,,12514,
-4,"January 29, 2005",Calgary Roughnecks,Arrowhead Pond,,,4159,
-5,"February 4, 2005",@ Arizona Sting,Jobing.com Arena,,,6313,
-6,"February 11, 2005",@ Buffalo Bandits,HSBC Arena,,,8805,
-7,"February 18, 2005",@ Calgary Roughnecks,Pengrowth Saddledome,,,9550,
-8,"March 4, 2005",Colorado Mammoth,Arrowhead Pond,,,4500,
-9,"March 13, 2005",Toronto Rock,Arrowhead Pond,,,4499,
-10,"March 19, 2005",@ Colorado Mammoth,Pepsi Center,,,16270,
-11,"March 25, 2005",@ San Jose Stealth,HP Pavilion at San Jose,,,5022,
-12,"March 26, 2005",San Jose Stealth,Arrowhead Pond,,OT,4834,
-13,"April 2, 2005",@ Colorado Mammoth,Pepsi Center,,,18326,
-14,"April 9, 2005",Minnesota Swarm,Arrowhead Pond,,OT,4967,
-15,"April 15, 2005",Arizona Sting,Arrowhead Pond,,,5891,
-16,"April 16, 2005",@ Arizona Sting,Jobing.com Arena,,,7731,
+game,date,opponent,location,ot,attendance
+1,"January 8, 2005",Philadelphia Wings,Arrowhead Pond,,5732
+2,"January 22, 2005",Rochester Knighthawks,Arrowhead Pond,,4053
+3,"January 28, 2005",@ Minnesota Swarm,Xcel Energy Center,,12514
+4,"January 29, 2005",Calgary Roughnecks,Arrowhead Pond,,4159
+5,"February 4, 2005",@ Arizona Sting,Jobing.com Arena,,6313
+6,"February 11, 2005",@ Buffalo Bandits,HSBC Arena,,8805
+7,"February 18, 2005",@ Calgary Roughnecks,Pengrowth Saddledome,,9550
+8,"March 4, 2005",Colorado Mammoth,Arrowhead Pond,,4500
+9,"March 13, 2005",Toronto Rock,Arrowhead Pond,,4499
+10,"March 19, 2005",@ Colorado Mammoth,Pepsi Center,,16270
+11,"March 25, 2005",@ San Jose Stealth,HP Pavilion at San Jose,,5022
+12,"March 26, 2005",San Jose Stealth,Arrowhead Pond,OT,4834
+13,"April 2, 2005",@ Colorado Mammoth,Pepsi Center,,18326
+14,"April 9, 2005",Minnesota Swarm,Arrowhead Pond,OT,4967
+15,"April 15, 2005",Arizona Sting,Arrowhead Pond,,5891
+16,"April 16, 2005",@ Arizona Sting,Jobing.com Arena,,7731

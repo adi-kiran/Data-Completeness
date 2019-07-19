@@ -1,39 +1,39 @@
-Date,Opponent,Venue,Result,Scorers,Report
-,Udinese,Away,,Bresciano,18
-,AS Roma,Home,,"Miccoli (2), Cavani",
-,Genoa,Home,,"Bovo, Cavani",4
-,Napoli,Away,,Miccoli,
-,Reggina,Home,,Miccoli,
-,Juventus,Away,,"Miccoli, Mchedlidze",
-"October 19, 2008 - 15:00",Catania,Away,,,Report
-"October 26, 2008 - 20:30",Fiorentina,Home,,Simplicio,Report
-,Lecce,Away,,Cavani,Report
-"November 2, 2008 - 15:00",Chievo,Home,,"Miccoli, Kjær, Cavani",
-"November 8, 2008 - 18:00",Torino,Away,,,Report
-"November 15, 2008 - 20:30",Internazionale,Home,,,Report
-"November 23, 2008 - 15:00",Bologna,Away,,Succi,Report
-"November 30, 2008 - 20:30",AC Milan,Home,,"Miccoli, Cavani, Simplicio",Report
-"December 7, 2008 - 15:00",Cagliari,Away,,,Report
-"December 14, 2008 - 15:00",Siena,Home,,"Cassani, Simplicio",Report
-"December 20, 2008 - 18:00",Lazio,Away,,,Report
-"January 11, 2009 - 15:00",Atalanta,Home,,"Miccoli, Bresciano, Cavani",Report
-"January 18, 2009 - 15:00",Sampdoria,Home,,Bresciano (2),Report
-"January 25, 2009 - 15:00",Udinese,Home,,"Simplicio (2), Cavani",Report
-"January 28, 2009 - 20:30",AS Roma,Away,,Cavani,Report
-"February 1, 2009 - 15:15",Genoa,Away,,,Report
-"February 8, 2009 - 20:30",Napoli,Home,,"Migliaccio, Simplicio",Report
-"February 15, 2009 - 15:00",Reggina,Away,,,Report
-"February 21, 2009 - 20:30",Juventus,Home,,,Report
-"March 1, 2009 - 15:00",Catania,Home,,,Report
-"March 8, 2009 - 15:00",Fiorentina,Away,,"Simplicio, Miccoli",Report
-"March 15, 2009 - 15:00",Lecce,Home,,"Cavani (2), Simplicio, Miccoli, Kjær",Report
-"March 22, 2009 - 15:00",Chievo,Away,,,Report
-"April 5, 2009 - 15:00",Torino,Home,,Cavani,Report
-"April 19, 2009 - 15:00",Internazionale,Away,,"Cavani, Succi",Report
-"April 19, 2009 - 15:00",Bologna,Home,,"Belleri (own goal), Kjær, Succi, Cavani",Report
-"April 26, 2009 - 15:00",AC Milan,Away,,,Report
-"May 3, 2009 - 15:00",Cagliari,Home,,"Migliaccio, Miccoli, Tedesco, Cavani, Succi",Report
-"May 10, 2009 - 15:00",Siena,Away,,,Report
-"May 17, 2009 - 15:00",Lazio,Home,,"Miccoli, Migliaccio",Report
-"May 24, 2009 - 15:00",Atalanta,Away,,"Succi, Miccoli",Report
-"May 31, 2009 - 15:00",Sampdoria,Home,,"Miccoli, Succi",Report
+date,opponent,venue,scorers,report
+,Udinese,Away,Bresciano,18
+,AS Roma,Home,"Miccoli (2), Cavani",
+,Genoa,Home,"Bovo, Cavani",4
+,Napoli,Away,Miccoli,
+,Reggina,Home,Miccoli,
+,Juventus,Away,"Miccoli, Mchedlidze",
+"October 19, 2008 - 15:00",Catania,Away,,Report
+"October 26, 2008 - 20:30",Fiorentina,Home,Simplicio,Report
+,Lecce,Away,Cavani,Report
+"November 2, 2008 - 15:00",Chievo,Home,"Miccoli, Kjær, Cavani",
+"November 8, 2008 - 18:00",Torino,Away,,Report
+"November 15, 2008 - 20:30",Internazionale,Home,,Report
+"November 23, 2008 - 15:00",Bologna,Away,Succi,Report
+"November 30, 2008 - 20:30",AC Milan,Home,"Miccoli, Cavani, Simplicio",Report
+"December 7, 2008 - 15:00",Cagliari,Away,,Report
+"December 14, 2008 - 15:00",Siena,Home,"Cassani, Simplicio",Report
+"December 20, 2008 - 18:00",Lazio,Away,,Report
+"January 11, 2009 - 15:00",Atalanta,Home,"Miccoli, Bresciano, Cavani",Report
+"January 18, 2009 - 15:00",Sampdoria,Home,Bresciano (2),Report
+"January 25, 2009 - 15:00",Udinese,Home,"Simplicio (2), Cavani",Report
+"January 28, 2009 - 20:30",AS Roma,Away,Cavani,Report
+"February 1, 2009 - 15:15",Genoa,Away,,Report
+"February 8, 2009 - 20:30",Napoli,Home,"Migliaccio, Simplicio",Report
+"February 15, 2009 - 15:00",Reggina,Away,,Report
+"February 21, 2009 - 20:30",Juventus,Home,,Report
+"March 1, 2009 - 15:00",Catania,Home,,Report
+"March 8, 2009 - 15:00",Fiorentina,Away,"Simplicio, Miccoli",Report
+"March 15, 2009 - 15:00",Lecce,Home,"Cavani (2), Simplicio, Miccoli, Kjær",Report
+"March 22, 2009 - 15:00",Chievo,Away,,Report
+"April 5, 2009 - 15:00",Torino,Home,Cavani,Report
+"April 19, 2009 - 15:00",Internazionale,Away,"Cavani, Succi",Report
+"April 19, 2009 - 15:00",Bologna,Home,"Belleri (own goal), Kjær, Succi, Cavani",Report
+"April 26, 2009 - 15:00",AC Milan,Away,,Report
+"May 3, 2009 - 15:00",Cagliari,Home,"Migliaccio, Miccoli, Tedesco, Cavani, Succi",Report
+"May 10, 2009 - 15:00",Siena,Away,,Report
+"May 17, 2009 - 15:00",Lazio,Home,"Miccoli, Migliaccio",Report
+"May 24, 2009 - 15:00",Atalanta,Away,"Succi, Miccoli",Report
+"May 31, 2009 - 15:00",Sampdoria,Home,"Miccoli, Succi",Report

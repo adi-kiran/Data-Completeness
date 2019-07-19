@@ -1,4 +1,4 @@
-Formula,color,symmetry,space group,No,Pearson symbol,a (pm),b (pm),c (pm),Z,"density, g/cm3"
+formula,color,symmetry,space group,no,pearson symbol,a (pm),b (pm),c (pm),z,"density, g/cm3"
 Pa,silvery-gray,tetragonal,I4/mmm,139.0,tI2,392.5,392.5,323.8,2.0,15.37
 PaO,,rocksalt,Fm3m,225.0,cF8,496.1,,,4.0,13.44
 PaO2,black,fcc,Fm3m,225.0,cF12,550.5,,,4.0,10.47

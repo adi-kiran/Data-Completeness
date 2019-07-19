@@ -1,17 +1,17 @@
-Week,Date,Opponent,Score,Result,Record
-1,July 9,vs. Saskatchewan Roughriders,,Win,
-2,July 16,at Montreal Concordes,,Win,
-3,July 24,vs. Hamilton Tiger-Cats,,Loss,
-4,Aug 1,at Edmonton Eskimos,,Win,
-5,Aug 8,vs. BC Lions,,Win,
-6,Aug 20,at Calgary Stampeders,,Win,
-7,Aug 28,vs. Ottawa Rough Riders,,Win,
-8,Sept 5,at Saskatchewan Roughriders,,Win,
-9,Sept 11,vs. Calgary Stampeders,,Loss,
-10,Sept 18,at Ottawa Rough Riders,,Loss,
-11,Sept 25,vs. Montreal Concordes,,Win,
-12,Oct 2,at BC Lions,,Win,
-13,Oct 11,vs. Toronto Argonauts,,Win,
-14,Oct 17,at Toronto Argonauts,,Win,
-15,Oct 23,vs. Edmonton Eskimos,,Loss,
-16,Nov 7,at Hamilton Tiger-Cats,,Loss,
+week,date,opponent,result
+1,July 9,vs. Saskatchewan Roughriders,Win
+2,July 16,at Montreal Concordes,Win
+3,July 24,vs. Hamilton Tiger-Cats,Loss
+4,Aug 1,at Edmonton Eskimos,Win
+5,Aug 8,vs. BC Lions,Win
+6,Aug 20,at Calgary Stampeders,Win
+7,Aug 28,vs. Ottawa Rough Riders,Win
+8,Sept 5,at Saskatchewan Roughriders,Win
+9,Sept 11,vs. Calgary Stampeders,Loss
+10,Sept 18,at Ottawa Rough Riders,Loss
+11,Sept 25,vs. Montreal Concordes,Win
+12,Oct 2,at BC Lions,Win
+13,Oct 11,vs. Toronto Argonauts,Win
+14,Oct 17,at Toronto Argonauts,Win
+15,Oct 23,vs. Edmonton Eskimos,Loss
+16,Nov 7,at Hamilton Tiger-Cats,Loss

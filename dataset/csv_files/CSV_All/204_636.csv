@@ -1,12 +1,12 @@
-Season,Tier,Division,Pos.,Notes
-,1,Division de Honor,1st,League champion
-,1,Division de Honor,2nd,Cup champion
-,1,Division de Honor,3rd,
-,1,Division de Honor,3rd,
-,1,Division de Honor,1st,League champion
-,1,Division de Honor,3rd,
-,1,Division de Honor,2nd,
-,1,Division de Honor,2nd,
-,1,Division de Honor,9th,Relegated
-,3,Primera Nacional,1st,
-,3,Primera Nacional,,
+tier,division,pos ,notes
+1,Division de Honor,1st,League champion
+1,Division de Honor,2nd,Cup champion
+1,Division de Honor,3rd,
+1,Division de Honor,3rd,
+1,Division de Honor,1st,League champion
+1,Division de Honor,3rd,
+1,Division de Honor,2nd,
+1,Division de Honor,2nd,
+1,Division de Honor,9th,Relegated
+3,Primera Nacional,1st,
+3,Primera Nacional,,

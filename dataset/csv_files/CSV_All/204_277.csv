@@ -1,4 +1,4 @@
-Region,Country,Location,Size (m),Payload (metric tonnes),Degrees of Freedom,X Horiz Disp (mm),Y Horiz Disp (mm),Z Vert Disp (mm),X Horiz Vel (mm/s),Y Horiz vel (mm/s),Z Vert vel (mm/s),X Horiz accel (m/s2),Y Horiz accel (m/s2),Z Vert accel (m/s2),Max Freq (Hz),Details checked
+region,country,location,size (m),payload (metric tonnes),degrees of freedom,x horiz disp (mm),y horiz disp (mm),z vert disp (mm),x horiz vel (mm/s),y horiz vel (mm/s),z vert vel (mm/s),x horiz accel (m/s2),y horiz accel (m/s2),z vert accel (m/s2),max freq (hz),details checked
 Africa,Algeria,CGS Laboratory (in construction),6.1 x 6.1,60,6,pl/mi 150,pl/mi 250,pl/mi 100,pl/mi 1100,pl/mi 1100,pl/mi 1000,pl/mi 10,pl/mi 10,pl/mi 8,100,30/6/2010
 Africa,South Africa,University of Witwatersrand,4 x 4,10,1,pl/mi 750,,,pl/mi 1000,,,pl/mi 10,,,40,17/7/2009
 Asia,China,"China Academy of Building Research, Beijing",6.1 x 6.1,60,6,pl/mi 150,pl/mi 250,pl/mi 100,pl/mi 1000,pl/mi 1200,pl/mi 800,pl/mi 15,pl/mi 10,pl/mi 8,50,?

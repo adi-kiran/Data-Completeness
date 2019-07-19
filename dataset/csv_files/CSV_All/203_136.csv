@@ -1,4 +1,4 @@
-Year,IBM Model Number,Name,Processor,Bus,HD Interface,Case,Notes
+year,ibm model number,name,processor,bus,hd interface,case,notes
 1987.0,8525-001,Model 25,8 MHz Intel 8086,ISA 8 bit,,Desktop with integrated Monochrome display,Single disk drive
 1987.0,8525-004,Model 25,8 MHz Intel 8086,ISA 8 bit,,Desktop with integrated Color display,Single disk drive
 1987.0,8525-G01,Model 25,8 MHz Intel 8086,ISA 8 bit,,Desktop with integrated Monochrome display,"Single disk drive, enhanced keyboard"

@@ -1,17 +1,17 @@
-Game,Date,Opponent,Location,Score,Attendance,Record
-1,"January 3, 2009",Toronto Rock,Prudential Center,,5733,
-2,"January 10, 2009",Boston Blazers,Prudential Center,,3208,
-3,"January 17, 2009",@ Boston Blazers,TD Banknorth Garden,,9313,
-4,"January 24, 2009",@ Rochester Knighthawks,Blue Cross Arena,,6739,
-5,"January 31, 2009",@ Colorado Mammoth,Pepsi Center,,15023,
-6,"February 7, 2009",@ Boston Blazers,TD Banknorth Garden,,5713,
-7,"February 8, 2009",Philadelphia Wings,Prudential Center,,4231,
-8,"February 15, 2009",Rochester Knighthawks,Prudential Center,,5187,
-9,"February 21, 2009",@ Rochester Knighthawks,Blue Cross Arena,,7142,
-10,"February 28, 2009",Calgary Roughnecks,Prudential Center,,5487,
-11,"March 1, 2009",San Jose Stealth,Prudential Center,,3287,
-12,"March 28, 2009",@ Buffalo Bandits,HSBC Arena,,18550,
-13,"April 4, 2009",Philadelphia Wings,Prudential Center,,4187,
-14,"April 5, 2009",@ Philadelphia Wings,Wachovia Center,,10806,
-15,"April 11, 2009",Buffalo Bandits,Prudential Center,,6222,
-16,"April 18, 2009",@ Minnesota Swarm,Xcel Energy Center,,13219,
+game,date,opponent,location,attendance
+1,"January 3, 2009",Toronto Rock,Prudential Center,5733
+2,"January 10, 2009",Boston Blazers,Prudential Center,3208
+3,"January 17, 2009",@ Boston Blazers,TD Banknorth Garden,9313
+4,"January 24, 2009",@ Rochester Knighthawks,Blue Cross Arena,6739
+5,"January 31, 2009",@ Colorado Mammoth,Pepsi Center,15023
+6,"February 7, 2009",@ Boston Blazers,TD Banknorth Garden,5713
+7,"February 8, 2009",Philadelphia Wings,Prudential Center,4231
+8,"February 15, 2009",Rochester Knighthawks,Prudential Center,5187
+9,"February 21, 2009",@ Rochester Knighthawks,Blue Cross Arena,7142
+10,"February 28, 2009",Calgary Roughnecks,Prudential Center,5487
+11,"March 1, 2009",San Jose Stealth,Prudential Center,3287
+12,"March 28, 2009",@ Buffalo Bandits,HSBC Arena,18550
+13,"April 4, 2009",Philadelphia Wings,Prudential Center,4187
+14,"April 5, 2009",@ Philadelphia Wings,Wachovia Center,10806
+15,"April 11, 2009",Buffalo Bandits,Prudential Center,6222
+16,"April 18, 2009",@ Minnesota Swarm,Xcel Energy Center,13219

@@ -1,4 +1,4 @@
-Position,Sail Number,Yacht,State/Country,Yacht Type,LOA (Metres),Skipper,Elapsed Time d:hh:mm:ss
+position,sail number,yacht,state/country,yacht type,loa (metres),skipper,elapsed time d:hh:mm:ss
 1,US17,Sayonara,USA,Farr ILC Maxi,24.13,Larry Ellison,2:19:03:32
 2,C1,Brindabella,NSW,Jutson 79,24.07,George Snow,2:21:55:06
 3,YC1000,Ausmaid,SA,Farr 47,14.24,Kevan Pearce,3:06:02:29

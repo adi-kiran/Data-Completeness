@@ -1,8 +1,8 @@
-Date,Time (EDT),Team num1,Res.,Team num2,Round,Spectators
-1994-06-18,16.0,Italy,,Republic of Ireland,Group E,75338
-1994-06-23,16.0,Italy,,Norway,Group E,74624
-1994-06-25,12.3,Saudi Arabia,,Morocco,Group F,76322
-1994-06-28,12.3,Republic of Ireland,,Norway,Group E,72404
-1994-07-05,16.3,Mexico,,Bulgaria,Round of 16,71030
-1994-07-10,12.0,Bulgaria,,Germany,Quarterfinals,72000
-1994-07-13,16.0,Bulgaria,,Italy,Semifinals,74110
+date,time (edt),team num1,team num2,round,spectators
+1994-06-18,16.0,Italy,Republic of Ireland,Group E,75338
+1994-06-23,16.0,Italy,Norway,Group E,74624
+1994-06-25,12.3,Saudi Arabia,Morocco,Group F,76322
+1994-06-28,12.3,Republic of Ireland,Norway,Group E,72404
+1994-07-05,16.3,Mexico,Bulgaria,Round of 16,71030
+1994-07-10,12.0,Bulgaria,Germany,Quarterfinals,72000
+1994-07-13,16.0,Bulgaria,Italy,Semifinals,74110

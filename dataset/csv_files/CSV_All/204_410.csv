@@ -1,11 +1,11 @@
-num,Player,Goals,Caps,Career
-1,Landon Donovan,57,155,
-2,Clint Dempsey,36,103,
-3,Eric Wynalda,34,106,
-4,Brian McBride,30,95,
-5,Joe-Max Moore,24,100,
-6T,Jozy Altidore,21,67,
-6T,Bruce Murray,21,86,
-8,Eddie Johnson,19,62,
-9T,Earnie Stewart,17,101,
-9T,DaMarcus Beasley,17,114,
+num,player,goals,caps
+1,Landon Donovan,57,155
+2,Clint Dempsey,36,103
+3,Eric Wynalda,34,106
+4,Brian McBride,30,95
+5,Joe-Max Moore,24,100
+6T,Jozy Altidore,21,67
+6T,Bruce Murray,21,86
+8,Eddie Johnson,19,62
+9T,Earnie Stewart,17,101
+9T,DaMarcus Beasley,17,114

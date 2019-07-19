@@ -1,4 +1,4 @@
-STAPLE:,Maize / Corn,Rice,Wheat,Potato,Cassava,Soybean (Green),Sweet potato,Sorghum,Yam,Plantain
+staple:,maize / corn,rice,wheat,potato,cassava,soybean (green),sweet potato,sorghum,yam,plantain
 Component (per 100g portion),Amount,Amount,Amount,Amount,Amount,Amount,Amount,Amount,Amount,Amount
 Water (g),10,12,13,79,60,68,77,9,70,65
 Energy (kJ),1528,1528,1369,322,670,615,360,1419,494,511

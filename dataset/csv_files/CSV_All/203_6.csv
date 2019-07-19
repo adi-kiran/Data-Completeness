@@ -1,8 +1,8 @@
-num,Date,Venue,Opponent,Score,Result,Competition
-1.0,16 November 2005,"Tehelne pole, Bratislava, Slovakia",Spain,,,2006 FIFA World Cup play-offs
-2.0,20 May 2006,"Štadion Antona Malatinskeho, Trnava, Slovakia",Belgium,,,Friendly
-3.0,13 October 2007,"Štadion Zimný, Dubnica, Slovakia",San Marino,,,UEFA Euro 2008 qualifying
-4.0,21 November 2007,"Stadio Olimpico, Serravalle, San Marino",San Marino,,,UEFA Euro 2008 qualifying
-5.0,9 September 2009,"Windsor Park, Belfast, Northern Ireland",Northern Ireland,,,2010 FIFA World Cup qualification
-6.0,3 September 2010,"Pasienky, Bratislava, Slovakia",Macedonia,,,UEFA Euro 2012 qualification
-7.0,29 March 2011,"Štadion Antona Malatinskeho, Trnava, Slovakia",Denmark,,,Friendly
+num,date,venue,opponent,competition
+1.0,16 November 2005,"Tehelne pole, Bratislava, Slovakia",Spain,2006 FIFA World Cup play-offs
+2.0,20 May 2006,"Štadion Antona Malatinskeho, Trnava, Slovakia",Belgium,Friendly
+3.0,13 October 2007,"Štadion Zimný, Dubnica, Slovakia",San Marino,UEFA Euro 2008 qualifying
+4.0,21 November 2007,"Stadio Olimpico, Serravalle, San Marino",San Marino,UEFA Euro 2008 qualifying
+5.0,9 September 2009,"Windsor Park, Belfast, Northern Ireland",Northern Ireland,2010 FIFA World Cup qualification
+6.0,3 September 2010,"Pasienky, Bratislava, Slovakia",Macedonia,UEFA Euro 2012 qualification
+7.0,29 March 2011,"Štadion Antona Malatinskeho, Trnava, Slovakia",Denmark,Friendly

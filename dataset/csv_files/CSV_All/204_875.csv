@@ -1,17 +1,17 @@
-Game,Day,Date,Kickoff,Opponent,Results Score,Results Record,Location,Attendance
-1,Sunday,November 10,3:05pm,at Las Vegas Legends,,,Orleans Arena,1836
-2,Sunday,November 17,1:05pm,Monterrey Flash,,,UniSantos Park,363
-3,Saturday,November 23,7:05pm,at Bay Area Rosal,,,Cabernet Indoor Sports,652
-4,Sunday,December 1,1:05pm,Ontario Fury,,,UniSantos Park,207
-5,Saturday,December 14,7:05pm,at Sacramento Surge,,,Estadio Azteca Soccer Arena,215
-6,Sunday,December 15,6:00pm,at Bay Area Rosal,,,Cabernet Indoor Sports,480
-7,Sunday,December 22,1:05pm,Turlock Express,,,UniSantos Park,218
-8,Saturday,January 4,7:05pm,at Ontario Fury,,,Citizens Business Bank Arena,2653
-9,Sunday,January 5,1:05pm,San Diego Sockers,,,UniSantos Park,388
-10,Sunday,January 12,1:05pm,Las Vegas Legends,,,UniSantos Park,343
-11,Sunday,January 19,1:05pm,Bay Area Rosal,,,UniSantos Park,219
-12,Sunday,January 26,1:05pm,Sacramento Surge,,,UniSantos Park,224
-13,Saturday,February 1,7:05pm,at San Diego Sockers,,,Valley View Casino Center,4954
-14,Friday,February 7,7:05pm,at Turlock Express,,,Turlock Soccer Complex,673
-15,Saturday,February 8,7:05pm,at Sacramento Surge,,,Estadio Azteca Soccer Arena,323
-16,Saturday,February 15♥,5:05pm,Bay Area Rosal,,,UniSantos Park,118
+game,day,date,kickoff,opponent,location,attendance
+1,Sunday,November 10,3:05pm,at Las Vegas Legends,Orleans Arena,1836
+2,Sunday,November 17,1:05pm,Monterrey Flash,UniSantos Park,363
+3,Saturday,November 23,7:05pm,at Bay Area Rosal,Cabernet Indoor Sports,652
+4,Sunday,December 1,1:05pm,Ontario Fury,UniSantos Park,207
+5,Saturday,December 14,7:05pm,at Sacramento Surge,Estadio Azteca Soccer Arena,215
+6,Sunday,December 15,6:00pm,at Bay Area Rosal,Cabernet Indoor Sports,480
+7,Sunday,December 22,1:05pm,Turlock Express,UniSantos Park,218
+8,Saturday,January 4,7:05pm,at Ontario Fury,Citizens Business Bank Arena,2653
+9,Sunday,January 5,1:05pm,San Diego Sockers,UniSantos Park,388
+10,Sunday,January 12,1:05pm,Las Vegas Legends,UniSantos Park,343
+11,Sunday,January 19,1:05pm,Bay Area Rosal,UniSantos Park,219
+12,Sunday,January 26,1:05pm,Sacramento Surge,UniSantos Park,224
+13,Saturday,February 1,7:05pm,at San Diego Sockers,Valley View Casino Center,4954
+14,Friday,February 7,7:05pm,at Turlock Express,Turlock Soccer Complex,673
+15,Saturday,February 8,7:05pm,at Sacramento Surge,Estadio Azteca Soccer Arena,323
+16,Saturday,February 15♥,5:05pm,Bay Area Rosal,UniSantos Park,118

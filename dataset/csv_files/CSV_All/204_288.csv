@@ -1,30 +1,30 @@
-Region,Seed,Team,Coach,Finished,Final Opponent,Score
-East,,,,,,
-East,,Furman,Joe Williams,First round,Syracuse,L 83-82
-East,,Maryland,Lefty Driesell,Regional Runner-up,Providence,L 103-89
-East,,Penn,Chuck Daly,Regional Fourth Place,Syracuse,L 69-68
-East,,Providence,Dave Gavitt,Fourth Place,Indiana,L 97-79
-East,,St. John's,Frank Mulzoff,First round,Penn,L 62-61
-East,,Saint Joseph's,Jack McKinney,First round,Providence,L 89-76
-East,,Syracuse,Roy Danforth,Regional Third Place,Penn,W 69-68
-Mideast,,,,,,
-Mideast,,Austin Peay,Lake Kelly,Regional Fourth Place,Marquette,L 88-73
-Mideast,,Indiana,Bob Knight,Third Place,Providence,W 97-79
-Mideast,,Jacksonville,Tom Wasdin,First round,Austin Peay,L 77-75
-Mideast,,Kentucky,Joe B. Hall,Regional Runner-up,Indiana,L 72-65
-Mideast,,Marquette,Al McGuire,Regional Third Place,Austin Peay,W 88-73
-Mideast,,"Miami, Ohio",Darrell Hedric,First round,Marquette,L 77-62
-Midwest,,,,,,
-Midwest,,Houston,Guy Lewis,First round,Southwestern Louisiana,L 102-89
-Midwest,,Kansas State,Jack Hartman,Regional Runner-up,Memphis State,L 92-72
-Midwest,,Southwestern Louisiana (Vacated),Beryl Shipley,Regional Fourth Place,South Carolina,L 90-85
-Midwest,,Memphis State,Gene Bartow,Runner Up,UCLA,L 87-66
-Midwest,,South Carolina,Frank McGuire,Regional Third Place,Southwestern Louisiana,W 90-85
-Midwest,,Texas Tech,Gerald Myers,First round,South Carolina,L 78-70
-West,,,,,,
-West,,Arizona State,Ned Wulk,Regional Fourth Place,Long Beach State,L 84-80
-West,,Long Beach State,Jerry Tarkanian,Regional Third Place,Arizona State,W 84-80
-West,,Oklahoma City,Abe Lemons,First round,Arizona State,L 103-78
-West,,San Francisco,Bob Gaillard,Regional Runner-up,UCLA,L 54-39
-West,,UCLA,John Wooden,Champion,Memphis State,W 87-66
-West,,Weber State,Gene Visscher,First round,Long Beach State,L 88-75
+region,team,coach,finished,final opponent,score
+East,,,,,
+East,Furman,Joe Williams,First round,Syracuse,L 83-82
+East,Maryland,Lefty Driesell,Regional Runner-up,Providence,L 103-89
+East,Penn,Chuck Daly,Regional Fourth Place,Syracuse,L 69-68
+East,Providence,Dave Gavitt,Fourth Place,Indiana,L 97-79
+East,St. John's,Frank Mulzoff,First round,Penn,L 62-61
+East,Saint Joseph's,Jack McKinney,First round,Providence,L 89-76
+East,Syracuse,Roy Danforth,Regional Third Place,Penn,W 69-68
+Mideast,,,,,
+Mideast,Austin Peay,Lake Kelly,Regional Fourth Place,Marquette,L 88-73
+Mideast,Indiana,Bob Knight,Third Place,Providence,W 97-79
+Mideast,Jacksonville,Tom Wasdin,First round,Austin Peay,L 77-75
+Mideast,Kentucky,Joe B. Hall,Regional Runner-up,Indiana,L 72-65
+Mideast,Marquette,Al McGuire,Regional Third Place,Austin Peay,W 88-73
+Mideast,"Miami, Ohio",Darrell Hedric,First round,Marquette,L 77-62
+Midwest,,,,,
+Midwest,Houston,Guy Lewis,First round,Southwestern Louisiana,L 102-89
+Midwest,Kansas State,Jack Hartman,Regional Runner-up,Memphis State,L 92-72
+Midwest,Southwestern Louisiana (Vacated),Beryl Shipley,Regional Fourth Place,South Carolina,L 90-85
+Midwest,Memphis State,Gene Bartow,Runner Up,UCLA,L 87-66
+Midwest,South Carolina,Frank McGuire,Regional Third Place,Southwestern Louisiana,W 90-85
+Midwest,Texas Tech,Gerald Myers,First round,South Carolina,L 78-70
+West,,,,,
+West,Arizona State,Ned Wulk,Regional Fourth Place,Long Beach State,L 84-80
+West,Long Beach State,Jerry Tarkanian,Regional Third Place,Arizona State,W 84-80
+West,Oklahoma City,Abe Lemons,First round,Arizona State,L 103-78
+West,San Francisco,Bob Gaillard,Regional Runner-up,UCLA,L 54-39
+West,UCLA,John Wooden,Champion,Memphis State,W 87-66
+West,Weber State,Gene Visscher,First round,Long Beach State,L 88-75

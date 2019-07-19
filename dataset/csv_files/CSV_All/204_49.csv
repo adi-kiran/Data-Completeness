@@ -1,4 +1,4 @@
-City,Country,IATA,ICAO,Airport,Commenced,Ended
+city,country,iata,icao,airport,commenced,ended
 Bandung,Indonesia,BDO,WICC,Husein Sastranegara International Airport,2013,present
 Bangalore,India,BLR,VOBL,Bengaluru International Airport,2008[N],present[N]
 Bangkok,Thailand,BKK,VTBS,Suvarnabhumi Airport,2004,present

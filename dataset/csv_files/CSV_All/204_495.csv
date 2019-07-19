@@ -1,41 +1,41 @@
-Date,Opponent,Venue,Result,Attendance,Scorers
-15 August 1987,Derby County,Away,,17204,
-18 August 1987,Coventry City,Home,,9380,
-22 August 1987,West Ham United,Home,,8073,Harford (2)
-29 August 1987,Chelsea,Away,,16075,
-31 August 1987,Arsenal,Home,,8745,Wilson (pen)
-5 September 1987,Oxford United,Away,,6804,"Breacker, Harford, Hill, Nwajiobi, B. Stein"
-12 September 1987,Everton,Home,,8124,"Hill, B. Stein"
-19 September 1987,Charlton Athletic,Away,,5002,
-26 September 1987,Queens Park Rangers,Away,,11175,
-3 October 1987,Manchester United,Home,,9137,Harford
-10 October 1987,Portsmouth,Away,,12391,Harford (pen)
-17 October 1987,Wimbledon,Home,,7018,"B. Stein, Wilson"
-24 October 1987,Liverpool,Home,,11997,
-7 November 1987,Newcastle United,Home,,7638,"Nwajiobi, B. Stein, M. Stein (2)"
-14 November 1987,Sheffield Wednesday,Away,,16960,"Allinson, M. Stein"
-21 November 1987,Tottenham Hotspur,Home,,10091,Allinson (2)
-5 December 1987,Norwich City,Home,,7002,B. Stein
-12 December 1987,Watford,Away,,12152,Foster
-18 December 1987,Southampton,Home,,6618,"Harford, McDonough"
-26 December 1987,Everton,Away,,32128,
-28 December 1987,Charlton Athletic,Home,,7243,Wilson
-1 January 1988,Chelsea,Home,,8018,"Harford, B. Stein, M. Stein"
-2 January 1988,West Ham United,Away,,16716,M. Stein
-16 January 1988,Derby County,Home,,7175,McDonough
-6 February 1988,Oxford United,Home,,8063,"Harford (2), McDonough, B.Stein, M.Stein (3)"
-13 February 1988,Arsenal,Away,,22612,M.Stein
-5 March 1988,Wimbledon,Away,,4854,
-15 March 1988,Coventry City,Away,,13711,
-29 March 1988,Portsmouth,Home,,6740,"B.Stein, M.Stein, Wilson, own goal"
-2 April 1988,Newcastle United,Away,,20752,
-5 April 1988,Sheffield Wednesday,Home,,7337,"McDonough, B. Stein"
-12 April 1988,Manchester United,Away,,28830,
-19 April 1988,Queens Park Rangers,Home,,6735,"Foster, Wilson (pen)"
-30 April 1988,Norwich City,Away,,13171,"M. Stein, Wilson (pen)"
-2 May 1988,Watford,Home,,10409,"Oldfield, Wilson (pen)"
-4 May 1988,Tottenham Hotspur,Away,,15437,Grimes
-7 May 1988,Southampton,Away,,12722,Wilson
-9 May 1988,Liverpool,Away,,30374,Oldfield
-13 May 1988,Nottingham Forest,Home,,9108,Donaghy
-15 May 1988,Nottingham Forest,Away,,13106,Oldfield
+date,opponent,venue,attendance,scorers
+15 August 1987,Derby County,Away,17204,
+18 August 1987,Coventry City,Home,9380,
+22 August 1987,West Ham United,Home,8073,Harford (2)
+29 August 1987,Chelsea,Away,16075,
+31 August 1987,Arsenal,Home,8745,Wilson (pen)
+5 September 1987,Oxford United,Away,6804,"Breacker, Harford, Hill, Nwajiobi, B. Stein"
+12 September 1987,Everton,Home,8124,"Hill, B. Stein"
+19 September 1987,Charlton Athletic,Away,5002,
+26 September 1987,Queens Park Rangers,Away,11175,
+3 October 1987,Manchester United,Home,9137,Harford
+10 October 1987,Portsmouth,Away,12391,Harford (pen)
+17 October 1987,Wimbledon,Home,7018,"B. Stein, Wilson"
+24 October 1987,Liverpool,Home,11997,
+7 November 1987,Newcastle United,Home,7638,"Nwajiobi, B. Stein, M. Stein (2)"
+14 November 1987,Sheffield Wednesday,Away,16960,"Allinson, M. Stein"
+21 November 1987,Tottenham Hotspur,Home,10091,Allinson (2)
+5 December 1987,Norwich City,Home,7002,B. Stein
+12 December 1987,Watford,Away,12152,Foster
+18 December 1987,Southampton,Home,6618,"Harford, McDonough"
+26 December 1987,Everton,Away,32128,
+28 December 1987,Charlton Athletic,Home,7243,Wilson
+1 January 1988,Chelsea,Home,8018,"Harford, B. Stein, M. Stein"
+2 January 1988,West Ham United,Away,16716,M. Stein
+16 January 1988,Derby County,Home,7175,McDonough
+6 February 1988,Oxford United,Home,8063,"Harford (2), McDonough, B.Stein, M.Stein (3)"
+13 February 1988,Arsenal,Away,22612,M.Stein
+5 March 1988,Wimbledon,Away,4854,
+15 March 1988,Coventry City,Away,13711,
+29 March 1988,Portsmouth,Home,6740,"B.Stein, M.Stein, Wilson, own goal"
+2 April 1988,Newcastle United,Away,20752,
+5 April 1988,Sheffield Wednesday,Home,7337,"McDonough, B. Stein"
+12 April 1988,Manchester United,Away,28830,
+19 April 1988,Queens Park Rangers,Home,6735,"Foster, Wilson (pen)"
+30 April 1988,Norwich City,Away,13171,"M. Stein, Wilson (pen)"
+2 May 1988,Watford,Home,10409,"Oldfield, Wilson (pen)"
+4 May 1988,Tottenham Hotspur,Away,15437,Grimes
+7 May 1988,Southampton,Away,12722,Wilson
+9 May 1988,Liverpool,Away,30374,Oldfield
+13 May 1988,Nottingham Forest,Home,9108,Donaghy
+15 May 1988,Nottingham Forest,Away,13106,Oldfield

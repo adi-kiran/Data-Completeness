@@ -1,4 +1,4 @@
-Ship,Type of Vessel,Lake,Location,Lives lost
+ship,type of vessel,lake,location,lives lost
 Argus,Steamer,Lake Huron,"25 miles off Kincardine, Ontario",25 lost
 James Carruthers,Steamer,Lake Huron,near Kincardine,18 lost
 Hydrus,Steamer,Lake Huron,"near Lexington, Michigan",28 lost

@@ -1,4 +1,4 @@
-Property,Test method,units,4275,4301,4435,4630,4645
+property,test method,units,4275,4301,4435,4630,4645
 Tensile Strength,ASTM D 638,MPa (kpsi),117 (16.9),113 (16.4),94 (13.6),81 (11.8),114 (16.6)
 Tensile Modulus,ASTM D 638,GPa (kpsi),"8.8 (1,280)",6.8 (990),"14.5 (2,100)","7.4 (1,080)","18.6 (2,700)"
 Tensile Elongation,ASTM D 638,%,2.6,3.3,1.0,1.9,0.8

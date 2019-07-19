@@ -1,4 +1,4 @@
-Part,Number,First public release date (First edition),Latest public release date (edition),Latest amendment,Title,Description
+part,number,first public release date (first edition),latest public release date (edition),latest amendment,title,description
 Part 1,ISO/IEC 15938-1,2002,2002,2006,Systems,"the architectural framework of MPEG-7, the carriage of MPEG-7 content - TeM (Textual format for MPEG-7) and the binary format for MPEG-7 descriptions (BiM)"
 Part 2,ISO/IEC 15938-2,2002,2002,,Description definition language,
 Part 3,ISO/IEC 15938-3,2002,2002,2010,Visual,

@@ -1,4 +1,4 @@
-Occasion num,Location,Date,Gold,Time,Silver,Time.1,Bronze,Time.2,Report
+occasion num,location,date,gold,time,silver,time 1,bronze,time 2,report
 1,"Chelyabinsk, Russia",18 November,Pekka Koskela  Finland,35.0,Jan Smeekens  Netherlands,35.01,Yūya Oikawa  Japan,35.07,[1]
 1,"Chelyabinsk, Russia",19 November,Joji Kato  Japan,34.92,Mo Tae-bum  South Korea,35.01,Yūya Oikawa  Japan,35.14,[2]
 2,"Astana, Kazakhstan",25 November,Mo Tae-bum  South Korea,34.89,Tucker Fredricks  United States,34.94,Stefan Groothuis  Netherlands,35.01,[3]

@@ -1,4 +1,4 @@
-Date,Location,Air/Ground,Number,Type,Status
+date,location,air/ground,number,type,status
 8 March 1944,"Near Steinhuder Meer (Lake), Germany",Air,1.0,Me-109,Destroyed
 16 March 1944,"20 miles south of Stuttgart, Germany",Air,1.0,Me-110,Destroyed
 11 April 1944,"20 miles northeast of Magdeburg, Germany",Air,0.5,Me-109,Destroyed

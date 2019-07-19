@@ -1,4 +1,4 @@
-Name,Character,Unicode code point (decimal),Standard,DTD,Old ISO subset,Description
+name,character,unicode code point (decimal),standard,dtd,old iso subset,description
 quot,"\"",U+0022 (34)""",HTML 2.0,HTMLspecial,ISOnum,quotation mark (APL quote),
 amp,&,U+0026 (38),HTML 2.0,HTMLspecial,ISOnum,ampersand
 apos,',U+0027 (39),XHTML 1.0,HTMLspecial,ISOnum,apostrophe (apostrophe-quote); see below

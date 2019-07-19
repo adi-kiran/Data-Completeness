@@ -1,4 +1,4 @@
-Pick num,Player,Position,Nationality,NHL team,College/junior/club team
+pick num,player,position,nationality,nhl team,college/junior/club team
 123,Paul Ames,Defence,United States,Pittsburgh Penguins,Billerica High School (USHS-MA)
 124,Joe Reekie,Defence,Canada,Hartford Whalers,North Bay Centennials (OHL)
 125,Greg Evtushevski,Right Wing,Canada,New Jersey Devils,Kamloops Blazers (WHL)

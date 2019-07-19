@@ -1,14 +1,14 @@
-Date,Time,Opponentnum,Ranknum,Site,TV,Result,Attendance
-September 3,7:00 PM,Utah State*,#19,,The mtn.,,45333
-September 12,8:30 PM,at San Jose State*,#17,"Spartan Stadium • San Jose, CA",ESPNU,,23684
-September 19,1:30 PM,at Oregon*,#18,"Autzen Stadium • Eugene, OR",ESPN,,58017
-September 26,5:30 PM,Louisville*,,,CBSCS,,45588
-October 10,4:00 PM,at Colorado State,,"Hughes Stadium • Fort Collins, CO",The mtn.,,30499
-October 17,8:00 PM,at UNLV,#24,"Sam Boyd Stadium • Las Vegas, NV",The mtn.,,26315
-October 24,2:00 PM,Air Force,#19,,Versus,,45129
-October 31,6:00 PM,Wyoming,#19,,The mtn.,,44837
-November 7,4:00 PM,New Mexico,#17,,The mtn.,,45051
-November 14,5:30 PM,at #4 TCU,#16,"Amon G. Carter Stadium • Fort Worth, TX",CBSCS,,50307
-November 21,2:00 PM,San Diego State,#23,,Versus,,44991
-November 28,3:00 PM,at #18 BYU,#22,"LaVell Edwards Stadium • Provo, UT (The Holy War)",CBSCS/The mtn.,,64301
-December 23,6:00 PM,vs. California*,#23,"Qualcomm Stadium • San Diego, CA (Poinsettia Bowl)",ESPN,,32665
+date,time,opponentnum,ranknum,site,tv,attendance
+September 3,7:00 PM,Utah State*,#19,,The mtn.,45333
+September 12,8:30 PM,at San Jose State*,#17,"Spartan Stadium • San Jose, CA",ESPNU,23684
+September 19,1:30 PM,at Oregon*,#18,"Autzen Stadium • Eugene, OR",ESPN,58017
+September 26,5:30 PM,Louisville*,,,CBSCS,45588
+October 10,4:00 PM,at Colorado State,,"Hughes Stadium • Fort Collins, CO",The mtn.,30499
+October 17,8:00 PM,at UNLV,#24,"Sam Boyd Stadium • Las Vegas, NV",The mtn.,26315
+October 24,2:00 PM,Air Force,#19,,Versus,45129
+October 31,6:00 PM,Wyoming,#19,,The mtn.,44837
+November 7,4:00 PM,New Mexico,#17,,The mtn.,45051
+November 14,5:30 PM,at #4 TCU,#16,"Amon G. Carter Stadium • Fort Worth, TX",CBSCS,50307
+November 21,2:00 PM,San Diego State,#23,,Versus,44991
+November 28,3:00 PM,at #18 BYU,#22,"LaVell Edwards Stadium • Provo, UT (The Holy War)",CBSCS/The mtn.,64301
+December 23,6:00 PM,vs. California*,#23,"Qualcomm Stadium • San Diego, CA (Poinsettia Bowl)",ESPN,32665

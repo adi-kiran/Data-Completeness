@@ -1,20 +1,20 @@
-Season,Champion,Runner-up,Score,Third place
-,Śląsk Eska Wrocław,Browary Tyskie Bobry Bytom,,Polonia Przemyśl
-,Mazowszanka PEKAES Pruszkow,Spojnia Stargard Szczeciński,,Browary Tyskie Bobry Bytom
-,Zepter Śląsk Wrocław,PEKAES Pruszkow,,Ericsson Bobry Bytom
-,Zepter Śląsk Wrocław,Anwil Nobiles Włocławek,,Ericsson Bobry Bytom
-,Zepter Śląsk Wrocław,Anwil Włocławek,,Hoop-Pekaes Pruszkow
-,Zepter Śląsk Wrocław,Anwil Włocławek,,Prokom Trefl Sopot
-,Idea Śląsk Wrocław,Prokom Trefl Sopot,,Stal Ostrow Wielkopolski
-,Anwil Włocławek,Prokom Trefl Sopot,,Idea Śląsk Wrocław
-,Prokom Trefl Sopot,Idea Śląsk Wrocław,,Polonia Warszawa
-,Prokom Trefl Sopot,Anwil Włocławek,,Polonia Warszawa
-,Prokom Trefl Sopot,Anwil Włocławek,,Energa Czarni Słupsk
-,Prokom Trefl Sopot,BOT Turow Zgorzelec,,ASCO Śląsk Wrocław
-,Prokom Trefl Sopot,PGE Turow Zgorzelec,,ASCO Śląsk Wrocław
-,Asseco Prokom Sopot,PGE Turow Zgorzelec,,Anwil Włocławek
-,Asseco Prokom Gdynia,Anwil Włocławek,,Polpharma Starogard Gdański
-,Asseco Prokom Gdynia,PGE Turow Zgorzelec,,Energa Czarni Słupsk
-,Asseco Prokom Gdynia,Trefl Sopot,,Zastal Zielona Gora
-,Stelmet Zielona Gora,PGE Turow Zgorzelec,,AZS Koszalin
-,,,,
+champion,runner up,third place
+Śląsk Eska Wrocław,Browary Tyskie Bobry Bytom,Polonia Przemyśl
+Mazowszanka PEKAES Pruszkow,Spojnia Stargard Szczeciński,Browary Tyskie Bobry Bytom
+Zepter Śląsk Wrocław,PEKAES Pruszkow,Ericsson Bobry Bytom
+Zepter Śląsk Wrocław,Anwil Nobiles Włocławek,Ericsson Bobry Bytom
+Zepter Śląsk Wrocław,Anwil Włocławek,Hoop-Pekaes Pruszkow
+Zepter Śląsk Wrocław,Anwil Włocławek,Prokom Trefl Sopot
+Idea Śląsk Wrocław,Prokom Trefl Sopot,Stal Ostrow Wielkopolski
+Anwil Włocławek,Prokom Trefl Sopot,Idea Śląsk Wrocław
+Prokom Trefl Sopot,Idea Śląsk Wrocław,Polonia Warszawa
+Prokom Trefl Sopot,Anwil Włocławek,Polonia Warszawa
+Prokom Trefl Sopot,Anwil Włocławek,Energa Czarni Słupsk
+Prokom Trefl Sopot,BOT Turow Zgorzelec,ASCO Śląsk Wrocław
+Prokom Trefl Sopot,PGE Turow Zgorzelec,ASCO Śląsk Wrocław
+Asseco Prokom Sopot,PGE Turow Zgorzelec,Anwil Włocławek
+Asseco Prokom Gdynia,Anwil Włocławek,Polpharma Starogard Gdański
+Asseco Prokom Gdynia,PGE Turow Zgorzelec,Energa Czarni Słupsk
+Asseco Prokom Gdynia,Trefl Sopot,Zastal Zielona Gora
+Stelmet Zielona Gora,PGE Turow Zgorzelec,AZS Koszalin
+,,

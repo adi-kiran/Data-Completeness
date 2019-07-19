@@ -1,4 +1,4 @@
-Event,Record,Athlete,Date,Meet,Place
+event,record,athlete,date,meet,place
 100 m,10.21 (+0.1 m/s),Carlos Villasenor Garcia,11 July 1997,Mexican Championships,"Toluca, Mexico"
 200 m,20.36 (+0.3 m/s),Jose Carlos Herrera,23 March 2014,Relevos del Tec,"Monterrey, Mexico"
 300 m,32.87,Juan Pedro Toledo,14 September 2000,,"Sydney, Australia"

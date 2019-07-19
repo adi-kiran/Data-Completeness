@@ -1,4 +1,4 @@
-Distribution,x86,x86-64,ia64,ppc,ppc64,sparc32,sparc64,arm,hppa,mips,sh,s390,s390x,alpha,m68k
+distribution,x86,x86 64,ia64,ppc,ppc64,sparc32,sparc64,arm,hppa,mips,sh,s390,s390x,alpha,m68k
 Arch Linux,Yes (>=i686),Yes,No,Discontinued unofficial port,No,No,No,Yes Unofficial,No,No,No,No,No,No,No
 BackTrack,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No
 Bodhi Linux,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No

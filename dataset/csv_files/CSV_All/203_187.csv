@@ -1,10 +1,10 @@
-Conference,Bids,Record,Win percentage,Quarterfinals,Semifinals,Final,Champions
-Atlantic Coast Conference,4,,0.6,4.0,2.0,,
-Ivy League,3,,0.5710000000000001,2.0,1.0,1.0,
-Independent,2,,0.833,2.0,1.0,1.0,1.0
-Colonial Athletic Association,2,,0.0,,,,
-America East Conference,1,,0.0,,,,
-Eastern College Athletic Conference,1,,0.0,,,,
-Great Western Lacrosse League,1,,0.0,,,,
-Metro Atlantic Athletic Conference,1,,0.0,,,,
-Patriot League,1,,0.0,,,,
+conference,bids,win percentage,quarterfinals,semifinals,final,champions
+Atlantic Coast Conference,4,0.6,4.0,2.0,,
+Ivy League,3,0.5710000000000001,2.0,1.0,1.0,
+Independent,2,0.833,2.0,1.0,1.0,1.0
+Colonial Athletic Association,2,0.0,,,,
+America East Conference,1,0.0,,,,
+Eastern College Athletic Conference,1,0.0,,,,
+Great Western Lacrosse League,1,0.0,,,,
+Metro Atlantic Athletic Conference,1,0.0,,,,
+Patriot League,1,0.0,,,,

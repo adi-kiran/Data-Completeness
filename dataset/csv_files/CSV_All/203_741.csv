@@ -1,8 +1,8 @@
-Season,Competition,Round,Opponent,Home,Away,Aggregate
-,UEFA Europa League,1QR,Široki Brijeg,,,
-,UEFA Europa League,1QR,Široki Brijeg,,,
-,UEFA Europa League,2QR,Bohemian F.C.,,,
-,UEFA Europa League,3QR,Austria Wien,,,
-,UEFA Europa League,1QR,Jeunesse Esch,,,
-,UEFA Europa League,2QR,Tromsø,,,
-,UEFA Europa League,2QR,Žilina,,,
+competition,round,opponent
+UEFA Europa League,1QR,Široki Brijeg
+UEFA Europa League,1QR,Široki Brijeg
+UEFA Europa League,2QR,Bohemian F.C.
+UEFA Europa League,3QR,Austria Wien
+UEFA Europa League,1QR,Jeunesse Esch
+UEFA Europa League,2QR,Tromsø
+UEFA Europa League,2QR,Žilina

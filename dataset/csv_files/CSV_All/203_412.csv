@@ -1,9 +1,9 @@
-School,Conference,Record (conference),Head coach,CWS appearances,CWS best finish,CWS record
-Arizona,,,Frank Sancet,4 (last: 1958),2nd (1956),
-Clemson,ACC,,Bill Wilhelm,1 (last: 1958),5th (1958),
-Colorado State,,,Pete Butler,5 (last: 1958),5th (1955),
-Connecticut,,,J. Orlean Christian,1 (last: 1957),5th (1957),
-Fresno State,,,Pete Beiden,0 (last: none),none,
-Oklahoma State,Big 8,,Toby Greene,2 (last: 1955),3rd (1955),
-Penn State,,,Joe Bedenk,2 (last: 1957),2nd (1957),
-Western Michigan,MAC,,Charlie Maher,3 (last: 1958),2nd (1955),
+school,conference,head coach,cws appearances,cws best finish
+Arizona,,Frank Sancet,4 (last: 1958),2nd (1956)
+Clemson,ACC,Bill Wilhelm,1 (last: 1958),5th (1958)
+Colorado State,,Pete Butler,5 (last: 1958),5th (1955)
+Connecticut,,J. Orlean Christian,1 (last: 1957),5th (1957)
+Fresno State,,Pete Beiden,0 (last: none),none
+Oklahoma State,Big 8,Toby Greene,2 (last: 1955),3rd (1955)
+Penn State,,Joe Bedenk,2 (last: 1957),2nd (1957)
+Western Michigan,MAC,Charlie Maher,3 (last: 1958),2nd (1955)

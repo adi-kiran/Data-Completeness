@@ -1,4 +1,4 @@
-Rank,Hospital,City,County,num Beds,Type of Hospital
+rank,hospital,city,county,num beds,type of hospital
 1,Patton State Hospital,Patton,San Bernardino,1500,Mental Health
 2,LA County & USC Medical Center,Los Angeles,Los Angeles,1395,General Acute Care
 3,Napa State Hospital,Napa,Napa,1385,Mental Health

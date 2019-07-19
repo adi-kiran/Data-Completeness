@@ -1,23 +1,23 @@
-Tie no,Home team,Score,Away team,Date
-1,Liverpool,,West Bromwich Albion,28 January 1922
-2,Preston North End,,Newcastle United,28 January 1922
-3,Southampton,,Cardiff City,28 January 1922
-Replay,Cardiff City,,Southampton,1 February 1922
-4,Leicester City,,Fulham,28 January 1922
-5,Nottingham Forest,,Hull City,28 January 1922
-6,Aston Villa,,Luton Town,28 January 1922
-7,Bolton Wanderers,,Manchester City,28 January 1922
-8,Swindon Town,,Blackburn Rovers,28 January 1922
-9,Tottenham Hotspur,,Watford,28 January 1922
-10,Barnsley,,Oldham Athletic,28 January 1922
-11,Northampton Town,,Stoke,28 January 1922
-Replay,Stoke,,Northampton Town,1 February 1922
-12,Brighton & Hove Albion,,Huddersfield Town,28 January 1922
-Replay,Huddersfield Town,,Brighton & Hove Albion,1 February 1922
-13,Bradford City,,Notts County,28 January 1922
-Replay,Notts County,,Bradford City,1 February 1922
-Replay,Notts County,,Bradford City,6 February 1922
-14,Crystal Palace,,Millwall,28 January 1922
-Replay,Millwall,,Crystal Palace,1 February 1922
-15,Southend United,,Swansea Town,28 January 1922
-16,Bradford Park Avenue,,Arsenal,28 January 1922
+tie no,home team,away team,date
+1,Liverpool,West Bromwich Albion,28 January 1922
+2,Preston North End,Newcastle United,28 January 1922
+3,Southampton,Cardiff City,28 January 1922
+Replay,Cardiff City,Southampton,1 February 1922
+4,Leicester City,Fulham,28 January 1922
+5,Nottingham Forest,Hull City,28 January 1922
+6,Aston Villa,Luton Town,28 January 1922
+7,Bolton Wanderers,Manchester City,28 January 1922
+8,Swindon Town,Blackburn Rovers,28 January 1922
+9,Tottenham Hotspur,Watford,28 January 1922
+10,Barnsley,Oldham Athletic,28 January 1922
+11,Northampton Town,Stoke,28 January 1922
+Replay,Stoke,Northampton Town,1 February 1922
+12,Brighton & Hove Albion,Huddersfield Town,28 January 1922
+Replay,Huddersfield Town,Brighton & Hove Albion,1 February 1922
+13,Bradford City,Notts County,28 January 1922
+Replay,Notts County,Bradford City,1 February 1922
+Replay,Notts County,Bradford City,6 February 1922
+14,Crystal Palace,Millwall,28 January 1922
+Replay,Millwall,Crystal Palace,1 February 1922
+15,Southend United,Swansea Town,28 January 1922
+16,Bradford Park Avenue,Arsenal,28 January 1922

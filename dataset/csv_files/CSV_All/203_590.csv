@@ -1,9 +1,9 @@
-Date,Venue,Opponents,Score,Competition,Scotland scorer(s)
-21 October 1950,"Ninian Park, Cardiff (A)",Wales,,BHC,"Lawrie Reilly (2), Billy Liddell"
-1 November 1950,"Hampden Park, Glasgow (H)",Northern Ireland,,BHC,"Billy Steel (4), John McPhail (2)"
-13 December 1950,"Hampden Park, Glasgow (H)",Austria,,Friendly,
-14 April 1951,"Wembley Stadium, London (A)",England,,BHC,"Bobby Johnstone, Lawrie Reilly, Billy Liddell"
-12 May 1951,"Hampden Park, Glasgow (H)",Denmark,,Friendly,"Billy Steel, Lawrie Reilly, Robert Mitchell"
-16 May 1951,"Hampden Park, Glasgow (H)",France,,Friendly,Lawrie Reilly
-20 May 1951,"Heysel Stadium, Brussels (A)",Belgium,,Friendly,"George Hamilton (3), Jimmy Mason, Willie Waddell"
-27 May 1951,"Prater Stadium, Vienna (A)",Austria,,Friendly,
+date,venue,opponents,competition,scotland scorers
+21 October 1950,"Ninian Park, Cardiff (A)",Wales,BHC,"Lawrie Reilly (2), Billy Liddell"
+1 November 1950,"Hampden Park, Glasgow (H)",Northern Ireland,BHC,"Billy Steel (4), John McPhail (2)"
+13 December 1950,"Hampden Park, Glasgow (H)",Austria,Friendly,
+14 April 1951,"Wembley Stadium, London (A)",England,BHC,"Bobby Johnstone, Lawrie Reilly, Billy Liddell"
+12 May 1951,"Hampden Park, Glasgow (H)",Denmark,Friendly,"Billy Steel, Lawrie Reilly, Robert Mitchell"
+16 May 1951,"Hampden Park, Glasgow (H)",France,Friendly,Lawrie Reilly
+20 May 1951,"Heysel Stadium, Brussels (A)",Belgium,Friendly,"George Hamilton (3), Jimmy Mason, Willie Waddell"
+27 May 1951,"Prater Stadium, Vienna (A)",Austria,Friendly,

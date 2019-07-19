@@ -1,4 +1,4 @@
-Date,Time,Opponentnum,Ranknum,Site,TV,Result,Attendance
+date,time,opponentnum,ranknum,site,tv,result,attendance
 "September 3, 2005",8:00 pm,at #25 Pittsburgh,,"Heinz Field • Pittsburgh, PA",ABC,W 42-21,66451
 "September 10, 2005",12:00 pm,at #3 Michigan,#23,"Michigan Stadium • Ann Arbor, MI",ABC,W 17-10,111386
 "September 17, 2005",3:30 pm,Michigan State,#12,"Notre Dame Stadium • Notre Dame, IN",NBC,L 44-41 OT,80795

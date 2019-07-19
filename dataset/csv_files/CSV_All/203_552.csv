@@ -1,17 +1,17 @@
-Game,Date,Opponent,Location,Score,OT,Attendance,Record
-1,"December 30, 2007",@ Portland LumberJax,Rose Garden,,OT,8437,
-2,"January 12, 2007",New York Titans,HSBC Arena,,,18690,
-3,"January 13, 2007",@ Colorado Mammoth,Pepsi Center,,OT,16523,
-4,"January 20, 2007",Minnesota Swarm,HSBC Arena,,,12883,
-5,"February 2, 2007",Toronto Rock,HSBC Arena,,,13659,
-6,"February 3, 2007",@ Toronto Rock,Air Canada Centre,,,15471,
-7,"February 11, 2007",@ Chicago Shamrox,Sears Centre,,,5010,
-8,"February 17, 2007",@ Philadelphia Wings,Wachovia Center,,,12688,
-9,"February 24, 2007",Philadelphia Wings,HSBC Arena,,,14882,
-10,"March 4, 2007",@ Minnesota Swarm,Xcel Energy Center,,,7504,
-11,"March 17, 2007",@ New York Titans,Madison Square Garden,,,7012,
-12,"March 24, 2007",Colorado Mammoth,HSBC Arena,,,15156,
-13,"March 31, 2007",Chicago Shamrox,HSBC Arena,,,16228,
-14,"April 7, 2007",Arizona Sting,HSBC Arena,,,13492,
-15,"April 13, 2007",Rochester Knighthawks,HSBC Arena,,,15334,
-16,"April 14, 2007",@ Rochester Knighthawks,Blue Cross Arena,,,11200,
+game,date,opponent,location,ot,attendance
+1,"December 30, 2007",@ Portland LumberJax,Rose Garden,OT,8437
+2,"January 12, 2007",New York Titans,HSBC Arena,,18690
+3,"January 13, 2007",@ Colorado Mammoth,Pepsi Center,OT,16523
+4,"January 20, 2007",Minnesota Swarm,HSBC Arena,,12883
+5,"February 2, 2007",Toronto Rock,HSBC Arena,,13659
+6,"February 3, 2007",@ Toronto Rock,Air Canada Centre,,15471
+7,"February 11, 2007",@ Chicago Shamrox,Sears Centre,,5010
+8,"February 17, 2007",@ Philadelphia Wings,Wachovia Center,,12688
+9,"February 24, 2007",Philadelphia Wings,HSBC Arena,,14882
+10,"March 4, 2007",@ Minnesota Swarm,Xcel Energy Center,,7504
+11,"March 17, 2007",@ New York Titans,Madison Square Garden,,7012
+12,"March 24, 2007",Colorado Mammoth,HSBC Arena,,15156
+13,"March 31, 2007",Chicago Shamrox,HSBC Arena,,16228
+14,"April 7, 2007",Arizona Sting,HSBC Arena,,13492
+15,"April 13, 2007",Rochester Knighthawks,HSBC Arena,,15334
+16,"April 14, 2007",@ Rochester Knighthawks,Blue Cross Arena,,11200

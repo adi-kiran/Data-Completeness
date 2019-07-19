@@ -1,4 +1,4 @@
-Name,Quadrant,Sector,Ward,Type,2012 Population Rank,Population (2012),Population (2011),percentage change,Dwellings (2012),Area (km2),Population density
+name,quadrant,sector,ward,type,2012 population rank,population (2012),population (2011),percentage change,dwellings (2012),area (km2),population density
 Abbeydale,NE/SE,Northeast,10,Residential,82,5917.0,5700.0,3.8,2023.0,1.7,"3,480.6"
 Acadia,SE,South,9,Residential,27,10705.0,10615.0,0.8,5053.0,3.9,"2,744.9"
 Albert Park/Radisson Heights,SE,East,10,Residential,75,6234.0,6217.0,0.3,2709.0,2.5,"2,493.6"

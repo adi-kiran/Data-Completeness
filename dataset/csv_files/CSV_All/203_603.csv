@@ -1,4 +1,4 @@
-Service,Service ID,Bit rate,Audio channels,Description,Analogue availability
+service,service id,bit rate,audio channels,description,analogue availability
 Capital Yorkshire,C3AA,128 kbit/s,Joint stereo,Dance and R'n'B,105.1 MHz (South & West Yorkshire) 105.6 MHz (Bradford & Sheffield) 105.8 MHz (Humberside)
 Choice FM,C0CE,128 kbit/s,Joint stereo,R'n'B and Hip-hop,
 Heart London,CCCD,128 kbit/s,Joint stereo,Adult contemporary,

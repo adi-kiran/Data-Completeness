@@ -1,4 +1,4 @@
-Category,Examples,Cancers,Gene functions
+category,examples,cancers,gene functions
 "Growth factors, or mitogens",c-Sis,"glioblastomas, fibrosarcomas, osteosarcomas, breast carcinomas, and melanomas",induces cell proliferation.
 Receptor tyrosine kinases,"epidermal growth factor receptor (EGFR), platelet-derived growth factor receptor (PDGFR), and vascular endothelial growth factor receptor (VEGFR), HER2/neu","Breast cancer, gastrointestinal stromal tumours, non-small-cell lung cancer and pancreatic cancer",transduce signals for cell growth and differentiation.
 Cytoplasmic tyrosine kinases,"Src-family, Syk-ZAP-70 family, and BTK family of tyrosine kinases, the Abl gene in CML - Philadelphia chromosome","colorectal and breast cancers, melanomas, ovarian cancers, gastric cancers, head and neck cancers, pancreatice cancer, lung cancer, brain cancers, and blood cancers","mediate the responses to, and the activation receptors of cell proliferation, migration, differentiation, and survival"

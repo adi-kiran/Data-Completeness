@@ -1,13 +1,13 @@
-Date,Opponentnum,Ranknum,Site,TV,Result,Attendance
-September 18,SMU*,#10,"Oklahoma Memorial Stadium • Norman, OK",,,53545
-September 25,at Pittsburgh*,#11,"Pitt Stadium • Pittsburgh, PA",,,34916
-October 2,#17 USC*,#8,"Oklahoma Memorial Stadium • Norman, OK",,,62351
-October 9,vs. #3 Texas*,#8,"Cotton Bowl • Dallas, TX (Red River Shootout)",CBS,,72032
-October 16,#6 Colorado,#2,"Oklahoma Memorial Stadium • Norman, OK",,,62501
-October 23,at Kansas State,#2,"KSU Stadium • Manhattan, KS",,,37198
-October 30,Iowa State,#2,"Oklahoma Memorial Stadium • Norman, OK",,,60477
-November 6,at Missouri,#2,"Memorial Stadium • Columbia, MO",,,55098
-November 13,Kansas,#2,"Oklahoma Memorial Stadium • Norman, OK",ABC,,54347
-November 25,#1 Nebraska,#2,"Oklahoma Memorial Stadium • Norman, OK (Rivalry)",ABC,,62884
-December 4,at Oklahoma State,#3,"Lewis Field • Stillwater, OK (Bedlam Series)",,,36571
-January 1,vs. #5 Auburn*,#3,"Tulane Stadium • New Orleans, LA (Sugar Bowl)",ABC,,84031
+date,opponentnum,ranknum,site,tv,attendance
+September 18,SMU*,#10,"Oklahoma Memorial Stadium • Norman, OK",,53545
+September 25,at Pittsburgh*,#11,"Pitt Stadium • Pittsburgh, PA",,34916
+October 2,#17 USC*,#8,"Oklahoma Memorial Stadium • Norman, OK",,62351
+October 9,vs. #3 Texas*,#8,"Cotton Bowl • Dallas, TX (Red River Shootout)",CBS,72032
+October 16,#6 Colorado,#2,"Oklahoma Memorial Stadium • Norman, OK",,62501
+October 23,at Kansas State,#2,"KSU Stadium • Manhattan, KS",,37198
+October 30,Iowa State,#2,"Oklahoma Memorial Stadium • Norman, OK",,60477
+November 6,at Missouri,#2,"Memorial Stadium • Columbia, MO",,55098
+November 13,Kansas,#2,"Oklahoma Memorial Stadium • Norman, OK",ABC,54347
+November 25,#1 Nebraska,#2,"Oklahoma Memorial Stadium • Norman, OK (Rivalry)",ABC,62884
+December 4,at Oklahoma State,#3,"Lewis Field • Stillwater, OK (Bedlam Series)",,36571
+January 1,vs. #5 Auburn*,#3,"Tulane Stadium • New Orleans, LA (Sugar Bowl)",ABC,84031

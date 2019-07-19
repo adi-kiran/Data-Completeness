@@ -1,4 +1,4 @@
-Capacitor type,Capacity,Volts,Temp.,Energy-to-weight ratio,Power-to-weight ratio
+capacitor type,capacity,volts,temp ,energy to weight ratio,power to weight ratio
 ACT Premlis Lithium ion capacitor,2000 F,4.0 V,25 °C,54 kJ/kg to 2.0 V,44.4 W/kg @ 5 A
 ACT Premlis Lithium ion capacitor,2000 F,4.0 V,25 °C,31 kJ/kg to 2.0 V,850 W/kg @ 10 A
 Nesccap Electric double-layer capacitor,5000 F,2.7 V,25 °C,19.58 kJ/kg to 1.35 V,5.44 W/kg C/1 (1.875 A)

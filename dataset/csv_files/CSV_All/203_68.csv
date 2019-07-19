@@ -1,16 +1,16 @@
-Date,Time,Unnamed: 2,Score,Unnamed: 4,Set 1,Set 2,Set 3,Set 4,Set 5,Total,Report
-17 Nov,14:00,Canada,,Kazakhstan,,,,,,,P2 P3
-17 Nov,16:00,Russia,,Serbia and Montenegro,,,,,,,P2 P3
-17 Nov,18:00,Tunisia,,South Korea,,,,,,,P2 P3
-18 Nov,14:00,Russia,,Tunisia,,,,,,,P2 P3
-18 Nov,16:00,Serbia and Montenegro,,Kazakhstan,,,,,,,P2 P3
-18 Nov,18:10,South Korea,,Canada,,,,,,,P2 P3
-19 Nov,14:00,Kazakhstan,,South Korea,,,,,,,P2 P3
-19 Nov,16:15,Tunisia,,Serbia and Montenegro,,,,,,,P2 P3
-19 Nov,18:00,Canada,,Russia,,,,,,,P2 P3
-21 Nov,14:00,Tunisia,,Canada,,,,,,,P2 P3
-21 Nov,16:35,Serbia and Montenegro,,South Korea,,,,,,,P2 P3
-21 Nov,18:50,Russia,,Kazakhstan,,,,,,,P2 P3
-22 Nov,14:00,Kazakhstan,,Tunisia,,,,,,,P2 P3
-22 Nov,16:00,Canada,,Serbia and Montenegro,,,,,,,P2 P3
-22 Nov,18:00,South Korea,,Russia,,,,,,,P2 P3
+date,time,unnamed: 2,unnamed: 4,report
+17 Nov,14:00,Canada,Kazakhstan,P2 P3
+17 Nov,16:00,Russia,Serbia and Montenegro,P2 P3
+17 Nov,18:00,Tunisia,South Korea,P2 P3
+18 Nov,14:00,Russia,Tunisia,P2 P3
+18 Nov,16:00,Serbia and Montenegro,Kazakhstan,P2 P3
+18 Nov,18:10,South Korea,Canada,P2 P3
+19 Nov,14:00,Kazakhstan,South Korea,P2 P3
+19 Nov,16:15,Tunisia,Serbia and Montenegro,P2 P3
+19 Nov,18:00,Canada,Russia,P2 P3
+21 Nov,14:00,Tunisia,Canada,P2 P3
+21 Nov,16:35,Serbia and Montenegro,South Korea,P2 P3
+21 Nov,18:50,Russia,Kazakhstan,P2 P3
+22 Nov,14:00,Kazakhstan,Tunisia,P2 P3
+22 Nov,16:00,Canada,Serbia and Montenegro,P2 P3
+22 Nov,18:00,South Korea,Russia,P2 P3

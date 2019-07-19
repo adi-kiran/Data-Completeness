@@ -1,4 +1,4 @@
-Device,Type,IOPS,Interface,Notes
+device,type,iops,interface,notes
 Simple SLC SSD,SSD,~400 IOPS[citation needed],SATA 3 Gbit/s,
 Intel X25-M G2 (MLC),SSD,"~8,600 IOPS",SATA 3 Gbit/s,"Intel's data sheet claims 6,600/8,600 IOPS (80 GB/160 GB version) and 35,000 IOPS for random 4 KB writes and reads, respectively."
 Intel X25-E (SLC),SSD,"~5,000 IOPS",SATA 3 Gbit/s,"Intel's data sheet claims 3,300 IOPS and 35,000 IOPS for writes and reads, respectively. 5,000 IOPS are measured for a mix. Intel X25-E G1 has around 3 times higher IOPS compared to the Intel X25-M G2."

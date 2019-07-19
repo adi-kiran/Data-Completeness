@@ -1,4 +1,4 @@
-Sr. No.,Train No.,Name of the Train,Arrival,Departure,Day
+sr no ,train no ,name of the train,arrival,departure,day
 1.0,18238,Chhatisgarh Express,01:23,01:25,Daily
 2.0,12160,Jabalpur-Amravati SF,04:51,04:53,Daily
 3.0,51294,Amla-Nagpur Pass,06:39,06:40,Daily

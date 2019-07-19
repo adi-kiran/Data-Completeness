@@ -1,52 +1,52 @@
-M,Date,Tournament,Round,Ground,Opponent,Score,Attendance,Dinamo Scorers,Report
-1,13 Jul,UCL,QR2,H,Koper,,7000.0,"Mandžukić (2), Slepička, Sammir, Etto",Sportnet.hr
-2,17 Jul,Supercup,,H,Hajduk Split,,8000.0,Bišćan,Sportnet.hr
-3,20 Jul,UCL,QR2,AR,Koper,,2000.0,,Sportnet.hr
-4,24 Jul,1. HNL,1,H,Hrvatski Dragovoljac,,350.0,"Morales, Sammir, Slepička, Mesarić",Sportnet.hr
-5,27 Jul,UCL,QR3,A,Sheriff Tiraspol,,10000.0,Sammir,Sportnet.hr
-6,31 Jul,1. HNL,2,H,Rijeka,,3500.0,Sammir,Sportnet.hr
-7,04 Aug,UCL,QR3,H,Sheriff Tiraspol,,10000.0,Sammir,Sportnet.hr
-8,07 Aug,1. HNL,3,A,Varaždin,,3000.0,Rukavina,Sportnet.hr
-9,14 Aug,1. HNL,4,H,Karlovac,,400.0,"Sammir (2), Kramarić, Rukavina",Sportnet.hr
-10,19 Aug,UEL,Play-off,A,Győri ETO,,8000.0,Rukavina (2),Sportnet.hr
-11,22 Aug,1. HNL,5,A,Slaven Belupo,,4000.0,"Rukavina, Sammir",Sportnet.hr
-12,26 Aug,UEL,Play-off,H,Győri ETO,,8000.0,Sammir (2),Sportnet.hr
-13,28 Aug,1. HNL,6,H,Cibalia,,3500.0,"Vrsaljko, Tomečak",Sportnet.hr
-14,11 Sep,1. HNL,7,A,Hajduk Split,,30000.0,Sammir,Sportnet.hr
-15,16 Sep,UEL,Group,H,Villarreal,,21000.0,"Rukavina, Sammir",Sportnet.hr
-16,19 Sep,1. HNL,8,H,NK Zagreb,,11000.0,Barbarić,Sportnet.hr
-17,22 Sep,Cup,R1,A,Zadrugar,,1500.0,"Bećiraj (2), Kramarić (3), Sylvestr",Sportnet.hr
-18,26 Sep,1. HNL,9,AR,Lokomotiva,,50.0,"Chago, Tonel",Sportnet.hr
-19,30 Sep,UEL,Group,A,PAOK,,25000.0,,Sportnet.hr
-20,03 Oct,1. HNL,10,H,Istra 1961,,1500.0,"Sylvestr, Bećiraj, Sammir (2)",Sportnet.hr
-21,16 Oct,1. HNL,11,A,Osijek,,5000.0,"Sammir, Badelj, Bećiraj",Sportnet.hr
-22,21 Oct,UEL,Group,H,Club Brugge,,22000.0,,Sportnet.hr
-23,23 Oct,1. HNL,12,H,Šibenik,,3000.0,Tomečak,Sportnet.hr
-24,27 Oct,Cup,R2,A,Karlovac,,1500.0,"Bećiraj, Cufre",Sportnet.hr
-25,30 Oct,1. HNL,13,A,Inter Zaprešić,,3000.0,"Tonel, Sammir, Ibánez",Sportnet.hr
-26,04 Nov,UEL,Group,A,Club Brugge,,15000.0,"Sammir, Bišćan",Sportnet.hr
-27,07 Nov,1. HNL,14,H,Zadar,,4000.0,Tomečak,Sportnet.hr
-28,13 Nov,1. HNL,15,A,RNK Split,,4000.0,Calello,Sportnet.hr
-29,20 Nov,1. HNL,16,A,Hrvatski Dragovoljac,,1000.0,"Tomečak, Chago, Ibánez, Kovačić, Badelj, Bećiraj",Sportnet.hr
-30,23 Nov,Cup,QF,H,Osijek,,1000.0,"Tonel, Kramarić",Sportnet.hr
-31,27 Nov,1. HNL,17,A,Rijeka,,2500.0,"Bećiraj, Badelj",Sportnet.hr
-32,02 Dec,UEL,Group,A,Villarreal,,,,Sportnet.hr
-33,05 Dec,1. HNL,18,H,Varaždin,,1000.0,Morales,Sportnet.hr
-34,09 Dec,Cup,QF,A,Osijek,,300.0,"Bećiraj (2), Bišćan",Sportnet.hr
-35,15 Dec,UEL,Group,H,PAOK,,25000.0,,Sportnet.hr
-36,26 Feb,1. HNL,19,A,Karlovac,,1000.0,Šitum,Sportnet.hr
-37,05 Mar,1. HNL,20,H,Slaven Belupo,,500.0,,Sportnet.hr
-38,12 Mar,1. HNL,21,A,Cibalia,,6000.0,Bećiraj,Sportnet.hr
-39,19 Mar,1. HNL,22,H,Hajduk Split,,15000.0,"Badelj, Bećiraj",Sportnet.hr
-40,02 Apr,1. HNL,23,A,NK Zagreb,,3000.0,Calello,Sportnet.hr
-41,06 Apr,Cup,SF,H,Slaven Belupo,,1000.0,"Sammir, Sylvestr, Badelj, Tomečak",Sportnet.hr
-42,09 Apr,1. HNL,24,H,Lokomotiva,,1693.0,Sylvestr,Sportnet.hr
-43,16 Apr,1. HNL,25,A,Istra 1961,,2500.0,Bećiraj,Sportnet.hr
-44,20 Apr,Cup,SF,A,Slaven Belupo,,3000.0,Tomečak,Sportnet.hr
-45,23 Apr,1. HNL,26,H,Osijek,,1850.0,Badelj,Sportnet.hr
-46,30 Apr,1. HNL,27,A,Šibenik,,2000.0,"Morales, Rukavina",Sportnet.hr
-47,6 May,1. HNL,28,H,Inter Zaprešić,,600.0,Bećiraj,Sportnet.hr
-48,11 May,Cup,Final,H,Varaždin,,5000.0,"Sammir, Tonel, Bećiraj (2), Badelj",Sportnet.hr
-49,14 May,1. HNL,29,A,Zadar,,2500.0,,Sportnet.hr
-50,21 May,1. HNL,30,H,RNK Split,,3000.0,Badelj,Sportnet.hr
-51,25 May,Cup,Final,A,Varaždin,,3500.0,"Ibánez, Badelj, Bećiraj",Sportnet.hr
+m,date,tournament,round,ground,opponent,attendance,dinamo scorers,report
+1,13 Jul,UCL,QR2,H,Koper,7000.0,"Mandžukić (2), Slepička, Sammir, Etto",Sportnet.hr
+2,17 Jul,Supercup,,H,Hajduk Split,8000.0,Bišćan,Sportnet.hr
+3,20 Jul,UCL,QR2,AR,Koper,2000.0,,Sportnet.hr
+4,24 Jul,1. HNL,1,H,Hrvatski Dragovoljac,350.0,"Morales, Sammir, Slepička, Mesarić",Sportnet.hr
+5,27 Jul,UCL,QR3,A,Sheriff Tiraspol,10000.0,Sammir,Sportnet.hr
+6,31 Jul,1. HNL,2,H,Rijeka,3500.0,Sammir,Sportnet.hr
+7,04 Aug,UCL,QR3,H,Sheriff Tiraspol,10000.0,Sammir,Sportnet.hr
+8,07 Aug,1. HNL,3,A,Varaždin,3000.0,Rukavina,Sportnet.hr
+9,14 Aug,1. HNL,4,H,Karlovac,400.0,"Sammir (2), Kramarić, Rukavina",Sportnet.hr
+10,19 Aug,UEL,Play-off,A,Győri ETO,8000.0,Rukavina (2),Sportnet.hr
+11,22 Aug,1. HNL,5,A,Slaven Belupo,4000.0,"Rukavina, Sammir",Sportnet.hr
+12,26 Aug,UEL,Play-off,H,Győri ETO,8000.0,Sammir (2),Sportnet.hr
+13,28 Aug,1. HNL,6,H,Cibalia,3500.0,"Vrsaljko, Tomečak",Sportnet.hr
+14,11 Sep,1. HNL,7,A,Hajduk Split,30000.0,Sammir,Sportnet.hr
+15,16 Sep,UEL,Group,H,Villarreal,21000.0,"Rukavina, Sammir",Sportnet.hr
+16,19 Sep,1. HNL,8,H,NK Zagreb,11000.0,Barbarić,Sportnet.hr
+17,22 Sep,Cup,R1,A,Zadrugar,1500.0,"Bećiraj (2), Kramarić (3), Sylvestr",Sportnet.hr
+18,26 Sep,1. HNL,9,AR,Lokomotiva,50.0,"Chago, Tonel",Sportnet.hr
+19,30 Sep,UEL,Group,A,PAOK,25000.0,,Sportnet.hr
+20,03 Oct,1. HNL,10,H,Istra 1961,1500.0,"Sylvestr, Bećiraj, Sammir (2)",Sportnet.hr
+21,16 Oct,1. HNL,11,A,Osijek,5000.0,"Sammir, Badelj, Bećiraj",Sportnet.hr
+22,21 Oct,UEL,Group,H,Club Brugge,22000.0,,Sportnet.hr
+23,23 Oct,1. HNL,12,H,Šibenik,3000.0,Tomečak,Sportnet.hr
+24,27 Oct,Cup,R2,A,Karlovac,1500.0,"Bećiraj, Cufre",Sportnet.hr
+25,30 Oct,1. HNL,13,A,Inter Zaprešić,3000.0,"Tonel, Sammir, Ibánez",Sportnet.hr
+26,04 Nov,UEL,Group,A,Club Brugge,15000.0,"Sammir, Bišćan",Sportnet.hr
+27,07 Nov,1. HNL,14,H,Zadar,4000.0,Tomečak,Sportnet.hr
+28,13 Nov,1. HNL,15,A,RNK Split,4000.0,Calello,Sportnet.hr
+29,20 Nov,1. HNL,16,A,Hrvatski Dragovoljac,1000.0,"Tomečak, Chago, Ibánez, Kovačić, Badelj, Bećiraj",Sportnet.hr
+30,23 Nov,Cup,QF,H,Osijek,1000.0,"Tonel, Kramarić",Sportnet.hr
+31,27 Nov,1. HNL,17,A,Rijeka,2500.0,"Bećiraj, Badelj",Sportnet.hr
+32,02 Dec,UEL,Group,A,Villarreal,,,Sportnet.hr
+33,05 Dec,1. HNL,18,H,Varaždin,1000.0,Morales,Sportnet.hr
+34,09 Dec,Cup,QF,A,Osijek,300.0,"Bećiraj (2), Bišćan",Sportnet.hr
+35,15 Dec,UEL,Group,H,PAOK,25000.0,,Sportnet.hr
+36,26 Feb,1. HNL,19,A,Karlovac,1000.0,Šitum,Sportnet.hr
+37,05 Mar,1. HNL,20,H,Slaven Belupo,500.0,,Sportnet.hr
+38,12 Mar,1. HNL,21,A,Cibalia,6000.0,Bećiraj,Sportnet.hr
+39,19 Mar,1. HNL,22,H,Hajduk Split,15000.0,"Badelj, Bećiraj",Sportnet.hr
+40,02 Apr,1. HNL,23,A,NK Zagreb,3000.0,Calello,Sportnet.hr
+41,06 Apr,Cup,SF,H,Slaven Belupo,1000.0,"Sammir, Sylvestr, Badelj, Tomečak",Sportnet.hr
+42,09 Apr,1. HNL,24,H,Lokomotiva,1693.0,Sylvestr,Sportnet.hr
+43,16 Apr,1. HNL,25,A,Istra 1961,2500.0,Bećiraj,Sportnet.hr
+44,20 Apr,Cup,SF,A,Slaven Belupo,3000.0,Tomečak,Sportnet.hr
+45,23 Apr,1. HNL,26,H,Osijek,1850.0,Badelj,Sportnet.hr
+46,30 Apr,1. HNL,27,A,Šibenik,2000.0,"Morales, Rukavina",Sportnet.hr
+47,6 May,1. HNL,28,H,Inter Zaprešić,600.0,Bećiraj,Sportnet.hr
+48,11 May,Cup,Final,H,Varaždin,5000.0,"Sammir, Tonel, Bećiraj (2), Badelj",Sportnet.hr
+49,14 May,1. HNL,29,A,Zadar,2500.0,,Sportnet.hr
+50,21 May,1. HNL,30,H,RNK Split,3000.0,Badelj,Sportnet.hr
+51,25 May,Cup,Final,A,Varaždin,3500.0,"Ibánez, Badelj, Bećiraj",Sportnet.hr

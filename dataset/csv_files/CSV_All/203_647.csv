@@ -1,4 +1,4 @@
-Year,Car,Start,Qual,Rank,Finish,Laps,Led,Retired
+year,car,start,qual,rank,finish,laps,led,retired
 1926,31,12,102.789,13,11,142,0,Flagged
 1927,27,27,107.765,22,3,200,0,Running
 1928,8,4,117.031,4,10,200,33,Running

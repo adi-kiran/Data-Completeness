@@ -1,17 +1,17 @@
-Week,Date,Opponent,Result,Attendance
-1,"September 6, 1981",New Orleans Saints,,57406
-2,"September 13, 1981",at Green Bay Packers,,55382
-3,"September 20, 1981",San Francisco 49ers,,56653
-4,"September 27, 1981",at Cleveland Browns,,78283
-5,"October 5, 1981",at Philadelphia Eagles,,71488
-6,"October 11, 1981",Los Angeles Rams,,57841
-7,"October 18, 1981",St. Louis Cardinals,,51428
-8,"October 25, 1981",New York Giants,,48410
-9,"November 1, 1981",at New Orleans Saints,,63637
-10,"November 8, 1981",at San Francisco 49ers,,59127
-11,"November 15, 1981",Pittsburgh Steelers,,57485
-12,"November 23, 1981",Minnesota Vikings,,54086
-13,"November 29, 1981",at Houston Oilers,,40201
-14,"December 6, 1981",at Tampa Bay Buccaneers,,69221
-15,"December 14, 1981",at Los Angeles Rams,,57054
-16,"December 20, 1981",Cincinnati Bengals,,35972
+week,date,opponent,attendance
+1,"September 6, 1981",New Orleans Saints,57406
+2,"September 13, 1981",at Green Bay Packers,55382
+3,"September 20, 1981",San Francisco 49ers,56653
+4,"September 27, 1981",at Cleveland Browns,78283
+5,"October 5, 1981",at Philadelphia Eagles,71488
+6,"October 11, 1981",Los Angeles Rams,57841
+7,"October 18, 1981",St. Louis Cardinals,51428
+8,"October 25, 1981",New York Giants,48410
+9,"November 1, 1981",at New Orleans Saints,63637
+10,"November 8, 1981",at San Francisco 49ers,59127
+11,"November 15, 1981",Pittsburgh Steelers,57485
+12,"November 23, 1981",Minnesota Vikings,54086
+13,"November 29, 1981",at Houston Oilers,40201
+14,"December 6, 1981",at Tampa Bay Buccaneers,69221
+15,"December 14, 1981",at Los Angeles Rams,57054
+16,"December 20, 1981",Cincinnati Bengals,35972

@@ -1,24 +1,24 @@
-Season,Tier,League,Pos.,Postseason,German Cup,European competitions
-,1,Bundesliga,2.0,Semifinalist,Champion,
-,1,Bundesliga,1.0,Finalist,,
-,1,Bundesliga,1.0,Semifinalist,Semifinalist,
-,1,Bundesliga,1.0,Semifinalist,,3 Played Korać Cup
-,1,Bundesliga,4.0,Semifinalist,Semifinalist,3 Played Korać Cup
-,1,Bundesliga,3.0,Semifinalist,Semifinalist,3 Played Korać Cup
-,1,Bundesliga,3.0,Semifinalist,,3 Played Korać Cup
-,1,Bundesliga,6.0,Quarterfinalist,Third place,3 Played Korać Cup
-,1,Bundesliga,10.0,Round of 16,,
-,1,Bundesliga,10.0,Relegation playoffs,,
-,1,Bundesliga,7.0,Quarterfinalist,,
-,1,Bundesliga,2.0,Finalist,,
-,1,Bundesliga,2.0,Finalist,,3 Played FIBA Europe League
-,1,Bundesliga,1.0,Champion,,2 Played ULEB Cup
-,1,Bundesliga,3.0,Semifinalist,Finalist,1 Euroleague Top 16
-,1,Bundesliga,1.0,Champion,,2 Played ULEB Cup
-,1,Bundesliga,7.0,Quarterfinalist,,1 Euroleague Regular Season
-,1,Bundesliga,4.0,Semifinalist,,2 Played Eurocup
-,1,Bundesliga,1.0,Champion,Champion,2 Played Eurocup
-,1,Bundesliga,1.0,Champion,Champion,1 Euroleague Regular Season
-,1,Bundesliga,1.0,Champion,Champion,1 Euroleague Regular Season
-,1,Bundesliga,1.0,Champion,Quarterfinalist,1 Euroleague Top 16
-,1,Bundesliga,,,Third place,1 Euroleague Regular Season 2 Eurocup Last 32
+tier,league,pos ,postseason,german cup,european competitions
+1,Bundesliga,2.0,Semifinalist,Champion,
+1,Bundesliga,1.0,Finalist,,
+1,Bundesliga,1.0,Semifinalist,Semifinalist,
+1,Bundesliga,1.0,Semifinalist,,3 Played Korać Cup
+1,Bundesliga,4.0,Semifinalist,Semifinalist,3 Played Korać Cup
+1,Bundesliga,3.0,Semifinalist,Semifinalist,3 Played Korać Cup
+1,Bundesliga,3.0,Semifinalist,,3 Played Korać Cup
+1,Bundesliga,6.0,Quarterfinalist,Third place,3 Played Korać Cup
+1,Bundesliga,10.0,Round of 16,,
+1,Bundesliga,10.0,Relegation playoffs,,
+1,Bundesliga,7.0,Quarterfinalist,,
+1,Bundesliga,2.0,Finalist,,
+1,Bundesliga,2.0,Finalist,,3 Played FIBA Europe League
+1,Bundesliga,1.0,Champion,,2 Played ULEB Cup
+1,Bundesliga,3.0,Semifinalist,Finalist,1 Euroleague Top 16
+1,Bundesliga,1.0,Champion,,2 Played ULEB Cup
+1,Bundesliga,7.0,Quarterfinalist,,1 Euroleague Regular Season
+1,Bundesliga,4.0,Semifinalist,,2 Played Eurocup
+1,Bundesliga,1.0,Champion,Champion,2 Played Eurocup
+1,Bundesliga,1.0,Champion,Champion,1 Euroleague Regular Season
+1,Bundesliga,1.0,Champion,Champion,1 Euroleague Regular Season
+1,Bundesliga,1.0,Champion,Quarterfinalist,1 Euroleague Top 16
+1,Bundesliga,,,Third place,1 Euroleague Regular Season 2 Eurocup Last 32

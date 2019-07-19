@@ -1,77 +1,77 @@
-num,Secretary of State,Prime Minister,Tenure
-1.,Hector Louis Langevin,Macdonald,
-2.,James Cox Aikins,Macdonald,
-3.,David Christie,Mackenzie,
-4.,Richard William Scott,Mackenzie,
-5.,James Cox Aikins,Macdonald,
-6.,John O'Connor,Macdonald,
-7.,Joseph-Alfred Mousseau,Macdonald,
-8.,Joseph Adolphe Chapleau,Macdonald,
-8.,Joseph Adolphe Chapleau,Abbott,
-9.,James Colebrooke Patterson,Abbott,
-10.,John Costigan,Thompson,
-11.,Arthur Rupert Dickey,Bowell,
-12.,Walter Humphries Montague,Bowell,
-*,Joseph Alderic Ouimet (acting),Bowell,
-*,Thomas Mayne Daly (acting),Bowell,
-13.,Sir Charles Tupper,Bowell,
-13.,Sir Charles Tupper,as PM,
-14.,Richard William Scott,Laurier,
-15.,Charles Murphy,Laurier,
-16.,William James Roche,Borden,
-17.,Louis Coderre,Borden,
-18.,Pierre Édouard Blondin,Borden,
-19.,Esioff Leon Patenaude,Borden,
-*,Albert Sevigny (acting),Borden,
-20.,Arthur Meighen,Borden,
-21.,Martin Burrell,Borden,
-22.,Arthur Lewis Sifton,Borden,
-22.,Arthur Lewis Sifton,Meighen,
-23.,Sir Henry Lumley Drayton,Meighen,
-24.,Rodolphe Monty,Meighen,
-25.,Arthur Bliss Copp,King,
-26.,Walter Edward Foster,King,
-*,Charles Murphy (acting),King,
-*,Ernest Lapointe (acting),King,
-27.,Guillaume Andre Fauteux,Meighen,
-28.,Fernand Rinfret,King,
-29.,Charles Hazlitt Cahan,Bennett,
-,Fernand Rinfret (second time),King,
-*,,King,
-30.,Pierre-François Casgrain,King,
-31.,Norman Alexander McLarty,King,
-32.,Paul Joseph James Martin,King,
-33.,Colin William George Gibson,King,
-33.,Colin William George Gibson,St. Laurent,
-34.,Frederick Gordon Bradley,St. Laurent,
-35.,Jack Pickersgill,St. Laurent,
-36.,Roch Pinard,St. Laurent,
-37.,Ellen Louks Fairclough,Diefenbaker,
-38.,Henri Courtemanche,Diefenbaker,
-*,Leon Balcer (acting minister),Diefenbaker,
-39.,Noël Dorion,Diefenbaker,
-*,,Diefenbaker,
-40.,George Ernest Halpenny,Diefenbaker,
-,Jack Pickersgill (second time),Pearson,
-41.,Maurice Lamontagne,Pearson,
-42.,Judy LaMarsh,Pearson,
-*,John Joseph Connolly (acting minister),Pearson,
-43.,Jean Marchand,Trudeau,
-44.,Gerard Pelletier,Trudeau,
-45.,James Hugh Faulkner,Trudeau,
-46.,John Roberts,Trudeau,
-47.,David MacDonald,Clark,
-48.,Francis Fox,Trudeau,
-49.,Gerald Regan,Trudeau,
-50.,Serge Joyal,Trudeau,
-50.,Serge Joyal,Turner,
-51.,Walter McLean,Mulroney,
-52.,Benoit Bouchard,Mulroney,
-53.,David Crombie,Mulroney,
-54.,Lucien Bouchard,Mulroney,
-55.,Gerry Weiner,Mulroney,
-56.,Robert de Cotret,Mulroney,
-57.,Monique Landry,Mulroney,
-57.,Monique Landry,Campbell,
-58.,Sergio Marchi,Chretien,
-59.,Lucienne Robillard,Chretien,
+num,secretary of state,prime minister
+1.,Hector Louis Langevin,Macdonald
+2.,James Cox Aikins,Macdonald
+3.,David Christie,Mackenzie
+4.,Richard William Scott,Mackenzie
+5.,James Cox Aikins,Macdonald
+6.,John O'Connor,Macdonald
+7.,Joseph-Alfred Mousseau,Macdonald
+8.,Joseph Adolphe Chapleau,Macdonald
+8.,Joseph Adolphe Chapleau,Abbott
+9.,James Colebrooke Patterson,Abbott
+10.,John Costigan,Thompson
+11.,Arthur Rupert Dickey,Bowell
+12.,Walter Humphries Montague,Bowell
+*,Joseph Alderic Ouimet (acting),Bowell
+*,Thomas Mayne Daly (acting),Bowell
+13.,Sir Charles Tupper,Bowell
+13.,Sir Charles Tupper,as PM
+14.,Richard William Scott,Laurier
+15.,Charles Murphy,Laurier
+16.,William James Roche,Borden
+17.,Louis Coderre,Borden
+18.,Pierre Édouard Blondin,Borden
+19.,Esioff Leon Patenaude,Borden
+*,Albert Sevigny (acting),Borden
+20.,Arthur Meighen,Borden
+21.,Martin Burrell,Borden
+22.,Arthur Lewis Sifton,Borden
+22.,Arthur Lewis Sifton,Meighen
+23.,Sir Henry Lumley Drayton,Meighen
+24.,Rodolphe Monty,Meighen
+25.,Arthur Bliss Copp,King
+26.,Walter Edward Foster,King
+*,Charles Murphy (acting),King
+*,Ernest Lapointe (acting),King
+27.,Guillaume Andre Fauteux,Meighen
+28.,Fernand Rinfret,King
+29.,Charles Hazlitt Cahan,Bennett
+,Fernand Rinfret (second time),King
+*,,King
+30.,Pierre-François Casgrain,King
+31.,Norman Alexander McLarty,King
+32.,Paul Joseph James Martin,King
+33.,Colin William George Gibson,King
+33.,Colin William George Gibson,St. Laurent
+34.,Frederick Gordon Bradley,St. Laurent
+35.,Jack Pickersgill,St. Laurent
+36.,Roch Pinard,St. Laurent
+37.,Ellen Louks Fairclough,Diefenbaker
+38.,Henri Courtemanche,Diefenbaker
+*,Leon Balcer (acting minister),Diefenbaker
+39.,Noël Dorion,Diefenbaker
+*,,Diefenbaker
+40.,George Ernest Halpenny,Diefenbaker
+,Jack Pickersgill (second time),Pearson
+41.,Maurice Lamontagne,Pearson
+42.,Judy LaMarsh,Pearson
+*,John Joseph Connolly (acting minister),Pearson
+43.,Jean Marchand,Trudeau
+44.,Gerard Pelletier,Trudeau
+45.,James Hugh Faulkner,Trudeau
+46.,John Roberts,Trudeau
+47.,David MacDonald,Clark
+48.,Francis Fox,Trudeau
+49.,Gerald Regan,Trudeau
+50.,Serge Joyal,Trudeau
+50.,Serge Joyal,Turner
+51.,Walter McLean,Mulroney
+52.,Benoit Bouchard,Mulroney
+53.,David Crombie,Mulroney
+54.,Lucien Bouchard,Mulroney
+55.,Gerry Weiner,Mulroney
+56.,Robert de Cotret,Mulroney
+57.,Monique Landry,Mulroney
+57.,Monique Landry,Campbell
+58.,Sergio Marchi,Chretien
+59.,Lucienne Robillard,Chretien

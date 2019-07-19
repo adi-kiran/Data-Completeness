@@ -1,4 +1,4 @@
-Rank,Bib,Name,Country,Run 1,Rank.1,Run 2,Rank.2,Total,Difference
+rank,bib,name,country,run 1,rank 1,run 2,rank 2,total,difference
 ,10,Andrea Rothfuss,Germany,49.38,1.0,50.60,1.0,1:39.98,
 ,12,Petra Smarzova,Slovakia,52.50,3.0,51.22,2.0,1:43.72,3.74
 ,11,Karolina Wisniewska,Canada,52.17,2.0,53.36,4.0,1:45.53,5.55

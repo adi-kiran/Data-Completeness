@@ -1,33 +1,33 @@
-Film,Film.1,Date
-Kodachrome film,"16 mm, daylight (ASA 10) & Type A (ASA 16)",
-Kodachrome film,"8 mm, daylight (ASA 10) & Type A (ASA 16)",
-Kodachrome film,"35 mm and 828, daylight & Type A",
-Kodachrome Professional film (sheets),daylight (ASA 8) and Type B (ASA 10),
-Kodachrome film,"35 mm and 828, Type F (ASA 12)",
-Kodachrome Professional film,"35 mm, Type A (ASA 16)",
-Kodak Color Print Material,Type D (slide duping film),
-Kodachrome II film,"16 mm, daylight (ASA 25) and Type A (ASA 40)",
-Kodachrome II film,"8 mm, daylight (ASA 25) and Type A (ASA 40)",
-Kodachrome II film,"S-8, Type A (ASA 40)",
-Kodachrome II film,"35 mm and 828, daylight (ASA 25/early) (ASA 64/late)",
-Kodachrome II film,"Professional, 35 mm, Type A (ASA 40)",
-Kodachrome-X film,35 mm (ASA 64),
-Kodachrome-X film,126 format,
-Kodachrome-X film,110 format,
-Kodachrome 25 film,"35 mm, daylight",
-Kodachrome 25 film,"Movie film, 16 mm, daylight",
-Kodachrome 25 film,"Movie film, 8 mm, daylight",
-Kodachrome 25 film,"Professional film, 35 mm, daylight",
-Kodachrome 40 film,"35 mm, Type A",
-Kodachrome 40 film,"Movie film, 16 mm, Type A",
-Kodachrome 40 film,"Movie film, S-8, Type A",
-Kodachrome 40 film,"Sound Movie film, S-8, Type A",
-Kodachrome 40 film,"Movie film, 8 mm, Type A",
-Kodachrome 64,"35 mm, daylight",
-Kodachrome 64,"126 format, daylight",
-Kodachrome 64,"110 format, daylight",
-Kodachrome 64,"Professional film, 35 mm, daylight",
-Kodachrome 64,"Professional film, daylight, 120 format",
-Kodachrome 200,"Professional film, 35 mm, daylight",
-Kodachrome 200,"35 mm, daylight",
-Cine-Chrome 40A,"Double Regular 8 mm, tungsten",
+film,film 1
+Kodachrome film,"16 mm, daylight (ASA 10) & Type A (ASA 16)"
+Kodachrome film,"8 mm, daylight (ASA 10) & Type A (ASA 16)"
+Kodachrome film,"35 mm and 828, daylight & Type A"
+Kodachrome Professional film (sheets),daylight (ASA 8) and Type B (ASA 10)
+Kodachrome film,"35 mm and 828, Type F (ASA 12)"
+Kodachrome Professional film,"35 mm, Type A (ASA 16)"
+Kodak Color Print Material,Type D (slide duping film)
+Kodachrome II film,"16 mm, daylight (ASA 25) and Type A (ASA 40)"
+Kodachrome II film,"8 mm, daylight (ASA 25) and Type A (ASA 40)"
+Kodachrome II film,"S-8, Type A (ASA 40)"
+Kodachrome II film,"35 mm and 828, daylight (ASA 25/early) (ASA 64/late)"
+Kodachrome II film,"Professional, 35 mm, Type A (ASA 40)"
+Kodachrome-X film,35 mm (ASA 64)
+Kodachrome-X film,126 format
+Kodachrome-X film,110 format
+Kodachrome 25 film,"35 mm, daylight"
+Kodachrome 25 film,"Movie film, 16 mm, daylight"
+Kodachrome 25 film,"Movie film, 8 mm, daylight"
+Kodachrome 25 film,"Professional film, 35 mm, daylight"
+Kodachrome 40 film,"35 mm, Type A"
+Kodachrome 40 film,"Movie film, 16 mm, Type A"
+Kodachrome 40 film,"Movie film, S-8, Type A"
+Kodachrome 40 film,"Sound Movie film, S-8, Type A"
+Kodachrome 40 film,"Movie film, 8 mm, Type A"
+Kodachrome 64,"35 mm, daylight"
+Kodachrome 64,"126 format, daylight"
+Kodachrome 64,"110 format, daylight"
+Kodachrome 64,"Professional film, 35 mm, daylight"
+Kodachrome 64,"Professional film, daylight, 120 format"
+Kodachrome 200,"Professional film, 35 mm, daylight"
+Kodachrome 200,"35 mm, daylight"
+Cine-Chrome 40A,"Double Regular 8 mm, tungsten"

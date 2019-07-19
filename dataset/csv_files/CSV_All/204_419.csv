@@ -1,4 +1,4 @@
-Year,Tournament,Venue,Played,Won,Lost,Tied,N/R,Result
+year,tournament,venue,played,won,lost,tied,n/r,result
 ,World Series,Australia,8,6,2,0,0,Won
 1990,Rothmans Cup,New Zealand,5,5,0,0,0,Won
 1990,Austral-Asia Cup,Sharjah,4,3,1,0,0,Runner-up

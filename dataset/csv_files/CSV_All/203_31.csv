@@ -1,15 +1,15 @@
-Game,November,Opponent,Score,Record,Points
-13,2,@ Florida Panthers,,,20
-14,4,Quebec Nordiques,,,22
-15,6,@ Toronto Maple Leafs,,,22
-16,7,Vancouver Canucks,,,22
-17,10,@ Buffalo Sabres,,,24
-18,11,New Jersey Devils,,,24
-19,13,Buffalo Sabres,,,24
-20,16,@ Pittsburgh Penguins,,,24
-21,18,Hartford Whalers,,,26
-22,20,@ Boston Bruins,,,27
-23,21,New York Islanders,,,27
-24,24,Montreal Canadiens,,,29
-25,26,Tampa Bay Lightning,,,31
-26,27,@ Tampa Bay Lightning,,,33
+game,november,opponent,points
+13,2,@ Florida Panthers,20
+14,4,Quebec Nordiques,22
+15,6,@ Toronto Maple Leafs,22
+16,7,Vancouver Canucks,22
+17,10,@ Buffalo Sabres,24
+18,11,New Jersey Devils,24
+19,13,Buffalo Sabres,24
+20,16,@ Pittsburgh Penguins,24
+21,18,Hartford Whalers,26
+22,20,@ Boston Bruins,27
+23,21,New York Islanders,27
+24,24,Montreal Canadiens,29
+25,26,Tampa Bay Lightning,31
+26,27,@ Tampa Bay Lightning,33

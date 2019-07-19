@@ -1,15 +1,15 @@
-Week,Date,Opponent,Result,Attendance
-1,"September 15, 1968",at Green Bay Packers,,50861
-2,"September 22, 1968",New York Giants,,60858
-3,"September 29, 1968",Dallas Cowboys,,60858
-4,"October 6, 1968",at Washington Redskins,,50816
-5,"October 13, 1968",at Dallas Cowboys,,72083
-6,"October 20, 1968",Chicago Bears,,60858
-7,"October 27, 1968",at Pittsburgh Steelers,,26908
-8,"November 3, 1968",St. Louis Cardinals,,59208
-9,"November 10, 1968",Washington Redskins,,59133
-10,"November 17, 1968",at New York Giants,,62896
-11,"November 24, 1968",at Cleveland Browns,,62338
-12,"November 28, 1968",at Detroit Lions,,47909
-13,"December 8, 1968",New Orleans Saints,,57128
-14,"December 15, 1968",Minnesota Vikings,,54530
+week,date,opponent,attendance
+1,"September 15, 1968",at Green Bay Packers,50861
+2,"September 22, 1968",New York Giants,60858
+3,"September 29, 1968",Dallas Cowboys,60858
+4,"October 6, 1968",at Washington Redskins,50816
+5,"October 13, 1968",at Dallas Cowboys,72083
+6,"October 20, 1968",Chicago Bears,60858
+7,"October 27, 1968",at Pittsburgh Steelers,26908
+8,"November 3, 1968",St. Louis Cardinals,59208
+9,"November 10, 1968",Washington Redskins,59133
+10,"November 17, 1968",at New York Giants,62896
+11,"November 24, 1968",at Cleveland Browns,62338
+12,"November 28, 1968",at Detroit Lions,47909
+13,"December 8, 1968",New Orleans Saints,57128
+14,"December 15, 1968",Minnesota Vikings,54530

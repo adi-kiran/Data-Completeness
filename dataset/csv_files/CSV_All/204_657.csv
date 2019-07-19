@@ -1,15 +1,15 @@
-Date,Time,Opponentnum,Ranknum,Site,TV,Result,Attendance
-September 1,2:30 PM,#9 (FCS) Northern Iowa*,#12,"Camp Randall Stadium • Madison, WI",BTN,,79568
-September 8,3:00 PM,at Oregon State*,#13,"Reser Stadium • Corvallis, OR",FX,,42189
-September 15,7:00 PM,Utah State*,#22,"Camp Randall Stadium • Madison, WI",BTN,,79332
-September 22,11:00 AM,UTEP*,#24,"Camp Randall Stadium • Madison, WI",ESPN2,,79806
-September 29,7:00 PM,at #20 Nebraska,#23,"Memorial Stadium • Lincoln, NE",ABC,,85962
-October 6,2:30 PM,Illinois,,"Camp Randall Stadium • Madison, WI",ABC/ESPN2,,80096
-October 13,11:00 AM,at Purdue,,"Ross-Ade Stadium • West Lafayette, IN",BTN,,46007
-October 20,11:00 AM,Minnesota,,"Camp Randall Stadium • Madison, WI (Paul Bunyan's Axe)",ESPNU,,80587
-October 27,2:30 PM,Michigan State,#25,"Camp Randall Stadium • Madison, WI",ABC/ESPN2,,80538
-November 10,11:00 AM,at Indiana,,"Memorial Stadium • Bloomington, IN",ESPN2,,43240
-November 17,2:30 PM,Ohio State,,"Camp Randall Stadium • Madison, WI",ABC/ESPN2,,80112
-November 24,2:30 PM,at Penn State,,"Beaver Stadium • University Park, PA",ESPN2,,93505
-December 1,7:00 PM,vs. #14 Nebraska,,"Lucas Oil Stadium • Indianapolis, IN (Big Ten Championship Game)",FOX,,41260
-"January 1, 2013",4:10 PM,vs. #8 Stanford,#23,"Rose Bowl • Pasadena, CA (Rose Bowl)",ESPN,,93259
+date,time,opponentnum,ranknum,site,tv,attendance
+September 1,2:30 PM,#9 (FCS) Northern Iowa*,#12,"Camp Randall Stadium • Madison, WI",BTN,79568
+September 8,3:00 PM,at Oregon State*,#13,"Reser Stadium • Corvallis, OR",FX,42189
+September 15,7:00 PM,Utah State*,#22,"Camp Randall Stadium • Madison, WI",BTN,79332
+September 22,11:00 AM,UTEP*,#24,"Camp Randall Stadium • Madison, WI",ESPN2,79806
+September 29,7:00 PM,at #20 Nebraska,#23,"Memorial Stadium • Lincoln, NE",ABC,85962
+October 6,2:30 PM,Illinois,,"Camp Randall Stadium • Madison, WI",ABC/ESPN2,80096
+October 13,11:00 AM,at Purdue,,"Ross-Ade Stadium • West Lafayette, IN",BTN,46007
+October 20,11:00 AM,Minnesota,,"Camp Randall Stadium • Madison, WI (Paul Bunyan's Axe)",ESPNU,80587
+October 27,2:30 PM,Michigan State,#25,"Camp Randall Stadium • Madison, WI",ABC/ESPN2,80538
+November 10,11:00 AM,at Indiana,,"Memorial Stadium • Bloomington, IN",ESPN2,43240
+November 17,2:30 PM,Ohio State,,"Camp Randall Stadium • Madison, WI",ABC/ESPN2,80112
+November 24,2:30 PM,at Penn State,,"Beaver Stadium • University Park, PA",ESPN2,93505
+December 1,7:00 PM,vs. #14 Nebraska,,"Lucas Oil Stadium • Indianapolis, IN (Big Ten Championship Game)",FOX,41260
+"January 1, 2013",4:10 PM,vs. #8 Stanford,#23,"Rose Bowl • Pasadena, CA (Rose Bowl)",ESPN,93259

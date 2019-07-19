@@ -1,47 +1,47 @@
-Game,Date,Opponent,Venue,Result,Attendance,Goalscorers
-1,19 August 1978,Hereford United,Away,,5674,
-2,23 August 1978,Grimsby Town,Home,,9227,
-3,26 August 1978,Reading,Away,,4788,
-4,2 September 1978,Newport County,Home,,5319,"Hinnigan, Purdie"
-5,9 September 1978,Wimbledon,Away,,3217,Corrigan
-6,13 September 1978,Rochdale,Home,,5746,"Wright, Corrigan, Hinnigan"
-7,16 September 1978,Bradford City,Home,,7090,Purdie
-8,23 September 1978,York City,Away,,3307,Gore
-9,26 September 1978,Portsmouth,Away,,13902,
-10,30 September 1978,Scunthorpe United,Home,,4459,Brownbill
-11,7 October 1978,Huddersfield Town,Away,,5150,Brownbill
-12,14 October 1978,Doncaster Rovers,Home,,5788,Ward
-13,18 October 1978,Halifax Town,Home,,5216,Hinnigan
-14,21 October 1978,Barnsley,Away,,9841,
-15,28 October 1978,Northampton Town,Home,,6264,"Purdie (2, 1 pen.)"
-16,3 November 1978,Stockport County,Away,,8357,Hinnigan
-17,10 November 1978,Newport County,Away,,4142,Houghton
-18,18 November 1978,Reading,Home,,5858,"Houghton (2), Ward"
-19,9 December 1978,Darlington,Away,,1967,Moore
-20,16 December 1978,Halifax Town,Away,,2437,"Moore, Purdie"
-21,26 December 1978,Crewe Alexandra,Home,,7586,Houghton
-22,30 December 1978,Aldershot,Home,,7289,"Moore, Houghton (2)"
-23,9 January 1979,Port Vale,Away,,3744,Wright (pen.)
-24,3 February 1979,Portsmouth,Home,,8289,"Wright, Corrigan"
-25,14 February 1979,Wimbledon,Home,,6704,Purdie (pen.)
-26,17 February 1979,Huddersfield Town,Home,,7420,Ward (2)
-27,24 February 1979,Doncaster Rovers,Away,,4612,Wright
-28,28 February 1979,York City,Home,,5896,Houghton
-29,3 March 1979,Barnsley,Home,,9427,Wright
-30,10 March 1979,Northampton Town,Away,,2275,"Brownbill (2), Purdie, Corrigan"
-31,14 March 1979,Torquay United,Home,,5722,"Moore (2), Hinnigan"
-32,17 March 1979,Stockport County,Home,,7610,"Wright, Smart"
-33,19 March 1979,Rochdale,Away,,3621,"Purdie, Moore"
-34,24 March 1979,Grimsby Town,Away,,8252,Wigginton (o.g.)
-35,28 March 1979,Hereford United,Home,,4876,
-36,31 March 1979,Bournemouth,Home,,5527,Houghton
-37,3 April 1979,Hartlepool United,Away,,2081,Houghton
-38,7 April 1979,Torquay United,Away,,2969,Houghton
-39,13 April 1979,Port Vale,Home,,8452,"Houghton (3), Brownbill, Moore"
-40,14 April 1979,Crewe Alexandra,Away,,4604,Purdie (pen.)
-41,16 April 1979,Hartlepool United,Home,,8217,"Wright, Purdie"
-42,21 April 1979,Aldershot,Away,,5466,
-43,28 April 1979,Darlington,Home,,6153,"Moore, Brownbill"
-44,1 May 1979,Scunthorpe United,Away,,1582,Gore
-45,5 May 1979,Bournemouth,Away,,3063,Purdie
-46,7 May 1979,Bradford City,Away,,3748,Moore
+game,date,opponent,venue,attendance,goalscorers
+1,19 August 1978,Hereford United,Away,5674,
+2,23 August 1978,Grimsby Town,Home,9227,
+3,26 August 1978,Reading,Away,4788,
+4,2 September 1978,Newport County,Home,5319,"Hinnigan, Purdie"
+5,9 September 1978,Wimbledon,Away,3217,Corrigan
+6,13 September 1978,Rochdale,Home,5746,"Wright, Corrigan, Hinnigan"
+7,16 September 1978,Bradford City,Home,7090,Purdie
+8,23 September 1978,York City,Away,3307,Gore
+9,26 September 1978,Portsmouth,Away,13902,
+10,30 September 1978,Scunthorpe United,Home,4459,Brownbill
+11,7 October 1978,Huddersfield Town,Away,5150,Brownbill
+12,14 October 1978,Doncaster Rovers,Home,5788,Ward
+13,18 October 1978,Halifax Town,Home,5216,Hinnigan
+14,21 October 1978,Barnsley,Away,9841,
+15,28 October 1978,Northampton Town,Home,6264,"Purdie (2, 1 pen.)"
+16,3 November 1978,Stockport County,Away,8357,Hinnigan
+17,10 November 1978,Newport County,Away,4142,Houghton
+18,18 November 1978,Reading,Home,5858,"Houghton (2), Ward"
+19,9 December 1978,Darlington,Away,1967,Moore
+20,16 December 1978,Halifax Town,Away,2437,"Moore, Purdie"
+21,26 December 1978,Crewe Alexandra,Home,7586,Houghton
+22,30 December 1978,Aldershot,Home,7289,"Moore, Houghton (2)"
+23,9 January 1979,Port Vale,Away,3744,Wright (pen.)
+24,3 February 1979,Portsmouth,Home,8289,"Wright, Corrigan"
+25,14 February 1979,Wimbledon,Home,6704,Purdie (pen.)
+26,17 February 1979,Huddersfield Town,Home,7420,Ward (2)
+27,24 February 1979,Doncaster Rovers,Away,4612,Wright
+28,28 February 1979,York City,Home,5896,Houghton
+29,3 March 1979,Barnsley,Home,9427,Wright
+30,10 March 1979,Northampton Town,Away,2275,"Brownbill (2), Purdie, Corrigan"
+31,14 March 1979,Torquay United,Home,5722,"Moore (2), Hinnigan"
+32,17 March 1979,Stockport County,Home,7610,"Wright, Smart"
+33,19 March 1979,Rochdale,Away,3621,"Purdie, Moore"
+34,24 March 1979,Grimsby Town,Away,8252,Wigginton (o.g.)
+35,28 March 1979,Hereford United,Home,4876,
+36,31 March 1979,Bournemouth,Home,5527,Houghton
+37,3 April 1979,Hartlepool United,Away,2081,Houghton
+38,7 April 1979,Torquay United,Away,2969,Houghton
+39,13 April 1979,Port Vale,Home,8452,"Houghton (3), Brownbill, Moore"
+40,14 April 1979,Crewe Alexandra,Away,4604,Purdie (pen.)
+41,16 April 1979,Hartlepool United,Home,8217,"Wright, Purdie"
+42,21 April 1979,Aldershot,Away,5466,
+43,28 April 1979,Darlington,Home,6153,"Moore, Brownbill"
+44,1 May 1979,Scunthorpe United,Away,1582,Gore
+45,5 May 1979,Bournemouth,Away,3063,Purdie
+46,7 May 1979,Bradford City,Away,3748,Moore

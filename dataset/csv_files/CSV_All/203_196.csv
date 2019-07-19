@@ -1,4 +1,4 @@
-Terminal,Operator,Depth (m),Berths,Quay length (m),Quay cranes,Area (m2),Capacity (kTEUs)
+terminal,operator,depth (m),berths,quay length (m),quay cranes,area (m2),capacity (kteus)
 Terminal 1 (CT1),MTL,14,1,,4,,
 Terminal 2 (CT2),MTL,14,1,,5,,
 Terminal 3 (CT3),DPI,14,1,305.0,6,167000.0,">1,200"

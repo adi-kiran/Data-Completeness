@@ -1,4 +1,4 @@
-Kilometers,Name,Location,Intersecting routes
+kilometers,name,location,intersecting routes
 0.0,Netanya mall,Netanya,"Petah Tikva Street, Raziel Road, Herzl Road"
 0.6,Netanya interchange,Netanya,Highway 2
 0.75,HaRakevet Road,Netanya,Entrance to Netanya Railway Station

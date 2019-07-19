@@ -1,47 +1,47 @@
-Dates,Tournament,Host country,Winner,Notes
-,Alfred Dunhill South African PGA Championship,South Africa,Ernie Els,
-,Mercedes-Benz - Vodacom South African Open,South Africa,David Frost,
-,Heineken Classic,Australia,Jarrod Moseley,
-,Benson and Hedges Malaysian Open,Malaysia,Gerry Norquist,New tournament
-,Dubai Desert Classic,United Arab Emirates,David Howell,
-,Qatar Masters,Qatar,Paul Lawrie,
-,WGC-Andersen Consulting Match Play Championship,United States,Jeff Maggert,
-,Algarve Portuguese Open,Portugal,Van Phillips,
-,Turespana Masters - Open Andalucia,Spain,Miguel Ángel Jimenez,
-,Madeira Island Open,Portugal,Pedro Linhart,
-,Masters Tournament,United States,Jose Maria Olazábal,Unofficial money
-,Estoril Open,Portugal,Jean-François Remesy,New tournament
-,Peugeot Open de Espana,Spain,Jarmo Sandelin,
-,Fiat and Fila Italian Open,Italy,Dean Robertson,
-,Novotel Perrier Open de France,France,Retief Goosen,
-,Benson and Hedges International Open,England,Colin Montgomerie,
-,Deutsche Bank - SAP Open TPC of Europe,Germany,Tiger Woods,
-,Volvo PGA Championship,England,Colin Montgomerie,
-,Compass Group English Open,England,Darren Clarke,
-,German Open,Germany,Jarmo Sandelin,
-,Moroccan Open,Morocco,Miguel Ángel Martin,
-,U.S. Open,United States,Payne Stewart,
-,Compaq European Grand Prix,England,David Park,
-,Murphy's Irish Open,Republic of Ireland,Sergio Garcia,
-,Standard Life Loch Lomond,Scotland,Colin Montgomerie,
-,The Open Championship,Scotland,Paul Lawrie,
-,TNT Dutch Open,Netherlands,Lee Westwood,
-,Smurfit European Open,Republic of Ireland,Lee Westwood,
-,Volvo Scandinavian Masters,Sweden,Colin Montgomerie,
-,U.S. PGA Championship,United States,Tiger Woods,
-,West of Ireland Golf Classic,Republic of Ireland,Costantino Rocca,New tournament. Alternate to U.S. PGA
-,BMW International Open,Germany,Colin Montgomerie,
-,WGC-NEC Invitational,United States,Tiger Woods,
-,Scottish PGA Championship,Scotland,Warren Bennett,New tournament. Alternate to WGC
-,Canon European Masters,Switzerland,Lee Westwood,
-,Victor Chandler British Masters,England,Bob May,
-,Trophee Lancome,France,Pierre Fulke,
-,Ryder Cup,United States,United States,Team event
-,Linde German Masters,Germany,Sergio Garcia,
-,Alfred Dunhill Cup,Scotland,Spain,Team event. Unofficial money
-,Cisco World Match Play Championship,England,Colin Montgomerie,Unofficial money
-,Sarazen World Open,Spain,Thomas Bjørn,New tournament
-,Belgacom Open,Belgium,Robert Karlsson,
-,Volvo Masters,Spain,Miguel Ángel Jimenez,
-,WGC-American Express Championship,Spain,Tiger Woods,
-,World Cup of Golf,Malaysia,United States,Team event. Unofficial money
+tournament,host country,winner,notes
+Alfred Dunhill South African PGA Championship,South Africa,Ernie Els,
+Mercedes-Benz - Vodacom South African Open,South Africa,David Frost,
+Heineken Classic,Australia,Jarrod Moseley,
+Benson and Hedges Malaysian Open,Malaysia,Gerry Norquist,New tournament
+Dubai Desert Classic,United Arab Emirates,David Howell,
+Qatar Masters,Qatar,Paul Lawrie,
+WGC-Andersen Consulting Match Play Championship,United States,Jeff Maggert,
+Algarve Portuguese Open,Portugal,Van Phillips,
+Turespana Masters - Open Andalucia,Spain,Miguel Ángel Jimenez,
+Madeira Island Open,Portugal,Pedro Linhart,
+Masters Tournament,United States,Jose Maria Olazábal,Unofficial money
+Estoril Open,Portugal,Jean-François Remesy,New tournament
+Peugeot Open de Espana,Spain,Jarmo Sandelin,
+Fiat and Fila Italian Open,Italy,Dean Robertson,
+Novotel Perrier Open de France,France,Retief Goosen,
+Benson and Hedges International Open,England,Colin Montgomerie,
+Deutsche Bank - SAP Open TPC of Europe,Germany,Tiger Woods,
+Volvo PGA Championship,England,Colin Montgomerie,
+Compass Group English Open,England,Darren Clarke,
+German Open,Germany,Jarmo Sandelin,
+Moroccan Open,Morocco,Miguel Ángel Martin,
+U.S. Open,United States,Payne Stewart,
+Compaq European Grand Prix,England,David Park,
+Murphy's Irish Open,Republic of Ireland,Sergio Garcia,
+Standard Life Loch Lomond,Scotland,Colin Montgomerie,
+The Open Championship,Scotland,Paul Lawrie,
+TNT Dutch Open,Netherlands,Lee Westwood,
+Smurfit European Open,Republic of Ireland,Lee Westwood,
+Volvo Scandinavian Masters,Sweden,Colin Montgomerie,
+U.S. PGA Championship,United States,Tiger Woods,
+West of Ireland Golf Classic,Republic of Ireland,Costantino Rocca,New tournament. Alternate to U.S. PGA
+BMW International Open,Germany,Colin Montgomerie,
+WGC-NEC Invitational,United States,Tiger Woods,
+Scottish PGA Championship,Scotland,Warren Bennett,New tournament. Alternate to WGC
+Canon European Masters,Switzerland,Lee Westwood,
+Victor Chandler British Masters,England,Bob May,
+Trophee Lancome,France,Pierre Fulke,
+Ryder Cup,United States,United States,Team event
+Linde German Masters,Germany,Sergio Garcia,
+Alfred Dunhill Cup,Scotland,Spain,Team event. Unofficial money
+Cisco World Match Play Championship,England,Colin Montgomerie,Unofficial money
+Sarazen World Open,Spain,Thomas Bjørn,New tournament
+Belgacom Open,Belgium,Robert Karlsson,
+Volvo Masters,Spain,Miguel Ángel Jimenez,
+WGC-American Express Championship,Spain,Tiger Woods,
+World Cup of Golf,Malaysia,United States,Team event. Unofficial money

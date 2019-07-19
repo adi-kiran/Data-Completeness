@@ -1,9 +1,9 @@
-Home Team,Score,Away Team,Date,Agg
-Aberdeen,,Hamilton Academical,11-10-1978,
-Airdrieonians,,Arbroath,10-10-1978,
-Ayr United,,Falkirk,11-10-1978,
-Clydebank,,Hibernian,11-10-1978,
-Morton,,Kilmarnock,11-10-1978,
-Montrose,,Raith Rovers,11-10-1978,
-Motherwell,,Celtic,11-10-1978,
-St. Mirren,,Rangers,11-10-1978,
+home team,away team,date
+Aberdeen,Hamilton Academical,11-10-1978
+Airdrieonians,Arbroath,10-10-1978
+Ayr United,Falkirk,11-10-1978
+Clydebank,Hibernian,11-10-1978
+Morton,Kilmarnock,11-10-1978
+Montrose,Raith Rovers,11-10-1978
+Motherwell,Celtic,11-10-1978
+St. Mirren,Rangers,11-10-1978

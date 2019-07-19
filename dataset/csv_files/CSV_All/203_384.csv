@@ -1,11 +1,11 @@
-num,Date,Venue,Opponent,Score,Result,Competition
-1.0,18 March 1987,"Stadion Miejski, Rybnik, Poland",Finland,,,International Friendly
-2.0,2 September 1987,"Zawisza Bydgoszcz Stadium, Bydgoszcz, Poland",Romania,,,International Friendly
-3.0,2 September 1987,"Zawisza Bydgoszcz Stadium, Bydgoszcz, Poland",Romania,,,International Friendly
-4.0,23 September 1987,"Polish Army Stadium, Warsaw, Poland",Hungary,,,UEFA Euro 1988 qualifying
-5.0,11 November 1987,"Makario Stadium, Nicosia, Cyprus",Cyprus,,,UEFA Euro 1988 qualifying
-6.0,13 April 1993,"Stadion Radomiaka Radom, Radom, Poland",Finland,,,International Friendly
-7.0,13 April 1993,"Stadion Radomiaka Radom, Radom, Poland",Finland,,,International Friendly
-8.0,19 May 1993,"Stadio Olimpico, Serravalle, San Marino",San Marino,,,1994 FIFA World Cup qualification
-9.0,19 May 1993,"Stadio Olimpico, Serravalle, San Marino",San Marino,,,1994 FIFA World Cup qualification
-10.0,17 November 1993,"Stadion Miejski, Poznań, Poland",Netherlands,,,1994 FIFA World Cup qualification
+num,date,venue,opponent,competition
+1.0,18 March 1987,"Stadion Miejski, Rybnik, Poland",Finland,International Friendly
+2.0,2 September 1987,"Zawisza Bydgoszcz Stadium, Bydgoszcz, Poland",Romania,International Friendly
+3.0,2 September 1987,"Zawisza Bydgoszcz Stadium, Bydgoszcz, Poland",Romania,International Friendly
+4.0,23 September 1987,"Polish Army Stadium, Warsaw, Poland",Hungary,UEFA Euro 1988 qualifying
+5.0,11 November 1987,"Makario Stadium, Nicosia, Cyprus",Cyprus,UEFA Euro 1988 qualifying
+6.0,13 April 1993,"Stadion Radomiaka Radom, Radom, Poland",Finland,International Friendly
+7.0,13 April 1993,"Stadion Radomiaka Radom, Radom, Poland",Finland,International Friendly
+8.0,19 May 1993,"Stadio Olimpico, Serravalle, San Marino",San Marino,1994 FIFA World Cup qualification
+9.0,19 May 1993,"Stadio Olimpico, Serravalle, San Marino",San Marino,1994 FIFA World Cup qualification
+10.0,17 November 1993,"Stadion Miejski, Poznań, Poland",Netherlands,1994 FIFA World Cup qualification

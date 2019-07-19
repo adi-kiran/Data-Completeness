@@ -1,4 +1,4 @@
-Year,Car,Start,Qual,Rank,Finish,Laps,Led,Retired
+year,car,start,qual,rank,finish,laps,led,retired
 1956,14,23,142.535,16,7,200,0,Running
 1957,7,16,141.016,19,9,200,0,Running
 1958,14,4,144.881,4,26,1,0,Crash T3

@@ -1,43 +1,43 @@
-Date,Opponent,Venue,Result,Attendance,Scorers
-15 August 1992,Chelsea,A,,20699,Henry
-19 August 1992,Crystal Palace,H,,11063,Sharp
-22 August 1992,Nottingham Forest,H,,11632,"Adams, Sharp, Henry, Halle, Bernard"
-26 August 1992,Arsenal,A,,20796,
-29 August 1992,Manchester City,A,,27288,"Jobson, Milligan, Halle"
-1 September 1992,Leeds United,H,,13848,Olney (2)
-5 September 1992,Coventry City,H,,11254,
-12 September 1992,Crystal Palace,A,,11224,"Olney, Sharp"
-19 September 1992,Ipswich Town,H,,11150,"Marshall, Sharp, Halle, Henry"
-26 September 1992,Blackburn Rovers,A,,18393,
-4 October 1992,Everton,H,,13013,Jobson
-17 October 1992,Sheffield Wednesday,A,,24485,Milligan
-24 October 1992,Aston Villa,H,,13457,Olney
-31 October 1992,Southampton,A,,10827,
-9 November 1992,Norwich City,H,,11081,"Sharp, Marshall"
-21 November 1992,Manchester United,A,,33497,
-28 November 1992,Middlesbrough,H,,12401,"Halle, Pointon, Sharp, Adams"
-5 December 1992,Queens Park Rangers,A,,11804,"Adams, Olney"
-12 December 1992,Wimbledon,A,,3386,"Brennan, Milligan"
-19 December 1992,Tottenham Hotspur,H,,11735,"Sharp, Olney"
-9 January 1993,Ipswich Town,A,,15025,"Brennan, Bernard"
-16 January 1993,Blackburn Rovers,H,,13742,
-23 January 1993,Coventry City,A,,10544,
-26 January 1993,Manchester City,H,,14903,
-30 January 1993,Nottingham Forest,A,,21240,
-6 February 1993,Chelsea,H,,11772,"Henry, Adams, Brennan"
-13 February 1993,Leeds United,A,,27654,
-20 February 1993,Arsenal,H,,12311,
-22 February 1993,Sheffield United,A,,14628,
-27 February 1993,Everton,A,,18025,"Adams (2, 1 pen)"
-9 March 1993,Manchester United,H,,17106,Adams
-13 March 1993,Norwich City,A,,19597,
-20 March 1993,Queens Park Rangers,H,,10946,"Henry, Adams"
-22 March 1993,Middlesbrough,A,,12290,"Bernard, Olney, Ritchie"
-3 April 1993,Wimbledon,H,,11606,"Fashanu (own goal), Bernard, Olney (2), Adams, Beckford"
-7 April 1993,Sheffield Wednesday,H,,12312,Pointon
-10 April 1993,Liverpool,A,,36129,
-13 April 1993,Sheffield United,H,,14795,Ritchie
-17 April 1993,Tottenham Hotspur,A,,26663,Beckford
-2 May 1993,Aston Villa,A,,37247,Henry
-5 May 1993,Liverpool,H,,15381,"Beckford, Olney (2)"
-8 May 1993,Southampton,H,,14597,"Pointon, Olney, Ritchie, Halle"
+date,opponent,venue,attendance,scorers
+15 August 1992,Chelsea,A,20699,Henry
+19 August 1992,Crystal Palace,H,11063,Sharp
+22 August 1992,Nottingham Forest,H,11632,"Adams, Sharp, Henry, Halle, Bernard"
+26 August 1992,Arsenal,A,20796,
+29 August 1992,Manchester City,A,27288,"Jobson, Milligan, Halle"
+1 September 1992,Leeds United,H,13848,Olney (2)
+5 September 1992,Coventry City,H,11254,
+12 September 1992,Crystal Palace,A,11224,"Olney, Sharp"
+19 September 1992,Ipswich Town,H,11150,"Marshall, Sharp, Halle, Henry"
+26 September 1992,Blackburn Rovers,A,18393,
+4 October 1992,Everton,H,13013,Jobson
+17 October 1992,Sheffield Wednesday,A,24485,Milligan
+24 October 1992,Aston Villa,H,13457,Olney
+31 October 1992,Southampton,A,10827,
+9 November 1992,Norwich City,H,11081,"Sharp, Marshall"
+21 November 1992,Manchester United,A,33497,
+28 November 1992,Middlesbrough,H,12401,"Halle, Pointon, Sharp, Adams"
+5 December 1992,Queens Park Rangers,A,11804,"Adams, Olney"
+12 December 1992,Wimbledon,A,3386,"Brennan, Milligan"
+19 December 1992,Tottenham Hotspur,H,11735,"Sharp, Olney"
+9 January 1993,Ipswich Town,A,15025,"Brennan, Bernard"
+16 January 1993,Blackburn Rovers,H,13742,
+23 January 1993,Coventry City,A,10544,
+26 January 1993,Manchester City,H,14903,
+30 January 1993,Nottingham Forest,A,21240,
+6 February 1993,Chelsea,H,11772,"Henry, Adams, Brennan"
+13 February 1993,Leeds United,A,27654,
+20 February 1993,Arsenal,H,12311,
+22 February 1993,Sheffield United,A,14628,
+27 February 1993,Everton,A,18025,"Adams (2, 1 pen)"
+9 March 1993,Manchester United,H,17106,Adams
+13 March 1993,Norwich City,A,19597,
+20 March 1993,Queens Park Rangers,H,10946,"Henry, Adams"
+22 March 1993,Middlesbrough,A,12290,"Bernard, Olney, Ritchie"
+3 April 1993,Wimbledon,H,11606,"Fashanu (own goal), Bernard, Olney (2), Adams, Beckford"
+7 April 1993,Sheffield Wednesday,H,12312,Pointon
+10 April 1993,Liverpool,A,36129,
+13 April 1993,Sheffield United,H,14795,Ritchie
+17 April 1993,Tottenham Hotspur,A,26663,Beckford
+2 May 1993,Aston Villa,A,37247,Henry
+5 May 1993,Liverpool,H,15381,"Beckford, Olney (2)"
+8 May 1993,Southampton,H,14597,"Pointon, Olney, Ritchie, Halle"

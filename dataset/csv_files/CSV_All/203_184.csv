@@ -1,10 +1,10 @@
-Tie no,Home team,Score,Away team,Attendance
-1,Chesterfield,,Nottingham Forest,15 February 1997
-2,Leicester City,,Chelsea,16 February 1997
-Replay,Chelsea,,Leicester City,26 February 1997
-3,Derby County,,Coventry City,26 February 1997
-4,Manchester City,,Middlesbrough,15 February 1997
-5,Bradford City,,Sheffield Wednesday,16 February 1997
-6,Wimbledon,,Queens Park Rangers,15 February 1997
-7,Leeds United,,Portsmouth,15 February 1997
-8,Birmingham City,,Wrexham,15 February 1997
+tie no,home team,away team,attendance
+1,Chesterfield,Nottingham Forest,15 February 1997
+2,Leicester City,Chelsea,16 February 1997
+Replay,Chelsea,Leicester City,26 February 1997
+3,Derby County,Coventry City,26 February 1997
+4,Manchester City,Middlesbrough,15 February 1997
+5,Bradford City,Sheffield Wednesday,16 February 1997
+6,Wimbledon,Queens Park Rangers,15 February 1997
+7,Leeds United,Portsmouth,15 February 1997
+8,Birmingham City,Wrexham,15 February 1997

@@ -1,4 +1,4 @@
-Symbol,GSI,Meaning,Unicode,Description
+symbol,gsi,meaning,unicode,description
 ◬,○,Base triangulation surveying point,U+25EC,Dot in upward-pointing triangle
 ,○,Electronic triangulation point,,Dot in upward-pointing triangle with flag
 ⊡,○,Benchmark,U+22A1,Dot in square

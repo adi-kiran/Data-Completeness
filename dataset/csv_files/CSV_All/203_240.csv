@@ -1,11 +1,11 @@
-num,Date,Opponent,Score,Win,Loss,Save,Attendance,Record
-106,August 2,Pirates,,,,Dan Miceli (2),40164,
-107,August 3,Pirates,,,,None,36542,
-108,August 4,Pirates,,,,None,37481,
-109,August 5,Expos,,,,None,33642,
-110,August 6,Expos,,,,Jeff Shaw (1),41699,
-111,August 7,Expos,,,,Mel Rojas (16),45346,
-112,August 8,Mets,,,,John Franco (29),35977,
-113,August 9,Mets,,,,None,31740,
-114,August 10,Mets,,,,John Franco (30),36716,
-115,August 11,Mets,,,,None,37605,
+num,date,opponent,save,attendance
+106,August 2,Pirates,Dan Miceli (2),40164
+107,August 3,Pirates,None,36542
+108,August 4,Pirates,None,37481
+109,August 5,Expos,None,33642
+110,August 6,Expos,Jeff Shaw (1),41699
+111,August 7,Expos,Mel Rojas (16),45346
+112,August 8,Mets,John Franco (29),35977
+113,August 9,Mets,None,31740
+114,August 10,Mets,John Franco (30),36716
+115,August 11,Mets,None,37605

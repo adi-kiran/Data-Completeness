@@ -1,28 +1,28 @@
-num,Date,Venue,Opponent,Score,Result,Competition
-1.0,1 May 2000,"Rasmee Dhandu Stadium, Male, Maldives",Maldives,,,2000 MFF Golden Jubilee Tournament
-2.0,25 August 2000,"Ho Chi Minh City, Vietnam",Vietnam,,,2000 HCM Cup
-3.0,28 March 2001,"Colombo, Sri Lanka",Cambodia,,,Friendly
-4.0,17 May 2001,"Beirut Municipal Stadium, Beirut, Lebanon",Pakistan,,,2002 FIFA World Cup qualification (AFC)
-5.0,30 May 2001,"Suphachalasai Stadium, Bangkok, Thailand",Pakistan,,,2002 FIFA World Cup qualification (AFC)
-6.0,30 May 2001,"Supachalasai Stadium, Bangkok, Thailand",Pakistan,,,2002 FIFA World Cup qualification (AFC)
-7.0,4 April 2002,"Sugathadasa Stadium, Colombo, Sri Lanka",Maldives,,,Friendly
-8.0,21 March 2003,"Sugathadasa Stadium, Colombo, Sri Lanka",Timor-Leste,,,2004 AFC Asian Cup qualification
-9.0,21 March 2003,"Sugathadasa Stadium, Colombo, Sri Lanka",Timor-Leste,,,2004 AFC Asian Cup qualification
-10.0,3 December 2003,"Sugathadasa Stadium, Colombo, Sri Lanka",Laos,,,2006 FIFA World Cup qualification (AFC)
-11.0,2 April 2006,"MA Aziz Stadium, Chittagong, Bangladesh",Brunei,,,2006 AFC Challenge Cup
-12.0,12 April 2006,"MA Aziz Stadium, Chittagong, Bangladesh",Nepal,,,2006 AFC Challenge Cup
-13.0,24 March 2007,"Sugathadasa Stadium, Colombo, Sri Lanka",Malaysia,,,Friendly
-14.0,2 April 2008,"Chungshan Stadium, Taipei, Taiwan",Guam,,,2008 AFC Challenge Cup qualification
-15.0,4 April 2008,"Chungshan Stadium, Taipei, Taiwan",Pakistan,,,2008 AFC Challenge Cup qualification
-16.0,4 April 2008,"Chungshan Stadium, Taipei, Taiwan",Pakistan,,,2008 AFC Challenge Cup qualification
-17.0,4 April 2008,"Chungshan Stadium, Taipei, Taiwan",Pakistan,,,2008 AFC Challenge Cup qualification
-18.0,6 April 2008,"Chungshan Stadium, Taipei, Taiwan",Chinese Taipei,,,2008 AFC Challenge Cup qualification
-19.0,2 August 2008,"Gachibowli Athletic Stadium, Hyderabad, India",Myanmar,,,2008 AFC Challenge Cup
-20.0,4 April 2009,"Sugathadasa Stadium, Colombo, Sri Lanka",Brunei,,,2010 AFC Challenge Cup qualification
-21.0,4 April 2009,"Sugathadasa Stadium, Colombo, Sri Lanka",Brunei,,,2010 AFC Challenge Cup qualification
-22.0,4 April 2009,"Sugathadasa Stadium, Colombo, Sri Lanka",Brunei,,,2010 AFC Challenge Cup qualification
-23.0,4 April 2009,"Sugathadasa Stadium, Colombo, Sri Lanka",Brunei,,,2010 AFC Challenge Cup qualification
-24.0,6 April 2009,"Sugathadasa Stadium, Colombo, Sri Lanka",Chinese Taipei,,,2010 AFC Challenge Cup qualification
-25.0,6 December 2009,"Bangabandhu National Stadium, Dhaka, Bangladesh",Bhutan,,,2009 South Asian Football Federation Cup
-26.0,6 December 2009,"Bangabandhu National Stadium, Dhaka, Bangladesh",Bhutan,,,2009 South Asian Football Federation Cup
-27.0,6 December 2009,"Bangabandhu National Stadium, Dhaka, Bangladesh",Bhutan,,,2009 South Asian Football Federation Cup
+num,date,venue,opponent,competition
+1.0,1 May 2000,"Rasmee Dhandu Stadium, Male, Maldives",Maldives,2000 MFF Golden Jubilee Tournament
+2.0,25 August 2000,"Ho Chi Minh City, Vietnam",Vietnam,2000 HCM Cup
+3.0,28 March 2001,"Colombo, Sri Lanka",Cambodia,Friendly
+4.0,17 May 2001,"Beirut Municipal Stadium, Beirut, Lebanon",Pakistan,2002 FIFA World Cup qualification (AFC)
+5.0,30 May 2001,"Suphachalasai Stadium, Bangkok, Thailand",Pakistan,2002 FIFA World Cup qualification (AFC)
+6.0,30 May 2001,"Supachalasai Stadium, Bangkok, Thailand",Pakistan,2002 FIFA World Cup qualification (AFC)
+7.0,4 April 2002,"Sugathadasa Stadium, Colombo, Sri Lanka",Maldives,Friendly
+8.0,21 March 2003,"Sugathadasa Stadium, Colombo, Sri Lanka",Timor-Leste,2004 AFC Asian Cup qualification
+9.0,21 March 2003,"Sugathadasa Stadium, Colombo, Sri Lanka",Timor-Leste,2004 AFC Asian Cup qualification
+10.0,3 December 2003,"Sugathadasa Stadium, Colombo, Sri Lanka",Laos,2006 FIFA World Cup qualification (AFC)
+11.0,2 April 2006,"MA Aziz Stadium, Chittagong, Bangladesh",Brunei,2006 AFC Challenge Cup
+12.0,12 April 2006,"MA Aziz Stadium, Chittagong, Bangladesh",Nepal,2006 AFC Challenge Cup
+13.0,24 March 2007,"Sugathadasa Stadium, Colombo, Sri Lanka",Malaysia,Friendly
+14.0,2 April 2008,"Chungshan Stadium, Taipei, Taiwan",Guam,2008 AFC Challenge Cup qualification
+15.0,4 April 2008,"Chungshan Stadium, Taipei, Taiwan",Pakistan,2008 AFC Challenge Cup qualification
+16.0,4 April 2008,"Chungshan Stadium, Taipei, Taiwan",Pakistan,2008 AFC Challenge Cup qualification
+17.0,4 April 2008,"Chungshan Stadium, Taipei, Taiwan",Pakistan,2008 AFC Challenge Cup qualification
+18.0,6 April 2008,"Chungshan Stadium, Taipei, Taiwan",Chinese Taipei,2008 AFC Challenge Cup qualification
+19.0,2 August 2008,"Gachibowli Athletic Stadium, Hyderabad, India",Myanmar,2008 AFC Challenge Cup
+20.0,4 April 2009,"Sugathadasa Stadium, Colombo, Sri Lanka",Brunei,2010 AFC Challenge Cup qualification
+21.0,4 April 2009,"Sugathadasa Stadium, Colombo, Sri Lanka",Brunei,2010 AFC Challenge Cup qualification
+22.0,4 April 2009,"Sugathadasa Stadium, Colombo, Sri Lanka",Brunei,2010 AFC Challenge Cup qualification
+23.0,4 April 2009,"Sugathadasa Stadium, Colombo, Sri Lanka",Brunei,2010 AFC Challenge Cup qualification
+24.0,6 April 2009,"Sugathadasa Stadium, Colombo, Sri Lanka",Chinese Taipei,2010 AFC Challenge Cup qualification
+25.0,6 December 2009,"Bangabandhu National Stadium, Dhaka, Bangladesh",Bhutan,2009 South Asian Football Federation Cup
+26.0,6 December 2009,"Bangabandhu National Stadium, Dhaka, Bangladesh",Bhutan,2009 South Asian Football Federation Cup
+27.0,6 December 2009,"Bangabandhu National Stadium, Dhaka, Bangladesh",Bhutan,2009 South Asian Football Federation Cup

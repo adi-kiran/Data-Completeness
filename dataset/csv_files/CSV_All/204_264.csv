@@ -1,12 +1,12 @@
-Date,Venue,Opponents,Score,Competition
-20 March,Fukuoka (A),Japan,,Sanix Cup
-20 March,Fukuoka (A),China PR,,Sanix Cup
-8 August,Toyota (N),Brazil,,Toyota Cup
-9 August,Toyota (A),Japan,,Toyota Cup
-10 August,Toyota (N),United Arab Emirates,,Toyota Cup
-4 October,Tashkent (N),India,,AFC U-16 Championship (Group B)
-6 October,Tashkent (N),Indonesia,,AFC U-16 Championship (Group B)
-8 October,Tashkent (N),Syria,,AFC U-16 Championship (Group B)
-12 October,Tashkent (A),Uzbekistan,,AFC U-16 Championship (Quarterfinal)
-15 October,Tashkent (N),Japan,,AFC U-16 Championship (Semifinal)
-18 October,Tashkent (N),Iran,,AFC U-16 Championship (Final)
+date,venue,opponents,competition
+20 March,Fukuoka (A),Japan,Sanix Cup
+20 March,Fukuoka (A),China PR,Sanix Cup
+8 August,Toyota (N),Brazil,Toyota Cup
+9 August,Toyota (A),Japan,Toyota Cup
+10 August,Toyota (N),United Arab Emirates,Toyota Cup
+4 October,Tashkent (N),India,AFC U-16 Championship (Group B)
+6 October,Tashkent (N),Indonesia,AFC U-16 Championship (Group B)
+8 October,Tashkent (N),Syria,AFC U-16 Championship (Group B)
+12 October,Tashkent (A),Uzbekistan,AFC U-16 Championship (Quarterfinal)
+15 October,Tashkent (N),Japan,AFC U-16 Championship (Semifinal)
+18 October,Tashkent (N),Iran,AFC U-16 Championship (Final)

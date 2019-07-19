@@ -1,4 +1,4 @@
-Manufacturer,Model,first flight,max Payload (t),Cruise (km/h),max range (km),MTOW
+manufacturer,model,first flight,max payload (t),cruise (km/h),max range (km),mtow
 Airbus,A330 MRTT,2007,45.0,860,14800,223.0
 Airbus,A400M,2009,37.0,780,9300,141.0
 Alenia,C-27J Spartan,2008,11.5,583,5926,31.8

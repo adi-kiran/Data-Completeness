@@ -1,4 +1,4 @@
-Place (Posicion),Team (Equipo),Played (PJ),Won (PG),Draw (PE),Lost (PP),Goals Scored (GF),Goals Conceded (GC),+/- (Dif.),Points (Pts.)
+place (posicion),team (equipo),played (pj),won (pg),draw (pe),lost (pp),goals scored (gf),goals conceded (gc),+/ (dif ),points (pts )
 1.0,Tauro F.C.,13,7,2,4,21,18,3,23
 2.0,San Francisco F.C.,13,5,6,2,19,15,4,21
 3.0,Chepo F.C.,13,5,5,3,19,12,7,20

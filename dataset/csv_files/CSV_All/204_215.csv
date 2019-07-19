@@ -1,4 +1,4 @@
-Airline,Destination(s),Aircraft Scheduled,Service Date(s),Comments
+airline,destinations,aircraft scheduled,service dates,comments
 Air Florida,"New York JFK, Tampa, Washington National","Boeing 737-200, DC-9-10","JFK: 6/14/79-9/5/79, DCA: 10/26/79-9/30/1982, TPA: 02/1980-9/30/1982",
 AirTran Airways,"Atlanta, Dayton, Orlando","Boeing 737-200, DC-9-30, Boeing 717-200","11/14/1996-2/28/1998, 10/3/2000-4/29/2002",
 Air Wisconsin,"Akron-Canton, Chicago O'Hare, Cleveland, Columbus, Flint, Fort Wayne, Kalamazoo, Pittsburgh, South Bend","BAe 146, BAe ATP, Dash 8-300, Dash 7, Metro III",?-02/03/1993,Original and operating as United Express.

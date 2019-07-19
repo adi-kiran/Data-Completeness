@@ -1,10 +1,10 @@
-School,Season,Record,Conference Record,Place,Postseason
-Illinois,,,,5th,
-Illinois,,,,3rd,
-Illinois,,,,T1st,National Champions
-Illinois,,,,T2nd,
-Illinois,,,,T1st,Big Ten Champions
-Illinois,,,,T4th,
-Illinois,,,,5th,
-Illinois,,,,3rd,
-Illinois,,,,,
+school,place,postseason
+Illinois,5th,
+Illinois,3rd,
+Illinois,T1st,National Champions
+Illinois,T2nd,
+Illinois,T1st,Big Ten Champions
+Illinois,T4th,
+Illinois,5th,
+Illinois,3rd,
+Illinois,,

@@ -1,13 +1,13 @@
-num,Name (Birth-Death),Took office,Left office,Monarch,Prime Minister
-1.0,,31 May 1910,8 September 1914,George V,Botha
-2.0,,8 September 1914,17 November 1920,George V,Botha
-3.0,,17 November 1920,21 January 1924,George V,Smuts
-4.0,,21 January 1924,26 January 1931,George V,Smuts
-5.0,,26 January 1931,5 April 1937,George V,Hertzog
-6.0,,5 April 1937,17 July 1943,George VI,Hertzog
-,,17 July 1943,1 January 1946,George VI,Smuts
-7.0,,1 January 1946,1 January 1951,George VI,Smuts
-8.0,,1 January 1951,25 November 1959,George VI,Malan
-,,26 November 1959,11 December 1959,Elizabeth II,Verwoerd
-9.0,,11 December 1959,30 April 1961,Elizabeth II,Verwoerd
-,,30 April 1961,31 May 1961,Elizabeth II,Verwoerd
+num,took office,left office,monarch,prime minister
+1.0,31 May 1910,8 September 1914,George V,Botha
+2.0,8 September 1914,17 November 1920,George V,Botha
+3.0,17 November 1920,21 January 1924,George V,Smuts
+4.0,21 January 1924,26 January 1931,George V,Smuts
+5.0,26 January 1931,5 April 1937,George V,Hertzog
+6.0,5 April 1937,17 July 1943,George VI,Hertzog
+,17 July 1943,1 January 1946,George VI,Smuts
+7.0,1 January 1946,1 January 1951,George VI,Smuts
+8.0,1 January 1951,25 November 1959,George VI,Malan
+,26 November 1959,11 December 1959,Elizabeth II,Verwoerd
+9.0,11 December 1959,30 April 1961,Elizabeth II,Verwoerd
+,30 April 1961,31 May 1961,Elizabeth II,Verwoerd

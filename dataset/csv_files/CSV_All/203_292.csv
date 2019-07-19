@@ -1,4 +1,4 @@
-Payload type (PT),Name,Type,No. of channels,Clock rate (Hz),Frame size (ms),Default packet size (ms),Description,References
+payload type (pt),name,type,no of channels,clock rate (hz),frame size (ms),default packet size (ms),description,references
 0,PCMU,audio,1,8000,any,20,ITU-T G.711 PCM µ-Law Audio 64 kbit/s,RFC 3551
 1,reserved (previously 1016),audio,1,8000,,,"reserved, previously CELP Audio 4.8 kbit/s","RFC 3551, previously RFC 1890"
 2,reserved (previously G721),audio,1,8000,,,"reserved, previously ITU-T G.721 ADPCM Audio 32 kbit/s","RFC 3551, previously RFC 1890"

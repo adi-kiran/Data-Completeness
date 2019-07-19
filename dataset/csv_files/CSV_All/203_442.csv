@@ -1,9 +1,9 @@
-num,Date,Venue,Opponent,Score,Result,Competition
-1.0,15 August 2012,"Ullevaal Stadion, Oslo, Norway",Norway,,,Friendly
-2.0,11 September 2012,"Karaiskakis Stadium, Pireaus, Greece",Lithuania,,,2014 FIFA World Cup qualifier
-3.0,14 August 2013,"Red Bull Arena, Salzburg, Austria",Austria,,,Friendly
-4.0,14 August 2013,"Red Bull Arena, Salzburg, Austria",Austria,,,Friendly
-5.0,6 September 2013,"Rheinpark Stadion, Vaduz, Liechtenstein",Liechtenstein,,,2014 FIFA World Cup qualifier
-6.0,15 November 2013,"Karaiskakis Stadium, Pireaus, Greece",Romania,,,
-7.0,15 November 2013,"Karaiskakis Stadium, Pireaus, Greece",Romania,,,
-8.0,19 November 2013,"Arena Națională, Bucharest, Romania",Romania,,,
+num,date,venue,opponent,competition
+1.0,15 August 2012,"Ullevaal Stadion, Oslo, Norway",Norway,Friendly
+2.0,11 September 2012,"Karaiskakis Stadium, Pireaus, Greece",Lithuania,2014 FIFA World Cup qualifier
+3.0,14 August 2013,"Red Bull Arena, Salzburg, Austria",Austria,Friendly
+4.0,14 August 2013,"Red Bull Arena, Salzburg, Austria",Austria,Friendly
+5.0,6 September 2013,"Rheinpark Stadion, Vaduz, Liechtenstein",Liechtenstein,2014 FIFA World Cup qualifier
+6.0,15 November 2013,"Karaiskakis Stadium, Pireaus, Greece",Romania,
+7.0,15 November 2013,"Karaiskakis Stadium, Pireaus, Greece",Romania,
+8.0,19 November 2013,"Arena Națională, Bucharest, Romania",Romania,

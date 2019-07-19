@@ -1,4 +1,4 @@
-Type,Manufacturer,Numbers,Year built,Quantity built,Power (horsepower),Max Speed (km/h),Note
+type,manufacturer,numbers,year built,quantity built,power (horsepower),max speed (km/h),note
 RHN,Hitachi,1011-1048 (power cars) 11-48 (trailer cars),1967,38+38,220,90,Now use as a Northeastern line commuter train.
 RTS,Tokyu,D9-D16 (power cars) TS4-TS7 (center/trailer cars),1971,8+4,220,70,"Ex-Mahachai railways, to be refurbished. Similar bodyshell of THN and NKF but with different formation (power car-2 trailer cars)."
 THN,"Tokyu, Hitachi and Nippon Sharyo",,1983,40,235,105,Similar to NKF.

@@ -1,4 +1,4 @@
-Election year,num of constituency votes,percentage of constituency votes,+/-,num of party list votes,percentage of party list votes,+/-.1,num of overall seats won
+election year,num of constituency votes,percentage of constituency votes,+/ ,num of party list votes,percentage of party list votes,+/ 1,num of overall seats won
 1965,587216,1.8,1.8,664193,2.0,2.0,0 / 518
 1969,1189375,3.6,1.8,1422010,4.3,2.3,0 / 518
 1972,194389,0.5,3.1,207465,0.6,3.7,0 / 518

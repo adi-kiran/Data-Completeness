@@ -1,4 +1,4 @@
-Material,lambda (nm),n
+material,lambda (nm),n
 Vacuum,,1 (by definition)
 Air at STP,,1.000277
 Air,589.29,1.000293

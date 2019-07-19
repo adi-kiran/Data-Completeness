@@ -1,18 +1,18 @@
-Week,Date,Opponent,Home/Away,Result
-1,February 8,New Orleans VooDoo,Home,
-2,February 15,Dallas Desperados,Away,
-3,February 21,Columbus Destroyers,Home,
-4,February 29,Tampa Bay Storm,Away,
-5,March 7,Chicago Rush,Home,
-6,March 13,Columbus Destroyers,Away,
-7,March 21,Colorado Crush,Home,
-8,March 28,Austin Wranglers,Away,
-9,April 4,Dallas Desperados,Home,
-10,,Bye,Week,
-11,April 17,Carolina Cobras,Away,
-12,April 24,New York Dragons,Home,
-13,May 1,Colorado Crush,Away,
-14,May 8,Las Vegas Gladiators,Home,
-15,May 15,Carolina Cobras,Home,
-16,May 22,San Jose SaberCats,Away,
-17,May 30,New York Dragons,Away,
+week,date,opponent,home/away
+1,February 8,New Orleans VooDoo,Home
+2,February 15,Dallas Desperados,Away
+3,February 21,Columbus Destroyers,Home
+4,February 29,Tampa Bay Storm,Away
+5,March 7,Chicago Rush,Home
+6,March 13,Columbus Destroyers,Away
+7,March 21,Colorado Crush,Home
+8,March 28,Austin Wranglers,Away
+9,April 4,Dallas Desperados,Home
+10,,Bye,Week
+11,April 17,Carolina Cobras,Away
+12,April 24,New York Dragons,Home
+13,May 1,Colorado Crush,Away
+14,May 8,Las Vegas Gladiators,Home
+15,May 15,Carolina Cobras,Home
+16,May 22,San Jose SaberCats,Away
+17,May 30,New York Dragons,Away

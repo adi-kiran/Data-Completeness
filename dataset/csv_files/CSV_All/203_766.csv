@@ -1,9 +1,9 @@
-num,Date,Venue,Opponent,Score,Result,Competition
-1.0,27 March 1999,"Mestalla, Valencia, Spain",Austria,,,Euro 2000 qualifying
-2.0,27 March 1999,"Mestalla, Valencia, Spain",Austria,,,Euro 2000 qualifying
-3.0,31 March 1999,"Olimpico, Serravalle, San Marino",San Marino,,,Euro 2000 qualifying
-4.0,8 September 1999,"Vivero, Badajoz, Spain",Cyprus,,,Euro 2000 qualifying
-5.0,8 September 1999,"Vivero, Badajoz, Spain",Cyprus,,,Euro 2000 qualifying
-6.0,8 September 1999,"Vivero, Badajoz, Spain",Cyprus,,,Euro 2000 qualifying
-7.0,26 January 2000,"Cartagonova, Cartagena, Spain",Poland,,,Friendly
-8.0,26 January 2000,"Cartagonova, Cartagena, Spain",Poland,,,Friendly
+num,date,venue,opponent,competition
+1.0,27 March 1999,"Mestalla, Valencia, Spain",Austria,Euro 2000 qualifying
+2.0,27 March 1999,"Mestalla, Valencia, Spain",Austria,Euro 2000 qualifying
+3.0,31 March 1999,"Olimpico, Serravalle, San Marino",San Marino,Euro 2000 qualifying
+4.0,8 September 1999,"Vivero, Badajoz, Spain",Cyprus,Euro 2000 qualifying
+5.0,8 September 1999,"Vivero, Badajoz, Spain",Cyprus,Euro 2000 qualifying
+6.0,8 September 1999,"Vivero, Badajoz, Spain",Cyprus,Euro 2000 qualifying
+7.0,26 January 2000,"Cartagonova, Cartagena, Spain",Poland,Friendly
+8.0,26 January 2000,"Cartagonova, Cartagena, Spain",Poland,Friendly

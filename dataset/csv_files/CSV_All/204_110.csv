@@ -1,45 +1,45 @@
-Year,Champion,City,LLWS,Record
-1957,Industrial LL,"Monterrey, Nuevo Leon",Champions,
-1958,National League of Gadsden LL,"Gadsden, Alabama",Third Place,
-1959,National League of Gadsden LL,"Gadsden, Alabama",First Round,
-1960,North East Optimist Club LL,"Fort Worth, Texas",Runner-Up,
-1961,El Campo LL,"El Campo, Texas",Runner-Up,
-1962,Val Verde County LL,"Del Rio, Texas",Fifth Place,
-1963,North Houston LL,"North Houston, Texas",Fifth Place,
-1964,South Brookley LL,"Mobile, Alabama",Third Place,
-1965,North Waco LL,"Waco, Texas",Third Place,
-1966,Westbury American LL,"Houston, Texas",Champions,
-1967,West Tampa LL,"Tampa, Florida",Fifth Place (tie),
-1968,Tuckahoe LL,"Richmond, Virginia",Runner-Up,
-1969,West Tampa LL,"Tampa, Florida",Third Place (tie),
-1970,National Optimist LL,"Nashville, Tennessee",Seventh Place,
-1971,Gardenside LL,"Lexington, Kentucky",Eighth Place,
-1972,National LL,"Vienna, Virginia",Seventh Place,
-1973,Belmont Heights LL,"Tampa, Florida",Third Place,
-1974,American LL,"Jackson, Tennessee",Fifth Place,
-1975,Belmont Heights LL,"Tampa, Florida",Runner-Up,
-1976,Tuckahoe American LL,"Richmond, Virginia",Third Place (tie),
-1977,Hub City LL,"Hattiesburg, Mississippi",Fifth Place,
-1978,South Lexington LL,"Lexington, Kentucky",Third Place,
-1979,Burns Park LL,"North Little Rock, Arkansas",Third Place,
-1980,Belmont Heights LL,"Tampa, Florida",Runner-Up,
-1981,Belmont Heights LL,"Tampa, Florida",Runner-Up,
-1982,American LL,"Sarasota, Florida",Seventh Place,
-1983,East Marietta National LL,"Marietta, Georgia",Champions,
-1984,National LL,"Altamonte, Florida",Runner-Up,
-1985,American LL,"Morristown, Tennessee",Third Place,
-1986,American LL,"Sarasota, Florida",Third Place,
-1987,American LL,"Morristown, Tennessee",Seventh Place (tie),
-1988,Northwest 45 LL,"Spring, Texas",Third Place,
-1989,Northside LL,"Tampa, Florida",Fifth Place,
-1990,Cottage Hill LL,"Mobile, Alabama",Fifth Place (tie),
-1991,National LL,"Dunedin, Florida",Sixth Place,
-1992,South Lake Charles LL,"Lake Charles, Louisiana",Group Stage,
-1993,Tuckahoe American LL,"Richmond, Virginia",Group Stage,
-1994,Central Springfield LL,"Springfield, Virginia",Third Place (tie),
-1995,Northwest 45 LL,"Spring, Texas",Runner-Up,
-1996,R.L. Turner LL,"Panama City, Florida",Third Place (tie),
-1997,Manatee G.T. Bray East LL,"Bradenton, Florida",Third Place (tie),
-1998,Greenville LL,"Greenville, North Carolina",Third Place (tie),
-1999,National LL,"Phenix City, Alabama",Runner-Up,
-2000,Bellaire LL,"Bellaire, Texas",Runner-Up,
+year,champion,city,llws
+1957,Industrial LL,"Monterrey, Nuevo Leon",Champions
+1958,National League of Gadsden LL,"Gadsden, Alabama",Third Place
+1959,National League of Gadsden LL,"Gadsden, Alabama",First Round
+1960,North East Optimist Club LL,"Fort Worth, Texas",Runner-Up
+1961,El Campo LL,"El Campo, Texas",Runner-Up
+1962,Val Verde County LL,"Del Rio, Texas",Fifth Place
+1963,North Houston LL,"North Houston, Texas",Fifth Place
+1964,South Brookley LL,"Mobile, Alabama",Third Place
+1965,North Waco LL,"Waco, Texas",Third Place
+1966,Westbury American LL,"Houston, Texas",Champions
+1967,West Tampa LL,"Tampa, Florida",Fifth Place (tie)
+1968,Tuckahoe LL,"Richmond, Virginia",Runner-Up
+1969,West Tampa LL,"Tampa, Florida",Third Place (tie)
+1970,National Optimist LL,"Nashville, Tennessee",Seventh Place
+1971,Gardenside LL,"Lexington, Kentucky",Eighth Place
+1972,National LL,"Vienna, Virginia",Seventh Place
+1973,Belmont Heights LL,"Tampa, Florida",Third Place
+1974,American LL,"Jackson, Tennessee",Fifth Place
+1975,Belmont Heights LL,"Tampa, Florida",Runner-Up
+1976,Tuckahoe American LL,"Richmond, Virginia",Third Place (tie)
+1977,Hub City LL,"Hattiesburg, Mississippi",Fifth Place
+1978,South Lexington LL,"Lexington, Kentucky",Third Place
+1979,Burns Park LL,"North Little Rock, Arkansas",Third Place
+1980,Belmont Heights LL,"Tampa, Florida",Runner-Up
+1981,Belmont Heights LL,"Tampa, Florida",Runner-Up
+1982,American LL,"Sarasota, Florida",Seventh Place
+1983,East Marietta National LL,"Marietta, Georgia",Champions
+1984,National LL,"Altamonte, Florida",Runner-Up
+1985,American LL,"Morristown, Tennessee",Third Place
+1986,American LL,"Sarasota, Florida",Third Place
+1987,American LL,"Morristown, Tennessee",Seventh Place (tie)
+1988,Northwest 45 LL,"Spring, Texas",Third Place
+1989,Northside LL,"Tampa, Florida",Fifth Place
+1990,Cottage Hill LL,"Mobile, Alabama",Fifth Place (tie)
+1991,National LL,"Dunedin, Florida",Sixth Place
+1992,South Lake Charles LL,"Lake Charles, Louisiana",Group Stage
+1993,Tuckahoe American LL,"Richmond, Virginia",Group Stage
+1994,Central Springfield LL,"Springfield, Virginia",Third Place (tie)
+1995,Northwest 45 LL,"Spring, Texas",Runner-Up
+1996,R.L. Turner LL,"Panama City, Florida",Third Place (tie)
+1997,Manatee G.T. Bray East LL,"Bradenton, Florida",Third Place (tie)
+1998,Greenville LL,"Greenville, North Carolina",Third Place (tie)
+1999,National LL,"Phenix City, Alabama",Runner-Up
+2000,Bellaire LL,"Bellaire, Texas",Runner-Up

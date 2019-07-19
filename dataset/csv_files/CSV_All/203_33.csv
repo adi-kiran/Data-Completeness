@@ -1,11 +1,11 @@
-Conference,Date,Place,attendance,Archive of presentations
-Wikimania 2005,,"Frankfurt, Germany",380,"slides, video"
-Wikimania 2006,,"Cambridge, United States",400,"slides and papers, video"
-Wikimania 2007,,"Taipei, ROC (Taiwan)",440,Commons gallery
-Wikimania 2008,,"Alexandria, Egypt",650,"abstracts, slides,video"
-Wikimania 2009,,"Buenos Aires, Argentina",559,"slides, video"
-Wikimania 2010,,"Gdańsk, Poland",about 500,slides
-Wikimania 2011,,"Haifa, Israel",720,"presentations, video"
-Wikimania 2012,,"Washington, D.C., United States","1,400","presentations, videos"
-Wikimania 2013,,Hong Kong,700,"presentations, videos"
-Wikimania 2014,,"London, United Kingdom",,
+conference,place,attendance,archive of presentations
+Wikimania 2005,"Frankfurt, Germany",380,"slides, video"
+Wikimania 2006,"Cambridge, United States",400,"slides and papers, video"
+Wikimania 2007,"Taipei, ROC (Taiwan)",440,Commons gallery
+Wikimania 2008,"Alexandria, Egypt",650,"abstracts, slides,video"
+Wikimania 2009,"Buenos Aires, Argentina",559,"slides, video"
+Wikimania 2010,"Gdańsk, Poland",about 500,slides
+Wikimania 2011,"Haifa, Israel",720,"presentations, video"
+Wikimania 2012,"Washington, D.C., United States","1,400","presentations, videos"
+Wikimania 2013,Hong Kong,700,"presentations, videos"
+Wikimania 2014,"London, United Kingdom",,

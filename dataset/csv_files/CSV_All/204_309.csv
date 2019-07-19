@@ -1,4 +1,4 @@
-Model,Released,Usage,Features,Storage
+model,released,usage,features,storage
 Betsie/Dottie,Unknown,Used for calculating odds for bookmakers,,
 SADIE,1966,Sterling And Decimal Invoicing Electronically,"Programming stored on soldered-through connectors on double-sided printed circuit cards, connecting instruction type on one side of the card with instruction number on the other side. IBM 2741 Selectric-style golf-ball teleprinter for user interface.",Nickel acoustic delay line working storage (8 words of decimal arithmetic). Paper tape and edge-punched cards. Magnetic stripe cards for the teleprinter-style user interface. Could be switched between decimal and Sterling at the flick of a switch as it said in the publicity.
 SUSIE,1967,Stock Updating and Sales Invoicing Electronically,"Programmes (2) stored on drum, each with 1000 machine instructions. Programme could be loaded from or written out to paper tape. User interface as SADIE.","As for SADIE, plus magnetic drum (6k words)"

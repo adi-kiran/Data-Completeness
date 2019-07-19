@@ -1,82 +1,82 @@
-Season,Winner,Team,Position,Age
-,Carl Voss,Detroit Red Wings,C,25
-,Russ Blinco,Montreal Maroons,C,25
-,Sweeney Schriner,New York Americans,LW,22
-,Mike Karakas,Chicago Black Hawks,G,23
-,Syl Apps,Toronto Maple Leafs,C,21
-,Cully Dahlstrom,Chicago Black Hawks,C,24
-,Frank Brimsek,Boston Bruins,G,24
-,Kilby MacDonald,New York Rangers,LW,25
-,Johnny Quilty,Montreal Canadiens,C,19
-,Grant Warwick,New York Rangers,RW,19
-,Gaye Stewart,Toronto Maple Leafs,RW,19
-,Gus Bodnar,Toronto Maple Leafs,C,20
-,Frank McCool,Toronto Maple Leafs,G,25
-,Edgar Laprade,New York Rangers,C,25
-,Howie Meeker,Toronto Maple Leafs,RW,21
-,Jim McFadden,Detroit Red Wings,C,27
-,Pentti Lund,New York Rangers,RW,22
-,Jack Gelineau,Boston Bruins,G,24
-,Terry Sawchuk,Detroit Red Wings,G,20
-,Bernie Geoffrion,Montreal Canadiens,RW,20
-,Gump Worsley,New York Rangers,G,23
-,Camille Henry,New York Rangers,C,20
-,Ed Litzenberger,Chicago Black Hawks,RW,22
-,Glenn Hall,Detroit Red Wings,G,23
-,Larry Regan,Boston Bruins,RW,26
-,Frank Mahovlich,Toronto Maple Leafs,LW,19
-,Ralph Backstrom,Montreal Canadiens,C,20
-,Bill Hay,Chicago Black Hawks,C,23
-,Dave Keon,Toronto Maple Leafs,C,20
-,Bobby Rousseau,Montreal Canadiens,RW,21
-,Kent Douglas,Toronto Maple Leafs,D,26
-,Jacques Laperriere,Montreal Canadiens,D,21
-,Roger Crozier,Detroit Red Wings,G,22
-,Brit Selby,Toronto Maple Leafs,LW,20
-,Bobby Orr,Boston Bruins,D,18
-,Derek Sanderson,Boston Bruins,C,21
-,Danny Grant,Minnesota North Stars,RW,23
-,Tony Esposito,Chicago Black Hawks,G,26
-,Gilbert Perreault,Buffalo Sabres,C,19
-,Ken Dryden,Montreal Canadiens,G,24
-,Steve Vickers,New York Rangers,LW,21
-,Denis Potvin,New York Islanders,D,19
-,Eric Vail,Atlanta Flames,LW,20
-,Bryan Trottier,New York Islanders,C,19
-,Willi Plett,Atlanta Flames,RW,21
-,Mike Bossy,New York Islanders,RW,20
-,Bobby Smith,Minnesota North Stars,C,20
-,Ray Bourque,Boston Bruins,D,19
-,Peter Stastny,Quebec Nordiques,C,24
-,Dale Hawerchuk,Winnipeg Jets,C,18
-,Steve Larmer,Chicago Black Hawks,RW,21
-,Tom Barrasso,Buffalo Sabres,G,18
-,Mario Lemieux,Pittsburgh Penguins,C,19
-,Gary Suter,Calgary Flames,D,21
-,Luc Robitaille,Los Angeles Kings,LW,20
-,Joe Nieuwendyk,Calgary Flames,C,21
-,Brian Leetch,New York Rangers,D,20
-,Sergei Makarov,Calgary Flames,RW,31
-,Ed Belfour,Chicago Blackhawks,G,25
-,Pavel Bure,Vancouver Canucks,RW,20
-,Teemu Selanne,Winnipeg Jets,RW,22
-,Martin Brodeur,New Jersey Devils,G,21
-,Peter Forsberg,Quebec Nordiques,C,21
-,Daniel Alfredsson,Ottawa Senators,RW,22
-,Bryan Berard,New York Islanders,D,19
-,Sergei Samsonov,Boston Bruins,LW,19
-,Chris Drury,Colorado Avalanche,C,22
-,Scott Gomez,New Jersey Devils,C,19
-,Evgeni Nabokov,San Jose Sharks,G,25
-,Dany Heatley,Atlanta Thrashers,RW,20
-,Barret Jackman,St. Louis Blues,D,21
-,Andrew Raycroft,Boston Bruins,G,23
-,,-,-,-
-,Alexander Ovechkin,Washington Capitals,LW,20
-,Evgeni Malkin,Pittsburgh Penguins,C,20
-,Patrick Kane,Chicago Blackhawks,RW,19
-,Steve Mason,Columbus Blue Jackets,G,21
-,Tyler Myers,Buffalo Sabres,D,20
-,Jeff Skinner,Carolina Hurricanes,C,18
-,Gabriel Landeskog,Colorado Avalanche,LW,19
-,Jonathan Huberdeau,Florida Panthers,C,19
+winner,team,position,age
+Carl Voss,Detroit Red Wings,C,25
+Russ Blinco,Montreal Maroons,C,25
+Sweeney Schriner,New York Americans,LW,22
+Mike Karakas,Chicago Black Hawks,G,23
+Syl Apps,Toronto Maple Leafs,C,21
+Cully Dahlstrom,Chicago Black Hawks,C,24
+Frank Brimsek,Boston Bruins,G,24
+Kilby MacDonald,New York Rangers,LW,25
+Johnny Quilty,Montreal Canadiens,C,19
+Grant Warwick,New York Rangers,RW,19
+Gaye Stewart,Toronto Maple Leafs,RW,19
+Gus Bodnar,Toronto Maple Leafs,C,20
+Frank McCool,Toronto Maple Leafs,G,25
+Edgar Laprade,New York Rangers,C,25
+Howie Meeker,Toronto Maple Leafs,RW,21
+Jim McFadden,Detroit Red Wings,C,27
+Pentti Lund,New York Rangers,RW,22
+Jack Gelineau,Boston Bruins,G,24
+Terry Sawchuk,Detroit Red Wings,G,20
+Bernie Geoffrion,Montreal Canadiens,RW,20
+Gump Worsley,New York Rangers,G,23
+Camille Henry,New York Rangers,C,20
+Ed Litzenberger,Chicago Black Hawks,RW,22
+Glenn Hall,Detroit Red Wings,G,23
+Larry Regan,Boston Bruins,RW,26
+Frank Mahovlich,Toronto Maple Leafs,LW,19
+Ralph Backstrom,Montreal Canadiens,C,20
+Bill Hay,Chicago Black Hawks,C,23
+Dave Keon,Toronto Maple Leafs,C,20
+Bobby Rousseau,Montreal Canadiens,RW,21
+Kent Douglas,Toronto Maple Leafs,D,26
+Jacques Laperriere,Montreal Canadiens,D,21
+Roger Crozier,Detroit Red Wings,G,22
+Brit Selby,Toronto Maple Leafs,LW,20
+Bobby Orr,Boston Bruins,D,18
+Derek Sanderson,Boston Bruins,C,21
+Danny Grant,Minnesota North Stars,RW,23
+Tony Esposito,Chicago Black Hawks,G,26
+Gilbert Perreault,Buffalo Sabres,C,19
+Ken Dryden,Montreal Canadiens,G,24
+Steve Vickers,New York Rangers,LW,21
+Denis Potvin,New York Islanders,D,19
+Eric Vail,Atlanta Flames,LW,20
+Bryan Trottier,New York Islanders,C,19
+Willi Plett,Atlanta Flames,RW,21
+Mike Bossy,New York Islanders,RW,20
+Bobby Smith,Minnesota North Stars,C,20
+Ray Bourque,Boston Bruins,D,19
+Peter Stastny,Quebec Nordiques,C,24
+Dale Hawerchuk,Winnipeg Jets,C,18
+Steve Larmer,Chicago Black Hawks,RW,21
+Tom Barrasso,Buffalo Sabres,G,18
+Mario Lemieux,Pittsburgh Penguins,C,19
+Gary Suter,Calgary Flames,D,21
+Luc Robitaille,Los Angeles Kings,LW,20
+Joe Nieuwendyk,Calgary Flames,C,21
+Brian Leetch,New York Rangers,D,20
+Sergei Makarov,Calgary Flames,RW,31
+Ed Belfour,Chicago Blackhawks,G,25
+Pavel Bure,Vancouver Canucks,RW,20
+Teemu Selanne,Winnipeg Jets,RW,22
+Martin Brodeur,New Jersey Devils,G,21
+Peter Forsberg,Quebec Nordiques,C,21
+Daniel Alfredsson,Ottawa Senators,RW,22
+Bryan Berard,New York Islanders,D,19
+Sergei Samsonov,Boston Bruins,LW,19
+Chris Drury,Colorado Avalanche,C,22
+Scott Gomez,New Jersey Devils,C,19
+Evgeni Nabokov,San Jose Sharks,G,25
+Dany Heatley,Atlanta Thrashers,RW,20
+Barret Jackman,St. Louis Blues,D,21
+Andrew Raycroft,Boston Bruins,G,23
+,-,-,-
+Alexander Ovechkin,Washington Capitals,LW,20
+Evgeni Malkin,Pittsburgh Penguins,C,20
+Patrick Kane,Chicago Blackhawks,RW,19
+Steve Mason,Columbus Blue Jackets,G,21
+Tyler Myers,Buffalo Sabres,D,20
+Jeff Skinner,Carolina Hurricanes,C,18
+Gabriel Landeskog,Colorado Avalanche,LW,19
+Jonathan Huberdeau,Florida Panthers,C,19

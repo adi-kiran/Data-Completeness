@@ -1,16 +1,16 @@
-Goal,Date,Venue,Opponent,Score,Result,Competition
-1.0,24 January 2007,"Estadio Cuscatlán, San Salvador, El Salvador",Denmark,,,Friendly
-2.0,8 February 2007,"Estadio Cuscatlán, San Salvador, El Salvador",Belize,,,2007 UNCAF Nations Cup
-3.0,10 February 2007,"Estadio Cuscatlán, San Salvador, El Salvador",Nicaragua,,,2007 UNCAF Nations Cup
-4.0,10 February 2007,"Estadio Cuscatlán, San Salvador, El Salvador",Nicaragua,,,2007 UNCAF Nations Cup
-5.0,8 September 2007,"Estadio Olimpico Atahualpa, Quito, Ecuador",Ecuador,,,Friendly
-6.0,13 October 2007,"Estadio Cuscatlán, San Salvador, El Salvador",Costa Rica,,,Friendly
-7.0,6 February 2008,"Estadio Cuscatlán, San Salvador, El Salvador",Anguilla,,,2010 FIFA World Cup qualification
-8.0,22 June 2008,"Estadio Cuscatlán, San Salvador, El Salvador",Panama,,,2010 FIFA World Cup qualification
-9.0,22 June 2008,"Estadio Cuscatlán, San Salvador, El Salvador",Panama,,,2010 FIFA World Cup qualification
-10.0,15 October 2008,"Estadio Cuscatlán, San Salvador, El Salvador",Suriname,,,2010 FIFA World Cup qualification
-11.0,22 October 2008,"Robert F. Kennedy Stadium, Washington, D.C., United States",Bolivia,,,Friendly
-12.0,28 March 2009,"Estadio Cuscatlán, San Salvador, El Salvador",United States,,,2010 FIFA World Cup qualification
-13.0,6 June 2009,"Estadio Cuscatlán, San Salvador, El Salvador",Mexico,,,2010 FIFA World Cup qualification
-14.0,3 March 2010,"Los Angeles Coliseum, Los Angeles, United States",Guatemala,,,Friendly
-15.0,12 June 2011,"Soldier Field, Chicago, United States",Cuba,,,2011 CONCACAF Gold Cup
+goal,date,venue,opponent,competition
+1.0,24 January 2007,"Estadio Cuscatlán, San Salvador, El Salvador",Denmark,Friendly
+2.0,8 February 2007,"Estadio Cuscatlán, San Salvador, El Salvador",Belize,2007 UNCAF Nations Cup
+3.0,10 February 2007,"Estadio Cuscatlán, San Salvador, El Salvador",Nicaragua,2007 UNCAF Nations Cup
+4.0,10 February 2007,"Estadio Cuscatlán, San Salvador, El Salvador",Nicaragua,2007 UNCAF Nations Cup
+5.0,8 September 2007,"Estadio Olimpico Atahualpa, Quito, Ecuador",Ecuador,Friendly
+6.0,13 October 2007,"Estadio Cuscatlán, San Salvador, El Salvador",Costa Rica,Friendly
+7.0,6 February 2008,"Estadio Cuscatlán, San Salvador, El Salvador",Anguilla,2010 FIFA World Cup qualification
+8.0,22 June 2008,"Estadio Cuscatlán, San Salvador, El Salvador",Panama,2010 FIFA World Cup qualification
+9.0,22 June 2008,"Estadio Cuscatlán, San Salvador, El Salvador",Panama,2010 FIFA World Cup qualification
+10.0,15 October 2008,"Estadio Cuscatlán, San Salvador, El Salvador",Suriname,2010 FIFA World Cup qualification
+11.0,22 October 2008,"Robert F. Kennedy Stadium, Washington, D.C., United States",Bolivia,Friendly
+12.0,28 March 2009,"Estadio Cuscatlán, San Salvador, El Salvador",United States,2010 FIFA World Cup qualification
+13.0,6 June 2009,"Estadio Cuscatlán, San Salvador, El Salvador",Mexico,2010 FIFA World Cup qualification
+14.0,3 March 2010,"Los Angeles Coliseum, Los Angeles, United States",Guatemala,Friendly
+15.0,12 June 2011,"Soldier Field, Chicago, United States",Cuba,2011 CONCACAF Gold Cup

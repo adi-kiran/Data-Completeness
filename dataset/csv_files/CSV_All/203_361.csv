@@ -1,17 +1,17 @@
-Week,Date,Opponent,Result,Attendance
-1,"September 6, 1981",at Los Angeles Rams,,63198
-2,"September 13, 1981",at Cleveland Browns,,79483
-3,"September 20, 1981",Miami Dolphins,,47379
-4,"September 27, 1981",at New York Jets,,50309
-5,"October 4, 1981",Cincinnati Bengals,,44350
-6,"October 11, 1981",Seattle Seahawks,,42671
-7,"October 18, 1981",at New England Patriots,,60474
-8,"October 26, 1981",at Pittsburgh Steelers,,52732
-9,"November 1, 1981",at Cincinnati Bengals,,54736
-10,"November 8, 1981",Oakland Raiders,,45519
-11,"November 15, 1981",at Kansas City Chiefs,,73984
-12,"November 22, 1981",New Orleans Saints,,49581
-13,"November 29, 1981",Atlanta Falcons,,40201
-14,"December 3, 1981",Cleveland Browns,,44502
-15,"December 13, 1981",at San Francisco 49ers,,55707
-16,"December 20, 1981",Pittsburgh Steelers,,41056
+week,date,opponent,attendance
+1,"September 6, 1981",at Los Angeles Rams,63198
+2,"September 13, 1981",at Cleveland Browns,79483
+3,"September 20, 1981",Miami Dolphins,47379
+4,"September 27, 1981",at New York Jets,50309
+5,"October 4, 1981",Cincinnati Bengals,44350
+6,"October 11, 1981",Seattle Seahawks,42671
+7,"October 18, 1981",at New England Patriots,60474
+8,"October 26, 1981",at Pittsburgh Steelers,52732
+9,"November 1, 1981",at Cincinnati Bengals,54736
+10,"November 8, 1981",Oakland Raiders,45519
+11,"November 15, 1981",at Kansas City Chiefs,73984
+12,"November 22, 1981",New Orleans Saints,49581
+13,"November 29, 1981",Atlanta Falcons,40201
+14,"December 3, 1981",Cleveland Browns,44502
+15,"December 13, 1981",at San Francisco 49ers,55707
+16,"December 20, 1981",Pittsburgh Steelers,41056

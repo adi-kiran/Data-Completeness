@@ -1,4 +1,4 @@
-Region,Physician (GP & specialist),Physician : Population Ratio,Health Officer,HO : Population Ratio,All Nurses,Nurse : Population Ratio,Mid-wives,Mid Wife: Population Ratio,HEW*,HEW : Population Ratio
+region,physician (gp & specialist),physician : population ratio,health officer,ho : population ratio,all nurses,nurse : population ratio,mid wives,mid wife: population ratio,hew*,hew : population ratio
 Tigray,101,"1:44,880",188,"1:24,111",2332,"1:1,944",185,"1:24,502",1433.0,"1:3,163"
 Afar,15,"1:98,258",29,"1:50,823",185,"1:7,967",-,-,572.0,"1:2,577"
 Amhara,304,"1:58,567",434,"1:41,024",3790,"1:4,698",212,"1:83,983",7471.0,"1:2,383"

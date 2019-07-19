@@ -1,4 +1,4 @@
-num,Date,Venue,Opponent,Score,Result,Competition
+num,date,venue,opponent,score,result,competition
 1.0,1995-08-06,"Kyoto, Japan",Costa Rica,3-0,Won,Friendly
 2.0,1995-10-24,"Tokyo, Japan",Saudi Arabia,2-1,Won,Friendly
 3.0,1996-12-09,"Al Ain, United Arab Emirates",Uzbekistan,4-0,Won,1996 AFC Asian Cup Group Stage

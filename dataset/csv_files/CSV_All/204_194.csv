@@ -1,8 +1,8 @@
-Outcome,Edition,Round,Opponent Team,Surface,Opponent,Score
-Loser,2010,World Group Playoffs,Slovakia,Clay (i),Daniela Hantuchová,
-Winner,2010,World Group Playoffs,Slovakia,Clay (i),Magdalena Rybáriková,
-Winner,2011,World Group II,Canada,Hard (i),Aleksandra Wozniak,
-Winner,2011,World Group II,Canada,Hard (i),Rebecca Marino,
-Loser,2011,World Group Playoffs,Slovakia,Clay (i),Dominika Cibulková,
-Loser,2012,World Group,Belgium,Hard (i),Yanina Wickmayer,
-Winner,2012,World Group,Belgium,Hard (i),Kirsten Flipkens,
+outcome,edition,round,opponent team,surface,opponent
+Loser,2010,World Group Playoffs,Slovakia,Clay (i),Daniela Hantuchová
+Winner,2010,World Group Playoffs,Slovakia,Clay (i),Magdalena Rybáriková
+Winner,2011,World Group II,Canada,Hard (i),Aleksandra Wozniak
+Winner,2011,World Group II,Canada,Hard (i),Rebecca Marino
+Loser,2011,World Group Playoffs,Slovakia,Clay (i),Dominika Cibulková
+Loser,2012,World Group,Belgium,Hard (i),Yanina Wickmayer
+Winner,2012,World Group,Belgium,Hard (i),Kirsten Flipkens

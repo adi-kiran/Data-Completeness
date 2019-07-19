@@ -1,14 +1,14 @@
-Date,Opponentnum,Ranknum,Site,TV,Result,Attendance
-September 3,,#11,"Legion Field • Birmingham, AL",,,82109
-September 10,Vanderbilt,#11,,JPS,,70123
-September 17,at Arkansas,#12,"Razorback Stadium • Fayetteville, AR",ABC,,52089
-September 24,Tulane*,#11,"Legion Field • Birmingham, AL",,,81421
-October 1,Georgia,#11,,ESPN,,70123
-October 8,Southern Miss*,#11,,,,70123
-October 15,at Tennessee,#10,"Neyland Stadium • Knoxville, TN (Third Saturday in October)",ESPN,,96856
-October 22,Ole Miss,#8,,ABC,,70123
-November 5,at LSU,#6,"Tiger Stadium • Baton Rouge, LA (Rivalry)",ESPN,,75453
-November 12,at #20 Mississippi State,#6,"Scott Field • Starkville, MS (Rivalry)",ABC,,41358
-November 19,#6 Auburn,#4,"Legion Field • Birmingham, AL (Iron Bowl)",ABC,,83091
-December 3,vs. #6 Florida,#3,"Georgia Dome • Atlanta, GA (SEC Championship Game)",ABC,,74751
-"January 2, 1995",vs. #13 Ohio State*,#6,"Citrus Bowl • Orlando, FL (Florida Citrus Bowl)",ABC,,71195
+date,opponentnum,ranknum,site,tv,attendance
+September 3,,#11,"Legion Field • Birmingham, AL",,82109
+September 10,Vanderbilt,#11,,JPS,70123
+September 17,at Arkansas,#12,"Razorback Stadium • Fayetteville, AR",ABC,52089
+September 24,Tulane*,#11,"Legion Field • Birmingham, AL",,81421
+October 1,Georgia,#11,,ESPN,70123
+October 8,Southern Miss*,#11,,,70123
+October 15,at Tennessee,#10,"Neyland Stadium • Knoxville, TN (Third Saturday in October)",ESPN,96856
+October 22,Ole Miss,#8,,ABC,70123
+November 5,at LSU,#6,"Tiger Stadium • Baton Rouge, LA (Rivalry)",ESPN,75453
+November 12,at #20 Mississippi State,#6,"Scott Field • Starkville, MS (Rivalry)",ABC,41358
+November 19,#6 Auburn,#4,"Legion Field • Birmingham, AL (Iron Bowl)",ABC,83091
+December 3,vs. #6 Florida,#3,"Georgia Dome • Atlanta, GA (SEC Championship Game)",ABC,74751
+"January 2, 1995",vs. #13 Ohio State*,#6,"Citrus Bowl • Orlando, FL (Florida Citrus Bowl)",ABC,71195

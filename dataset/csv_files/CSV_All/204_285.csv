@@ -1,20 +1,20 @@
-Outcome,No.,Date,Tournament,Surface,Opponent,Score
-Runner-up,1.0,15 April 2001,"Grand Prix Hassan II, Casablanca, Morocco",Clay,Guillermo Canas,
-Winner,1.0,29 July 2001,"Orange Warsaw Open, Sopot, Poland",Clay,Albert Portas,
-Runner-up,2.0,20 July 2003,"Mercedes Cup, Stuttgart, Germany",Clay,Guillermo Coria,
-Winner,2.0,2 May 2004,"Torneo Godo, Barcelona, Spain",Clay,Gaston Gaudio,
-Runner-up,3.0,1 May 2005,"Estoril Open, Estoril, Portugal",Clay,Gaston Gaudio,
-Runner-up,4.0,30 April 2006,"Torneo Godo, Barcelona, Spain",Clay,Rafael Nadal,
-Winner,3.0,21 May 2006,"Hamburg Masters, Hamburg, Germany",Clay,Radek Štěpánek,
-Winner,4.0,16 July 2006,"Swedish Open, Båstad, Sweden",Clay,Nikolay Davydenko,
-Runner-up,5.0,14 January 2007,"Heineken Open, Auckland, New Zealand",Hard,David Ferrer,
-Winner,5.0,5 August 2007,"Orange Warsaw Open, Sopot, Poland (2)",Clay,Jose Acasuso,
-Runner-up,6.0,16 September 2007,"China Open, Beijing, China",Hard (i),Fernando González,
-Winner,6.0,7 October 2007,"Open de Moselle, Metz, France",Hard (i),Andy Murray,
-Runner-up,7.0,15 June 2008,"Orange Warsaw Open, Warsaw, Poland",Clay,Nikolay Davydenko,
-Winner,7.0,13 July 2008,"Swedish Open, Båstad, Sweden (2)",Clay,Tomáš Berdych,
-Winner,8.0,14 February 2009,"Brasil Open, Costa do Sauipe, Brazil",Clay,Thomaz Bellucci,
-Winner,9.0,22 February 2009,"Copa Telmex, Buenos Aires, Argentina",Clay,Juan Monaco,
-Winner,10.0,6 February 2011,"Chile Open, Santiago, Chile",Clay,Santiago Giraldo,
-Winner,11.0,14 April 2013,"Grand Prix Hassan II, Casablanca, Morocco",Clay,Kevin Anderson,
-Winner,12.0,28 July 2013,"ATP Vegeta Croatia Open Umag, Umag, Croatia",Clay,Fabio Fognini,
+outcome,no ,date,tournament,surface,opponent
+Runner-up,1.0,15 April 2001,"Grand Prix Hassan II, Casablanca, Morocco",Clay,Guillermo Canas
+Winner,1.0,29 July 2001,"Orange Warsaw Open, Sopot, Poland",Clay,Albert Portas
+Runner-up,2.0,20 July 2003,"Mercedes Cup, Stuttgart, Germany",Clay,Guillermo Coria
+Winner,2.0,2 May 2004,"Torneo Godo, Barcelona, Spain",Clay,Gaston Gaudio
+Runner-up,3.0,1 May 2005,"Estoril Open, Estoril, Portugal",Clay,Gaston Gaudio
+Runner-up,4.0,30 April 2006,"Torneo Godo, Barcelona, Spain",Clay,Rafael Nadal
+Winner,3.0,21 May 2006,"Hamburg Masters, Hamburg, Germany",Clay,Radek Štěpánek
+Winner,4.0,16 July 2006,"Swedish Open, Båstad, Sweden",Clay,Nikolay Davydenko
+Runner-up,5.0,14 January 2007,"Heineken Open, Auckland, New Zealand",Hard,David Ferrer
+Winner,5.0,5 August 2007,"Orange Warsaw Open, Sopot, Poland (2)",Clay,Jose Acasuso
+Runner-up,6.0,16 September 2007,"China Open, Beijing, China",Hard (i),Fernando González
+Winner,6.0,7 October 2007,"Open de Moselle, Metz, France",Hard (i),Andy Murray
+Runner-up,7.0,15 June 2008,"Orange Warsaw Open, Warsaw, Poland",Clay,Nikolay Davydenko
+Winner,7.0,13 July 2008,"Swedish Open, Båstad, Sweden (2)",Clay,Tomáš Berdych
+Winner,8.0,14 February 2009,"Brasil Open, Costa do Sauipe, Brazil",Clay,Thomaz Bellucci
+Winner,9.0,22 February 2009,"Copa Telmex, Buenos Aires, Argentina",Clay,Juan Monaco
+Winner,10.0,6 February 2011,"Chile Open, Santiago, Chile",Clay,Santiago Giraldo
+Winner,11.0,14 April 2013,"Grand Prix Hassan II, Casablanca, Morocco",Clay,Kevin Anderson
+Winner,12.0,28 July 2013,"ATP Vegeta Croatia Open Umag, Umag, Croatia",Clay,Fabio Fognini

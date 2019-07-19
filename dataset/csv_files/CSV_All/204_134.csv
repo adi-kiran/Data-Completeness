@@ -1,4 +1,4 @@
-Specifications,Foundation,Essentials,Standard,Datacenter
+specifications,foundation,essentials,standard,datacenter
 Distribution,OEM only,"Retail, volume licensing, OEM","Retail, volume licensing, OEM",Volume licensing and OEM
 Licensing model,Per server,Per server,Per CPU pair + CAL,Per CPU pair + CAL
 Processor chip limit,1,2,64,64

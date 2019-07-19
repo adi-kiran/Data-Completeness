@@ -1,4 +1,4 @@
-Name,Location,Opened,Gender,Security level(s),Capacity
+name,location,opened,gender,security levels,capacity
 Northland Region Corrections Facility,"near Kaikohe, Northland",2005,Male,Minimum to High,548
 Auckland Prison,"Paremoremo, Auckland",1968,Male,Minimum to Maximum,681
 Mount Eden Corrections Facility,"Mount Eden, Auckland",2011,Male,Remand,966

@@ -1,8 +1,8 @@
-num,Date,Venue,Opponent,Score,Result,Competition
-1.0,29 March 2000,"Vasil Levski National Stadium, Sofia",Belarus,,,Friendly
-2.0,7 October 2000,"Georgi Asparuhov Stadium, Sofia",Malta,,,2002 World Cup qualifier
-3.0,27 March 2003,"Stadion Mladost, Kruševac",Serbia and Montenegro,,,Friendly
-4.0,7 June 2003,"Vasil Levski National Stadium, Sofia",Belgium,,,Euro 2004 qualifier
-5.0,12 November 2005,"Vasil Levski National Stadium, Sofia",Georgia,,,Friendly
-6.0,12 November 2005,"Vasil Levski National Stadium, Sofia",Georgia,,,Friendly
-7.0,9 May 2006,"Nagai Stadium, Osaka",Japan,,,2006 Kirin Cup
+num,date,venue,opponent,competition
+1.0,29 March 2000,"Vasil Levski National Stadium, Sofia",Belarus,Friendly
+2.0,7 October 2000,"Georgi Asparuhov Stadium, Sofia",Malta,2002 World Cup qualifier
+3.0,27 March 2003,"Stadion Mladost, Kruševac",Serbia and Montenegro,Friendly
+4.0,7 June 2003,"Vasil Levski National Stadium, Sofia",Belgium,Euro 2004 qualifier
+5.0,12 November 2005,"Vasil Levski National Stadium, Sofia",Georgia,Friendly
+6.0,12 November 2005,"Vasil Levski National Stadium, Sofia",Georgia,Friendly
+7.0,9 May 2006,"Nagai Stadium, Osaka",Japan,2006 Kirin Cup

@@ -1,20 +1,20 @@
-Date,Date.1,Unnamed: 2,Rank,Tournament name,Venue,City,Winner,Runner-up,Score
-,,THA,WR,Asian Classic,Riverside Montien Hotel,Bangkok,Ronnie O'Sullivan,Brian Morgan,
-,,SCO,,Scottish Masters,Civic Centre,Motherwell,Peter Ebdon,Alan McManus,
-,,SCO,,Benson & Hedges Championship,JP Snooker Centre,Edinburgh,Brian Morgan,Drew Henry,
-,,MLT,,Malta Grand Prix,Jerma Palace Hotel,Marsaskala,Nigel Bond,Tony Drago,
-,,ENG,WR,Grand Prix,Bournemouth International Centre,Bournemouth,Mark Williams,Euan Henderson,
-,,THA,,World Cup,Amari Watergate Hotel,Bangkok,Scotland,Ireland,
-,,ENG,WR,UK Championship,Guild Hall,Preston,Stephen Hendry,John Higgins,
-,,GER,WR,German Open,NAAFI,Osnabruck,Ronnie O'Sullivan,Alain Robidoux,
-,,ENG,,Charity Challenge,International Convention Centre,Birmingham,Stephen Hendry,Ronnie O'Sullivan,
-,,WAL,WR,Welsh Open,Newport Leisure Centre,Newport,Stephen Hendry,Mark King,
-,,ENG,,Masters,Wembley Conference Centre,London,Steve Davis,Ronnie O'Sullivan,
-,,SCO,WR,International Open,A.E.C.C.,Aberdeen,Stephen Hendry,Tony Drago,
-,,MLT,WR,European Open,Mediterranean Conference Centre,Valletta,John Higgins,John Parrott,
-,,THA,WR,Thailand Open,Century Park Hotel,Bangkok,Peter Ebdon,Nigel Bond,
-,,IRL,,Irish Masters,Goff's,Kill,Stephen Hendry,Darren Morgan,
-,,ENG,WR,British Open,Plymouth Pavilions,Plymouth,Mark Williams,Stephen Hendry,
-,,ENG,WR,World Snooker Championship,Crucible Theatre,Sheffield,Ken Doherty,Stephen Hendry,
-,,WAL,,Pontins Professional,Pontins,Prestatyn,Martin Clark,Andy Hicks,
-,,ENG,,European League,Diamond Centre,Irthlingborough,Ronnie O'Sullivan,Stephen Hendry,
+unnamed: 2,rank,tournament name,venue,city,winner,runner up
+THA,WR,Asian Classic,Riverside Montien Hotel,Bangkok,Ronnie O'Sullivan,Brian Morgan
+SCO,,Scottish Masters,Civic Centre,Motherwell,Peter Ebdon,Alan McManus
+SCO,,Benson & Hedges Championship,JP Snooker Centre,Edinburgh,Brian Morgan,Drew Henry
+MLT,,Malta Grand Prix,Jerma Palace Hotel,Marsaskala,Nigel Bond,Tony Drago
+ENG,WR,Grand Prix,Bournemouth International Centre,Bournemouth,Mark Williams,Euan Henderson
+THA,,World Cup,Amari Watergate Hotel,Bangkok,Scotland,Ireland
+ENG,WR,UK Championship,Guild Hall,Preston,Stephen Hendry,John Higgins
+GER,WR,German Open,NAAFI,Osnabruck,Ronnie O'Sullivan,Alain Robidoux
+ENG,,Charity Challenge,International Convention Centre,Birmingham,Stephen Hendry,Ronnie O'Sullivan
+WAL,WR,Welsh Open,Newport Leisure Centre,Newport,Stephen Hendry,Mark King
+ENG,,Masters,Wembley Conference Centre,London,Steve Davis,Ronnie O'Sullivan
+SCO,WR,International Open,A.E.C.C.,Aberdeen,Stephen Hendry,Tony Drago
+MLT,WR,European Open,Mediterranean Conference Centre,Valletta,John Higgins,John Parrott
+THA,WR,Thailand Open,Century Park Hotel,Bangkok,Peter Ebdon,Nigel Bond
+IRL,,Irish Masters,Goff's,Kill,Stephen Hendry,Darren Morgan
+ENG,WR,British Open,Plymouth Pavilions,Plymouth,Mark Williams,Stephen Hendry
+ENG,WR,World Snooker Championship,Crucible Theatre,Sheffield,Ken Doherty,Stephen Hendry
+WAL,,Pontins Professional,Pontins,Prestatyn,Martin Clark,Andy Hicks
+ENG,,European League,Diamond Centre,Irthlingborough,Ronnie O'Sullivan,Stephen Hendry

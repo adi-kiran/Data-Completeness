@@ -1,17 +1,17 @@
-Week,Date,Opponent,Result,Venue,Attendance
-1,"September 3, 1978",at Detroit Lions,,Pontiac Silverdome,51187
-2,"September 10, 1978",New Orleans Saints,,Milwaukee County Stadium,54336
-3,"September 17, 1978",Oakland Raiders,,Lambeau Field,55903
-4,"September 24, 1978",at San Diego Chargers,,San Diego Stadium,42755
-5,"October 1, 1978",Detroit Lions,,Milwaukee County Stadium,54601
-6,"October 8, 1978",Chicago Bears,,Lambeau Field,56267
-7,"October 15, 1978",Seattle Seahawks,,Milwaukee County Stadium,52712
-8,"October 22, 1978",at Minnesota Vikings,,Metropolitan Stadium,47411
-9,"October 29, 1978",Tampa Bay Buccaneers,,Lambeau Field,55108
-10,"November 5, 1978",at Philadelphia Eagles,,Veterans Stadium,64214
-11,"November 12, 1978",Dallas Cowboys,,Milwaukee County Stadium,55256
-12,"November 19, 1978",at Denver Broncos,,Mile High Stadium,74965
-13,"November 26, 1978",Minnesota Vikings,,Lambeau Field,51737
-14,"December 3, 1978",at Tampa Bay Buccaneers,,Tampa Stadium,67754
-15,"December 10, 1978",at Chicago Bears,,Soldier Field,34306
-16,"December 17, 1978",at Los Angeles Rams,,Los Angeles Memorial Coliseum,42500
+week,date,opponent,venue,attendance
+1,"September 3, 1978",at Detroit Lions,Pontiac Silverdome,51187
+2,"September 10, 1978",New Orleans Saints,Milwaukee County Stadium,54336
+3,"September 17, 1978",Oakland Raiders,Lambeau Field,55903
+4,"September 24, 1978",at San Diego Chargers,San Diego Stadium,42755
+5,"October 1, 1978",Detroit Lions,Milwaukee County Stadium,54601
+6,"October 8, 1978",Chicago Bears,Lambeau Field,56267
+7,"October 15, 1978",Seattle Seahawks,Milwaukee County Stadium,52712
+8,"October 22, 1978",at Minnesota Vikings,Metropolitan Stadium,47411
+9,"October 29, 1978",Tampa Bay Buccaneers,Lambeau Field,55108
+10,"November 5, 1978",at Philadelphia Eagles,Veterans Stadium,64214
+11,"November 12, 1978",Dallas Cowboys,Milwaukee County Stadium,55256
+12,"November 19, 1978",at Denver Broncos,Mile High Stadium,74965
+13,"November 26, 1978",Minnesota Vikings,Lambeau Field,51737
+14,"December 3, 1978",at Tampa Bay Buccaneers,Tampa Stadium,67754
+15,"December 10, 1978",at Chicago Bears,Soldier Field,34306
+16,"December 17, 1978",at Los Angeles Rams,Los Angeles Memorial Coliseum,42500

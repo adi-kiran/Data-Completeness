@@ -1,10 +1,10 @@
-Season,Competition,Round,Club,Home,Away,Aggregate
-,UEFA Cup Winners' Cup,Qualifying round,Kotayk Abovian,,,
-,UEFA Cup Winners' Cup,First round,Barcelona,,,
-,UEFA Cup,Second qualifying round,Maccabi Petah Tikva,,,
-,UEFA Europa League,Second qualifying round,Floriana,,,
-,UEFA Europa League,Third qualifying round,Mladá Boleslav,,,
-,UEFA Europa League,Play-off round,Rosenborg,,,
-,UEFA Europa League,Group stage (J),Maccabi Haifa,,,4th place
-,UEFA Europa League,Group stage (J),Steaua Bucureşti,,,4th place
-,UEFA Europa League,Group stage (J),Schalke 04,,,4th place
+competition,round,club,aggregate
+UEFA Cup Winners' Cup,Qualifying round,Kotayk Abovian,
+UEFA Cup Winners' Cup,First round,Barcelona,
+UEFA Cup,Second qualifying round,Maccabi Petah Tikva,
+UEFA Europa League,Second qualifying round,Floriana,
+UEFA Europa League,Third qualifying round,Mladá Boleslav,
+UEFA Europa League,Play-off round,Rosenborg,
+UEFA Europa League,Group stage (J),Maccabi Haifa,4th place
+UEFA Europa League,Group stage (J),Steaua Bucureşti,4th place
+UEFA Europa League,Group stage (J),Schalke 04,4th place

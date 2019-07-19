@@ -1,9 +1,9 @@
-Game,Date,Team,Score,High points,High rebounds,High assists,Location Attendance,Record
-75,April 1,@ Sacramento,,Raymond Felton (17),Nenê (12),Nenê (6),"Power Balance Pavilion 15,871",
-76,April 3,@ L.A. Lakers,,Danilo Gallinari (22),Kenyon Martin (8),Ty Lawson (8),"Staples Center 18,997",
-77,April 5,Oklahoma City,,Ty Lawson (28),Nenê (8),Ty Lawson (5),"Pepsi Center 18,203",
-78,April 6,@ Dallas,,J. R. Smith (23),Nenê (15),Ty Lawson (8),"American Airlines Center 20,364",
-79,April 8,@ Oklahoma City,,Nenê (18),Kenyon Martin (13),Ty Lawson (6),"Oklahoma City Arena 18,203",
-80,April 9,Minnesota,,Ty Lawson (37),"Kenyon Martin, J. R. Smith (8)",Raymond Felton (14),"Pepsi Center 19,155",
-81,April 11,Golden State,,J. R. Smith (22),Chris Andersen (12),Raymond Felton (10),"Pepsi Center 19,155",
-82,April 13,@ Utah,,Wilson Chandler (27),Chris Andersen (10),"Wilson Chandler, Gary Forbes, Al Harrington, Ty Lawson, J. R. Smith (3)","EnergySolutions Arena 19,051",
+game,date,team,high points,high rebounds,high assists,location attendance
+75,April 1,@ Sacramento,Raymond Felton (17),Nenê (12),Nenê (6),"Power Balance Pavilion 15,871"
+76,April 3,@ L.A. Lakers,Danilo Gallinari (22),Kenyon Martin (8),Ty Lawson (8),"Staples Center 18,997"
+77,April 5,Oklahoma City,Ty Lawson (28),Nenê (8),Ty Lawson (5),"Pepsi Center 18,203"
+78,April 6,@ Dallas,J. R. Smith (23),Nenê (15),Ty Lawson (8),"American Airlines Center 20,364"
+79,April 8,@ Oklahoma City,Nenê (18),Kenyon Martin (13),Ty Lawson (6),"Oklahoma City Arena 18,203"
+80,April 9,Minnesota,Ty Lawson (37),"Kenyon Martin, J. R. Smith (8)",Raymond Felton (14),"Pepsi Center 19,155"
+81,April 11,Golden State,J. R. Smith (22),Chris Andersen (12),Raymond Felton (10),"Pepsi Center 19,155"
+82,April 13,@ Utah,Wilson Chandler (27),Chris Andersen (10),"Wilson Chandler, Gary Forbes, Al Harrington, Ty Lawson, J. R. Smith (3)","EnergySolutions Arena 19,051"

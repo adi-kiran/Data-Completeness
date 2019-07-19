@@ -1,53 +1,53 @@
-Season,Pitcher,Decision,Final score,Opponent,Location
-1962,Bobby Shantz,W,,Chicago Cubs,Colt Stadium
-1963,Turk Farrell,L,,San Francisco Giants,Colt Stadium
-1964,Ken Johnson,W,,Cincinnati Reds,Crosley Field
-1965,Bob Bruce,L,,Philadelphia Phillies,Astrodome
-1966,Robin Roberts,L,,Los Angeles Dodgers,Dodger Stadium
-1967,Mike Cuellar,W,,Atlanta Braves,Astrodome
-1968,Larry Dierker,W,,Pittsburgh Pirates,Astrodome
-1969,Don Wilson,L,,San Diego Padres,San Diego Stadium
-1970,Larry Dierker (2),W,,San Francisco Giants,Candlestick Park
-1971,Larry Dierker (3),W,,Los Angeles Dodgers,Astrodome
-1972,Don Wilson (2),L,,San Francisco Giants,Astrodome
-1973,Dave Roberts,ND (W),,Atlanta Braves,Atlanta-Fulton County Stadium
-1974,Dave Roberts (2),L,,San Francisco Giants,Candlestick Park
-1975,Larry Dierker (4),W,,Atlanta Braves,Astrodome
-1976,J.R. Richard,L,,Cincinnati Reds,Riverfront Stadium
-1977,J.R. Richard (2),ND (W),,Atlanta Braves,Astrodome
-1978,J.R. Richard (3),L,,Cincinnati Reds,Riverfront Stadium
-1979,J.R. Richard (4),W,,Atlanta Braves,Astrodome
-1980*,J.R. Richard (5),W,,Los Angeles Dodgers,Astrodome
-1981*,Joe Niekro,L,,Los Angeles Dodgers,Dodger Stadium
-1982,Nolan Ryan,L,,St. Louis Cardinals,Astrodome
-1983,Joe Niekro (2),ND (L),,Los Angeles Dodgers,Astrodome
-1984,Joe Niekro (3),L,,Montreal Expos,Astrodome
-1985,Nolan Ryan (2),W,,Los Angeles Dodgers,Astrodome
-1986*,Nolan Ryan (3),L,,San Francisco Giants,Astrodome
-1987,Mike Scott,W,,Los Angeles Dodgers,Astrodome
-1988,Mike Scott (2),W,,San Diego Padres,Astrodome
-1989,Mike Scott (3),W,,Atlanta Braves,Astrodome
-1990,Mike Scott (4),ND (L),,Cincinnati Reds,Astrodome
-1991,Mike Scott (5),L,,Cincinnati Reds,Riverfront Stadium
-1992,Pete Harnisch,L,,Atlanta Braves,Astrodome
-1993,Doug Drabek,L,,Philadelphia Phillies,Astrodome
-1994,Pete Harnisch (2),ND (W),,Montreal Expos,Astrodome
-1995,Doug Drabek (2),W,,San Diego Padres,Jack Murphy Stadium
-1996,Shane Reynolds,L,,Los Angeles Dodgers,Astrodome
-1997*,Shane Reynolds (2),W,,Atlanta Braves,Astrodome
-1998*,Shane Reynolds (3),ND (L),,San Francisco Giants,Astrodome
-1999*,Shane Reynolds (4),W,,Chicago Cubs,Astrodome
-2000,Shane Reynolds (5),W,,Pittsburgh Pirates,Three Rivers Stadium
-2001*,Scott Elarton,W,,Milwaukee Brewers,Enron Field
-2002,Wade Miller,L,,Milwaukee Brewers,Astros Field
-2003,Roy Oswalt,W,,Colorado Rockies,Minute Maid Park
-2004*,Roy Oswalt (2),ND (L),,San Francisco Giants,Minute Maid Park
-2005**,Roy Oswalt (3),L,,St. Louis Cardinals,Minute Maid Park
-2006,Roy Oswalt (4),W,,Florida Marlins,Minute Maid Park
-2007,Roy Oswalt (5),ND (L),,Pittsburgh Pirates,Minute Maid Park
-2008,Roy Oswalt (6),L,,San Diego Padres,Petco Park
-2009,Roy Oswalt (7),L,,Chicago Cubs,Minute Maid Park
-2010,Roy Oswalt (8),L,,San Francisco Giants,Minute Maid Park
-2011,Brett Myers,ND (L),,Philadelphia Phillies,Citizens Bank Park
-2012,Wandy Rodriguez,ND (L),,Colorado Rockies,Minute Maid Park
-2013,Bud Norris,W,,Texas Rangers,Minute Maid Park
+season,pitcher,decision,opponent,location
+1962,Bobby Shantz,W,Chicago Cubs,Colt Stadium
+1963,Turk Farrell,L,San Francisco Giants,Colt Stadium
+1964,Ken Johnson,W,Cincinnati Reds,Crosley Field
+1965,Bob Bruce,L,Philadelphia Phillies,Astrodome
+1966,Robin Roberts,L,Los Angeles Dodgers,Dodger Stadium
+1967,Mike Cuellar,W,Atlanta Braves,Astrodome
+1968,Larry Dierker,W,Pittsburgh Pirates,Astrodome
+1969,Don Wilson,L,San Diego Padres,San Diego Stadium
+1970,Larry Dierker (2),W,San Francisco Giants,Candlestick Park
+1971,Larry Dierker (3),W,Los Angeles Dodgers,Astrodome
+1972,Don Wilson (2),L,San Francisco Giants,Astrodome
+1973,Dave Roberts,ND (W),Atlanta Braves,Atlanta-Fulton County Stadium
+1974,Dave Roberts (2),L,San Francisco Giants,Candlestick Park
+1975,Larry Dierker (4),W,Atlanta Braves,Astrodome
+1976,J.R. Richard,L,Cincinnati Reds,Riverfront Stadium
+1977,J.R. Richard (2),ND (W),Atlanta Braves,Astrodome
+1978,J.R. Richard (3),L,Cincinnati Reds,Riverfront Stadium
+1979,J.R. Richard (4),W,Atlanta Braves,Astrodome
+1980*,J.R. Richard (5),W,Los Angeles Dodgers,Astrodome
+1981*,Joe Niekro,L,Los Angeles Dodgers,Dodger Stadium
+1982,Nolan Ryan,L,St. Louis Cardinals,Astrodome
+1983,Joe Niekro (2),ND (L),Los Angeles Dodgers,Astrodome
+1984,Joe Niekro (3),L,Montreal Expos,Astrodome
+1985,Nolan Ryan (2),W,Los Angeles Dodgers,Astrodome
+1986*,Nolan Ryan (3),L,San Francisco Giants,Astrodome
+1987,Mike Scott,W,Los Angeles Dodgers,Astrodome
+1988,Mike Scott (2),W,San Diego Padres,Astrodome
+1989,Mike Scott (3),W,Atlanta Braves,Astrodome
+1990,Mike Scott (4),ND (L),Cincinnati Reds,Astrodome
+1991,Mike Scott (5),L,Cincinnati Reds,Riverfront Stadium
+1992,Pete Harnisch,L,Atlanta Braves,Astrodome
+1993,Doug Drabek,L,Philadelphia Phillies,Astrodome
+1994,Pete Harnisch (2),ND (W),Montreal Expos,Astrodome
+1995,Doug Drabek (2),W,San Diego Padres,Jack Murphy Stadium
+1996,Shane Reynolds,L,Los Angeles Dodgers,Astrodome
+1997*,Shane Reynolds (2),W,Atlanta Braves,Astrodome
+1998*,Shane Reynolds (3),ND (L),San Francisco Giants,Astrodome
+1999*,Shane Reynolds (4),W,Chicago Cubs,Astrodome
+2000,Shane Reynolds (5),W,Pittsburgh Pirates,Three Rivers Stadium
+2001*,Scott Elarton,W,Milwaukee Brewers,Enron Field
+2002,Wade Miller,L,Milwaukee Brewers,Astros Field
+2003,Roy Oswalt,W,Colorado Rockies,Minute Maid Park
+2004*,Roy Oswalt (2),ND (L),San Francisco Giants,Minute Maid Park
+2005**,Roy Oswalt (3),L,St. Louis Cardinals,Minute Maid Park
+2006,Roy Oswalt (4),W,Florida Marlins,Minute Maid Park
+2007,Roy Oswalt (5),ND (L),Pittsburgh Pirates,Minute Maid Park
+2008,Roy Oswalt (6),L,San Diego Padres,Petco Park
+2009,Roy Oswalt (7),L,Chicago Cubs,Minute Maid Park
+2010,Roy Oswalt (8),L,San Francisco Giants,Minute Maid Park
+2011,Brett Myers,ND (L),Philadelphia Phillies,Citizens Bank Park
+2012,Wandy Rodriguez,ND (L),Colorado Rockies,Minute Maid Park
+2013,Bud Norris,W,Texas Rangers,Minute Maid Park

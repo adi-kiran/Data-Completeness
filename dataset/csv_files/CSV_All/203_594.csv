@@ -1,4 +1,4 @@
-Canal,Length (miles),Locks,Max length (ft),Width (ft),Year opened,Year abandoned,Year restored
+canal,length (miles),locks,max length (ft),width (ft),year opened,year abandoned,year restored
 Aberdeenshire Canal,18.0,18.0,,,1805.0,1854.0,
 Buchan Canal,,,,,,,
 Caledonian Canal,62.0,29.0,150.0,35.0,1822.0,,

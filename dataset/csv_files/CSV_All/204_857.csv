@@ -1,43 +1,43 @@
-Date,Opponents,Venue,Result,Scorers,Attendance
-28 Aug 1920,Reading,H,,,14500
-1 Sep 1920,Bristol Rovers,A,,"Walker, Wolstenholme",10000
-4 Sep 1920,Reading,A,,,10000
-9 Sep 1920,Bristol Rovers,H,,,8000
-11 Sep 1920,Plymouth Argyle,A,,Wolstenholme,12000
-18 Sep 1920,Plymouth Argyle,H,,,8000
-25 Sep 1920,Exeter City,A,,Wolstenholme,8000
-2 Oct 1920,Exeter City,H,,Wolstenholme 2,8000
-9 Oct 1920,Millwall,H,,"Devlin 2, Walker",14000
-16 Oct 1920,Millwall,A,,,20000
-21 Oct 1920,Swindon Town,H,,,10000
-23 Oct 1920,Portsmouth,H,,Devlin,9000
-30 Oct 1920,Portsmouth,A,,"Devlin, Dobson",13679
-6 Nov 1920,Gillingham,H,,Wolstenholme,7000
-13 Nov 1920,Gillingham,A,,"Dobson, Wolstenholme, Blott, Devlin",8000
-27 Nov 1920,Swindon Town,A,,,7000
-4 Dec 1920,Watford,H,,,6000
-11 Dec 1920,Watford,A,,Wright,7000
-18 Dec 1920,Brentford,A,,"Wright, Thompson",6000
-25 Dec 1920,Southend United,H,,Dobson,9000
-27 Dec 1920,Southend United,A,,Walker,10000
-1 Jan 1921,Brentford,H,,"Dobson, Walker, Cox",7500
-13 Jan 1921,Norwich City,H,,"Wright, Cox",4000
-22 Jan 1921,Norwich City,A,,,5000
-29 Jan 1921,Northampton Town,H,,Dobson,8000
-5 Feb 1921,Northampton Town,A,,"Groves, Wright",8000
-12 Feb 1921,Crystal Palace,H,,,12000
-19 Feb 1921,Crystal Palace,A,,,7000
-26 Feb 1921,Brighton & Hove Albion,H,,,8000
-5 Mar 1921,Brighton & Hove Albion,A,,,8000
-12 Mar 1921,Grimsby Town,H,,"Devlin, Kelson",8000
-19 Mar 1921,Grimsby Town,A,,Devlin,9000
-25 Mar 1921,Merthyr Town,H,,,12600
-26 Mar 1921,Queens Park Rangers,A,,,10000
-28 Mar 1921,Merthyr Town,A,,"Gaughan, Devlin",6000
-2 Apr 1921,Queens Park Rangers,H,,Devlin,7500
-9 Apr 1921,Swansea Town,H,,Walker,6000
-16 Apr 1921,Swansea Town,A,,"Dobson, Wolstenholme",14000
-23 Apr 1921,Luton Town,A,,"Walker, Devlin",9000
-30 Apr 1921,Luton Town,H,,Devlin 2,5000
-2 May 1921,Southampton,A,,,6000
-7 May 1921,Southampton,H,,,8000
+date,opponents,venue,scorers,attendance
+28 Aug 1920,Reading,H,,14500
+1 Sep 1920,Bristol Rovers,A,"Walker, Wolstenholme",10000
+4 Sep 1920,Reading,A,,10000
+9 Sep 1920,Bristol Rovers,H,,8000
+11 Sep 1920,Plymouth Argyle,A,Wolstenholme,12000
+18 Sep 1920,Plymouth Argyle,H,,8000
+25 Sep 1920,Exeter City,A,Wolstenholme,8000
+2 Oct 1920,Exeter City,H,Wolstenholme 2,8000
+9 Oct 1920,Millwall,H,"Devlin 2, Walker",14000
+16 Oct 1920,Millwall,A,,20000
+21 Oct 1920,Swindon Town,H,,10000
+23 Oct 1920,Portsmouth,H,Devlin,9000
+30 Oct 1920,Portsmouth,A,"Devlin, Dobson",13679
+6 Nov 1920,Gillingham,H,Wolstenholme,7000
+13 Nov 1920,Gillingham,A,"Dobson, Wolstenholme, Blott, Devlin",8000
+27 Nov 1920,Swindon Town,A,,7000
+4 Dec 1920,Watford,H,,6000
+11 Dec 1920,Watford,A,Wright,7000
+18 Dec 1920,Brentford,A,"Wright, Thompson",6000
+25 Dec 1920,Southend United,H,Dobson,9000
+27 Dec 1920,Southend United,A,Walker,10000
+1 Jan 1921,Brentford,H,"Dobson, Walker, Cox",7500
+13 Jan 1921,Norwich City,H,"Wright, Cox",4000
+22 Jan 1921,Norwich City,A,,5000
+29 Jan 1921,Northampton Town,H,Dobson,8000
+5 Feb 1921,Northampton Town,A,"Groves, Wright",8000
+12 Feb 1921,Crystal Palace,H,,12000
+19 Feb 1921,Crystal Palace,A,,7000
+26 Feb 1921,Brighton & Hove Albion,H,,8000
+5 Mar 1921,Brighton & Hove Albion,A,,8000
+12 Mar 1921,Grimsby Town,H,"Devlin, Kelson",8000
+19 Mar 1921,Grimsby Town,A,Devlin,9000
+25 Mar 1921,Merthyr Town,H,,12600
+26 Mar 1921,Queens Park Rangers,A,,10000
+28 Mar 1921,Merthyr Town,A,"Gaughan, Devlin",6000
+2 Apr 1921,Queens Park Rangers,H,Devlin,7500
+9 Apr 1921,Swansea Town,H,Walker,6000
+16 Apr 1921,Swansea Town,A,"Dobson, Wolstenholme",14000
+23 Apr 1921,Luton Town,A,"Walker, Devlin",9000
+30 Apr 1921,Luton Town,H,Devlin 2,5000
+2 May 1921,Southampton,A,,6000
+7 May 1921,Southampton,H,,8000

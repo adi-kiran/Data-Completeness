@@ -1,13 +1,13 @@
-Tie no,Home team,Score,Away team,Date
-1,Leicester City,,Manchester United,14 February 1976
-2,Bolton Wanderers,,Newcastle United,14 February 1976
-Replay,Newcastle United,,Bolton Wanderers,18 February 1976
-Replay,Bolton Wanderers,,Newcastle United,23 February 1976
-3,Wolverhampton Wanderers,,Charlton Athletic,14 February 1976
-4,West Bromwich Albion,,Southampton,14 February 1976
-Replay,Southampton,,West Bromwich Albion,17 February 1976
-5,Derby County,,Southend United,14 February 1976
-6,Norwich City,,Bradford City,23 February 1976
-7,Chelsea,,Crystal Palace,14 February 1976
-8,Stoke City,,Sunderland,14 February 1976
-Replay,Sunderland,,Stoke City,17 February 1976
+tie no,home team,away team,date
+1,Leicester City,Manchester United,14 February 1976
+2,Bolton Wanderers,Newcastle United,14 February 1976
+Replay,Newcastle United,Bolton Wanderers,18 February 1976
+Replay,Bolton Wanderers,Newcastle United,23 February 1976
+3,Wolverhampton Wanderers,Charlton Athletic,14 February 1976
+4,West Bromwich Albion,Southampton,14 February 1976
+Replay,Southampton,West Bromwich Albion,17 February 1976
+5,Derby County,Southend United,14 February 1976
+6,Norwich City,Bradford City,23 February 1976
+7,Chelsea,Crystal Palace,14 February 1976
+8,Stoke City,Sunderland,14 February 1976
+Replay,Sunderland,Stoke City,17 February 1976

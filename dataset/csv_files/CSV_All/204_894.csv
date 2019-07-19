@@ -1,15 +1,15 @@
-Season,Winner,Score,Runners-up,Venue
-2000,San Juan Jabloteh,,Defence Force,Marvin Lee Stadium
-2001,W Connection,,Caledonia AIA,Manny Ramjohn Stadium
-2002,Defence Force,,W Connection,Hasely Crawford Stadium
-2003,San Juan Jabloteh,,W Connection,Manny Ramjohn Stadium
-2004,W Connection,,Defence Force,Manny Ramjohn Stadium
-2005,W Connection,,San Juan Jabloteh,Manny Ramjohn Stadium
-2006,W Connection,,North East Stars,Manny Ramjohn Stadium
-2007,W Connection,,Caledonia AIA,Manny Ramjohn Stadium
-2008,W Connection,,Joe Public,Manny Ramjohn Stadium
-2009,Defence Force,,Joe Public,Marvin Lee Stadium
-2010,Joe Public,,Defence Force,Marvin Lee Stadium
-2011,Caledonia AIA,,T&TEC,Hasely Crawford Stadium
-2012,Caledonia AIA,,Defence Force,Hasely Crawford Stadium
-2013,Central FC,,Defence Force,Hasely Crawford Stadium
+season,winner,runners up,venue
+2000,San Juan Jabloteh,Defence Force,Marvin Lee Stadium
+2001,W Connection,Caledonia AIA,Manny Ramjohn Stadium
+2002,Defence Force,W Connection,Hasely Crawford Stadium
+2003,San Juan Jabloteh,W Connection,Manny Ramjohn Stadium
+2004,W Connection,Defence Force,Manny Ramjohn Stadium
+2005,W Connection,San Juan Jabloteh,Manny Ramjohn Stadium
+2006,W Connection,North East Stars,Manny Ramjohn Stadium
+2007,W Connection,Caledonia AIA,Manny Ramjohn Stadium
+2008,W Connection,Joe Public,Manny Ramjohn Stadium
+2009,Defence Force,Joe Public,Marvin Lee Stadium
+2010,Joe Public,Defence Force,Marvin Lee Stadium
+2011,Caledonia AIA,T&TEC,Hasely Crawford Stadium
+2012,Caledonia AIA,Defence Force,Hasely Crawford Stadium
+2013,Central FC,Defence Force,Hasely Crawford Stadium

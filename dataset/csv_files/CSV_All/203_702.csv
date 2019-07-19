@@ -1,4 +1,4 @@
-Name,Type,Technologies,Author,Presented / Last updated,Licence*,Homepage
+name,type,technologies,author,presented / last updated,licence*,homepage
 ABySS,(large) genomes,"Solexa, SOLiD","Simpson, J. et al.",2008 / 2011,NC-A,link
 ALLPATHS-LG,(large) genomes,"Solexa, SOLiD","Gnerre, S. et al.",2011,OS,link
 AMOS,genomes,"Sanger, 454","Salzberg, S. et al.",2002? / 2008?,OS,link

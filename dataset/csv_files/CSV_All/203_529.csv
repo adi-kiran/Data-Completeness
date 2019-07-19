@@ -1,4 +1,4 @@
-Fin,St,Driver,Car num,Make,Points,Bonus,Laps,Winnings
+fin,st,driver,car num,make,points,bonus,laps,winnings
 1,1,Jeff Gordon,24,Chevrolet,195,10.0,192,"$355,511"
 2,8,Jimmie Johnson,48,Chevrolet,175,5.0,192,"$251,736"
 3,26,Kurt Busch,2,Dodge,170,5.0,192,"$212,483"

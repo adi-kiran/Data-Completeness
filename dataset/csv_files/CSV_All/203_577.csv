@@ -1,32 +1,32 @@
-Tenure,Coach,Years,Record,Pct.
-1892,Shelby Fletcher,1,,1.0
-1893,W. M. Walker,1,,0.409
-1894,J. H. Lyons,1,,0.769
-1895,J. F. Jenkins,1,,0.75
-1896,Eli Abbott,1,,0.5
-1897,"\Kid\"" Peeples""",1,,1.0
-1898,Joseph Black,1,,0.4
-1899,F. C. Owen,1,,0.333
-1900,Ardis Smith,1,,0.75
-,Thomas Stouch,5,,0.66
-1906,Schwartz,1,,0.214
-,J. W. H. Pollard,4,,0.747
-1911,Guy Lowman,1,,0.706
-,D. V. Graves,4,,0.6859999999999999
-,B. L. Noojin,4,,0.753
-1920,Gordon W. Lewis,1,,0.882
-,Charles Bernier,3,,0.448
-,Wallace Wade,4,,0.653
-1928,Hank Crisp,1,,0.619
-,Jess Neely,2,,0.644
-,Sam Hinton,2,,0.75
-,Jennings B. Whitworth,2,,0.6559999999999999
-1943,Paul Burnham,1,,0.667
-1946,Dixie Howell,1,,0.65
-,Tilden Campbell,25,,0.677
-,Joe Sewell,6,,0.573
-,Hayden Riley,10,,0.5329999999999999
-,Barry Shollenberger,15,,0.593
-,Jim Wells,15,,0.6559999999999999
-,Mitch Gaspard,4,,0.536
-Totals,30 coaches,121 seasons,,0.623
+tenure,coach,years,pct 
+1892,Shelby Fletcher,1,1.0
+1893,W. M. Walker,1,0.409
+1894,J. H. Lyons,1,0.769
+1895,J. F. Jenkins,1,0.75
+1896,Eli Abbott,1,0.5
+1897,"\Kid\"" Peeples""",1,1.0
+1898,Joseph Black,1,0.4
+1899,F. C. Owen,1,0.333
+1900,Ardis Smith,1,0.75
+,Thomas Stouch,5,0.66
+1906,Schwartz,1,0.214
+,J. W. H. Pollard,4,0.747
+1911,Guy Lowman,1,0.706
+,D. V. Graves,4,0.6859999999999999
+,B. L. Noojin,4,0.753
+1920,Gordon W. Lewis,1,0.882
+,Charles Bernier,3,0.448
+,Wallace Wade,4,0.653
+1928,Hank Crisp,1,0.619
+,Jess Neely,2,0.644
+,Sam Hinton,2,0.75
+,Jennings B. Whitworth,2,0.6559999999999999
+1943,Paul Burnham,1,0.667
+1946,Dixie Howell,1,0.65
+,Tilden Campbell,25,0.677
+,Joe Sewell,6,0.573
+,Hayden Riley,10,0.5329999999999999
+,Barry Shollenberger,15,0.593
+,Jim Wells,15,0.6559999999999999
+,Mitch Gaspard,4,0.536
+Totals,30 coaches,121 seasons,0.623

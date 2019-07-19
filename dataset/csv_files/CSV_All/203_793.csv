@@ -1,9 +1,9 @@
-num,Date,Venue,Opponent,Score,Result,Competition
-1.0,27 March 1977,"Rico Perez, Alicante, Spain",Hungary,,,Friendly
-2.0,4 October 1978,"Maksimir, Zagreb, Yugoslavia",Yugoslavia,,,Euro 1980 qualifying
-3.0,24 September 1980,"Nepstadion, Budapest, Hungary",Hungary,,,Friendly
-4.0,18 February 1981,"Vicente Calderon, Madrid, Spain",France,,,Friendly
-5.0,23 June 1981,"Azteca, Mexico City, Mexico",Mexico,,,Friendly
-6.0,23 June 1981,"Azteca, Mexico City, Mexico",Mexico,,,Friendly
-7.0,28 June 1981,"Olimpico, Caracas, Venezuela",Venezuela,,,Friendly
-8.0,20 June 1982,"Luis Casanova, Valencia, Spain",Yugoslavia,,,1982 FIFA World Cup
+num,date,venue,opponent,competition
+1.0,27 March 1977,"Rico Perez, Alicante, Spain",Hungary,Friendly
+2.0,4 October 1978,"Maksimir, Zagreb, Yugoslavia",Yugoslavia,Euro 1980 qualifying
+3.0,24 September 1980,"Nepstadion, Budapest, Hungary",Hungary,Friendly
+4.0,18 February 1981,"Vicente Calderon, Madrid, Spain",France,Friendly
+5.0,23 June 1981,"Azteca, Mexico City, Mexico",Mexico,Friendly
+6.0,23 June 1981,"Azteca, Mexico City, Mexico",Mexico,Friendly
+7.0,28 June 1981,"Olimpico, Caracas, Venezuela",Venezuela,Friendly
+8.0,20 June 1982,"Luis Casanova, Valencia, Spain",Yugoslavia,1982 FIFA World Cup

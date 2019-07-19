@@ -1,17 +1,17 @@
-Game,Date,Team,Score,High points,High rebounds,High assists,Location Attendance,Record
-33,January 2,@ Detroit,,Brad Miller (25),Brad Miller (16),John Salmons (4),"The Palace of Auburn Hills 22,076",
-34,January 3,@ Indiana,,Kevin Martin (45),Bobby Jackson (10),"Kevin Martin, Brad Miller (6)","Conseco Fieldhouse 12,765",
-35,January 5,@ New Jersey,,Kevin Martin (36),Kenny Thomas (8),Brad Miller (8),"Izod Center 12,314",
-36,January 6,@ Chicago,,Kevin Martin (29),Brad Miller (12),Beno Udrih (5),"United Center 18,060",
-37,January 9,Miami,,John Salmons (29),Brad Miller (16),"John Salmons, Brad Miller, Bobby Jackson (4)","ARCO Arena 12,587",
-38,January 11,Dallas,,Kevin Martin (21),Spencer Hawes (8),Beno Udrih (6),"ARCO Arena 12,294",
-39,January 13,Orlando,,Kevin Martin (30),Francisco Garcia (5),Francisco Garcia (5),"ARCO Arena 11,168",
-40,January 14,@ Golden State,,Brad Miller (30),Brad Miller (22),"John Salmons, Beno Udrih (7)","Oracle Arena 19,122",
-41,January 16,Milwaukee,,"John Salmons, Kevin Martin (24)",Jason Thompson (11),John Salmons (6),"ARCO Arena 11,663",
-42,January 20,@ Denver,,Kevin Martin (25),Jason Thompson (11),"John Salmons, Beno Udrih (5)","Pepsi Center 15,164",
-43,January 21,Washington,,"John Salmons, Beno Udrih (24)","John Salmons, Shelden Williams, Jason Thompson (5)",John Salmons (5),"ARCO Arena 10,821",
-44,January 24,@ Milwaukee,,Kevin Martin (20),Brad Miller (13),Brad Miller (9),"Bradley Center 15,379",
-45,January 25,@ Toronto,,John Salmons (21),John Salmons (7),Beno Udrih (5),"Air Canada Centre 18,127",
-46,January 27,@ Cleveland,,Kevin Martin (35),Kevin Martin (7),Kevin Martin (7),"Quicken Loans Arena 20,562",
-47,January 28,@ Boston,,John Salmons (22),Jason Thompson (11),John Salmons (5),"TD Banknorth Garden 18,624",
-48,January 30,Chicago,,Kevin Martin (27),Jason Thompson (12),"Spencer Hawes, Kevin Martin (3)","ARCO Arena 13,356",
+game,date,team,high points,high rebounds,high assists,location attendance
+33,January 2,@ Detroit,Brad Miller (25),Brad Miller (16),John Salmons (4),"The Palace of Auburn Hills 22,076"
+34,January 3,@ Indiana,Kevin Martin (45),Bobby Jackson (10),"Kevin Martin, Brad Miller (6)","Conseco Fieldhouse 12,765"
+35,January 5,@ New Jersey,Kevin Martin (36),Kenny Thomas (8),Brad Miller (8),"Izod Center 12,314"
+36,January 6,@ Chicago,Kevin Martin (29),Brad Miller (12),Beno Udrih (5),"United Center 18,060"
+37,January 9,Miami,John Salmons (29),Brad Miller (16),"John Salmons, Brad Miller, Bobby Jackson (4)","ARCO Arena 12,587"
+38,January 11,Dallas,Kevin Martin (21),Spencer Hawes (8),Beno Udrih (6),"ARCO Arena 12,294"
+39,January 13,Orlando,Kevin Martin (30),Francisco Garcia (5),Francisco Garcia (5),"ARCO Arena 11,168"
+40,January 14,@ Golden State,Brad Miller (30),Brad Miller (22),"John Salmons, Beno Udrih (7)","Oracle Arena 19,122"
+41,January 16,Milwaukee,"John Salmons, Kevin Martin (24)",Jason Thompson (11),John Salmons (6),"ARCO Arena 11,663"
+42,January 20,@ Denver,Kevin Martin (25),Jason Thompson (11),"John Salmons, Beno Udrih (5)","Pepsi Center 15,164"
+43,January 21,Washington,"John Salmons, Beno Udrih (24)","John Salmons, Shelden Williams, Jason Thompson (5)",John Salmons (5),"ARCO Arena 10,821"
+44,January 24,@ Milwaukee,Kevin Martin (20),Brad Miller (13),Brad Miller (9),"Bradley Center 15,379"
+45,January 25,@ Toronto,John Salmons (21),John Salmons (7),Beno Udrih (5),"Air Canada Centre 18,127"
+46,January 27,@ Cleveland,Kevin Martin (35),Kevin Martin (7),Kevin Martin (7),"Quicken Loans Arena 20,562"
+47,January 28,@ Boston,John Salmons (22),Jason Thompson (11),John Salmons (5),"TD Banknorth Garden 18,624"
+48,January 30,Chicago,Kevin Martin (27),Jason Thompson (12),"Spencer Hawes, Kevin Martin (3)","ARCO Arena 13,356"

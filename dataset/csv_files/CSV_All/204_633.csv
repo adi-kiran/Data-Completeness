@@ -1,4 +1,4 @@
-Launch date,Operator,Name,Sample origin,Samples returned,Recovery date,Mission result
+launch date,operator,name,sample origin,samples returned,recovery date,mission result
 "June 14, 1969",,Luna E-8-5 No.402,The Moon,None,-,Failure Launch failure
 "July 13, 1969",,Luna 15,The Moon,None,-,Failure Crash-landed on the Moon
 23 September 1969,,Cosmos 300,The Moon,None,-,Failure Failed to leave Earth orbit

@@ -1,10 +1,10 @@
-Date,Opponents,Venue,Result,Scorers,Attendance,Report 1,Report 2
-27-Jan-68,Bournemouth,A,,,24388,Report,Report
-30-Jan-68,Bournemouth,H,,Hateley  33' Thompson  44' Hunt  51' Lawler  73',54075,Report,Report
-17-Feb-68,Walsall,A,,,21066,Report,Report
-19-Feb-68,Walsall,H,,"Hateley  24', 33', 64', 71' Strong  34'",39113,Report,Report
-09-Mar-68,Tottenham Hotspur,A,,Hateley  54',54005,Report,Report
-12-Mar-68,Tottenham Hotspur,H,,Hunt  23' Smith  78 pen',53658,Report,Report
-30-Mar-68,West Bromwich Albion,A,,,53062,Report,Report
-08-Apr-68,West Bromwich Albion,H,,Hateley  24',54273,Report,Report
-18-Apr-68,West Bromwich Albion,N,,Hateley  39',56000,Report,Report
+date,opponents,venue,scorers,attendance,report 1,report 2
+27-Jan-68,Bournemouth,A,,24388,Report,Report
+30-Jan-68,Bournemouth,H,Hateley  33' Thompson  44' Hunt  51' Lawler  73',54075,Report,Report
+17-Feb-68,Walsall,A,,21066,Report,Report
+19-Feb-68,Walsall,H,"Hateley  24', 33', 64', 71' Strong  34'",39113,Report,Report
+09-Mar-68,Tottenham Hotspur,A,Hateley  54',54005,Report,Report
+12-Mar-68,Tottenham Hotspur,H,Hunt  23' Smith  78 pen',53658,Report,Report
+30-Mar-68,West Bromwich Albion,A,,53062,Report,Report
+08-Apr-68,West Bromwich Albion,H,Hateley  24',54273,Report,Report
+18-Apr-68,West Bromwich Albion,N,Hateley  39',56000,Report,Report

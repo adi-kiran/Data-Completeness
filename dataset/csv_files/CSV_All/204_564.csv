@@ -1,4 +1,4 @@
-Devanagari,ISO 15919,UNRSGN,IAST,Comment
+devanagari,iso 15919,unrsgn,iast,comment
 ए /  े,ē,e,e,"To distinguish between long and short 'e' in Dravidian languages, 'e' now represents ऎ /  ॆ (short). Note that the use of ē is considered optional in ISO 15919, and using e for ए (long) is acceptable for languages that do not distinguish long and short e."
 ओ /  ो,o,o,o,"To distinguish between long and short 'o' in Dravidian languages, 'o' now represents ऒ /  ॊ (short). Note that the use of o is considered optional in ISO 15919, and using o for ओ (long) is acceptable for languages that do not distinguish long and short o."
 ऋ /  ृ,r̥,ṛ,ṛ,"In ISO 15919, ṛ is used to represent ड़."

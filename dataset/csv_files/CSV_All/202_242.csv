@@ -1,4 +1,4 @@
-Team,Year,Regular Season Won,Regular Season Lost,Regular Season Ties,Regular Season Win percentage,Regular Season Finish,Post Season Won,Post Season Lost,Post Season Win percentage,Post Season Result
+team,year,regular season won,regular season lost,regular season ties,regular season win percentage,regular season finish,post season won,post season lost,post season win percentage,post season result
 DEN,1981,10,6,0,0.625,2nd in AFC West,-,-,-,-
 DEN,1982,2,7,0,0.222,5th in AFC West,-,-,-,-
 DEN,1983,9,7,0,0.563,2nd in AFC West,0,1,.000,Lost to Seattle Seahawks in AFC Wild Card Game.
@@ -17,12 +17,12 @@ NYG,1994,9,7,0,0.563,2nd in NFC East,-,-,-,-
 NYG,1995,5,11,0,0.313,4th in NFC East,-,-,-,-
 NYG,1996,6,10,0,0.375,5th in NFC East,-,-,-,-
 NYG Total,NYG Total,31,33,0,0.484,,1,1,.500,
-ATL,1997,7,9,0,0.438,2nd in NFC West,-,-,-,-
+ATL,1997,7,9,0,0.43799999999999994,2nd in NFC West,-,-,-,-
 ATL,1998,14,2,0,0.875,1st in NFC West,2,1,.667,Lost to Denver Broncos in Super Bowl XXXIII.
 ATL,1999,5,11,0,0.313,3rd in NFC West,-,-,-,-
 ATL,2000,4,12,0,0.25,5th in NFC West,-,-,-,-
-ATL,2001,7,9,0,0.438,3rd in NFC South,-,-,-,-
+ATL,2001,7,9,0,0.43799999999999994,3rd in NFC South,-,-,-,-
 ATL,2002,9,6,1,0.594,2nd in NFC South,1,1,.500,Lost to Philadelphia Eagles in NFC Divisional Game.
 ATL,2003,3,10,0,0.231,4th in NFC South,-,-,-,-
-ATL Total,ATL Total,49,59,1,0.454,,3,2,.600,
+ATL Total,ATL Total,49,59,1,0.45399999999999996,,3,2,.600,
 Total,Total,190,165,2,0.535,,11,9,.550,

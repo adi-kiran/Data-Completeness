@@ -1,4 +1,4 @@
-Player,Games Played,Minutes Played,Minutes Played Per Game,Rebounds,Rebounds Per Game,Assists,Assists Per Game,Field Goal percentage,Free Throw percentage,3-Point percentage,Points,Points Per Game
+player,games played,minutes played,minutes played per game,rebounds,rebounds per game,assists,assists per game,field goal percentage,free throw percentage,3 point percentage,points,points per game
 Allan Houston,78,2858,36.6,283,3.6,173,2.2,0.449,0.909,0.381,1459,18.7
 Latrell Sprewell,77,3017,39.2,347,4.5,269,3.5,0.43,0.7829999999999999,0.304,1364,17.7
 Glen Rice,75,2212,29.5,307,4.1,89,1.2,0.44,0.852,0.389,899,12.0

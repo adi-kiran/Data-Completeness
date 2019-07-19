@@ -1,9 +1,9 @@
-Tie no,Home team,Score,Away team,Attendance
-1,IFK Västerås (D2),,IK Sleipner (D2),875.0
-2,Kramfors IF (N),,BK Kenty (D3),2808.0
-3,Reymersholms IK (D2),,Åtvidabergs FF (D2),1504.0
-4,Wifsta/Östrands IF (N),,Ludvika FfI (D2),974.0
-5,Råå IF (D3),,Sandvikens IF (D3),2116.0
-6,Sandvikens AIK (D2),,Tidaholms GIF (D2),822.0
-7,Karlstads BIK (D2),,IF Friska Viljor (N),1550.0
-8,Sandviks IK (N),,Surahammars IF (D2),
+tie no,home team,away team,attendance
+1,IFK Västerås (D2),IK Sleipner (D2),875.0
+2,Kramfors IF (N),BK Kenty (D3),2808.0
+3,Reymersholms IK (D2),Åtvidabergs FF (D2),1504.0
+4,Wifsta/Östrands IF (N),Ludvika FfI (D2),974.0
+5,Råå IF (D3),Sandvikens IF (D3),2116.0
+6,Sandvikens AIK (D2),Tidaholms GIF (D2),822.0
+7,Karlstads BIK (D2),IF Friska Viljor (N),1550.0
+8,Sandviks IK (N),Surahammars IF (D2),

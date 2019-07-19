@@ -1,4 +1,4 @@
-Name,Position,Length [km],Drainage basin area [km2],Confluence [by Lahn-km],Mouth elevation [m above MSL]
+name,position,length [km],drainage basin area [km2],confluence [by lahn km],mouth elevation [m above msl]
 Feudinge (Ruppersbach),left,6.3,21.2,9.8,388
 Ilse,right,8.4,11.8,10.5,382
 Banfe,right,11.5,38.9,18.5,326

@@ -1,15 +1,15 @@
-Name,Country,Town,Height metres / ft,Structural type,Held record,Notes
-Great Pyramid of Giza,Egypt,Giza,146 / 480,Mausoleum,,Due to erosion today it stands at the height of 138.8 metres (455 ft).
-Lincoln Cathedral,England,Lincoln,159.7 / 524,Church,,"Spire collapsed in 1549; today, stands at a height of 83 metres (272 ft)."
-St. Mary's Church,Germany,Stralsund,151 / 500,Church,,Spire destroyed by lightning in 1647; today stands at a height of 104 metres (341 ft).
-Strasbourg Cathedral,Germany and/or France (today France),Strasbourg,142 / 470,Church,,
-St Nikolai,Germany,Hamburg,147.3 / 483,Church,,Due to aerial bombing in World War II the nave was demolished; only the spire remains.
-Notre-Dame Cathedral,France,Rouen,151 / 500,Church,,
-Cologne Cathedral,Germany,Cologne,157.4 / 516,Church,,
-Washington Monument,United States,"Washington, D.C.",169.3 / 555,Monument,,
-Eiffel Tower,France,Paris,300.6 / 986,Tower,,"Currently stands at a height of 324 metres (1,063 ft)."
-Chrysler Building,United States,New York City,"319 / 1,046",Skyscraper,,
-Empire State Building,United States,New York City,"448 / 1,472",Skyscraper,,
-Ostankino Tower,Russia,Moscow,"540 / 1,772",Tower,,
-CN Tower,Canada,Toronto,"553 / 1,815",Tower,,
-Burj Khalifa,United Arab Emirates,Dubai,"829.8 / 2,722",Skyscraper,,Topped-out on 17 January 2009
+name,country,town,height metres / ft,structural type,notes
+Great Pyramid of Giza,Egypt,Giza,146 / 480,Mausoleum,Due to erosion today it stands at the height of 138.8 metres (455 ft).
+Lincoln Cathedral,England,Lincoln,159.7 / 524,Church,"Spire collapsed in 1549; today, stands at a height of 83 metres (272 ft)."
+St. Mary's Church,Germany,Stralsund,151 / 500,Church,Spire destroyed by lightning in 1647; today stands at a height of 104 metres (341 ft).
+Strasbourg Cathedral,Germany and/or France (today France),Strasbourg,142 / 470,Church,
+St Nikolai,Germany,Hamburg,147.3 / 483,Church,Due to aerial bombing in World War II the nave was demolished; only the spire remains.
+Notre-Dame Cathedral,France,Rouen,151 / 500,Church,
+Cologne Cathedral,Germany,Cologne,157.4 / 516,Church,
+Washington Monument,United States,"Washington, D.C.",169.3 / 555,Monument,
+Eiffel Tower,France,Paris,300.6 / 986,Tower,"Currently stands at a height of 324 metres (1,063 ft)."
+Chrysler Building,United States,New York City,"319 / 1,046",Skyscraper,
+Empire State Building,United States,New York City,"448 / 1,472",Skyscraper,
+Ostankino Tower,Russia,Moscow,"540 / 1,772",Tower,
+CN Tower,Canada,Toronto,"553 / 1,815",Tower,
+Burj Khalifa,United Arab Emirates,Dubai,"829.8 / 2,722",Skyscraper,Topped-out on 17 January 2009

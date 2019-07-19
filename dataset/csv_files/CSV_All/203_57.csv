@@ -1,98 +1,98 @@
-Year,Round,Against,Score,Scorers
-1930,Group B,Yugoslavia,,Preguinho
-1930,Group B,Bolivia,,"Moderato (2), Preguinho (2)"
-1934,Round 1,Spain,,Leonidas
-1938,Round 1,Poland,,"Leonidas (3), Romeu, Perácio (2)"
-1938,Quarter-Final,Czechoslovakia,,Leonidas
-1938,Quarter-Final (replay),Czechoslovakia,,"Leonidas, Roberto"
-1938,Semi-Final,Italy,,Romeu
-1938,Bronze Final,Sweden,,"Romeu, Leonidas (2), Perácio"
-1950,Group A,Mexico,,"Ademir (2), Jair, Baltazar"
-1950,Group A,Switzerland,,"Alfredo, Baltazar"
-1950,Group A,Yugoslavia,,"Ademir, Zizinho"
-1950,Final Round,Sweden,,"Ademir (4), Chico (2), Maneca"
-1950,Final Round,Spain,,"Ademir (2), Jair, Chico (2), Zizinho"
-1950,Final Round,Uruguay,,Friaça
-1954,Group A,Mexico,,"Baltazar, Didi, Pinga (2), Julinho"
-1954,Group A,Yugoslavia,,Didi
-1954,Quarter-Final,Hungary,,"Djalma Santos, Julinho"
-1958,Group D,Austria,,"Mazzola (2), Nilton Santos"
-1958,Group D,England,,
-1958,Group D,Soviet Union,,Vavá (2)
-1958,Quarter-Final,Wales,,Pele
-1958,Semi-Final,France,,"Vavá, Didi, Pele (3)"
-1958,Final,Sweden,,"Vavá (2), Pele (2), Zagallo"
-1962,Group C,Mexico,,"Pele, Zagallo"
-1962,Group C,Czechoslovakia,,
-1962,Group C,Spain,,Amarildo (2)
-1962,Quarter-Final,England,,"Garrincha (2), Vavá"
-1962,Semi-Final,Chile,,"Garrincha (2), Vavá (2)"
-1962,Final,Czechoslovakia,,"Amarildo, Zito, Vavá"
-1966,Group C,Bulgaria,,"Pele, Garrincha"
-1966,Group C,Hungary,,Tostão
-1966,Group C,Portugal,,Rildo
-1970,Group C,Czechoslovakia,,"Rivelino, Pele, Jairzinho (2)"
-1970,Group C,England,,Jairzinho
-1970,Group C,Romania,,"Pele (2), Jairzinho"
-1970,Quarter-Final,Peru,,"Rivelino, Tostão (2), Jairzinho"
-1970,Semi-Final,Uruguay,,"Clodoaldo, Jairzinho, Rivelino"
-1970,Final,Italy,,"Pele, Gerson, Jairzinho, Carlos Alberto"
-1974,Group B,Yugoslavia,,
-1974,Group B,Scotland,,
-1974,Group B,Zaire,,"Jairzinho, Rivelino, Valdomiro"
-1974,Group A Round 2,East Germany,,Rivelino
-1974,Group A Round 2,Argentina,,"Rivelino, Jairzinho"
-1974,Group A Round 2,Netherlands,,
-1974,Bronze Final,Poland,,
-1978,Group C,Sweden,,Reinaldo
-1978,Group C,Spain,,
-1978,Group C,Austria,,Roberto Dinamite
-1978,Group B Round 2,Peru,,"Dirceu (2), Zico"
-1978,Group B Round 2,Argentina,,
-1978,Group B Round 2,Poland,,"Nelinho, Roberto Dinamite (2)"
-1978,Bronze Final,Italy,,"Nelinho, Dirceu"
-1982,Group F,Soviet Union,,"Socrates, Éder"
-1982,Group F,Scotland,,"Zico, Oscar, Éder, Falcão"
-1982,Group F,New Zealand,,"Zico (2), Falcão, Serginho"
-1982,Group C Round 2,Argentina,,"Zico, Serginho, Júnior"
-1982,Group C Round 2,Italy,,"Socrates, Falcão"
-1986,Group D,Spain,,Socrates
-1986,Group D,Algeria,,Careca
-1986,Group D,Northern Ireland,,"Careca (2), Josimar"
-1986,Round of 16,Poland,,"Socrates, Josimar, Edinho, Careca"
-1986,Quarter-Final,France,,Careca
-1990,Group C,Sweden,,Careca (2)
-1990,Group C,Costa Rica,,Muller
-1990,Group C,Scotland,,Muller
-1990,Round of 16,Argentina,,
-1994,Group B,Russia,,"Romário, Rai"
-1994,Group B,Cameroon,,"Romário, Márcio Santos, Bebeto"
-1994,Group B,Sweden,,Romário
-1994,Round of 16,United States,,Bebeto
-1994,Quarter-Final,Netherlands,,"Romário, Bebeto, Branco"
-1994,Semi-Final,Sweden,,Romário
-1994,Final,Italy,,
-1998,Group A,Scotland,,"Cesar Sampaio, Boyd (OG)"
-1998,Group A,Morocco,,"Ronaldo, Rivaldo, Bebeto"
-1998,Group A,Norway,,Bebeto
-1998,Round of 16,Chile,,"Ronaldo (2), Cesar Sampaio (2)"
-1998,Quarter-Final,Denmark,,"Bebeto, Rivaldo (2)"
-1998,Semi-Final,Netherlands,,Ronaldo
-1998,Final,France,,
-2002,Group C,Turkey,,"Ronaldo, Rivaldo"
-2002,Group C,China PR,,"Roberto Carlos, Rivaldo, Ronaldinho, Ronaldo"
-2002,Group C,Costa Rica,,"Ronaldo (2), Edmilson, Rivaldo, Júnior"
-2002,Round of 16,Belgium,,"Rivaldo, Ronaldo"
-2002,Quarter-Final,England,,"Rivaldo, Ronaldinho"
-2002,Semi-Final,Turkey,,Ronaldo
-2002,Final,Germany,,Ronaldo (2)
-2006,Group F,Croatia,,Kaká
-2006,Group F,Australia,,"Adriano, Fred"
-2006,Group F,Japan,,"Ronaldo (2), Juninho, Gilberto"
-2006,Round of 16,Ghana,,"Adriano, Ronaldo, Ze Roberto"
-2006,Quarter-Final,France,,
-2010,Group G,North Korea,,"Maicon, Elano"
-2010,Group G,Ivory Coast,,"Luis Fabiano (2), Elano"
-2010,Group G,Portugal,,
-2010,Round of 16,Chile,,"Juan, Luis Fabianho, Robinho"
-2010,Quarter-Final,Netherlands,,Robinho
+year,round,against,scorers
+1930,Group B,Yugoslavia,Preguinho
+1930,Group B,Bolivia,"Moderato (2), Preguinho (2)"
+1934,Round 1,Spain,Leonidas
+1938,Round 1,Poland,"Leonidas (3), Romeu, Perácio (2)"
+1938,Quarter-Final,Czechoslovakia,Leonidas
+1938,Quarter-Final (replay),Czechoslovakia,"Leonidas, Roberto"
+1938,Semi-Final,Italy,Romeu
+1938,Bronze Final,Sweden,"Romeu, Leonidas (2), Perácio"
+1950,Group A,Mexico,"Ademir (2), Jair, Baltazar"
+1950,Group A,Switzerland,"Alfredo, Baltazar"
+1950,Group A,Yugoslavia,"Ademir, Zizinho"
+1950,Final Round,Sweden,"Ademir (4), Chico (2), Maneca"
+1950,Final Round,Spain,"Ademir (2), Jair, Chico (2), Zizinho"
+1950,Final Round,Uruguay,Friaça
+1954,Group A,Mexico,"Baltazar, Didi, Pinga (2), Julinho"
+1954,Group A,Yugoslavia,Didi
+1954,Quarter-Final,Hungary,"Djalma Santos, Julinho"
+1958,Group D,Austria,"Mazzola (2), Nilton Santos"
+1958,Group D,England,
+1958,Group D,Soviet Union,Vavá (2)
+1958,Quarter-Final,Wales,Pele
+1958,Semi-Final,France,"Vavá, Didi, Pele (3)"
+1958,Final,Sweden,"Vavá (2), Pele (2), Zagallo"
+1962,Group C,Mexico,"Pele, Zagallo"
+1962,Group C,Czechoslovakia,
+1962,Group C,Spain,Amarildo (2)
+1962,Quarter-Final,England,"Garrincha (2), Vavá"
+1962,Semi-Final,Chile,"Garrincha (2), Vavá (2)"
+1962,Final,Czechoslovakia,"Amarildo, Zito, Vavá"
+1966,Group C,Bulgaria,"Pele, Garrincha"
+1966,Group C,Hungary,Tostão
+1966,Group C,Portugal,Rildo
+1970,Group C,Czechoslovakia,"Rivelino, Pele, Jairzinho (2)"
+1970,Group C,England,Jairzinho
+1970,Group C,Romania,"Pele (2), Jairzinho"
+1970,Quarter-Final,Peru,"Rivelino, Tostão (2), Jairzinho"
+1970,Semi-Final,Uruguay,"Clodoaldo, Jairzinho, Rivelino"
+1970,Final,Italy,"Pele, Gerson, Jairzinho, Carlos Alberto"
+1974,Group B,Yugoslavia,
+1974,Group B,Scotland,
+1974,Group B,Zaire,"Jairzinho, Rivelino, Valdomiro"
+1974,Group A Round 2,East Germany,Rivelino
+1974,Group A Round 2,Argentina,"Rivelino, Jairzinho"
+1974,Group A Round 2,Netherlands,
+1974,Bronze Final,Poland,
+1978,Group C,Sweden,Reinaldo
+1978,Group C,Spain,
+1978,Group C,Austria,Roberto Dinamite
+1978,Group B Round 2,Peru,"Dirceu (2), Zico"
+1978,Group B Round 2,Argentina,
+1978,Group B Round 2,Poland,"Nelinho, Roberto Dinamite (2)"
+1978,Bronze Final,Italy,"Nelinho, Dirceu"
+1982,Group F,Soviet Union,"Socrates, Éder"
+1982,Group F,Scotland,"Zico, Oscar, Éder, Falcão"
+1982,Group F,New Zealand,"Zico (2), Falcão, Serginho"
+1982,Group C Round 2,Argentina,"Zico, Serginho, Júnior"
+1982,Group C Round 2,Italy,"Socrates, Falcão"
+1986,Group D,Spain,Socrates
+1986,Group D,Algeria,Careca
+1986,Group D,Northern Ireland,"Careca (2), Josimar"
+1986,Round of 16,Poland,"Socrates, Josimar, Edinho, Careca"
+1986,Quarter-Final,France,Careca
+1990,Group C,Sweden,Careca (2)
+1990,Group C,Costa Rica,Muller
+1990,Group C,Scotland,Muller
+1990,Round of 16,Argentina,
+1994,Group B,Russia,"Romário, Rai"
+1994,Group B,Cameroon,"Romário, Márcio Santos, Bebeto"
+1994,Group B,Sweden,Romário
+1994,Round of 16,United States,Bebeto
+1994,Quarter-Final,Netherlands,"Romário, Bebeto, Branco"
+1994,Semi-Final,Sweden,Romário
+1994,Final,Italy,
+1998,Group A,Scotland,"Cesar Sampaio, Boyd (OG)"
+1998,Group A,Morocco,"Ronaldo, Rivaldo, Bebeto"
+1998,Group A,Norway,Bebeto
+1998,Round of 16,Chile,"Ronaldo (2), Cesar Sampaio (2)"
+1998,Quarter-Final,Denmark,"Bebeto, Rivaldo (2)"
+1998,Semi-Final,Netherlands,Ronaldo
+1998,Final,France,
+2002,Group C,Turkey,"Ronaldo, Rivaldo"
+2002,Group C,China PR,"Roberto Carlos, Rivaldo, Ronaldinho, Ronaldo"
+2002,Group C,Costa Rica,"Ronaldo (2), Edmilson, Rivaldo, Júnior"
+2002,Round of 16,Belgium,"Rivaldo, Ronaldo"
+2002,Quarter-Final,England,"Rivaldo, Ronaldinho"
+2002,Semi-Final,Turkey,Ronaldo
+2002,Final,Germany,Ronaldo (2)
+2006,Group F,Croatia,Kaká
+2006,Group F,Australia,"Adriano, Fred"
+2006,Group F,Japan,"Ronaldo (2), Juninho, Gilberto"
+2006,Round of 16,Ghana,"Adriano, Ronaldo, Ze Roberto"
+2006,Quarter-Final,France,
+2010,Group G,North Korea,"Maicon, Elano"
+2010,Group G,Ivory Coast,"Luis Fabiano (2), Elano"
+2010,Group G,Portugal,
+2010,Round of 16,Chile,"Juan, Luis Fabianho, Robinho"
+2010,Quarter-Final,Netherlands,Robinho

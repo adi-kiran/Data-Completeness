@@ -1,13 +1,13 @@
-Season,Tier,Division,Pos.,Notes
-,3,1ª Estatal,9th,
-,3,1ª Estatal,3rd,
-,3,1ª Estatal,3rd,
-,3,1ª Estatal,2nd,Promoted
-,2,Honor B,10th,
-,2,Honor B,11th,
-,2,Honor B,11th,
-,2,Plata,5th,
-,2,Plata,9th,
-,2,Plata,2nd,Promoted
-,1,ASOBAL,16th,Relegated
-,2,Plata,,
+tier,division,pos ,notes
+3,1ª Estatal,9th,
+3,1ª Estatal,3rd,
+3,1ª Estatal,3rd,
+3,1ª Estatal,2nd,Promoted
+2,Honor B,10th,
+2,Honor B,11th,
+2,Honor B,11th,
+2,Plata,5th,
+2,Plata,9th,
+2,Plata,2nd,Promoted
+1,ASOBAL,16th,Relegated
+2,Plata,,

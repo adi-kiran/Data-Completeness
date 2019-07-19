@@ -1,4 +1,4 @@
-name,glyph,C string,Unicode,Unicode name
+name,glyph,c string,unicode,unicode name
 NUL,,\\0,U+0000,NULL (NUL)
 alert,,\\a,U+0007,BELL (BEL)
 backspace,,\\b,U+0008,BACKSPACE (BS)

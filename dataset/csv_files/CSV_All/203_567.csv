@@ -1,21 +1,21 @@
-Tie no,Home team,Score,Away team,Date,Attendance
-1,Rochdale,,Coventry City,25 January 2003,
-2,Southampton,,Millwall,25 January 2003,23809.0
-Replay,Millwall,,Southampton,5 February 2003,10197.0
-3,Watford,,West Bromwich Albion,25 January 2003,16975.0
-4,Walsall,,Wimbledon,25 January 2003,6693.0
-5,Gillingham,,Leeds United,25 January 2003,11093.0
-Replay,Leeds United,,Gillingham,4 February 2003,29359.0
-6,Blackburn Rovers,,Sunderland,25 January 2003,14315.0
-Replay,Sunderland,,Blackburn Rovers,5 February 2003,15745.0
-7,Wolverhampton Wanderers,,Leicester City,25 January 2003,28164.0
-8,Shrewsbury Town,,Chelsea,26 January 2003,7950.0
-9,Sheffield United,,Ipswich Town,25 January 2003,12757.0
-10,Fulham,,Charlton Athletic,26 January 2003,12203.0
-11,Brentford,,Burnley,25 January 2003,9563.0
-12,Manchester United,,West Ham United,26 January 2003,67181.0
-13,Norwich City,,Dagenham & Redbridge,25 January 2003,21164.0
-14,Crystal Palace,,Liverpool,26 January 2003,26054.0
-Replay,Liverpool,,Crystal Palace,5 February 2003,35109.0
-15,Farnborough Town,,Arsenal,25 January 2003,35108.0
-16,Stoke City,,Bournemouth,26 January 2003,12004.0
+tie no,home team,away team,date,attendance
+1,Rochdale,Coventry City,25 January 2003,
+2,Southampton,Millwall,25 January 2003,23809.0
+Replay,Millwall,Southampton,5 February 2003,10197.0
+3,Watford,West Bromwich Albion,25 January 2003,16975.0
+4,Walsall,Wimbledon,25 January 2003,6693.0
+5,Gillingham,Leeds United,25 January 2003,11093.0
+Replay,Leeds United,Gillingham,4 February 2003,29359.0
+6,Blackburn Rovers,Sunderland,25 January 2003,14315.0
+Replay,Sunderland,Blackburn Rovers,5 February 2003,15745.0
+7,Wolverhampton Wanderers,Leicester City,25 January 2003,28164.0
+8,Shrewsbury Town,Chelsea,26 January 2003,7950.0
+9,Sheffield United,Ipswich Town,25 January 2003,12757.0
+10,Fulham,Charlton Athletic,26 January 2003,12203.0
+11,Brentford,Burnley,25 January 2003,9563.0
+12,Manchester United,West Ham United,26 January 2003,67181.0
+13,Norwich City,Dagenham & Redbridge,25 January 2003,21164.0
+14,Crystal Palace,Liverpool,26 January 2003,26054.0
+Replay,Liverpool,Crystal Palace,5 February 2003,35109.0
+15,Farnborough Town,Arsenal,25 January 2003,35108.0
+16,Stoke City,Bournemouth,26 January 2003,12004.0

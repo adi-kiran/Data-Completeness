@@ -1,22 +1,22 @@
-Outcome,No.,Date,Tournament,Surface,Opponent,Score
-Runner-up,1.0,23 August 2004,"La Paz, Bolivia",Clay,Jenifer Widjaja,
-Runner-up,2.0,6 June 2005,"Santa Tecla, El Salvador",Clay,Andrea Benitez,
-Runner-up,2.0,22 August 2005,"Bogotá, Colombia",Clay,Carla Tiene,
-Runner-up,4.0,15 May 2006,"Ciudad Obregon, Mexico",Hard,Ellah Nze,
-Winner,1.0,5 June 2006,"Xalapa, Mexico",Hard,Maria Irigoyen,
-Winner,2.0,7 September 2009,"Mazatlán, Mexico",Hard,Fernanda Hermenegildo,
-Winner,3.0,2 November 2009,"Bogotá, Colombia",Clay,Yuliana Lizarazo,
-Runner-up,5.0,16 November 2009,"Asuncion, Paraguay",Clay,Paula Ormaechea,
-Winner,4.0,8 November 2010,"Bogotá, Colombia",Clay,Patricia Kú Flores,
-Winner,5.0,29 November 2010,"Santiago, Chile",Clay,Veronica Cepede Royg,
-Winner,6.0,18 July 2011,"Ribeirão Preto, Brazil",Clay,Vivian Segnini,
-Runner-up,6.0,8 August 2011,"Santa Cruz de la Sierra, Bolivia",Clay,Maria Irigoyen,
-Winner,7.0,15 August 2011,"La Paz, Bolivia",Clay,Maria Irigoyen,
-Runner-up,7.0,3 October 2011,"Yerevan, Armenia",Clay,Julia Cohen,
-Runner-up,8.0,19 March 2012,"Bangalore, India",Hard,Donna Vekić,
-Runner-up,9.0,8 May 2012,"Brasilia, Brazil",Clay,Gabriela Paz,
-Winner,8.0,19 November 2012,"Barranquilla, Colombia",Clay,Karolina Nowak,
-Winner,9.0,21 October 2013,"Bogotá, Colombia",Hard,Anna Katalina Alzate Esmurzaeva,
-Winner,10.0,11 November 2013,"Lima, Peru",Clay,Patricia Kú Flores,
-Winner,11.0,25 November 2013,"Bogotá, Colombia",Clay,Naomi Totka,
-Runner-up,10.0,2 December 2013,"Barranquilla, Colombia",Clay,Maria Fernanda Herazo,
+outcome,no ,date,tournament,surface,opponent
+Runner-up,1.0,23 August 2004,"La Paz, Bolivia",Clay,Jenifer Widjaja
+Runner-up,2.0,6 June 2005,"Santa Tecla, El Salvador",Clay,Andrea Benitez
+Runner-up,2.0,22 August 2005,"Bogotá, Colombia",Clay,Carla Tiene
+Runner-up,4.0,15 May 2006,"Ciudad Obregon, Mexico",Hard,Ellah Nze
+Winner,1.0,5 June 2006,"Xalapa, Mexico",Hard,Maria Irigoyen
+Winner,2.0,7 September 2009,"Mazatlán, Mexico",Hard,Fernanda Hermenegildo
+Winner,3.0,2 November 2009,"Bogotá, Colombia",Clay,Yuliana Lizarazo
+Runner-up,5.0,16 November 2009,"Asuncion, Paraguay",Clay,Paula Ormaechea
+Winner,4.0,8 November 2010,"Bogotá, Colombia",Clay,Patricia Kú Flores
+Winner,5.0,29 November 2010,"Santiago, Chile",Clay,Veronica Cepede Royg
+Winner,6.0,18 July 2011,"Ribeirão Preto, Brazil",Clay,Vivian Segnini
+Runner-up,6.0,8 August 2011,"Santa Cruz de la Sierra, Bolivia",Clay,Maria Irigoyen
+Winner,7.0,15 August 2011,"La Paz, Bolivia",Clay,Maria Irigoyen
+Runner-up,7.0,3 October 2011,"Yerevan, Armenia",Clay,Julia Cohen
+Runner-up,8.0,19 March 2012,"Bangalore, India",Hard,Donna Vekić
+Runner-up,9.0,8 May 2012,"Brasilia, Brazil",Clay,Gabriela Paz
+Winner,8.0,19 November 2012,"Barranquilla, Colombia",Clay,Karolina Nowak
+Winner,9.0,21 October 2013,"Bogotá, Colombia",Hard,Anna Katalina Alzate Esmurzaeva
+Winner,10.0,11 November 2013,"Lima, Peru",Clay,Patricia Kú Flores
+Winner,11.0,25 November 2013,"Bogotá, Colombia",Clay,Naomi Totka
+Runner-up,10.0,2 December 2013,"Barranquilla, Colombia",Clay,Maria Fernanda Herazo

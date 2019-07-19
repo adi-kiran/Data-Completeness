@@ -1,4 +1,4 @@
-Number,South or west terminus,North or east terminus,Length (mi),Length (km),Formed,Deleted,Notes
+number,south or west terminus,north or east terminus,length (mi),length (km),formed,deleted,notes
 SR-1,Arizona state line near St. George,"Idaho state line near Malad, Idaho",400.592,644.69,1962,1977,Legislative designation for I-15
 SR-1,"Arizona state line near Littlefield, Arizona","Idaho state line near Franklin, Idaho",,,1920s,1962,Legislative designation for US-91
 SR-2,Nevada state line in Wendover,"Wyoming state line near Evanston, Wyoming",196.68,316.526,1962,1977,Legislative designation for I-80

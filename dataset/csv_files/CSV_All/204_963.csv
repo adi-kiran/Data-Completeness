@@ -1,4 +1,4 @@
-Rank,Bib,Name,Nation,Run 1,Rank.1,Run 2,Rank.2,Total,Difference
+rank,bib,name,nation,run 1,rank 1,run 2,rank 2,total,difference
 ,1,Tina Maze,Slovenia,1:07.05,1.0,1:13.49,15.0,2:20.54,
 ,9,Federica Brignone,Italy,1:07.39,2.0,1:13.24,10.0,2:20.63,0.09
 ,3,Tessa Worley,France,1:09.17,19.0,1:11.85,1.0,2:21.02,0.48

@@ -1,4 +1,4 @@
-Flight,Date,Payload nickname,Payload,Orbit,Result
+flight,date,payload nickname,payload,orbit,result
 TF1 (Test Flight),"February 4, 1994",Ryūsei,OREX (Orbital Re-entry Experiment),LEO,Success
 TF1 (Test Flight),"February 4, 1994",Myojo,VEP (Vehicle Evaluation Payload),GTO,Success
 TF2,"August 28, 1994",Kiku 6,ETS-VI (Engineering Test Satellite-VI),GEO,Success

@@ -1,4 +1,4 @@
-Lift Name,Type,Top elevation (ft),Bottom elevation,Vertical rise,Length (ft),Slope (percentage),Capacity (rides/hr),Speed (ft/min),Lift Manufacturer,Year installed
+lift name,type,top elevation (ft),bottom elevation,vertical rise,length (ft),slope (percentage),capacity (rides/hr),speed (ft/min),lift manufacturer,year installed
 Bruno,fixed double,5885,5840,45,368,12%,630,300,Poma,1987
 Molly's Express,detach quad,5835,4990,845,5244,16%,1200,1000,Doppelmayr,2000
 Pucci,fixed triple,5920,5350,570,3398,17%,1330,450,Poma,1987

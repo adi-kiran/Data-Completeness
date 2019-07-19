@@ -1,31 +1,31 @@
-Date,Time,Opponent,Site,TV,Result,Attendance,Record
-11/09/2013*,2:00 PM,Indiana Institute of Technology,"Emil and Patricia Jones Convocation Center • Chicago, IL",CSU TV,,369.0,
-11/13/2013*,6:30 PM,at Northwestern,"Welsh-Ryan Arena • Evanston, IL",BTND,,375.0,
-11/16/2013*,1:00 PM,at Miami (OH),"Millett Hall • Oxford, OH",,,406.0,
-11/18/2013*,7:00 PM,,"Lee & Helene Sapp Fieldhouse • Omaha, NE",,,356.0,
-11/23/2013*,2:00 PM,IUPUI,"Emil and Patricia Jones Convocation Center • Chicago, IL",CSU TV,,381.0,
-11/26/2013*,7:00 PM,Purdue Calumet,"Emil and Patricia Jones Convocation Center • Chicago, IL",CSU TV,,279.0,
-12/01/2013*,2:00 PM,Western Michigan,"Emil and Patricia Jones Convocation Center • Chicago, IL",CSU TV,,242.0,
-12/06/2013*,3:30 PM,vs. Valparaiso,"Savage Arena • Toledo, OH (Toledo Invitational)",,,,
-12/07/2013*,1:00 PM,vs. Detroit,"Savage Arena • Toledo, OH (Toledo Invitational)",,,,
-12/20/2013*,6:00 PM,at Southern Illinois,"SIU Arena • Carbondale, IL",,,405.0,
-12/29/2013*,2:00 PM,Wright State,"Emil and Patricia Jones Convocation Center • Chicago, IL",CSU TV,,235.0,
-12/31/2013*,2:00 PM,Loyola,"Emil and Patricia Jones Convocation Center • Chicago, IL",CSU TV,,316.0,
-01/02/2014,7:00 PM,Seattle,"Emil and Patricia Jones Convocation Center • Chicago, IL",CSU TV,,202.0,
-01/04/2014,2:00 PM,Idaho,"Emil and Patricia Jones Convocation Center • Chicago, IL",CSU TV,,200.0,
-01/08/2014*,7:00 PM,Indiana Northwest,"Emil and Patricia Jones Convocation Center • Chicago, IL",CSU TV,,212.0,
-01/11/2014,2:00 PM,at UMKC,"Municipal Auditorium • Kansas City, MO",,,380.0,
-01/16/2014,7:00 PM,at New Mexico State,"Pan American Center • Las Cruces, NM",,,942.0,
-01/18/2014,7:00 PM,,"UTPA Fieldhouse • Edinburg, TX",,,382.0,
-01/23/2014,7:00 PM,Cal State Bakersfield,"Emil and Patricia Jones Convocation Center • Chicago, IL",CSU TV,,263.0,
-01/25/2014,2:00 PM,Utah Valley,"Emil and Patricia Jones Convocation Center • Chicago, IL",CSU TV,,211.0,
-01/30/2014,8:00 PM,at Grand Canyon,"GCU Arena • Phoenix, AZ",Cox7,,581.0,
-02/08/2014,2:00 PM,UMKC,"Emil and Patricia Jones Convocation Center • Chicago, IL",CSU TV,,201.0,
-02/13/2014,7:00 PM,,"Emil and Patricia Jones Convocation Center • Chicago, IL",CSU TV,,207.0,
-02/15/2014,2:00 PM,New Mexico State,"Emil and Patricia Jones Convocation Center • Chicago, IL",CSU TV,,230.0,
-02/20/2014,8:00 PM,at Utah Valley,"UCCU Center • Orem, UT",,,191.0,
-02/22/204,3:00 PM,at Cal State Bakersfield,"Icardo Center • Bakersfield, CA",,,213.0,
-03/01/2014,2:00 PM,Grand Canyon,"Emil and Patricia Jones Convocation Center • Chicago, IL",CSU TV,,,
-03/06/2014,8:00 PM,at Idaho,"Cowan Spectrum • Moscow, ID",,,,
-03/08/2014,6:00 PM,at Seattle,"Connolly Center • Seattle, WA",,,,
-03/12-03/15/2014,TBA,vs.,"Orleans Arena • Las Vegas, NV",,,,
+date,time,opponent,site,tv,attendance
+11/09/2013*,2:00 PM,Indiana Institute of Technology,"Emil and Patricia Jones Convocation Center • Chicago, IL",CSU TV,369.0
+11/13/2013*,6:30 PM,at Northwestern,"Welsh-Ryan Arena • Evanston, IL",BTND,375.0
+11/16/2013*,1:00 PM,at Miami (OH),"Millett Hall • Oxford, OH",,406.0
+11/18/2013*,7:00 PM,,"Lee & Helene Sapp Fieldhouse • Omaha, NE",,356.0
+11/23/2013*,2:00 PM,IUPUI,"Emil and Patricia Jones Convocation Center • Chicago, IL",CSU TV,381.0
+11/26/2013*,7:00 PM,Purdue Calumet,"Emil and Patricia Jones Convocation Center • Chicago, IL",CSU TV,279.0
+12/01/2013*,2:00 PM,Western Michigan,"Emil and Patricia Jones Convocation Center • Chicago, IL",CSU TV,242.0
+12/06/2013*,3:30 PM,vs. Valparaiso,"Savage Arena • Toledo, OH (Toledo Invitational)",,
+12/07/2013*,1:00 PM,vs. Detroit,"Savage Arena • Toledo, OH (Toledo Invitational)",,
+12/20/2013*,6:00 PM,at Southern Illinois,"SIU Arena • Carbondale, IL",,405.0
+12/29/2013*,2:00 PM,Wright State,"Emil and Patricia Jones Convocation Center • Chicago, IL",CSU TV,235.0
+12/31/2013*,2:00 PM,Loyola,"Emil and Patricia Jones Convocation Center • Chicago, IL",CSU TV,316.0
+01/02/2014,7:00 PM,Seattle,"Emil and Patricia Jones Convocation Center • Chicago, IL",CSU TV,202.0
+01/04/2014,2:00 PM,Idaho,"Emil and Patricia Jones Convocation Center • Chicago, IL",CSU TV,200.0
+01/08/2014*,7:00 PM,Indiana Northwest,"Emil and Patricia Jones Convocation Center • Chicago, IL",CSU TV,212.0
+01/11/2014,2:00 PM,at UMKC,"Municipal Auditorium • Kansas City, MO",,380.0
+01/16/2014,7:00 PM,at New Mexico State,"Pan American Center • Las Cruces, NM",,942.0
+01/18/2014,7:00 PM,,"UTPA Fieldhouse • Edinburg, TX",,382.0
+01/23/2014,7:00 PM,Cal State Bakersfield,"Emil and Patricia Jones Convocation Center • Chicago, IL",CSU TV,263.0
+01/25/2014,2:00 PM,Utah Valley,"Emil and Patricia Jones Convocation Center • Chicago, IL",CSU TV,211.0
+01/30/2014,8:00 PM,at Grand Canyon,"GCU Arena • Phoenix, AZ",Cox7,581.0
+02/08/2014,2:00 PM,UMKC,"Emil and Patricia Jones Convocation Center • Chicago, IL",CSU TV,201.0
+02/13/2014,7:00 PM,,"Emil and Patricia Jones Convocation Center • Chicago, IL",CSU TV,207.0
+02/15/2014,2:00 PM,New Mexico State,"Emil and Patricia Jones Convocation Center • Chicago, IL",CSU TV,230.0
+02/20/2014,8:00 PM,at Utah Valley,"UCCU Center • Orem, UT",,191.0
+02/22/204,3:00 PM,at Cal State Bakersfield,"Icardo Center • Bakersfield, CA",,213.0
+03/01/2014,2:00 PM,Grand Canyon,"Emil and Patricia Jones Convocation Center • Chicago, IL",CSU TV,
+03/06/2014,8:00 PM,at Idaho,"Cowan Spectrum • Moscow, ID",,
+03/08/2014,6:00 PM,at Seattle,"Connolly Center • Seattle, WA",,
+03/12-03/15/2014,TBA,vs.,"Orleans Arena • Las Vegas, NV",,

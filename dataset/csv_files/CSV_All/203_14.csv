@@ -1,19 +1,19 @@
-num,Date,Venue,Opponent,Score,Result,Competition
-1.0,24 December 2005,"Phang Nga, Thailand",Latvia,,Draw,2005 King's Cup
-2.0,26 March 2006,"Chonburi, Thailand",Philippines,,Win,Friendly
-3.0,26 March 2006,"Chonburi, Thailand",Philippines,,Win,Friendly
-4.0,8 October 2007,"Bangkok, Thailand",Macau,,Win,2010 FIFA World Cup Qualification
-5.0,6 February 2008,"Saitama, Japan",Japan,,Loss,2010 FIFA World Cup Qualification
-6.0,15 March 2008,"Kunming, China",China PR,,Draw,Friendly
-7.0,15 March 2008,"Kunming, China",China PR,,Draw,Friendly
-8.0,20 May 2008,"Bangkok, Thailand",Nepal,,Win,Friendly
-9.0,20 May 2008,"Bangkok, Thailand",Nepal,,Win,Friendly
-10.0,25 May 2008,"Bangkok, Thailand",Iraq,,Win,Friendly
-11.0,2 June 2008,"Bangkok, Thailand",Bahrain,,Loss,2010 FIFA World Cup Qualification
-12.0,20 December 2008,"Bangkok, Thailand",Indonesia,,Win,2008 AFF Suzuki Cup
-13.0,18 July 2009,"Bangkok, Thailand",Pakistan,,Win,Friendly
-14.0,8 November 2009,"Bangkok, Thailand",Syria,,Draw,Friendly
-15.0,8 September 2010,"New Delhi, India",India,,Win,Friendly
-16.0,15 January 2012,"Bangkok, Thailand",South Korea,,Loss,2012 King's Cup
-17.0,26 January 2013,"Chiangmai, Thailand",North Korea,,Draw,2013 King's Cup
-18.0,5 March 2014,"Bangkok, Thailand",Lebanon,,Loss,2015 AFC Asian Cup qualification
+num,date,venue,opponent,result,competition
+1.0,24 December 2005,"Phang Nga, Thailand",Latvia,Draw,2005 King's Cup
+2.0,26 March 2006,"Chonburi, Thailand",Philippines,Win,Friendly
+3.0,26 March 2006,"Chonburi, Thailand",Philippines,Win,Friendly
+4.0,8 October 2007,"Bangkok, Thailand",Macau,Win,2010 FIFA World Cup Qualification
+5.0,6 February 2008,"Saitama, Japan",Japan,Loss,2010 FIFA World Cup Qualification
+6.0,15 March 2008,"Kunming, China",China PR,Draw,Friendly
+7.0,15 March 2008,"Kunming, China",China PR,Draw,Friendly
+8.0,20 May 2008,"Bangkok, Thailand",Nepal,Win,Friendly
+9.0,20 May 2008,"Bangkok, Thailand",Nepal,Win,Friendly
+10.0,25 May 2008,"Bangkok, Thailand",Iraq,Win,Friendly
+11.0,2 June 2008,"Bangkok, Thailand",Bahrain,Loss,2010 FIFA World Cup Qualification
+12.0,20 December 2008,"Bangkok, Thailand",Indonesia,Win,2008 AFF Suzuki Cup
+13.0,18 July 2009,"Bangkok, Thailand",Pakistan,Win,Friendly
+14.0,8 November 2009,"Bangkok, Thailand",Syria,Draw,Friendly
+15.0,8 September 2010,"New Delhi, India",India,Win,Friendly
+16.0,15 January 2012,"Bangkok, Thailand",South Korea,Loss,2012 King's Cup
+17.0,26 January 2013,"Chiangmai, Thailand",North Korea,Draw,2013 King's Cup
+18.0,5 March 2014,"Bangkok, Thailand",Lebanon,Loss,2015 AFC Asian Cup qualification

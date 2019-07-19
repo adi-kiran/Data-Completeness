@@ -1,9 +1,9 @@
-Game,Date,Team,Score,High points,High rebounds,High assists,Location Attendance,Record
-1,October 5,@ Portland,,Chris Kaman (14),"Chris Kaman, Blake Griffin (7)",Randy Foye (5),"Rose Garden 18,209",
-2,October 7,@ Sacramento,,Chris Kaman (20),Blake Griffin (13),Randy Foye (8),"ARCO Arena 10,284",
-3,October 8,@ Golden State,,Blake Griffin (23),Blake Griffin (9),Randy Foye (6),"Oracle Arena 10,004",
-4,October 12,San Antonio,,Eric Gordon (23),Blake Griffin (17),Baron Davis (7),"Palacio de los Deportes 18,674",
-5,October 14,Denver,,Blake Griffin (24),Blake Griffin (14),Baron Davis (6),"Staples Center 10,572",
-6,October 16,Utah,,Eric Gordon (23),Blake Griffin (14),Baron Davis (8),"Staples Center 18,997",
-7,October 17,Denver,,Brian Cook (28),Al-Farouq Aminu (8),"Baron Davis, Eric Bledsoe (7)",Staples Center,
-8,October 19,Sacramento,,Chris Kaman (21),Chris Kaman (10),Baron Davis (8),"Staples Center 10,838",
+game,date,team,high points,high rebounds,high assists,location attendance
+1,October 5,@ Portland,Chris Kaman (14),"Chris Kaman, Blake Griffin (7)",Randy Foye (5),"Rose Garden 18,209"
+2,October 7,@ Sacramento,Chris Kaman (20),Blake Griffin (13),Randy Foye (8),"ARCO Arena 10,284"
+3,October 8,@ Golden State,Blake Griffin (23),Blake Griffin (9),Randy Foye (6),"Oracle Arena 10,004"
+4,October 12,San Antonio,Eric Gordon (23),Blake Griffin (17),Baron Davis (7),"Palacio de los Deportes 18,674"
+5,October 14,Denver,Blake Griffin (24),Blake Griffin (14),Baron Davis (6),"Staples Center 10,572"
+6,October 16,Utah,Eric Gordon (23),Blake Griffin (14),Baron Davis (8),"Staples Center 18,997"
+7,October 17,Denver,Brian Cook (28),Al-Farouq Aminu (8),"Baron Davis, Eric Bledsoe (7)",Staples Center
+8,October 19,Sacramento,Chris Kaman (21),Chris Kaman (10),Baron Davis (8),"Staples Center 10,838"

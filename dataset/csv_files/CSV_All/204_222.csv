@@ -1,4 +1,4 @@
-Launch Date,STS Number,Payload Name,Payload Classification,Experiment Name,Payload Carrier Hardware
+launch date,sts number,payload name,payload classification,experiment name,payload carrier hardware
 03/22/82,3,"GAS, FVP",GAS,"GAS, FVP",Adapter Beam
 06/27/82,4,G-001,GAS,G-001,Adapter Beam
 11/11/82,5,G-026,GAS,G-026,Adapter Beam

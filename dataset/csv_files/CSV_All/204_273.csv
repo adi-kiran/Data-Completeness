@@ -1,31 +1,31 @@
-Date,Opponent,Venue,Result,Scorers
-"March 31, 1979",Portland Timbers,H,,"Gersdorff, Child, Cohen"
-"April 14, 1979",Edmonton Drillers,H,,
-"April 21, 1979",San Diego Sockers,A,,"Child (2), Ryan"
-"April 28, 1979",Los Angeles Aztecs,H,,Child
-"May 5, 1979",Vancouver Whitecaps,H,,Gersdorff
-"May 9, 1979",Detroit Express,A,,
-"May 12, 1979",Seattle Sounders,A,,Gersdorff
-"May 19, 1979",Seattle Sounders,H,,
-"May 26, 1979",Edmonton Drillers,A,,"Child, Lawson"
-"June 2, 1979",Memphis Rogues,H,,"Etterich, Flindt"
-"June 6, 1979",Minnesota Kicks,A,,Gersdorff
-"June 9, 1979",Toronto Blizzard,H,,"Child, Gersdorff"
-"June 13, 1979",Tampa Bay Rowdies,A,,"Child, Versen"
-"June 16, 1979",Fort Lauderdale Strikers,A,,Armstrong
-"June 20, 1979",Portland Timbers,A,,"Etterich, Ryan"
-"June 23, 1979",Chicago Sting,H,,"Etterich, Bick, Webers, Gersdorff"
-"June 27, 1979",New England Tea Men,H,,
-"June 30, 1979",Philadelphia Fury,A,,Wood
-"July 4, 1979",Houston Hurricane,A,,
-"July 7, 1979",Fort Lauderdale Strikers,H,,Flindt
-"July 11, 1979",Philadelphia Fury,H,,"Armstrong, Etterich, Gersdorff, Wood"
-"July 14, 1979",Los Angeles Aztecs,A,,
-"July 18, 1979",Houston Hurricane,H,,Gersdorff
-"July 21, 1979",Tulsa Roughnecks,H,,"Armstrong (2), Wood"
-"July 25, 1979",Chicago Sting,A,,"Gersdorff (2), Child"
-"July 29, 1979",New York Cosmos,A,,
-"August 1, 1979",California Surf,H,,
-"August 4, 1979",California Surf,A,,Wood
-"August 8, 1979",Vancouver Whitecaps,A,,
-"August 11, 1979",San Diego Sockers,H,,
+date,opponent,venue,scorers
+"March 31, 1979",Portland Timbers,H,"Gersdorff, Child, Cohen"
+"April 14, 1979",Edmonton Drillers,H,
+"April 21, 1979",San Diego Sockers,A,"Child (2), Ryan"
+"April 28, 1979",Los Angeles Aztecs,H,Child
+"May 5, 1979",Vancouver Whitecaps,H,Gersdorff
+"May 9, 1979",Detroit Express,A,
+"May 12, 1979",Seattle Sounders,A,Gersdorff
+"May 19, 1979",Seattle Sounders,H,
+"May 26, 1979",Edmonton Drillers,A,"Child, Lawson"
+"June 2, 1979",Memphis Rogues,H,"Etterich, Flindt"
+"June 6, 1979",Minnesota Kicks,A,Gersdorff
+"June 9, 1979",Toronto Blizzard,H,"Child, Gersdorff"
+"June 13, 1979",Tampa Bay Rowdies,A,"Child, Versen"
+"June 16, 1979",Fort Lauderdale Strikers,A,Armstrong
+"June 20, 1979",Portland Timbers,A,"Etterich, Ryan"
+"June 23, 1979",Chicago Sting,H,"Etterich, Bick, Webers, Gersdorff"
+"June 27, 1979",New England Tea Men,H,
+"June 30, 1979",Philadelphia Fury,A,Wood
+"July 4, 1979",Houston Hurricane,A,
+"July 7, 1979",Fort Lauderdale Strikers,H,Flindt
+"July 11, 1979",Philadelphia Fury,H,"Armstrong, Etterich, Gersdorff, Wood"
+"July 14, 1979",Los Angeles Aztecs,A,
+"July 18, 1979",Houston Hurricane,H,Gersdorff
+"July 21, 1979",Tulsa Roughnecks,H,"Armstrong (2), Wood"
+"July 25, 1979",Chicago Sting,A,"Gersdorff (2), Child"
+"July 29, 1979",New York Cosmos,A,
+"August 1, 1979",California Surf,H,
+"August 4, 1979",California Surf,A,Wood
+"August 8, 1979",Vancouver Whitecaps,A,
+"August 11, 1979",San Diego Sockers,H,

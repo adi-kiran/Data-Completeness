@@ -1,17 +1,17 @@
-Game,Date,Opponent,Location,Score,OT,Attendance,Record
-1,"January 6, 2006",Philadelphia Wings,Xcel Energy Center,,,8024,
-2,"January 14, 2006",@ Philadelphia Wings,Wachovia Center,,,11874,
-3,"January 20, 2006",@ Calgary Roughnecks,Pengrowth Saddledome,,,10637,
-4,"January 21, 2006",Rochester Knighthawks,Xcel Energy Center,,,7124,
-5,"January 29, 2006",Rochester Knighthawks,Xcel Energy Center,,,7544,
-6,"February 3, 2006",@ Edmonton Rush,Rexall Place,,,8745,
-7,"February 10, 2006",Philadelphia Wings,Xcel Energy Center,,,7524,
-8,"February 18, 2006",@ Buffalo Bandits,HSBC Arena,,,12458,
-9,"March 3, 2006",@ Toronto Rock,Air Canada Centre,,,15830,
-10,"March 4, 2006",@ Buffalo Bandits,HSBC Arena,,,10961,
-11,"March 17, 2006",@ Portland LumberJax,Rose Garden,,,5487,
-12,"March 24, 2006",Buffalo Bandits,Xcel Energy Center,,,9533,
-13,"April 1, 2006",Toronto Rock,Xcel Energy Center,,,10084,
-14,"April 8, 2006",@ Rochester Knighthawks,Blue Cross Arena,,,10352,
-15,"April 9, 2006",San Jose Stealth,Xcel Energy Center,,OT,7044,
-16,"April 15, 2006",Portland LumberJax,Xcel Energy Center,,,10104,
+game,date,opponent,location,ot,attendance
+1,"January 6, 2006",Philadelphia Wings,Xcel Energy Center,,8024
+2,"January 14, 2006",@ Philadelphia Wings,Wachovia Center,,11874
+3,"January 20, 2006",@ Calgary Roughnecks,Pengrowth Saddledome,,10637
+4,"January 21, 2006",Rochester Knighthawks,Xcel Energy Center,,7124
+5,"January 29, 2006",Rochester Knighthawks,Xcel Energy Center,,7544
+6,"February 3, 2006",@ Edmonton Rush,Rexall Place,,8745
+7,"February 10, 2006",Philadelphia Wings,Xcel Energy Center,,7524
+8,"February 18, 2006",@ Buffalo Bandits,HSBC Arena,,12458
+9,"March 3, 2006",@ Toronto Rock,Air Canada Centre,,15830
+10,"March 4, 2006",@ Buffalo Bandits,HSBC Arena,,10961
+11,"March 17, 2006",@ Portland LumberJax,Rose Garden,,5487
+12,"March 24, 2006",Buffalo Bandits,Xcel Energy Center,,9533
+13,"April 1, 2006",Toronto Rock,Xcel Energy Center,,10084
+14,"April 8, 2006",@ Rochester Knighthawks,Blue Cross Arena,,10352
+15,"April 9, 2006",San Jose Stealth,Xcel Energy Center,OT,7044
+16,"April 15, 2006",Portland LumberJax,Xcel Energy Center,,10104

@@ -1,4 +1,4 @@
-Ranking,Company,Industry,Revenue (USD billions),FY,Capitalization (USD billions),Employees,Listing,Headquarters,CEO
+ranking,company,industry,revenue (usd billions),fy,capitalization (usd billions),employees,listing,headquarters,ceo
 1,"Wal-Mart Stores, Inc.",Retail,$469,"January 31, 2013",$248,2200000,NYSE: WMT,"Bentonville, Arkansas",Doug Mcmillon
 2,Royal Dutch Shell,Oil and gas,$467,"December 31, 2012",$132,90000,LSE: RDSA,The Hague;  London,Ben van Beurden
 3,Exxon Mobil Corporation,Oil and gas,$453,"December 31, 2012",$406,76900,NYSE: XOM,"Irving, Texas",Rex W. Tillerson

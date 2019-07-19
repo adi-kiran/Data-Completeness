@@ -1,11 +1,11 @@
-num,Date,Visitor,Score,Home,Record,Pts
-1,December 27,Toronto,,Montreal Canadiens,,2
-2,December 30,Quebec Bulldogs,,Toronto,,4
-3,January 3,Toronto 228th Battalion,,Toronto,,4
-4,January 6,Toronto,,Ottawa Senators,,4
-5,January 10,Montreal Wanderers,,Toronto,,6
-6,January 13,Montreal Canadiens,,Toronto,,6
-7,January 17,Toronto,,Quebec Bulldogs,,8
-8,January 20,Toronto,,Toronto 228th Battalion,,8
-9,January 24,Ottawa Senators,,Toronto,,10
-10,January 27,Toronto,,Montreal Wanderers,,10
+num,date,visitor,home,pts
+1,December 27,Toronto,Montreal Canadiens,2
+2,December 30,Quebec Bulldogs,Toronto,4
+3,January 3,Toronto 228th Battalion,Toronto,4
+4,January 6,Toronto,Ottawa Senators,4
+5,January 10,Montreal Wanderers,Toronto,6
+6,January 13,Montreal Canadiens,Toronto,6
+7,January 17,Toronto,Quebec Bulldogs,8
+8,January 20,Toronto,Toronto 228th Battalion,8
+9,January 24,Ottawa Senators,Toronto,10
+10,January 27,Toronto,Montreal Wanderers,10

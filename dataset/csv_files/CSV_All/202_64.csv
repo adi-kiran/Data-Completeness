@@ -1,4 +1,4 @@
-Year,Team,GP,Att,Yds,Avg,Long,Rush TD,Rec,Yds.1,Avg.1,Long.1,Rec TD
+year,team,gp,att,yds,avg,long,rush td,rec,yds 1,avg 1,long 1,rec td
 1981,San Diego Chargers,14,109,525,4.8,28,3,46,329,7.2,29,3
 1982,San Digeo Chargers,9,87,430,4.9,48,6,13,66,5.1,12,0
 1983,San Diego Chargers,15,127,516,4.1,61,3,25,215,8.6,36,0

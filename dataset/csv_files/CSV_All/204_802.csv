@@ -1,53 +1,53 @@
-Tie no,Home team,Score,Away team,Date
-1,Enfield,,Leyton Orient,19 November 1988
-Replay,Leyton Orient,,Enfield,23 November 1988
-Replay,Leyton Orient,,Enfield,28 November 1988
-2,Blackpool,,Scunthorpe United,19 November 1988
-3,Darlington,,Notts County,19 November 1988
-4,Bath City,,Grays Athletic,19 November 1988
-5,Bristol City,,Southend United,19 November 1988
-6,Burnley,,Chester City,19 November 1988
-7,Preston North End,,Tranmere Rovers,19 November 1988
-Replay,Tranmere Rovers,,Preston North End,22 November 1988
-8,Yeovil Town,,Merthyr Tydfil,19 November 1988
-9,Reading,,Hendon,19 November 1988
-10,Woking,,Cambridge United,19 November 1988
-11,Gillingham,,Peterborough United,19 November 1988
-Replay,Peterborough United,,Gillingham,23 November 1988
-12,Bolton Wanderers,,Chesterfield,19 November 1988
-Replay,Chesterfield,,Bolton Wanderers,28 November 1988
-13,Grimsby Town,,Wolverhampton Wanderers,19 November 1988
-14,Stafford Rangers,,Crewe Alexandra,19 November 1988
-Replay,Crewe Alexandra,,Stafford Rangers,22 November 1988
-15,Scarborough,,Stockport County,19 November 1988
-16,Doncaster Rovers,,Brandon United,19 November 1988
-Replay,Doncaster Rovers,,Brandon United,22 November 1988
-17,Fulham,,Colchester United,19 November 1988
-18,Brentford,,Halesowen Town,19 November 1988
-19,Bristol Rovers,,Fisher Athletic,20 November 1988
-20,Altrincham,,Lincoln City,19 November 1988
-21,Bognor Regis Town,,Exeter City,19 November 1988
-22,Huddersfield Town,,Rochdale,19 November 1988
-Replay,Rochdale,,Huddersfield Town,28 November 1988
-23,Mansfield Town,,Sheffield United,19 November 1988
-Replay,Sheffield United,,Mansfield Town,22 November 1988
-24,Cardiff City,,Hereford United,19 November 1988
-25,Halifax Town,,York City,19 November 1988
-26,Newport County,,Maidstone United,19 November 1988
-27,Southport,,Port Vale,19 November 1988
-28,Runcorn,,Wrexham,19 November 1988
-Replay,Wrexham,,Runcorn,22 November 1988
-29,Torquay United,,Fareham Town,19 November 1988
-Replay,Fareham Town,,Torquay United,23 November 1988
-30,Kettering Town,,Dartford,19 November 1988
-31,Rotherham United,,Barrow,19 November 1988
-32,Aldershot,,Hayes,19 November 1988
-33,Dagenham,,Sutton United,19 November 1988
-34,Waterlooville,,Aylesbury United,19 November 1988
-35,Telford United,,Carlisle United,19 November 1988
-Replay,Carlisle United,,Telford United,22 November 1988
-36,Swansea City,,Northampton Town,19 November 1988
-37,Frickley Athletic,,Northwich Victoria,19 November 1988
-38,Hartlepool United,,Wigan Athletic,19 November 1988
-39,Welling United,,Bromsgrove Rovers,19 November 1988
-40,Guisborough Town,,Bury,19 November 1988
+tie no,home team,away team,date
+1,Enfield,Leyton Orient,19 November 1988
+Replay,Leyton Orient,Enfield,23 November 1988
+Replay,Leyton Orient,Enfield,28 November 1988
+2,Blackpool,Scunthorpe United,19 November 1988
+3,Darlington,Notts County,19 November 1988
+4,Bath City,Grays Athletic,19 November 1988
+5,Bristol City,Southend United,19 November 1988
+6,Burnley,Chester City,19 November 1988
+7,Preston North End,Tranmere Rovers,19 November 1988
+Replay,Tranmere Rovers,Preston North End,22 November 1988
+8,Yeovil Town,Merthyr Tydfil,19 November 1988
+9,Reading,Hendon,19 November 1988
+10,Woking,Cambridge United,19 November 1988
+11,Gillingham,Peterborough United,19 November 1988
+Replay,Peterborough United,Gillingham,23 November 1988
+12,Bolton Wanderers,Chesterfield,19 November 1988
+Replay,Chesterfield,Bolton Wanderers,28 November 1988
+13,Grimsby Town,Wolverhampton Wanderers,19 November 1988
+14,Stafford Rangers,Crewe Alexandra,19 November 1988
+Replay,Crewe Alexandra,Stafford Rangers,22 November 1988
+15,Scarborough,Stockport County,19 November 1988
+16,Doncaster Rovers,Brandon United,19 November 1988
+Replay,Doncaster Rovers,Brandon United,22 November 1988
+17,Fulham,Colchester United,19 November 1988
+18,Brentford,Halesowen Town,19 November 1988
+19,Bristol Rovers,Fisher Athletic,20 November 1988
+20,Altrincham,Lincoln City,19 November 1988
+21,Bognor Regis Town,Exeter City,19 November 1988
+22,Huddersfield Town,Rochdale,19 November 1988
+Replay,Rochdale,Huddersfield Town,28 November 1988
+23,Mansfield Town,Sheffield United,19 November 1988
+Replay,Sheffield United,Mansfield Town,22 November 1988
+24,Cardiff City,Hereford United,19 November 1988
+25,Halifax Town,York City,19 November 1988
+26,Newport County,Maidstone United,19 November 1988
+27,Southport,Port Vale,19 November 1988
+28,Runcorn,Wrexham,19 November 1988
+Replay,Wrexham,Runcorn,22 November 1988
+29,Torquay United,Fareham Town,19 November 1988
+Replay,Fareham Town,Torquay United,23 November 1988
+30,Kettering Town,Dartford,19 November 1988
+31,Rotherham United,Barrow,19 November 1988
+32,Aldershot,Hayes,19 November 1988
+33,Dagenham,Sutton United,19 November 1988
+34,Waterlooville,Aylesbury United,19 November 1988
+35,Telford United,Carlisle United,19 November 1988
+Replay,Carlisle United,Telford United,22 November 1988
+36,Swansea City,Northampton Town,19 November 1988
+37,Frickley Athletic,Northwich Victoria,19 November 1988
+38,Hartlepool United,Wigan Athletic,19 November 1988
+39,Welling United,Bromsgrove Rovers,19 November 1988
+40,Guisborough Town,Bury,19 November 1988

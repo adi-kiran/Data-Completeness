@@ -1,4 +1,4 @@
-Name,Gender,Age,From,Occupation,Prize Money (USD),Status
+name,gender,age,from,occupation,prize money (usd),status
 Trisha,Female,28,"Santa Monica, CA",Artist,"$26,000",Winner
 London,Male,46,"Mt. Holly, NJ",US Coast Guard (Retired),$0,Lost
 Adria,Female,25,"Seattle, WA",Bartender,$0,7th Captured (by Ricky Ortiz)

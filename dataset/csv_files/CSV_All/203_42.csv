@@ -1,4 +1,4 @@
-Model,Class,Length,Fuel,Starting Price
+model,class,length,fuel,starting price
 Tour,Class A,42',Diesel,"$362,285"
 Journey,Class A,35'-43',Diesel,"$246,736"
 Adventurer,Class A,32'-37',Gas,"$150,711"

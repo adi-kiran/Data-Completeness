@@ -1,4 +1,4 @@
-Name,Type,R.A. (J2000),Dec. (J2000),Redshift (km/s),Apparent Magnitude
+name,type,r a (j2000),dec (j2000),redshift (km/s),apparent magnitude
 Camelopardalis A,Irr,04h 26m 16.3s,+72° 48′ 21″,-46 pl/mi  1,14.8
 Camelopardalis B,Irr,04h 53m 07.1s,+67° 05′ 57″,77,16.1
 Cassiopeia 1,dIrr,02h 06m 02.8s,+68° 59′ 59″,35,16.4

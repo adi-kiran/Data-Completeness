@@ -1,14 +1,14 @@
-Season,Competition,Round,Opponent,Home,Away,Aggregate
-2000-2001,UEFA Champions League,Third qualifying round,Galatasaray,,,
-2000-2001,UEFA Cup,First round,Chelsea,,,
-2000-2001,UEFA Cup,Second round,Club Brugge,,,
-2001-2002,UEFA Cup,Qualifying round,Pelister,,,
-2001-2002,UEFA Cup,First round,Steaua București,,,
-2001-2002,UEFA Cup,Second round,Freiburg,,,
-2002,UEFA Intertoto Cup,First round,B68 Toftir,,,
-2002,UEFA Intertoto Cup,Second round,Willem II,,,
-2007,UEFA Intertoto Cup,Second round,Dacia Chişinău,,,
-,UEFA Europa League,Play-off,Spartak Moscow,,,
-,UEFA Europa League,Group A,Valencia,,,4th place
-,UEFA Europa League,Group A,Swansea City,,,4th place
-,UEFA Europa League,Group A,Kuban Krasnodar,,,4th place
+season,competition,round,opponent,aggregate
+2000-2001,UEFA Champions League,Third qualifying round,Galatasaray,
+2000-2001,UEFA Cup,First round,Chelsea,
+2000-2001,UEFA Cup,Second round,Club Brugge,
+2001-2002,UEFA Cup,Qualifying round,Pelister,
+2001-2002,UEFA Cup,First round,Steaua București,
+2001-2002,UEFA Cup,Second round,Freiburg,
+2002,UEFA Intertoto Cup,First round,B68 Toftir,
+2002,UEFA Intertoto Cup,Second round,Willem II,
+2007,UEFA Intertoto Cup,Second round,Dacia Chişinău,
+,UEFA Europa League,Play-off,Spartak Moscow,
+,UEFA Europa League,Group A,Valencia,4th place
+,UEFA Europa League,Group A,Swansea City,4th place
+,UEFA Europa League,Group A,Kuban Krasnodar,4th place

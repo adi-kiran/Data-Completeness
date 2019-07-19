@@ -1,8 +1,8 @@
-Outcome,No.,Date,Tournament,Surface,Partner,Opponents in the final,Score in the final
-Runner-up,1.0,1986,"Toronto Indoor, Canada",Carpet,Danie Visser,Wojtek Fibak  Joakim Nyström,
-Winner,1.0,1986,"Milan, Italy",Carpet,Colin Dowdeswell,Brian Levine  Laurie Warder,
-Runner-up,2.0,1986,"Atlanta, U.S.",Carpet,Danie Visser,Andy Kohlberg  Robert Van't Hof,
-Winner,2.0,1986,"Bristol, England",Grass,Danie Visser,Mark Edmondson  Wally Masur,
-Runner-up,3.0,1986,"Cincinnati, U.S.",Hard,Danie Visser,Mark Kratzmann  Kim Warwick,
-Runner-up,4.0,1986,"Tel Aviv, Israel",Hard,Danie Visser,John Letts  Peter Lundgren,
-Runner-up,5.0,1987,"Philadelphia, U.S.",Carpet,Danie Visser,Sergio Casal  Emilio Sánchez,
+outcome,no ,date,tournament,surface,partner,opponents in the final
+Runner-up,1.0,1986,"Toronto Indoor, Canada",Carpet,Danie Visser,Wojtek Fibak  Joakim Nyström
+Winner,1.0,1986,"Milan, Italy",Carpet,Colin Dowdeswell,Brian Levine  Laurie Warder
+Runner-up,2.0,1986,"Atlanta, U.S.",Carpet,Danie Visser,Andy Kohlberg  Robert Van't Hof
+Winner,2.0,1986,"Bristol, England",Grass,Danie Visser,Mark Edmondson  Wally Masur
+Runner-up,3.0,1986,"Cincinnati, U.S.",Hard,Danie Visser,Mark Kratzmann  Kim Warwick
+Runner-up,4.0,1986,"Tel Aviv, Israel",Hard,Danie Visser,John Letts  Peter Lundgren
+Runner-up,5.0,1987,"Philadelphia, U.S.",Carpet,Danie Visser,Sergio Casal  Emilio Sánchez

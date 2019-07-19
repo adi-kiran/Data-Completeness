@@ -1,4 +1,4 @@
-Country,"GDP (USD bln, 2012)","GDP (USD bln, 2017)","GDP (USD PPP bln, 2012)","GDP (USD PPP bln, 2017)","Per capita (USD, 2012)","Per capita (USD, 2017)","Per capita (USD PPP, 2012)","Per capita (USD PPP, 2017)"
+country,"gdp (usd bln, 2012)","gdp (usd bln, 2017)","gdp (usd ppp bln, 2012)","gdp (usd ppp bln, 2017)","per capita (usd, 2012)","per capita (usd, 2017)","per capita (usd ppp, 2012)","per capita (usd ppp, 2017)"
 Afghanistan,19.85,28.45,31.80,45.30,619.89,766.43,993.23,"1,220.52"
 Albania,12.39,14.75,25.86,31.55,"3,821.09","4,435.73","7,975.86","9,489.11"
 Algeria,206.55,242.31,274.50,356.26,"5,659.74","6,163.52","7,521.74","9,061.86"

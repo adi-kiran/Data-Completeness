@@ -1,51 +1,51 @@
-num,Date,Visitor,Score,Home,Record,Pts
-1,October 31,Toronto Maple Leafs,,Chicago Black Hawks,,0
-2,November 4,Montreal Canadiens,,Chicago Black Hawks,,0
-3,November 6,Chicago Black Hawks,,New York Rangers,,2
-4,November 7,Chicago Black Hawks,,Montreal Canadiens,,2
-5,November 11,Boston Bruins,,Chicago Black Hawks,,4
-6,November 13,Chicago Black Hawks,,Toronto Maple Leafs,,6
-7,November 14,New York Rangers,,Chicago Black Hawks,,8
-8,November 18,Boston Bruins,,Chicago Black Hawks,,10
-9,November 21,Chicago Black Hawks,,Detroit Red Wings,,10
-10,November 25,Detroit Red Wings,,Chicago Black Hawks,,12
-11,November 28,Boston Bruins,,Chicago Black Hawks,,14
-12,November 30,Chicago Black Hawks,,Boston Bruins,,14
-13,December 2,Chicago Black Hawks,,Montreal Canadiens,,14
-14,December 5,New York Rangers,,Chicago Black Hawks,,16
-15,December 12,Toronto Maple Leafs,,Chicago Black Hawks,,18
-16,December 14,Chicago Black Hawks,,Boston Bruins,,18
-17,December 18,Chicago Black Hawks,,Toronto Maple Leafs,,18
-18,December 19,Toronto Maple Leafs,,Chicago Black Hawks,,18
-19,December 22,Detroit Red Wings,,Chicago Black Hawks,,20
-20,December 25,Chicago Black Hawks,,Montreal Canadiens,,20
-21,December 26,Chicago Black Hawks,,New York Rangers,,20
-22,January 1,Montreal Canadiens,,Chicago Black Hawks,,20
-23,January 4,Chicago Black Hawks,,Boston Bruins,,20
-24,January 6,Chicago Black Hawks,,Toronto Maple Leafs,,20
-25,January 9,Chicago Black Hawks,,Detroit Red Wings,,20
-26,January 13,Chicago Black Hawks,,New York Rangers,,22
-27,January 16,Montreal Canadiens,,Chicago Black Hawks,,23
-28,January 20,Chicago Black Hawks,,Detroit Red Wings,,23
-29,January 23,Toronto Maple Leafs,,Chicago Black Hawks,,25
-30,January 27,New York Rangers,,Chicago Black Hawks,,27
-31,January 29,Chicago Black Hawks,,Toronto Maple Leafs,,29
-32,January 30,Detroit Red Wings,,Chicago Black Hawks,,31
-33,February 1,Chicago Black Hawks,,Boston Bruins,,33
-34,February 5,Chicago Black Hawks,,Montreal Canadiens,,33
-35,February 6,Chicago Black Hawks,,New York Rangers,,34
-36,February 10,Boston Bruins,,Chicago Black Hawks,,34
-37,February 13,Montreal Canadiens,,Chicago Black Hawks,,35
-38,February 20,Toronto Maple Leafs,,Chicago Black Hawks,,36
-39,February 22,Chicago Black Hawks,,New York Rangers,,38
-40,February 26,Chicago Black Hawks,,Toronto Maple Leafs,,40
-41,February 27,New York Rangers,,Chicago Black Hawks,,42
-42,March 2,Boston Bruins,,Chicago Black Hawks,,44
-43,March 4,Chicago Black Hawks,,Detroit Red Wings,,44
-44,March 5,Detroit Red Wings,,Chicago Black Hawks,,46
-45,March 9,Montreal Canadiens,,Chicago Black Hawks,,46
-46,March 12,New York Rangers,,Chicago Black Hawks,,47
-47,March 14,Chicago Black Hawks,,Boston Bruins,,47
-48,March 16,Chicago Black Hawks,,Montreal Canadiens,,47
-49,March 18,Chicago Black Hawks,,Detroit Red Wings,,47
-50,March 19,Detroit Red Wings,,Chicago Black Hawks,,49
+num,date,visitor,home,pts
+1,October 31,Toronto Maple Leafs,Chicago Black Hawks,0
+2,November 4,Montreal Canadiens,Chicago Black Hawks,0
+3,November 6,Chicago Black Hawks,New York Rangers,2
+4,November 7,Chicago Black Hawks,Montreal Canadiens,2
+5,November 11,Boston Bruins,Chicago Black Hawks,4
+6,November 13,Chicago Black Hawks,Toronto Maple Leafs,6
+7,November 14,New York Rangers,Chicago Black Hawks,8
+8,November 18,Boston Bruins,Chicago Black Hawks,10
+9,November 21,Chicago Black Hawks,Detroit Red Wings,10
+10,November 25,Detroit Red Wings,Chicago Black Hawks,12
+11,November 28,Boston Bruins,Chicago Black Hawks,14
+12,November 30,Chicago Black Hawks,Boston Bruins,14
+13,December 2,Chicago Black Hawks,Montreal Canadiens,14
+14,December 5,New York Rangers,Chicago Black Hawks,16
+15,December 12,Toronto Maple Leafs,Chicago Black Hawks,18
+16,December 14,Chicago Black Hawks,Boston Bruins,18
+17,December 18,Chicago Black Hawks,Toronto Maple Leafs,18
+18,December 19,Toronto Maple Leafs,Chicago Black Hawks,18
+19,December 22,Detroit Red Wings,Chicago Black Hawks,20
+20,December 25,Chicago Black Hawks,Montreal Canadiens,20
+21,December 26,Chicago Black Hawks,New York Rangers,20
+22,January 1,Montreal Canadiens,Chicago Black Hawks,20
+23,January 4,Chicago Black Hawks,Boston Bruins,20
+24,January 6,Chicago Black Hawks,Toronto Maple Leafs,20
+25,January 9,Chicago Black Hawks,Detroit Red Wings,20
+26,January 13,Chicago Black Hawks,New York Rangers,22
+27,January 16,Montreal Canadiens,Chicago Black Hawks,23
+28,January 20,Chicago Black Hawks,Detroit Red Wings,23
+29,January 23,Toronto Maple Leafs,Chicago Black Hawks,25
+30,January 27,New York Rangers,Chicago Black Hawks,27
+31,January 29,Chicago Black Hawks,Toronto Maple Leafs,29
+32,January 30,Detroit Red Wings,Chicago Black Hawks,31
+33,February 1,Chicago Black Hawks,Boston Bruins,33
+34,February 5,Chicago Black Hawks,Montreal Canadiens,33
+35,February 6,Chicago Black Hawks,New York Rangers,34
+36,February 10,Boston Bruins,Chicago Black Hawks,34
+37,February 13,Montreal Canadiens,Chicago Black Hawks,35
+38,February 20,Toronto Maple Leafs,Chicago Black Hawks,36
+39,February 22,Chicago Black Hawks,New York Rangers,38
+40,February 26,Chicago Black Hawks,Toronto Maple Leafs,40
+41,February 27,New York Rangers,Chicago Black Hawks,42
+42,March 2,Boston Bruins,Chicago Black Hawks,44
+43,March 4,Chicago Black Hawks,Detroit Red Wings,44
+44,March 5,Detroit Red Wings,Chicago Black Hawks,46
+45,March 9,Montreal Canadiens,Chicago Black Hawks,46
+46,March 12,New York Rangers,Chicago Black Hawks,47
+47,March 14,Chicago Black Hawks,Boston Bruins,47
+48,March 16,Chicago Black Hawks,Montreal Canadiens,47
+49,March 18,Chicago Black Hawks,Detroit Red Wings,47
+50,March 19,Detroit Red Wings,Chicago Black Hawks,49

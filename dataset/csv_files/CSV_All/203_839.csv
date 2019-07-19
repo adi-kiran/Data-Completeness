@@ -1,4 +1,4 @@
-Station,Type,Latitude,Longitude,El. (m),Opened,Closed,Coordinates
+station,type,latitude,longitude,el (m),opened,closed,coordinates
 "Mount Wilson, California",Solar,34º13'N,118º56'W,1737.0,1908.0,1920,34°13′S 118°56′W﻿ / ﻿34.217°S 118.933°W
 "Hump Mountain, North Carolina",Solar,36º8'N,82º0'W,1500.0,1917.0,1918,36°8′N 82°0′W﻿ / ﻿36.133°N 82.000°W
 "Calama, Chile",Solar,22º28'S,68º56'W,2250.0,1918.0,1920,22°28′S 68°56′W﻿ / ﻿22.467°S 68.933°W

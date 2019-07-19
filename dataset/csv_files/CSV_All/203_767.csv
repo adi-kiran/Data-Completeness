@@ -1,11 +1,11 @@
-Season,Club,League,Apps,Goals
-,Podgrmeč,FBiH First League,23,16
-,NK Zagreb,Prva HNL,26,3
-,NK Zagreb,Prva HNL,25,3
-,NK Zagreb,Prva HNL,17,4
-,NK Zagreb,Prva HNL,31,12
-,Hajduk Split,Prva HNL,30,12
-,Hajduk Split,Prva HNL,29,17
-,Hajduk Split,Prva HNL,17,6
-,Lokomotiv,RFPL,28,4
-,Gaziantepspor,Super Lig,1,1
+club,league,apps,goals
+Podgrmeč,FBiH First League,23,16
+NK Zagreb,Prva HNL,26,3
+NK Zagreb,Prva HNL,25,3
+NK Zagreb,Prva HNL,17,4
+NK Zagreb,Prva HNL,31,12
+Hajduk Split,Prva HNL,30,12
+Hajduk Split,Prva HNL,29,17
+Hajduk Split,Prva HNL,17,6
+Lokomotiv,RFPL,28,4
+Gaziantepspor,Super Lig,1,1

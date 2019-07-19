@@ -1,4 +1,4 @@
-Year,Manufacturer,Model,Length (feet),Quantity,Fleet Series,Fuel Propulsion,Powertrain
+year,manufacturer,model,length (feet),quantity,fleet series,fuel propulsion,powertrain
 1996,New Flyer,D60,60 (articulated),30,1901-1930*,Diesel,Detroit Diesel Series 50 Allison B400R
 1998,NABI,416,40,133,"3001-3067, 3101-3166*",Diesel,Cummins M11E Allison B400R
 1999,NABI,40-LFW,40,44,4001-4044,Diesel,

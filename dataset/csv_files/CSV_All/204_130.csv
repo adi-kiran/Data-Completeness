@@ -1,12 +1,12 @@
-num,Date,Venue,Opponent,Score,Result,Competition
-1,13 June 2013,"Zhejiang Dragon Sports Centre, Hangzhou",Russia,,,Friendly
-2,13 June 2013,"Zhejiang Dragon Sports Centre, Hangzhou",Russia,,,Friendly
-3,14 June 2013,"Zhejiang Dragon Sports Centre, Hangzhou",Netherlands,,,Friendly
-4,14 June 2013,"Zhejiang Dragon Sports Centre, Hangzhou",Netherlands,,,Friendly
-5,15 June 2013,"Zhejiang Dragon Sports Centre, Hangzhou",China,,,Friendly
-6,1 July 2013,"Songdo Global University Campus, Incheon",Iraq,,,2013 Asian Indoor-Martial Arts Games
-7,1 July 2013,"Songdo Global University Campus, Incheon",Iraq,,,2013 Asian Indoor-Martial Arts Games
-8,6 July 2013,"Songdo Global University Campus, Incheon",Japan,,,2013 Asian Indoor-Martial Arts Games
--,19 October 2013,"Sao Keatano, Brazil",Bank,,,Unofficial Friendly
-9,21 October 2013,"Maringa's Futsal Stadium, Brazil",Guatemala,,,Friendly
-10,23 October 2013,"Ginásio Chico Neto, Maringá",Argentina,,,2013 Grand Prix de Futsal
+num,date,venue,opponent,competition
+1,13 June 2013,"Zhejiang Dragon Sports Centre, Hangzhou",Russia,Friendly
+2,13 June 2013,"Zhejiang Dragon Sports Centre, Hangzhou",Russia,Friendly
+3,14 June 2013,"Zhejiang Dragon Sports Centre, Hangzhou",Netherlands,Friendly
+4,14 June 2013,"Zhejiang Dragon Sports Centre, Hangzhou",Netherlands,Friendly
+5,15 June 2013,"Zhejiang Dragon Sports Centre, Hangzhou",China,Friendly
+6,1 July 2013,"Songdo Global University Campus, Incheon",Iraq,2013 Asian Indoor-Martial Arts Games
+7,1 July 2013,"Songdo Global University Campus, Incheon",Iraq,2013 Asian Indoor-Martial Arts Games
+8,6 July 2013,"Songdo Global University Campus, Incheon",Japan,2013 Asian Indoor-Martial Arts Games
+-,19 October 2013,"Sao Keatano, Brazil",Bank,Unofficial Friendly
+9,21 October 2013,"Maringa's Futsal Stadium, Brazil",Guatemala,Friendly
+10,23 October 2013,"Ginásio Chico Neto, Maringá",Argentina,2013 Grand Prix de Futsal

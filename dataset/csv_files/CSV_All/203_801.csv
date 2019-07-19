@@ -1,20 +1,20 @@
-Season,Division,Tier,Position,Cup
-,Regionalliga Sud,III,7,Quarter-final
-,Regionalliga Sud,III,13,Round 1
-,Regionalliga Sud,III,8,DNQ
-,Regionalliga Sud,III,6,DNQ
-,Regionalliga Sud,III,8,DNQ
-,Regionalliga Sud,III,5,DNQ
-,Regionalliga Sud,III,9,DNQ
-,Regionalliga Sud,III,10,DNQ
-,Regionalliga Sud,III,4,Round 1
-,Regionalliga Sud,III,1,DNQ
-,Regionalliga Sud,III,6,Quarter-final
-,Regionalliga Sud,III,11,DNQ
-,Regionalliga Sud,III,8,DNQ
-,Regionalliga Sud,III,8,DNQ
-,3. Liga,III,5,
-,3. Liga,III,8,
-,3. Liga,III,20,
-,Regionalliga Sud,IV,14,
-,Regionalliga Bayern,IV,2,
+division,tier,position,cup
+Regionalliga Sud,III,7,Quarter-final
+Regionalliga Sud,III,13,Round 1
+Regionalliga Sud,III,8,DNQ
+Regionalliga Sud,III,6,DNQ
+Regionalliga Sud,III,8,DNQ
+Regionalliga Sud,III,5,DNQ
+Regionalliga Sud,III,9,DNQ
+Regionalliga Sud,III,10,DNQ
+Regionalliga Sud,III,4,Round 1
+Regionalliga Sud,III,1,DNQ
+Regionalliga Sud,III,6,Quarter-final
+Regionalliga Sud,III,11,DNQ
+Regionalliga Sud,III,8,DNQ
+Regionalliga Sud,III,8,DNQ
+3. Liga,III,5,
+3. Liga,III,8,
+3. Liga,III,20,
+Regionalliga Sud,IV,14,
+Regionalliga Bayern,IV,2,

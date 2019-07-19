@@ -1,4 +1,4 @@
-num,Player,Pos,Pts,Tries,Conv,Pens,Drop,Opposition,Venue,Date
+num,player,pos,pts,tries,conv,pens,drop,opposition,venue,date
 1.0,Stefano Bettarello,Fly-half,29,1,2,5,2,Canada,Toronto,1 July 1982
 1.0,Diego Dominguez,Fly-half,29,0,1,6,3,Scotland,Rome,5 February 2000
 1.0,Diego Dominguez,Fly-half,29,0,4,7,0,Fiji,Treviso,10 November 2001

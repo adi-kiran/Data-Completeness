@@ -1,9 +1,9 @@
-num,Date,Venue,Opponent,Score,Result,Competition
-1,22 June 2008,Addis Abeba,Mauritania,,Win,2010 WC qualification
-2,30 November 2009,Nairobi,Djibouti,,Win,2009 CECAFA Cup
-3,8 October 2011,Addis Abeba,Madagascar,,Win,2012 CAF qualification
-4,2 December 2011,Dar Es Salaam,Malawi,,Draw,2011 CECAFA Cup
-5,17 June 2012,Cotonou,Benin,,Draw,2013 Africa Cup of Nations qualifier
-6,8 September 2012,Khartoum,Sudan,,Loss,2013 Africa Cup of Nations qualifier
-7,14 September 2012,Addis Abeba,Sudan,,Win,2013 Africa Cup of Nations qualifier
-8,21 January 2013,Nelspruit,Zambia,,Draw,2013 Africa Cup of Nations
+num,date,venue,opponent,result,competition
+1,22 June 2008,Addis Abeba,Mauritania,Win,2010 WC qualification
+2,30 November 2009,Nairobi,Djibouti,Win,2009 CECAFA Cup
+3,8 October 2011,Addis Abeba,Madagascar,Win,2012 CAF qualification
+4,2 December 2011,Dar Es Salaam,Malawi,Draw,2011 CECAFA Cup
+5,17 June 2012,Cotonou,Benin,Draw,2013 Africa Cup of Nations qualifier
+6,8 September 2012,Khartoum,Sudan,Loss,2013 Africa Cup of Nations qualifier
+7,14 September 2012,Addis Abeba,Sudan,Win,2013 Africa Cup of Nations qualifier
+8,21 January 2013,Nelspruit,Zambia,Draw,2013 Africa Cup of Nations

@@ -1,8 +1,8 @@
-Name,Street address,Years as tallest,Height ft (m),Floors
-Globe Building,4th Street South,,157 (48),8
-Lumber Exchange Building,10 5th Street South,,165 (50),12
-Industrial Exposition Building,Central Avenue Southeast and Main Street Southeast,,240 (73),8
-Metropolitan Building,308 2nd Avenue South,,258 (79),12
-Minneapolis City Hall,350 5th Street South,,341 (104),14
-Foshay Tower,821 Marquette Avenue,,448 (137),32
-IDS Tower,80 8th Street South,,792 (241),55
+name,street address,height ft (m),floors
+Globe Building,4th Street South,157 (48),8
+Lumber Exchange Building,10 5th Street South,165 (50),12
+Industrial Exposition Building,Central Avenue Southeast and Main Street Southeast,240 (73),8
+Metropolitan Building,308 2nd Avenue South,258 (79),12
+Minneapolis City Hall,350 5th Street South,341 (104),14
+Foshay Tower,821 Marquette Avenue,448 (137),32
+IDS Tower,80 8th Street South,792 (241),55

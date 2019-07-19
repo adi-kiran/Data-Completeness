@@ -1,4 +1,4 @@
-decimal32,decimal64,decimal128,decimal(32k),Format
+decimal32,decimal64,decimal128,decimal(32k),format
 1,1,1,1,Sign field (bits)
 5,5,5,5,Combination field (bits)
 6,8,12,w = 2xk + 4,Exponent continuation field (bits)

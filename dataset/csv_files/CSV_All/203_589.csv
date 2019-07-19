@@ -1,4 +1,4 @@
-Protein,Natural Host,Normal Function,Prion State,Prion Phenotype,Year Identified
+protein,natural host,normal function,prion state,prion phenotype,year identified
 Ure2p,Saccharomyces cerevisiae,Nitrogen catabolite repressor,[URE3],Growth on poor nitrogen sources,1994
 Sup35p,Saccharomyces cerevisiae,Translation termination factor,[PSI+],Increased levels of nonsense suppression,1994
 HET-S,Podospora anserina,Regulates heterokaryon incompatibility,[Het-s],Heterokaryon formation between incompatible strains,1997

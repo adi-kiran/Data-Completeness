@@ -1,4 +1,4 @@
-num,Date,Venue,Opponent,Score,Result,Competition
+num,date,venue,opponent,score,result,competition
 1,10 January 1996,"Edison International Field, Anaheim, United States",Honduras,1-0,3-1,1996 CONCACAF Gold Cup
 2,30 August 1996,"Commonwealth Stadium, Edmonton, Canada",Panama,3-1,3-1,1998 FIFA World Cup qualification
 3,12 October 1997,"Commonwealth Stadium, Edmonton, Canada",Mexico,2-1,2-2,1998 FIFA World Cup qualification

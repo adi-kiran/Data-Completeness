@@ -1,12 +1,12 @@
-Date,Opponentnum,Ranknum,Site,Result
-September 12,at Colorado*,,"Folsom Field • Boulder, CO",
-September 19,at #5 Ohio State*,,"Ohio Stadium • Columbus, OH",
-September 26,San Diego State*,,"Autzen Stadium • Eugene, OR",
-October 3,#16 Washington,,"Autzen Stadium • Eugene, OR (Rivalry)",
-October 10,USC,,"Autzen Stadium • Eugene, OR",
-October 17,at #9 UCLA,#16,"Rose Bowl • Pasadena, CA",
-October 24,at Stanford,,"Stanford Stadium • Stanford, CA",
-October 31,California,,"Autzen Stadium • Eugene, OR",
-November 7,at Arizona State,,"Sun Devil Stadium • Tempe, AZ",
-November 14,at Washington State,,"Martin Stadium • Pullman, WA",
-November 21,Oregon State,,"Autzen Stadium • Eugene, OR (Civil War)",
+date,opponentnum,ranknum,site
+September 12,at Colorado*,,"Folsom Field • Boulder, CO"
+September 19,at #5 Ohio State*,,"Ohio Stadium • Columbus, OH"
+September 26,San Diego State*,,"Autzen Stadium • Eugene, OR"
+October 3,#16 Washington,,"Autzen Stadium • Eugene, OR (Rivalry)"
+October 10,USC,,"Autzen Stadium • Eugene, OR"
+October 17,at #9 UCLA,#16,"Rose Bowl • Pasadena, CA"
+October 24,at Stanford,,"Stanford Stadium • Stanford, CA"
+October 31,California,,"Autzen Stadium • Eugene, OR"
+November 7,at Arizona State,,"Sun Devil Stadium • Tempe, AZ"
+November 14,at Washington State,,"Martin Stadium • Pullman, WA"
+November 21,Oregon State,,"Autzen Stadium • Eugene, OR (Civil War)"

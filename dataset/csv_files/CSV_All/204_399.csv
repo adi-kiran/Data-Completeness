@@ -1,58 +1,58 @@
-Outcome,No.,Year,Championship,Opponent in the final,Score
-Winner,1.0,1987,Grand Prix,Dennis Taylor,
-Winner,2.0,1988,British Open,Mike Hallett,
-Runner-up,1.0,1988,UK Championship,Doug Mountjoy,
-Winner,3.0,1989,Asian Open,James Wattana,
-Winner,4.0,1989,Dubai Classic,Doug Mountjoy,
-Winner,5.0,1989,UK Championship,Steve Davis,
-Runner-up,2.0,1989,International Open,Steve Davis,
-Runner-up,3.0,1990,European Open,John Parrott,
-Winner,6.0,1990,World Snooker Championship,Jimmy White,
-Winner,7.0,1990,Grand Prix (2),Nigel Bond,
-Winner,8.0,1990,Asian Open (2),Dennis Taylor,
-Winner,9.0,1990,Dubai Classic (2),Steve Davis,
-Winner,10.0,1990,UK Championship (2),Steve Davis,
-Runner-up,4.0,1991,Classic,Jimmy White,
-Winner,11.0,1991,British Open (2),Gary Wilkinson,
-Winner,12.0,1991,Grand Prix (3),Steve Davis,
-Winner,13.0,1992,Welsh Open,Darren Morgan,
-Runner-up,5.0,1992,Classic (2),Steve Davis,
-Winner,14.0,1992,World Snooker Championship (2),Jimmy White,
-Runner-up,6.0,1992,Dubai Classic,John Parrott,
-Runner-up,7.0,1993,European Open (2),Steve Davis,
-Winner,15.0,1993,International Open,Steve Davis,
-Winner,16.0,1993,World Snooker Championship (3),Jimmy White,
-Winner,17.0,1993,Dubai Classic (3),Steve Davis,
-Runner-up,8.0,1993,UK Championship (2),Ronnie O'Sullivan,
-Winner,18.0,1993,European Open,Ronnie O'Sullivan,
-Winner,19.0,1994,World Snooker Championship (4),Jimmy White,
-Winner,20.0,1994,UK Championship (3),Ken Doherty,
-Winner,21.0,1994,European Open (2),John Parrott,
-Winner,22.0,1995,World Snooker Championship (5),Nigel Bond,
-Winner,23.0,1995,Grand Prix (4),John Higgins,
-Winner,24.0,1995,UK Championship (4),Peter Ebdon,
-Winner,25.0,1996,World Snooker Championship (6),Peter Ebdon,
-Winner,26.0,1996,UK Championship (5),John Higgins,
-Winner,27.0,1997,Welsh Open (2),Mark King,
-Winner,28.0,1997,International Open (2),Tony Drago,
-Runner-up,9.0,1997,British Open,Mark Williams,
-Runner-up,10.0,1997,World Snooker Championship,Ken Doherty,
-Runner-up,11.0,1997,UK Championship (3),Ronnie O'Sullivan,
-Winner,29.0,1998,Thailand Masters (3),John Parrott,
-Runner-up,12.0,1998,British Open (2),John Higgins,
-Runner-up,13.0,1999,Welsh Open,Mark Williams,
-Winner,30.0,1999,Scottish Open (3),Graeme Dott,
-Winner,31.0,1999,World Snooker Championship (7),Mark Williams,
-Winner,32.0,1999,British Open (3),Peter Ebdon,
-Runner-up,14.0,2000,Thailand Masters,Mark Williams,
-Runner-up,15.0,2001,Thailand Masters (2),Ken Doherty,
-Winner,33.0,2001,European Open (3),Joe Perry,
-Runner-up,16.0,2002,World Snooker Championship (2),Peter Ebdon,
-Winner,34.0,2003,Welsh Open (3),Mark Williams,
-Runner-up,17.0,2003,European Open (3),Ronnie O'Sullivan,
-Winner,35.0,2003,British Open (4),Ronnie O'Sullivan,
-Runner-up,18.0,2003,UK Championship (4),Matthew Stevens,
-Runner-up,19.0,2005,Welsh Open (2),Ronnie O'Sullivan,
-Winner,36.0,2005,Malta Cup (4),Graeme Dott,
-Runner-up,20.0,2005,China Open,Ding Junhui,
-Runner-up,21.0,2006,UK Championship (5),Peter Ebdon,
+outcome,no ,year,championship,opponent in the final
+Winner,1.0,1987,Grand Prix,Dennis Taylor
+Winner,2.0,1988,British Open,Mike Hallett
+Runner-up,1.0,1988,UK Championship,Doug Mountjoy
+Winner,3.0,1989,Asian Open,James Wattana
+Winner,4.0,1989,Dubai Classic,Doug Mountjoy
+Winner,5.0,1989,UK Championship,Steve Davis
+Runner-up,2.0,1989,International Open,Steve Davis
+Runner-up,3.0,1990,European Open,John Parrott
+Winner,6.0,1990,World Snooker Championship,Jimmy White
+Winner,7.0,1990,Grand Prix (2),Nigel Bond
+Winner,8.0,1990,Asian Open (2),Dennis Taylor
+Winner,9.0,1990,Dubai Classic (2),Steve Davis
+Winner,10.0,1990,UK Championship (2),Steve Davis
+Runner-up,4.0,1991,Classic,Jimmy White
+Winner,11.0,1991,British Open (2),Gary Wilkinson
+Winner,12.0,1991,Grand Prix (3),Steve Davis
+Winner,13.0,1992,Welsh Open,Darren Morgan
+Runner-up,5.0,1992,Classic (2),Steve Davis
+Winner,14.0,1992,World Snooker Championship (2),Jimmy White
+Runner-up,6.0,1992,Dubai Classic,John Parrott
+Runner-up,7.0,1993,European Open (2),Steve Davis
+Winner,15.0,1993,International Open,Steve Davis
+Winner,16.0,1993,World Snooker Championship (3),Jimmy White
+Winner,17.0,1993,Dubai Classic (3),Steve Davis
+Runner-up,8.0,1993,UK Championship (2),Ronnie O'Sullivan
+Winner,18.0,1993,European Open,Ronnie O'Sullivan
+Winner,19.0,1994,World Snooker Championship (4),Jimmy White
+Winner,20.0,1994,UK Championship (3),Ken Doherty
+Winner,21.0,1994,European Open (2),John Parrott
+Winner,22.0,1995,World Snooker Championship (5),Nigel Bond
+Winner,23.0,1995,Grand Prix (4),John Higgins
+Winner,24.0,1995,UK Championship (4),Peter Ebdon
+Winner,25.0,1996,World Snooker Championship (6),Peter Ebdon
+Winner,26.0,1996,UK Championship (5),John Higgins
+Winner,27.0,1997,Welsh Open (2),Mark King
+Winner,28.0,1997,International Open (2),Tony Drago
+Runner-up,9.0,1997,British Open,Mark Williams
+Runner-up,10.0,1997,World Snooker Championship,Ken Doherty
+Runner-up,11.0,1997,UK Championship (3),Ronnie O'Sullivan
+Winner,29.0,1998,Thailand Masters (3),John Parrott
+Runner-up,12.0,1998,British Open (2),John Higgins
+Runner-up,13.0,1999,Welsh Open,Mark Williams
+Winner,30.0,1999,Scottish Open (3),Graeme Dott
+Winner,31.0,1999,World Snooker Championship (7),Mark Williams
+Winner,32.0,1999,British Open (3),Peter Ebdon
+Runner-up,14.0,2000,Thailand Masters,Mark Williams
+Runner-up,15.0,2001,Thailand Masters (2),Ken Doherty
+Winner,33.0,2001,European Open (3),Joe Perry
+Runner-up,16.0,2002,World Snooker Championship (2),Peter Ebdon
+Winner,34.0,2003,Welsh Open (3),Mark Williams
+Runner-up,17.0,2003,European Open (3),Ronnie O'Sullivan
+Winner,35.0,2003,British Open (4),Ronnie O'Sullivan
+Runner-up,18.0,2003,UK Championship (4),Matthew Stevens
+Runner-up,19.0,2005,Welsh Open (2),Ronnie O'Sullivan
+Winner,36.0,2005,Malta Cup (4),Graeme Dott
+Runner-up,20.0,2005,China Open,Ding Junhui
+Runner-up,21.0,2006,UK Championship (5),Peter Ebdon

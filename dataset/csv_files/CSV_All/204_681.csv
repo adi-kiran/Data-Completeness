@@ -1,4 +1,4 @@
-2011 rank,2010 rank,2009 rank,2008 rank,2007 rank,Company (country),2011 arms sales (US$ m.),2010 arms sales (US$ m.),2009 arms sales (US$ m.),2008 arms sales (US$ m.),2007 arms sales (US$ m.),"Arms sales as share of company's total sales (percentage),"
+2011 rank,2010 rank,2009 rank,2008 rank,2007 rank,company (country),2011 arms sales (us$ m ),2010 arms sales (us$ m ),2009 arms sales (us$ m ),2008 arms sales (us$ m ),2007 arms sales (us$ m ),"arms sales as share of company's total sales (percentage),"
 1,1,1,2,3,Lockheed Martin,36270,35730,33430,29880,29400,78
 2,3,3,3,1,Boeing,31830,31360,32300,29200,30480,46
 3,2,2,1,2,BAE Systems,29150,32880,33250,32420,29860,95

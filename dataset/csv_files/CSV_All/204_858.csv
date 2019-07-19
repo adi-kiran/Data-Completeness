@@ -1,14 +1,14 @@
-Date,Time,Opponentnum,Ranknum,Site,TV,Result,Attendance
-August 30,8:00 PM,vs. Alabama*,#9,"Georgia Dome • Atlanta, GA (Chick-fil-A College Kickoff)",ABC,,70097
-September 6,3:30 PM,The Citadel*,#22,"Memorial Stadium • Clemson, SC (Military Appreciation Day)",,,76794
-September 13,12:00 PM,NC State,#23,"Memorial Stadium • Clemson, SC (Textile Bowl/Hall of Fame Day)",Raycom,,77071
-September 20,1:00 PM,SC State*,#21,"Memorial Stadium • Clemson, SC (Youth Day)",,,78607
-September 27,12:00 PM,Maryland,#19,"Memorial Stadium • Clemson, SC (Family Weekend)",Raycom,,81500
-October 9,7:45 PM,at Wake Forest,,"BB&T Field • Winston-Salem, NC",ESPN,,33988
-October 18,12:00 PM,Georgia Tech,,"Memorial Stadium • Clemson, SC (IPTAY Day)",ESPN,,81500
-November 1,3:30 PM,at Boston College,,"Alumni Stadium • Chestnut Hill, MA (O'Rourke-McFadden trophy)",ESPNU,,41863
-November 8,3:30 PM,at #24 Florida State,,"Doak Campbell Stadium • Tallahassee, FL",ABC,,77013
-November 15,12:00 PM,Duke,,"Memorial Stadium • Clemson, SC (Homecoming)",Raycom,,76217
-November 22,12:00 PM,at Virginia,,"Scott Stadium • Charlottesville, VA",Raycom,,51979
-November 29,12:00 PM,South Carolina*,,"Memorial Stadium • Clemson, SC (Battle for the Palmetto State/Solid Orange Game)",ESPN2,,82456
-"January 1, 2009",1:00 PM,vs. Nebraska*,,"Jacksonville Municipal Stadium • Jacksonville, FL (Gator Bowl)",CBS,,67282
+date,time,opponentnum,ranknum,site,tv,attendance
+August 30,8:00 PM,vs. Alabama*,#9,"Georgia Dome • Atlanta, GA (Chick-fil-A College Kickoff)",ABC,70097
+September 6,3:30 PM,The Citadel*,#22,"Memorial Stadium • Clemson, SC (Military Appreciation Day)",,76794
+September 13,12:00 PM,NC State,#23,"Memorial Stadium • Clemson, SC (Textile Bowl/Hall of Fame Day)",Raycom,77071
+September 20,1:00 PM,SC State*,#21,"Memorial Stadium • Clemson, SC (Youth Day)",,78607
+September 27,12:00 PM,Maryland,#19,"Memorial Stadium • Clemson, SC (Family Weekend)",Raycom,81500
+October 9,7:45 PM,at Wake Forest,,"BB&T Field • Winston-Salem, NC",ESPN,33988
+October 18,12:00 PM,Georgia Tech,,"Memorial Stadium • Clemson, SC (IPTAY Day)",ESPN,81500
+November 1,3:30 PM,at Boston College,,"Alumni Stadium • Chestnut Hill, MA (O'Rourke-McFadden trophy)",ESPNU,41863
+November 8,3:30 PM,at #24 Florida State,,"Doak Campbell Stadium • Tallahassee, FL",ABC,77013
+November 15,12:00 PM,Duke,,"Memorial Stadium • Clemson, SC (Homecoming)",Raycom,76217
+November 22,12:00 PM,at Virginia,,"Scott Stadium • Charlottesville, VA",Raycom,51979
+November 29,12:00 PM,South Carolina*,,"Memorial Stadium • Clemson, SC (Battle for the Palmetto State/Solid Orange Game)",ESPN2,82456
+"January 1, 2009",1:00 PM,vs. Nebraska*,,"Jacksonville Municipal Stadium • Jacksonville, FL (Gator Bowl)",CBS,67282
