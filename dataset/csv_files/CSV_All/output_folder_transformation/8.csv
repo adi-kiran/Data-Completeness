@@ -1,0 +1,28 @@
+rnd,date,race name,circuit,city/location,pole position,fastest lap,winning driver,winning team,report,round,headline event
+1.0,March 5,Marlboro Grand Prix of Miami Presented by Toyota,Bicentennial Park,"Miami, Florida",Michael Andretti,Scott Pruett,Jacques Villeneuve,Team Green,Report,,
+2.0,March 19,Australian IndyCar Grand Prix,Surfers Paradise Street Circuit,"Surfers Paradise, Australia",Michael Andretti,Michael Andretti,Paul Tracy,Newman/Haas Racing,Report,,
+3.0,April 2,Slick 50 200,Phoenix International Raceway,"Phoenix, Arizona",Bryan Herta,Emerson Fittipaldi,Robby Gordon,Walker Racing,Report,,
+4.0,April 9,Toyota Grand Prix of Long Beach,Streets of Long Beach,"Long Beach, California",Michael Andretti,Michael Andretti,"Al Unser, Jr.",Marlboro Team Penske,Report,,
+5.0,April 23,Bosch Spark Plug Grand Prix,Nazareth Speedway,"Nazareth, Pennsylvania",Robby Gordon,Emerson Fittipaldi,Emerson Fittipaldi,Marlboro Team Penske,Report,,
+6.0,May 28,79th Indianapolis 500*,Indianapolis Motor Speedway,"Speedway, Indiana",Scott Brayton,Scott Goodyear,Jacques Villeneuve,Team Green,Report,,
+7.0,June 4,Miller Genuine Draft 200,Milwaukee Mile,"West Allis, Wisconsin",Teo Fabi,Teo Fabi,Paul Tracy,Newman/Haas Racing,Report,,
+8.0,June 11,ITT Automotive Grand Prix of Detroit,The Raceway on Belle Isle Park,"Detroit, Michigan",Robby Gordon,Michael Andretti,Robby Gordon,Walker Racing,Report,,
+9.0,June 25,Budweiser/G. I. Joe's 200,Portland International Raceway,"Portland, Oregon",Jacques Villeneuve,"Al Unser, Jr.","Al Unser, Jr.",Marlboro Team Penske,Report,,
+10.0,July 9,Texaco/Havoline 200,Road America,"Elkhart Lake, Wisconsin",Jacques Villeneuve,Jacques Villeneuve,Jacques Villeneuve,Team Green,Report,,
+11.0,July 16,Molson Indy Toronto,Exhibition Place,"Toronto, Ontario",Jacques Villeneuve,Bobby Rahal,Michael Andretti,Newman/Haas Racing,Report,,
+12.0,July 23,Budweiser Grand Prix of Cleveland,Cleveland Burke Lakefront Airport,"Cleveland, Ohio",Gil de Ferran,Jacques Villeneuve,Jacques Villeneuve,Team Green,Report,,
+13.0,July 30,Marlboro 500,Michigan International Speedway,"Brooklyn, Michigan",Parker Johnstone,Parker Johnstone,Scott Pruett,Patrick Racing,Report,,
+14.0,August 13,Miller Genuine Draft 200,Mid-Ohio Sports Car Course,"Lexington, Ohio",Jacques Villeneuve,"Al Unser, Jr.","Al Unser, Jr.",Marlboro Team Penske,Report,,
+15.0,August 20,New England 200,New Hampshire Motor Speedway,"Loudon, New Hampshire",Andre Ribeiro,Teo Fabi,Andre Ribeiro,Tasman Motorsports,Report,,
+16.0,September 3,Molson Indy Vancouver,Streets of Vancouver,"Vancouver, British Columbia",Jacques Villeneuve,Bobby Rahal,"Al Unser, Jr.",Marlboro Team Penske,Report,,
+17.0,September 10,Toyota Grand Prix of Monterey,Laguna Seca Raceway,"Monterey, California",Jacques Villeneuve,Gil de Ferran,Gil de Ferran,Jim Hall Racing,Report,,
+,February 23,,Albert Whitted Airport,"St. Petersburg, Florida",Leonardo Maia,Dan Di Leo,Leonardo Maia,,,1.0,Grand Prix of St. Petersburg
+,March 23,,Fundidora park,Monterrey,Leonardo Maia,David Martinez,David Martinez,,,2.0,Monterrey Grand Prix
+,June 1,,Milwaukee Mile,"West Allis, Wisconsin","Victor Gonzalez, Jr.",Scott Poirier,Leonardo Maia,,,3.0,Milwaukee Mile Centennial 250
+,June 15,,Mazda Raceway Laguna Seca,"Monterey, California",Memo Rojas,Leonardo Maia,Dan Di Leo,,,4.0,Grand Prix of Monterey
+,June 22,,Portland International Raceway,"Portland, Oregon",Leonardo Maia,Leonardo Maia,Leonardo Maia,,,5.0,G.I. Joe's 200
+,July 5,,Burke Lakefront Airport,"Cleveland, Ohio",Leonardo Maia,Leonardo Maia,Leonardo Maia,,,6.0,U.S. Bank Cleveland Grand Prix
+,July 13,,Exhibition Place,Toronto,Leonardo Maia,Leonardo Maia,Memo Rojas,,,7.0,Molson Indy Toronto
+,July 27,,Concord Pacific Place,Vancouver,Leonardo Maia,David Martinez,Leonardo Maia,,,8.0,Molson Indy Vancouver
+,August 3,,Mid-Ohio Sports Car Course,"Lexington, Ohio",Leonardo Maia,Leonardo Maia,Leonardo Maia,,,9.0,Champ Car Grand Prix of Mid-Ohio
+,August 24,,Circuit Gilles Villeneuve,Montreal,Memo Rojas,Leonardo Maia,Memo Rojas,,,10.0,Molson Indy Montreal

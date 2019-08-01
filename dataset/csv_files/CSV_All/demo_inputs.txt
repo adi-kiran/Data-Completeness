@@ -5,3 +5,5 @@
 
 
 "tolower"
+
+{"schema": {"round": "int64", "Round.1": "object", "Circuit": "object", "Date": "object", "Pole Position": "object", "Fastest Lap": "object", "Winning Driver": "object"}}

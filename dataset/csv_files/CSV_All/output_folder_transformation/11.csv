@@ -1,4 +1,4 @@
-round,round 1,circuit,date,pole position,fastest lap,winning rider,winning driver,winning team,winning privateer
+round,round 1,circuit,date,pole position,fastest lap,winning rider,winning driver,winning team,trophy winner
 1,R1,Jerez,18 March,Raymond Roche,Stephane Mertens,Raymond Roche,,,
 1,R2,Jerez,18 March,Raymond Roche,Raymond Roche,Raymond Roche,,,
 2,R1,Donington,16 April,Giancarlo Falappa,Rob Phillis,Fred Merkel,,,
@@ -25,15 +25,12 @@ round,round 1,circuit,date,pole position,fastest lap,winning rider,winning drive
 12,R2,Phillip Island,11 November,Peter Goddard,Malcolm Campbell,Rob Phillis,,,
 13,R1,Manfeild,18 November,Rob Phillis,Brian Morrison,Terry Rymer,,,
 13,R2,Manfeild,18 November,Rob Phillis,Raymond Roche,Rob Phillis,,,
-1,R1,Mantorp Park,10 May,Mattias Ekström,Fredrik Ekblom,,Mats Linden,Kristoffersson Motorsport,Richard Göransson
-1,R2,Mantorp Park,10 May,,Peggen Andersson,,Fredrik Ekblom,BMW Dealer Team,Pontus Mörth
-2,R3,Karlskoga-Gelleråsen,31 May,Jan Nilsson,Jan Nilsson,,Jan Nilsson,Flash Engineering,Pontus Mörth
-2,R4,Karlskoga-Gelleråsen,31 May,,Fredrik Ekblom,,Peggen Andersson,BMW Dealer Team,Pontus Mörth
-3,R5,Anderstorp,28 June,Mattias Ekström,Fredrik Ekblom,,Jan Nilsson,Flash Engineering,Pontus Mörth
-3,R6,Anderstorp,28 June,,Peggen Andersson,,Peggen Andersson,BMW Dealer Team,Georg Bakajev
-4,R7,Falkenberg,9 July,Jens Edman,Jens Edman,,Jan Nilsson,Flash Engineering,Pontus Mörth
-4,R8,Falkenberg,9 July,,Mattias Ekström,,Jens Edman,Flash Engineering,Pontus Mörth
-5,R9,Ring Knutstorp,6 September,Fredrik Ekblom,Fredrik Ekblom,,Fredrik Ekblom,BMW Dealer Team,Pontus Mörth
-5,R10,Ring Knutstorp,6 September,,Mats Linden,,Jan Nilsson,Flash Engineering,Georg Bakajev
-6,R11,Mantorp Park,27 September,Tommy Kristoffersson,Fredrik Ekblom,,Fredrik Ekblom,BMW Dealer Team,Pontus Mörth
-6,R12,Mantorp Park,27 September,,Peggen Andersson,,Jan Nilsson,Flash Engineering,Pontus Mörth
+1,,"ACI Vallelunga Circuit, Campagnano di Roma",7 April,Miloš Pavlović,,,Miloš Pavlović,Target Racing,Nino Famà
+2,,Misano World Circuit,28 April,Miloš Pavlović,,,Miloš Pavlović,Target Racing,Giovanni Faraonio
+3,,"Autodromo di Pergusa, Enna",19 May,Miloš Pavlović,,,Philip Cloostermans,Azeta Racing,Carmine Tancredi
+4,,Autodromo Nazionale Monza,30 June,Philip Cloostermans,,,Philip Cloostermans,Azeta Racing,Carmine Tancredi
+5,,"Autodromo Riccardo Paletti, Varano",21 July,Miloš Pavlović,,,Miloš Pavlović,Target Racing,Carmine Tancredi
+6,,"Autodromo Enzo e Dino Ferrari, Imola",1 September,Vitantonio Liuzzi,,,Vitantonio Liuzzi,Bertram Schäfer Racing,Silvio Alberti
+7,,"Autodromo del Levante, Binetto",8 September,Christiano Citron,,,Miloš Pavlović,Target Racing,Carmine Tancredi
+8,,"Mugello Circuit, Scarperia",6 October,Miloš Pavlović,,,Miloš Pavlović,Target Racing,Dino Lusuardi
+9,,"Autodromo dell'Umbria, Magione",20 October,Andreas Zuber,,,Christiano Citron,Target Racing,Alberto Morelli
