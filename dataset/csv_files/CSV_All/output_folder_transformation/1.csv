@@ -1,48 +1,32 @@
-round,round 1,circuit,date,pole position,fastest lap,winning rider,winning driver,winning team,winning privateer,trophy winner
-1,R1,Jerez,18 March,Raymond Roche,Stephane Mertens,Raymond Roche,,,,
-1,R2,Jerez,18 March,Raymond Roche,Raymond Roche,Raymond Roche,,,,
-2,R1,Donington,16 April,Giancarlo Falappa,Rob Phillis,Fred Merkel,,,,
-2,R2,Donington,16 April,Giancarlo Falappa,Raymond Roche,Giancarlo Falappa,,,,
-3,R1,Hungaroring,30 April,Malcolm Campbell,Raymond Roche,Fred Merkel,,,,
-3,R2,Hungaroring,30 April,Malcolm Campbell,Fred Merkel,Raymond Roche,,,,
-4,R1,Hockenheim,6 May,Raymond Roche,Fred Merkel,Fred Merkel,,,,
-4,R2,Hockenheim,6 May,Raymond Roche,Raymond Roche,Stephane Mertens,,,,
-5,R1,Mosport,3 June,Giancarlo Falappa,Raymond Roche,Raymond Roche,,,,
-5,R2,Mosport,3 June,Giancarlo Falappa,Jamie James,Raymond Roche,,,,
-6,R1,Brainerd,10 June,Doug Chandler,Doug Chandler,Stephane Mertens,,,,
-6,R2,Brainerd,10 June,Doug Chandler,Fabrizio Pirovano,Doug Chandler,,,,
-7,R1,Österreichring,1 July,Stephane Mertens,Rob McElnea,Fabrizio Pirovano,,,,
-7,R2,Österreichring,1 July,Stephane Mertens,Stephane Mertens,Stephane Mertens,,,,
-8,R1,Sugo,26 August,Raymond Roche,Raymond Roche,Raymond Roche,,,,
-8,R2,Sugo,26 August,Raymond Roche,Peter Goddard,Doug Chandler,,,,
-9,R1,Le Mans,9 September,Baldassarre Monti,Raymond Roche,Raymond Roche,,,,
-9,R2,Le Mans,9 September,Baldassarre Monti,Jamie James,Raymond Roche,,,,
-10,R1,Monza,7 October,Baldassarre Monti,Rob Phillis,Fabrizio Pirovano,,,,
-10,R2,Monza,7 October,Baldassarre Monti,Rob Phillis,Fabrizio Pirovano,,,,
-11,R1,Shah Alam,4 November,Rob Phillis,Fabrizio Pirovano,Fabrizio Pirovano,,,,
-11,R2,Shah Alam,4 November,Rob Phillis,Raymond Roche,Fabrizio Pirovano,,,,
-12,R1,Phillip Island,11 November,Peter Goddard,Fabrizio Pirovano,Peter Goddard,,,,
-12,R2,Phillip Island,11 November,Peter Goddard,Malcolm Campbell,Rob Phillis,,,,
-13,R1,Manfeild,18 November,Rob Phillis,Brian Morrison,Terry Rymer,,,,
-13,R2,Manfeild,18 November,Rob Phillis,Raymond Roche,Rob Phillis,,,,
-1,R1,Mantorp Park,10 May,Mattias Ekström,Fredrik Ekblom,,Mats Linden,Kristoffersson Motorsport,Richard Göransson,
-1,R2,Mantorp Park,10 May,,Peggen Andersson,,Fredrik Ekblom,BMW Dealer Team,Pontus Mörth,
-2,R3,Karlskoga-Gelleråsen,31 May,Jan Nilsson,Jan Nilsson,,Jan Nilsson,Flash Engineering,Pontus Mörth,
-2,R4,Karlskoga-Gelleråsen,31 May,,Fredrik Ekblom,,Peggen Andersson,BMW Dealer Team,Pontus Mörth,
-3,R5,Anderstorp,28 June,Mattias Ekström,Fredrik Ekblom,,Jan Nilsson,Flash Engineering,Pontus Mörth,
-3,R6,Anderstorp,28 June,,Peggen Andersson,,Peggen Andersson,BMW Dealer Team,Georg Bakajev,
-4,R7,Falkenberg,9 July,Jens Edman,Jens Edman,,Jan Nilsson,Flash Engineering,Pontus Mörth,
-4,R8,Falkenberg,9 July,,Mattias Ekström,,Jens Edman,Flash Engineering,Pontus Mörth,
-5,R9,Ring Knutstorp,6 September,Fredrik Ekblom,Fredrik Ekblom,,Fredrik Ekblom,BMW Dealer Team,Pontus Mörth,
-5,R10,Ring Knutstorp,6 September,,Mats Linden,,Jan Nilsson,Flash Engineering,Georg Bakajev,
-6,R11,Mantorp Park,27 September,Tommy Kristoffersson,Fredrik Ekblom,,Fredrik Ekblom,BMW Dealer Team,Pontus Mörth,
-6,R12,Mantorp Park,27 September,,Peggen Andersson,,Jan Nilsson,Flash Engineering,Pontus Mörth,
-1,,"ACI Vallelunga Circuit, Campagnano di Roma",7 April,Miloš Pavlović,,,Miloš Pavlović,Target Racing,,Nino Famà
-2,,Misano World Circuit,28 April,Miloš Pavlović,,,Miloš Pavlović,Target Racing,,Giovanni Faraonio
-3,,"Autodromo di Pergusa, Enna",19 May,Miloš Pavlović,,,Philip Cloostermans,Azeta Racing,,Carmine Tancredi
-4,,Autodromo Nazionale Monza,30 June,Philip Cloostermans,,,Philip Cloostermans,Azeta Racing,,Carmine Tancredi
-5,,"Autodromo Riccardo Paletti, Varano",21 July,Miloš Pavlović,,,Miloš Pavlović,Target Racing,,Carmine Tancredi
-6,,"Autodromo Enzo e Dino Ferrari, Imola",1 September,Vitantonio Liuzzi,,,Vitantonio Liuzzi,Bertram Schäfer Racing,,Silvio Alberti
-7,,"Autodromo del Levante, Binetto",8 September,Christiano Citron,,,Miloš Pavlović,Target Racing,,Carmine Tancredi
-8,,"Mugello Circuit, Scarperia",6 October,Miloš Pavlović,,,Miloš Pavlović,Target Racing,,Dino Lusuardi
-9,,"Autodromo dell'Umbria, Magione",20 October,Andreas Zuber,,,Christiano Citron,Target Racing,,Alberto Morelli
+date,ship,nationality,tonnage (grt),fate
+19 August 1941,SS Aguila,United Kingdom,3255,Sunk
+27 November 1941,HMAS Parramatta,Royal Australian Navy,1060,Sunk
+23 December 1941,SS Shuntien,United Kingdom,3059,Sunk
+26 December 1941,SS Warszawa,Poland,2487,Sunk
+10 June 1942,MV Athene,Norway,4681,Sunk
+10 June 1942,SS Brambleleaf,United Kingdom,5917,Damaged
+18 January 1940,Flandria,Sweden,1179,Sunk
+19 January 1940,Patria,Sweden,1188,Sunk
+11 February 1940,Linda,Estonia,1213,Sunk
+4 May 1940,San Tiburcio,United Kingdom,5995,Sunk (mine)
+9 May 1940,Doris,French Navy,552,Sunk
+11 May 1940,Tringa,United Kingdom,1930,Sunk
+11 May 1940,Viiu,Estonia,1908,Sunk
+23 May 1940,Sigurd Faulbaum,Belgium,3256,Sunk
+11 May 1944,Shtorm,Soviet Union,412,Damaged
+7 October 1941,Svend Foyn,United Kingdom,14795,Damaged
+16 February 1942,Monagas,Venezuela,2650,Sunk
+16 February 1942,San Nicholas,United Kingdom,2391,Sunk
+16 February 1942,Tia Juana,United Kingdom,2395,Sunk
+22 February 1942,J.N.Pew,United States,9033,Sunk
+23 February 1942,Sun,United States,9002,Damaged
+23 February 1942,Thalia,Panama,8329,Sunk
+11 May 1942,Cape of Good Hope,United Kingdom,4963,Sunk
+24 May 1942,Gonçalves Dias,Brazil,4996,Sunk
+28 May 1942,Alcoa Pilgrim,United States,6759,Sunk
+3 June 1942,M.F. Ellliot,United States,6940,Sunk
+9 June 1942,Bruxelles,Belgium,5085,Sunk
+9 June 1942,Franklin K. Lane,United States,6589,Sunk
+15 June 1942,Cold Harbor,Panama,5010,Sunk
+15 June 1942,Scottsburg,United States,8010,Sunk
+15 June 1942,West Hardaway,United States,5702,Sunk

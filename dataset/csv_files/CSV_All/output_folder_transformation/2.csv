@@ -1,27 +1,16 @@
-date,rnd,race name,circuit,city/location,pole position,winning driver,winning team,report,round,trophy winner
-1,April 8,Autoworks 200,Phoenix International Raceway,"Phoenix, Arizona",Rick Mears,Rick Mears,Team Penske,Report,,
-2,April 22,Toyota Long Beach Grand Prix,Streets of Long Beach,"Long Beach, California","Al Unser, Jr.","Al Unser, Jr.",Galles-Kraco Racing,Report,,
-3,May 27,74th Indianapolis 500,Indianapolis Motor Speedway,"Speedway, Indiana",Emerson Fittipaldi,Arie Luyendyk,Doug Shierson Racing,Report,,
-4,June 3,Miller Genuine Draft 200,Milwaukee Mile,"West Allis, Wisconsin",Rick Mears,"Al Unser, Jr.",Galles-Kraco Racing,Report,,
-5,June 17,Valvoline Grand Prix of Detroit,Streets of Detroit,"Detroit, Michigan",Michael Andretti,Michael Andretti,Newman/Haas Racing,Report,,
-6,June 24,Budweiser/G.I.Joe's 200,Portland International Raceway,"Portland, Oregon",Danny Sullivan,Michael Andretti,Newman/Haas Racing,Report,,
-7,July 8,Budweiser Grand Prix of Cleveland,Cleveland Burke Lakefront Airport,"Cleveland, Ohio",Rick Mears,Danny Sullivan,Team Penske,Report,,
-8,July 15,Marlboro Grand Prix at the Meadowlands,Meadowlands Sports Complex,"East Rutherford, New Jersey",Michael Andretti,Michael Andretti,Newman/Haas Racing,Report,,
-9,July 22,Molson Indy Toronto,Exhibition Place,"Toronto, Ontario",Danny Sullivan,"Al Unser, Jr.",Galles-Kraco Racing,Report,,
-10,August 5,Marlboro 500,Michigan International Speedway,"Brooklyn, Michigan",Emerson Fittipaldi,"Al Unser, Jr.",Galles-Kraco Racing,Report,,
-11,August 26,Texaco/Havoline Grand Prix of Denver,Streets of Denver,"Denver, Colorado",Teo Fabi,"Al Unser, Jr.",Galles-Kraco Racing,Report,,
-12,September 2,Molson Indy Vancouver,Streets of Vancouver,"Vancouver, British Columbia",Michael Andretti,"Al Unser, Jr.",Galles-Kraco Racing,Report,,
-13,September 16,Red Roof Inns 200,Mid-Ohio Sports Car Course,"Lexington, Ohio",Michael Andretti,Michael Andretti,Newman/Haas Racing,Report,,
-14,September 23,Texaco/Havoline 200,Road America,"Elkhart Lake, Wisconsin",Danny Sullivan,Michael Andretti,Newman/Haas Racing,Report,,
-NC,October 6,Marlboro Challenge,Nazareth Speedway,"Nazareth, Pennsylvania",Michael Andretti,Rick Mears,Team Penske,Report,,
-15,October 7,Bosch Spark Plug Grand Prix,Nazareth Speedway,"Nazareth, Pennsylvania",Bobby Rahal,Emerson Fittipaldi,Team Penske,Report,,
-16,October 21,Champion Spark Plug 300K,Laguna Seca Raceway,"Monterey, California",Danny Sullivan,Danny Sullivan,Team Penske,Report,,
-7 April,,,"ACI Vallelunga Circuit, Campagnano di Roma",,Miloš Pavlović,Miloš Pavlović,Target Racing,,1.0,Nino Famà
-28 April,,,Misano World Circuit,,Miloš Pavlović,Miloš Pavlović,Target Racing,,2.0,Giovanni Faraonio
-19 May,,,"Autodromo di Pergusa, Enna",,Miloš Pavlović,Philip Cloostermans,Azeta Racing,,3.0,Carmine Tancredi
-30 June,,,Autodromo Nazionale Monza,,Philip Cloostermans,Philip Cloostermans,Azeta Racing,,4.0,Carmine Tancredi
-21 July,,,"Autodromo Riccardo Paletti, Varano",,Miloš Pavlović,Miloš Pavlović,Target Racing,,5.0,Carmine Tancredi
-1 September,,,"Autodromo Enzo e Dino Ferrari, Imola",,Vitantonio Liuzzi,Vitantonio Liuzzi,Bertram Schäfer Racing,,6.0,Silvio Alberti
-8 September,,,"Autodromo del Levante, Binetto",,Christiano Citron,Miloš Pavlović,Target Racing,,7.0,Carmine Tancredi
-6 October,,,"Mugello Circuit, Scarperia",,Miloš Pavlović,Miloš Pavlović,Target Racing,,8.0,Dino Lusuardi
-20 October,,,"Autodromo dell'Umbria, Magione",,Andreas Zuber,Christiano Citron,Target Racing,,9.0,Alberto Morelli
+date,ship,nationality,tonnage (grt),fate
+19 August 1941,SS Aguila,United Kingdom,3255,Sunk
+27 November 1941,HMAS Parramatta,Royal Australian Navy,1060,Sunk
+23 December 1941,SS Shuntien,United Kingdom,3059,Sunk
+26 December 1941,SS Warszawa,Poland,2487,Sunk
+10 June 1942,MV Athene,Norway,4681,Sunk
+10 June 1942,SS Brambleleaf,United Kingdom,5917,Damaged
+18 January 1940,Flandria,Sweden,1179,Sunk
+19 January 1940,Patria,Sweden,1188,Sunk
+11 February 1940,Linda,Estonia,1213,Sunk
+4 May 1940,San Tiburcio,United Kingdom,5995,Sunk (mine)
+9 May 1940,Doris,French Navy,552,Sunk
+11 May 1940,Tringa,United Kingdom,1930,Sunk
+11 May 1940,Viiu,Estonia,1908,Sunk
+23 May 1940,Sigurd Faulbaum,Belgium,3256,Sunk
+11 May 1944,Shtorm,Soviet Union,412,Damaged

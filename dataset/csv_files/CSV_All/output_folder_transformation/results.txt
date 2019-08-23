@@ -5798,3 +5798,2105 @@ Columns that match with input_schema:
 Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
 
 ******************************
+203_181.csv(1990 IndyCar season)
+Missing Values(NANs score):  {'date': '0/17', 'rnd': '0/17', 'race name': '0/17', 'circuit': '0/17', 'city/location': '0/17', 'pole position': '0/17', 'winning driver': '0/17', 'winning team': '0/17', 'report': '0/17'}
+Columns that match with input_schema:
+ 203_181.csv :  {'date': 'date', 'circuit': 'circuit', 'pole position': 'pole position', 'winning driver': 'winning driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+203_408.csv(1989 Formula One season)
+Missing Values(NANs score):  {'rd ': '0/16', 'grand prix': '0/16', 'date': '0/16', 'location': '0/16', 'pole position': '0/16', 'fastest lap': '0/16', 'winning driver': '0/16', 'constructor': '0/16', 'report': '0/16'}
+Columns that match with input_schema:
+ 203_408.csv :  {'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+203_514.csv(2008 Superleague Formula season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'race': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning club': '0/12', 'winning team': '0/12', 'report': '0/12'}
+Columns that match with input_schema:
+ 203_514.csv :  {'round': 'round', 'round 1': 'round 1', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.6428571428571429
+
+203_742.csv(1995 IndyCar season)
+Missing Values(NANs score):  {'rnd': '0/17', 'date': '0/17', 'race name': '0/17', 'circuit': '0/17', 'city/location': '0/17', 'pole position': '0/17', 'fastest lap': '0/17', 'winning driver': '0/17', 'winning team': '0/17', 'report': '0/17'}
+Columns that match with input_schema:
+ 203_742.csv :  {'date': 'date', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_253.csv(1990 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/26', 'round 1': '0/26', 'circuit': '0/26', 'date': '0/26', 'pole position': '0/26', 'fastest lap': '0/26', 'winning rider': '0/26'}
+Columns that match with input_schema:
+ 204_253.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+204_40.csv(2008 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/28', 'round 1': '0/28', 'country': '0/28', 'circuit': '0/28', 'date': '0/28', 'pole position': '0/28', 'fastest lap': '0/28', 'winning rider': '0/28', 'winning team': '0/28', 'report': '0/28'}
+Columns that match with input_schema:
+ 204_40.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+204_455.csv(1989 Formula One season)
+Missing Values(NANs score):  {'rd ': '0/16', 'grand prix': '0/16', 'date': '0/16', 'location': '0/16', 'pole position': '0/16', 'fastest lap': '0/16', 'winning driver': '0/16', 'constructor': '0/16', 'report': '0/16'}
+Columns that match with input_schema:
+ 204_455.csv :  {'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+204_569.csv(1998 Swedish Touring Car Championship season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'circuit': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning driver': '0/12', 'winning team': '0/12', 'winning privateer': '0/12'}
+Columns that match with input_schema:
+ 204_569.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  1.0 	 Completeness Score :  0.9285714285714286
+
+204_63.csv(2002 Italian Formula Three season)
+Missing Values(NANs score):  {'round': '0/9', 'circuit': '0/9', 'date': '0/9', 'pole position': '0/9', 'winning driver': '0/9', 'winning team': '0/9', 'trophy winner': '0/9'}
+Columns that match with input_schema:
+ 204_63.csv :  {'round': 'round', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'winning driver': 'winning driver'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_845.csv(2003 Barber Dodge Pro Series season)
+Missing Values(NANs score):  {'round': '0/10', 'circuit': '0/10', 'location': '0/10', 'date': '0/10', 'pole position': '0/10', 'fastest lap': '0/10', 'winning driver': '0/10', 'headline event': '0/10'}
+Columns that match with input_schema:
+ 204_845.csv :  {'round': 'round', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+203_181.csv(1990 IndyCar season)
+Missing Values(NANs score):  {'date': '0/17', 'rnd': '0/17', 'race name': '0/17', 'circuit': '0/17', 'city/location': '0/17', 'pole position': '0/17', 'winning driver': '0/17', 'winning team': '0/17', 'report': '0/17'}
+Columns that match with input_schema:
+ 203_181.csv :  {'date': 'date', 'circuit': 'circuit', 'pole position': 'pole position', 'winning driver': 'winning driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+203_408.csv(1989 Formula One season)
+Missing Values(NANs score):  {'rd ': '0/16', 'grand prix': '0/16', 'date': '0/16', 'location': '0/16', 'pole position': '0/16', 'fastest lap': '0/16', 'winning driver': '0/16', 'constructor': '0/16', 'report': '0/16'}
+Columns that match with input_schema:
+ 203_408.csv :  {'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+203_514.csv(2008 Superleague Formula season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'race': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning club': '0/12', 'winning team': '0/12', 'report': '0/12'}
+Columns that match with input_schema:
+ 203_514.csv :  {'round': 'round', 'round 1': 'round 1', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.6428571428571429
+
+203_742.csv(1995 IndyCar season)
+Missing Values(NANs score):  {'rnd': '0/17', 'date': '0/17', 'race name': '0/17', 'circuit': '0/17', 'city/location': '0/17', 'pole position': '0/17', 'fastest lap': '0/17', 'winning driver': '0/17', 'winning team': '0/17', 'report': '0/17'}
+Columns that match with input_schema:
+ 203_742.csv :  {'date': 'date', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_253.csv(1990 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/26', 'round 1': '0/26', 'circuit': '0/26', 'date': '0/26', 'pole position': '0/26', 'fastest lap': '0/26', 'winning rider': '0/26'}
+Columns that match with input_schema:
+ 204_253.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+204_40.csv(2008 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/28', 'round 1': '0/28', 'country': '0/28', 'circuit': '0/28', 'date': '0/28', 'pole position': '0/28', 'fastest lap': '0/28', 'winning rider': '0/28', 'winning team': '0/28', 'report': '0/28'}
+Columns that match with input_schema:
+ 204_40.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+204_455.csv(1989 Formula One season)
+Missing Values(NANs score):  {'rd ': '0/16', 'grand prix': '0/16', 'date': '0/16', 'location': '0/16', 'pole position': '0/16', 'fastest lap': '0/16', 'winning driver': '0/16', 'constructor': '0/16', 'report': '0/16'}
+Columns that match with input_schema:
+ 204_455.csv :  {'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+204_569.csv(1998 Swedish Touring Car Championship season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'circuit': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning driver': '0/12', 'winning team': '0/12', 'winning privateer': '0/12'}
+Columns that match with input_schema:
+ 204_569.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  1.0 	 Completeness Score :  0.9285714285714286
+
+204_63.csv(2002 Italian Formula Three season)
+Missing Values(NANs score):  {'round': '0/9', 'circuit': '0/9', 'date': '0/9', 'pole position': '0/9', 'winning driver': '0/9', 'winning team': '0/9', 'trophy winner': '0/9'}
+Columns that match with input_schema:
+ 204_63.csv :  {'round': 'round', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'winning driver': 'winning driver'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_845.csv(2003 Barber Dodge Pro Series season)
+Missing Values(NANs score):  {'round': '0/10', 'circuit': '0/10', 'location': '0/10', 'date': '0/10', 'pole position': '0/10', 'fastest lap': '0/10', 'winning driver': '0/10', 'headline event': '0/10'}
+Columns that match with input_schema:
+ 204_845.csv :  {'round': 'round', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+203_181.csv(1990 IndyCar season)
+Missing Values(NANs score):  {'date': '0/17', 'rnd': '0/17', 'race name': '0/17', 'circuit': '0/17', 'city/location': '0/17', 'pole position': '0/17', 'winning driver': '0/17', 'winning team': '0/17', 'report': '0/17'}
+Columns that match with input_schema:
+ 203_181.csv :  {'date': 'date', 'circuit': 'circuit', 'pole position': 'pole position', 'winning driver': 'winning driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+203_408.csv(1989 Formula One season)
+Missing Values(NANs score):  {'rd ': '0/16', 'grand prix': '0/16', 'date': '0/16', 'location': '0/16', 'pole position': '0/16', 'fastest lap': '0/16', 'winning driver': '0/16', 'constructor': '0/16', 'report': '0/16'}
+Columns that match with input_schema:
+ 203_408.csv :  {'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+203_514.csv(2008 Superleague Formula season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'race': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning club': '0/12', 'winning team': '0/12', 'report': '0/12'}
+Columns that match with input_schema:
+ 203_514.csv :  {'round': 'round', 'round 1': 'round 1', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.6428571428571429
+
+203_742.csv(1995 IndyCar season)
+Missing Values(NANs score):  {'rnd': '0/17', 'date': '0/17', 'race name': '0/17', 'circuit': '0/17', 'city/location': '0/17', 'pole position': '0/17', 'fastest lap': '0/17', 'winning driver': '0/17', 'winning team': '0/17', 'report': '0/17'}
+Columns that match with input_schema:
+ 203_742.csv :  {'date': 'date', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_253.csv(1990 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/26', 'round 1': '0/26', 'circuit': '0/26', 'date': '0/26', 'pole position': '0/26', 'fastest lap': '0/26', 'winning rider': '0/26'}
+Columns that match with input_schema:
+ 204_253.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+204_40.csv(2008 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/28', 'round 1': '0/28', 'country': '0/28', 'circuit': '0/28', 'date': '0/28', 'pole position': '0/28', 'fastest lap': '0/28', 'winning rider': '0/28', 'winning team': '0/28', 'report': '0/28'}
+Columns that match with input_schema:
+ 204_40.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+204_455.csv(1989 Formula One season)
+Missing Values(NANs score):  {'rd ': '0/16', 'grand prix': '0/16', 'date': '0/16', 'location': '0/16', 'pole position': '0/16', 'fastest lap': '0/16', 'winning driver': '0/16', 'constructor': '0/16', 'report': '0/16'}
+Columns that match with input_schema:
+ 204_455.csv :  {'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+204_569.csv(1998 Swedish Touring Car Championship season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'circuit': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning driver': '0/12', 'winning team': '0/12', 'winning privateer': '0/12'}
+Columns that match with input_schema:
+ 204_569.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  1.0 	 Completeness Score :  0.9285714285714286
+
+204_63.csv(2002 Italian Formula Three season)
+Missing Values(NANs score):  {'round': '0/9', 'circuit': '0/9', 'date': '0/9', 'pole position': '0/9', 'winning driver': '0/9', 'winning team': '0/9', 'trophy winner': '0/9'}
+Columns that match with input_schema:
+ 204_63.csv :  {'round': 'round', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'winning driver': 'winning driver'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_845.csv(2003 Barber Dodge Pro Series season)
+Missing Values(NANs score):  {'round': '0/10', 'circuit': '0/10', 'location': '0/10', 'date': '0/10', 'pole position': '0/10', 'fastest lap': '0/10', 'winning driver': '0/10', 'headline event': '0/10'}
+Columns that match with input_schema:
+ 204_845.csv :  {'round': 'round', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+203_181.csv(1990 IndyCar season)
+Missing Values(NANs score):  {'date': '0/17', 'rnd': '0/17', 'race name': '0/17', 'circuit': '0/17', 'city/location': '0/17', 'pole position': '0/17', 'winning driver': '0/17', 'winning team': '0/17', 'report': '0/17'}
+Columns that match with input_schema:
+ 203_181.csv :  {'date': 'date', 'circuit': 'circuit', 'pole position': 'pole position', 'winning driver': 'winning driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+203_408.csv(1989 Formula One season)
+Missing Values(NANs score):  {'rd ': '0/16', 'grand prix': '0/16', 'date': '0/16', 'location': '0/16', 'pole position': '0/16', 'fastest lap': '0/16', 'winning driver': '0/16', 'constructor': '0/16', 'report': '0/16'}
+Columns that match with input_schema:
+ 203_408.csv :  {'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+203_514.csv(2008 Superleague Formula season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'race': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning club': '0/12', 'winning team': '0/12', 'report': '0/12'}
+Columns that match with input_schema:
+ 203_514.csv :  {'round': 'round', 'round 1': 'round 1', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.6428571428571429
+
+203_742.csv(1995 IndyCar season)
+Missing Values(NANs score):  {'rnd': '0/17', 'date': '0/17', 'race name': '0/17', 'circuit': '0/17', 'city/location': '0/17', 'pole position': '0/17', 'fastest lap': '0/17', 'winning driver': '0/17', 'winning team': '0/17', 'report': '0/17'}
+Columns that match with input_schema:
+ 203_742.csv :  {'date': 'date', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_253.csv(1990 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/26', 'round 1': '0/26', 'circuit': '0/26', 'date': '0/26', 'pole position': '0/26', 'fastest lap': '0/26', 'winning rider': '0/26'}
+Columns that match with input_schema:
+ 204_253.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+204_40.csv(2008 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/28', 'round 1': '0/28', 'country': '0/28', 'circuit': '0/28', 'date': '0/28', 'pole position': '0/28', 'fastest lap': '0/28', 'winning rider': '0/28', 'winning team': '0/28', 'report': '0/28'}
+Columns that match with input_schema:
+ 204_40.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+204_455.csv(1989 Formula One season)
+Missing Values(NANs score):  {'rd ': '0/16', 'grand prix': '0/16', 'date': '0/16', 'location': '0/16', 'pole position': '0/16', 'fastest lap': '0/16', 'winning driver': '0/16', 'constructor': '0/16', 'report': '0/16'}
+Columns that match with input_schema:
+ 204_455.csv :  {'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+204_569.csv(1998 Swedish Touring Car Championship season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'circuit': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning driver': '0/12', 'winning team': '0/12', 'winning privateer': '0/12'}
+Columns that match with input_schema:
+ 204_569.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  1.0 	 Completeness Score :  0.9285714285714286
+
+204_63.csv(2002 Italian Formula Three season)
+Missing Values(NANs score):  {'round': '0/9', 'circuit': '0/9', 'date': '0/9', 'pole position': '0/9', 'winning driver': '0/9', 'winning team': '0/9', 'trophy winner': '0/9'}
+Columns that match with input_schema:
+ 204_63.csv :  {'round': 'round', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'winning driver': 'winning driver'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_845.csv(2003 Barber Dodge Pro Series season)
+Missing Values(NANs score):  {'round': '0/10', 'circuit': '0/10', 'location': '0/10', 'date': '0/10', 'pole position': '0/10', 'fastest lap': '0/10', 'winning driver': '0/10', 'headline event': '0/10'}
+Columns that match with input_schema:
+ 204_845.csv :  {'round': 'round', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+203_181.csv(1990 IndyCar season)
+Missing Values(NANs score):  {'date': '0/17', 'rnd': '0/17', 'race name': '0/17', 'circuit': '0/17', 'city/location': '0/17', 'pole position': '0/17', 'winning driver': '0/17', 'winning team': '0/17', 'report': '0/17'}
+Columns that match with input_schema:
+ 203_181.csv :  {'date': 'date', 'circuit': 'circuit', 'pole position': 'pole position', 'winning driver': 'winning driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+203_408.csv(1989 Formula One season)
+Missing Values(NANs score):  {'rd ': '0/16', 'grand prix': '0/16', 'date': '0/16', 'location': '0/16', 'pole position': '0/16', 'fastest lap': '0/16', 'winning driver': '0/16', 'constructor': '0/16', 'report': '0/16'}
+Columns that match with input_schema:
+ 203_408.csv :  {'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+203_514.csv(2008 Superleague Formula season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'race': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning club': '0/12', 'winning team': '0/12', 'report': '0/12'}
+Columns that match with input_schema:
+ 203_514.csv :  {'round': 'round', 'round 1': 'round 1', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.6428571428571429
+
+203_742.csv(1995 IndyCar season)
+Missing Values(NANs score):  {'rnd': '0/17', 'date': '0/17', 'race name': '0/17', 'circuit': '0/17', 'city/location': '0/17', 'pole position': '0/17', 'fastest lap': '0/17', 'winning driver': '0/17', 'winning team': '0/17', 'report': '0/17'}
+Columns that match with input_schema:
+ 203_742.csv :  {'date': 'date', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_253.csv(1990 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/26', 'round 1': '0/26', 'circuit': '0/26', 'date': '0/26', 'pole position': '0/26', 'fastest lap': '0/26', 'winning rider': '0/26'}
+Columns that match with input_schema:
+ 204_253.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+204_40.csv(2008 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/28', 'round 1': '0/28', 'country': '0/28', 'circuit': '0/28', 'date': '0/28', 'pole position': '0/28', 'fastest lap': '0/28', 'winning rider': '0/28', 'winning team': '0/28', 'report': '0/28'}
+Columns that match with input_schema:
+ 204_40.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+204_455.csv(1989 Formula One season)
+Missing Values(NANs score):  {'rd ': '0/16', 'grand prix': '0/16', 'date': '0/16', 'location': '0/16', 'pole position': '0/16', 'fastest lap': '0/16', 'winning driver': '0/16', 'constructor': '0/16', 'report': '0/16'}
+Columns that match with input_schema:
+ 204_455.csv :  {'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+204_569.csv(1998 Swedish Touring Car Championship season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'circuit': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning driver': '0/12', 'winning team': '0/12', 'winning privateer': '0/12'}
+Columns that match with input_schema:
+ 204_569.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  1.0 	 Completeness Score :  0.9285714285714286
+
+204_63.csv(2002 Italian Formula Three season)
+Missing Values(NANs score):  {'round': '0/9', 'circuit': '0/9', 'date': '0/9', 'pole position': '0/9', 'winning driver': '0/9', 'winning team': '0/9', 'trophy winner': '0/9'}
+Columns that match with input_schema:
+ 204_63.csv :  {'round': 'round', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'winning driver': 'winning driver'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_845.csv(2003 Barber Dodge Pro Series season)
+Missing Values(NANs score):  {'round': '0/10', 'circuit': '0/10', 'location': '0/10', 'date': '0/10', 'pole position': '0/10', 'fastest lap': '0/10', 'winning driver': '0/10', 'headline event': '0/10'}
+Columns that match with input_schema:
+ 204_845.csv :  {'round': 'round', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+203_181.csv(1990 IndyCar season)
+Missing Values(NANs score):  {'date': '0/17', 'rnd': '0/17', 'race name': '0/17', 'circuit': '0/17', 'city/location': '0/17', 'pole position': '0/17', 'winning driver': '0/17', 'winning team': '0/17', 'report': '0/17'}
+Columns that match with input_schema:
+ 203_181.csv :  {'date': 'date', 'circuit': 'circuit', 'pole position': 'pole position', 'winning driver': 'winning driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+203_408.csv(1989 Formula One season)
+Missing Values(NANs score):  {'rd ': '0/16', 'grand prix': '0/16', 'date': '0/16', 'location': '0/16', 'pole position': '0/16', 'fastest lap': '0/16', 'winning driver': '0/16', 'constructor': '0/16', 'report': '0/16'}
+Columns that match with input_schema:
+ 203_408.csv :  {'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+203_514.csv(2008 Superleague Formula season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'race': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning club': '0/12', 'winning team': '0/12', 'report': '0/12'}
+Columns that match with input_schema:
+ 203_514.csv :  {'round': 'round', 'round 1': 'round 1', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.6428571428571429
+
+203_742.csv(1995 IndyCar season)
+Missing Values(NANs score):  {'rnd': '0/17', 'date': '0/17', 'race name': '0/17', 'circuit': '0/17', 'city/location': '0/17', 'pole position': '0/17', 'fastest lap': '0/17', 'winning driver': '0/17', 'winning team': '0/17', 'report': '0/17'}
+Columns that match with input_schema:
+ 203_742.csv :  {'date': 'date', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_253.csv(1990 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/26', 'round 1': '0/26', 'circuit': '0/26', 'date': '0/26', 'pole position': '0/26', 'fastest lap': '0/26', 'winning rider': '0/26'}
+Columns that match with input_schema:
+ 204_253.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+204_40.csv(2008 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/28', 'round 1': '0/28', 'country': '0/28', 'circuit': '0/28', 'date': '0/28', 'pole position': '0/28', 'fastest lap': '0/28', 'winning rider': '0/28', 'winning team': '0/28', 'report': '0/28'}
+Columns that match with input_schema:
+ 204_40.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+204_455.csv(1989 Formula One season)
+Missing Values(NANs score):  {'rd ': '0/16', 'grand prix': '0/16', 'date': '0/16', 'location': '0/16', 'pole position': '0/16', 'fastest lap': '0/16', 'winning driver': '0/16', 'constructor': '0/16', 'report': '0/16'}
+Columns that match with input_schema:
+ 204_455.csv :  {'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+204_569.csv(1998 Swedish Touring Car Championship season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'circuit': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning driver': '0/12', 'winning team': '0/12', 'winning privateer': '0/12'}
+Columns that match with input_schema:
+ 204_569.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  1.0 	 Completeness Score :  0.9285714285714286
+
+204_63.csv(2002 Italian Formula Three season)
+Missing Values(NANs score):  {'round': '0/9', 'circuit': '0/9', 'date': '0/9', 'pole position': '0/9', 'winning driver': '0/9', 'winning team': '0/9', 'trophy winner': '0/9'}
+Columns that match with input_schema:
+ 204_63.csv :  {'round': 'round', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'winning driver': 'winning driver'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_845.csv(2003 Barber Dodge Pro Series season)
+Missing Values(NANs score):  {'round': '0/10', 'circuit': '0/10', 'location': '0/10', 'date': '0/10', 'pole position': '0/10', 'fastest lap': '0/10', 'winning driver': '0/10', 'headline event': '0/10'}
+Columns that match with input_schema:
+ 204_845.csv :  {'round': 'round', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+203_181.csv(1990 IndyCar season)
+Missing Values(NANs score):  {'date': '0/17', 'rnd': '0/17', 'race name': '0/17', 'circuit': '0/17', 'city/location': '0/17', 'pole position': '0/17', 'winning driver': '0/17', 'winning team': '0/17', 'report': '0/17'}
+Columns that match with input_schema:
+ 203_181.csv :  {'date': 'date', 'circuit': 'circuit', 'pole position': 'pole position', 'winning driver': 'winning driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+203_408.csv(1989 Formula One season)
+Missing Values(NANs score):  {'rd ': '0/16', 'grand prix': '0/16', 'date': '0/16', 'location': '0/16', 'pole position': '0/16', 'fastest lap': '0/16', 'winning driver': '0/16', 'constructor': '0/16', 'report': '0/16'}
+Columns that match with input_schema:
+ 203_408.csv :  {'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+203_514.csv(2008 Superleague Formula season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'race': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning club': '0/12', 'winning team': '0/12', 'report': '0/12'}
+Columns that match with input_schema:
+ 203_514.csv :  {'round': 'round', 'round 1': 'round 1', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.6428571428571429
+
+203_742.csv(1995 IndyCar season)
+Missing Values(NANs score):  {'rnd': '0/17', 'date': '0/17', 'race name': '0/17', 'circuit': '0/17', 'city/location': '0/17', 'pole position': '0/17', 'fastest lap': '0/17', 'winning driver': '0/17', 'winning team': '0/17', 'report': '0/17'}
+Columns that match with input_schema:
+ 203_742.csv :  {'date': 'date', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_253.csv(1990 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/26', 'round 1': '0/26', 'circuit': '0/26', 'date': '0/26', 'pole position': '0/26', 'fastest lap': '0/26', 'winning rider': '0/26'}
+Columns that match with input_schema:
+ 204_253.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+204_40.csv(2008 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/28', 'round 1': '0/28', 'country': '0/28', 'circuit': '0/28', 'date': '0/28', 'pole position': '0/28', 'fastest lap': '0/28', 'winning rider': '0/28', 'winning team': '0/28', 'report': '0/28'}
+Columns that match with input_schema:
+ 204_40.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+204_455.csv(1989 Formula One season)
+Missing Values(NANs score):  {'rd ': '0/16', 'grand prix': '0/16', 'date': '0/16', 'location': '0/16', 'pole position': '0/16', 'fastest lap': '0/16', 'winning driver': '0/16', 'constructor': '0/16', 'report': '0/16'}
+Columns that match with input_schema:
+ 204_455.csv :  {'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+204_569.csv(1998 Swedish Touring Car Championship season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'circuit': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning driver': '0/12', 'winning team': '0/12', 'winning privateer': '0/12'}
+Columns that match with input_schema:
+ 204_569.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  1.0 	 Completeness Score :  0.9285714285714286
+
+204_63.csv(2002 Italian Formula Three season)
+Missing Values(NANs score):  {'round': '0/9', 'circuit': '0/9', 'date': '0/9', 'pole position': '0/9', 'winning driver': '0/9', 'winning team': '0/9', 'trophy winner': '0/9'}
+Columns that match with input_schema:
+ 204_63.csv :  {'round': 'round', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'winning driver': 'winning driver'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_845.csv(2003 Barber Dodge Pro Series season)
+Missing Values(NANs score):  {'round': '0/10', 'circuit': '0/10', 'location': '0/10', 'date': '0/10', 'pole position': '0/10', 'fastest lap': '0/10', 'winning driver': '0/10', 'headline event': '0/10'}
+Columns that match with input_schema:
+ 204_845.csv :  {'round': 'round', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+203_181.csv(1990 IndyCar season)
+Missing Values(NANs score):  {'date': '0/17', 'rnd': '0/17', 'race name': '0/17', 'circuit': '0/17', 'city/location': '0/17', 'pole position': '0/17', 'winning driver': '0/17', 'winning team': '0/17', 'report': '0/17'}
+Columns that match with input_schema:
+ 203_181.csv :  {'date': 'date', 'circuit': 'circuit', 'pole position': 'pole position', 'winning driver': 'winning driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+203_408.csv(1989 Formula One season)
+Missing Values(NANs score):  {'rd ': '0/16', 'grand prix': '0/16', 'date': '0/16', 'location': '0/16', 'pole position': '0/16', 'fastest lap': '0/16', 'winning driver': '0/16', 'constructor': '0/16', 'report': '0/16'}
+Columns that match with input_schema:
+ 203_408.csv :  {'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+203_514.csv(2008 Superleague Formula season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'race': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning club': '0/12', 'winning team': '0/12', 'report': '0/12'}
+Columns that match with input_schema:
+ 203_514.csv :  {'round': 'round', 'round 1': 'round 1', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.6428571428571429
+
+203_742.csv(1995 IndyCar season)
+Missing Values(NANs score):  {'rnd': '0/17', 'date': '0/17', 'race name': '0/17', 'circuit': '0/17', 'city/location': '0/17', 'pole position': '0/17', 'fastest lap': '0/17', 'winning driver': '0/17', 'winning team': '0/17', 'report': '0/17'}
+Columns that match with input_schema:
+ 203_742.csv :  {'date': 'date', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_253.csv(1990 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/26', 'round 1': '0/26', 'circuit': '0/26', 'date': '0/26', 'pole position': '0/26', 'fastest lap': '0/26', 'winning rider': '0/26'}
+Columns that match with input_schema:
+ 204_253.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+204_40.csv(2008 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/28', 'round 1': '0/28', 'country': '0/28', 'circuit': '0/28', 'date': '0/28', 'pole position': '0/28', 'fastest lap': '0/28', 'winning rider': '0/28', 'winning team': '0/28', 'report': '0/28'}
+Columns that match with input_schema:
+ 204_40.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+204_455.csv(1989 Formula One season)
+Missing Values(NANs score):  {'rd ': '0/16', 'grand prix': '0/16', 'date': '0/16', 'location': '0/16', 'pole position': '0/16', 'fastest lap': '0/16', 'winning driver': '0/16', 'constructor': '0/16', 'report': '0/16'}
+Columns that match with input_schema:
+ 204_455.csv :  {'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+204_569.csv(1998 Swedish Touring Car Championship season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'circuit': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning driver': '0/12', 'winning team': '0/12', 'winning privateer': '0/12'}
+Columns that match with input_schema:
+ 204_569.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  1.0 	 Completeness Score :  0.9285714285714286
+
+204_63.csv(2002 Italian Formula Three season)
+Missing Values(NANs score):  {'round': '0/9', 'circuit': '0/9', 'date': '0/9', 'pole position': '0/9', 'winning driver': '0/9', 'winning team': '0/9', 'trophy winner': '0/9'}
+Columns that match with input_schema:
+ 204_63.csv :  {'round': 'round', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'winning driver': 'winning driver'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_845.csv(2003 Barber Dodge Pro Series season)
+Missing Values(NANs score):  {'round': '0/10', 'circuit': '0/10', 'location': '0/10', 'date': '0/10', 'pole position': '0/10', 'fastest lap': '0/10', 'winning driver': '0/10', 'headline event': '0/10'}
+Columns that match with input_schema:
+ 204_845.csv :  {'round': 'round', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+203_181.csv(1990 IndyCar season)
+Missing Values(NANs score):  {'date': '0/17', 'rnd': '0/17', 'race name': '0/17', 'circuit': '0/17', 'city/location': '0/17', 'pole position': '0/17', 'winning driver': '0/17', 'winning team': '0/17', 'report': '0/17'}
+Columns that match with input_schema:
+ 203_181.csv :  {'date': 'date', 'circuit': 'circuit', 'pole position': 'pole position', 'winning driver': 'winning driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+203_408.csv(1989 Formula One season)
+Missing Values(NANs score):  {'rd ': '0/16', 'grand prix': '0/16', 'date': '0/16', 'location': '0/16', 'pole position': '0/16', 'fastest lap': '0/16', 'winning driver': '0/16', 'constructor': '0/16', 'report': '0/16'}
+Columns that match with input_schema:
+ 203_408.csv :  {'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+203_514.csv(2008 Superleague Formula season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'race': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning club': '0/12', 'winning team': '0/12', 'report': '0/12'}
+Columns that match with input_schema:
+ 203_514.csv :  {'round': 'round', 'round 1': 'round 1', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.6428571428571429
+
+203_742.csv(1995 IndyCar season)
+Missing Values(NANs score):  {'rnd': '0/17', 'date': '0/17', 'race name': '0/17', 'circuit': '0/17', 'city/location': '0/17', 'pole position': '0/17', 'fastest lap': '0/17', 'winning driver': '0/17', 'winning team': '0/17', 'report': '0/17'}
+Columns that match with input_schema:
+ 203_742.csv :  {'date': 'date', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_253.csv(1990 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/26', 'round 1': '0/26', 'circuit': '0/26', 'date': '0/26', 'pole position': '0/26', 'fastest lap': '0/26', 'winning rider': '0/26'}
+Columns that match with input_schema:
+ 204_253.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+204_40.csv(2008 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/28', 'round 1': '0/28', 'country': '0/28', 'circuit': '0/28', 'date': '0/28', 'pole position': '0/28', 'fastest lap': '0/28', 'winning rider': '0/28', 'winning team': '0/28', 'report': '0/28'}
+Columns that match with input_schema:
+ 204_40.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+204_455.csv(1989 Formula One season)
+Missing Values(NANs score):  {'rd ': '0/16', 'grand prix': '0/16', 'date': '0/16', 'location': '0/16', 'pole position': '0/16', 'fastest lap': '0/16', 'winning driver': '0/16', 'constructor': '0/16', 'report': '0/16'}
+Columns that match with input_schema:
+ 204_455.csv :  {'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+204_569.csv(1998 Swedish Touring Car Championship season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'circuit': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning driver': '0/12', 'winning team': '0/12', 'winning privateer': '0/12'}
+Columns that match with input_schema:
+ 204_569.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  1.0 	 Completeness Score :  0.9285714285714286
+
+204_63.csv(2002 Italian Formula Three season)
+Missing Values(NANs score):  {'round': '0/9', 'circuit': '0/9', 'date': '0/9', 'pole position': '0/9', 'winning driver': '0/9', 'winning team': '0/9', 'trophy winner': '0/9'}
+Columns that match with input_schema:
+ 204_63.csv :  {'round': 'round', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'winning driver': 'winning driver'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_845.csv(2003 Barber Dodge Pro Series season)
+Missing Values(NANs score):  {'round': '0/10', 'circuit': '0/10', 'location': '0/10', 'date': '0/10', 'pole position': '0/10', 'fastest lap': '0/10', 'winning driver': '0/10', 'headline event': '0/10'}
+Columns that match with input_schema:
+ 204_845.csv :  {'round': 'round', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+203_181.csv(1990 IndyCar season)
+Missing Values(NANs score):  {'date': '0/17', 'rnd': '0/17', 'race name': '0/17', 'circuit': '0/17', 'city/location': '0/17', 'pole position': '0/17', 'winning driver': '0/17', 'winning team': '0/17', 'report': '0/17'}
+Columns that match with input_schema:
+ 203_181.csv :  {'date': 'date', 'circuit': 'circuit', 'pole position': 'pole position', 'winning driver': 'winning driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+203_408.csv(1989 Formula One season)
+Missing Values(NANs score):  {'rd ': '0/16', 'grand prix': '0/16', 'date': '0/16', 'location': '0/16', 'pole position': '0/16', 'fastest lap': '0/16', 'winning driver': '0/16', 'constructor': '0/16', 'report': '0/16'}
+Columns that match with input_schema:
+ 203_408.csv :  {'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+203_514.csv(2008 Superleague Formula season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'race': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning club': '0/12', 'winning team': '0/12', 'report': '0/12'}
+Columns that match with input_schema:
+ 203_514.csv :  {'round': 'round', 'round 1': 'round 1', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.6428571428571429
+
+203_742.csv(1995 IndyCar season)
+Missing Values(NANs score):  {'rnd': '0/17', 'date': '0/17', 'race name': '0/17', 'circuit': '0/17', 'city/location': '0/17', 'pole position': '0/17', 'fastest lap': '0/17', 'winning driver': '0/17', 'winning team': '0/17', 'report': '0/17'}
+Columns that match with input_schema:
+ 203_742.csv :  {'date': 'date', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_253.csv(1990 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/26', 'round 1': '0/26', 'circuit': '0/26', 'date': '0/26', 'pole position': '0/26', 'fastest lap': '0/26', 'winning rider': '0/26'}
+Columns that match with input_schema:
+ 204_253.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+204_40.csv(2008 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/28', 'round 1': '0/28', 'country': '0/28', 'circuit': '0/28', 'date': '0/28', 'pole position': '0/28', 'fastest lap': '0/28', 'winning rider': '0/28', 'winning team': '0/28', 'report': '0/28'}
+Columns that match with input_schema:
+ 204_40.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+204_455.csv(1989 Formula One season)
+Missing Values(NANs score):  {'rd ': '0/16', 'grand prix': '0/16', 'date': '0/16', 'location': '0/16', 'pole position': '0/16', 'fastest lap': '0/16', 'winning driver': '0/16', 'constructor': '0/16', 'report': '0/16'}
+Columns that match with input_schema:
+ 204_455.csv :  {'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+204_569.csv(1998 Swedish Touring Car Championship season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'circuit': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning driver': '0/12', 'winning team': '0/12', 'winning privateer': '0/12'}
+Columns that match with input_schema:
+ 204_569.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  1.0 	 Completeness Score :  0.9285714285714286
+
+204_63.csv(2002 Italian Formula Three season)
+Missing Values(NANs score):  {'round': '0/9', 'circuit': '0/9', 'date': '0/9', 'pole position': '0/9', 'winning driver': '0/9', 'winning team': '0/9', 'trophy winner': '0/9'}
+Columns that match with input_schema:
+ 204_63.csv :  {'round': 'round', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'winning driver': 'winning driver'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_845.csv(2003 Barber Dodge Pro Series season)
+Missing Values(NANs score):  {'round': '0/10', 'circuit': '0/10', 'location': '0/10', 'date': '0/10', 'pole position': '0/10', 'fastest lap': '0/10', 'winning driver': '0/10', 'headline event': '0/10'}
+Columns that match with input_schema:
+ 204_845.csv :  {'round': 'round', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+203_181.csv(1990 IndyCar season)
+Missing Values(NANs score):  {'date': '0/17', 'rnd': '0/17', 'race name': '0/17', 'circuit': '0/17', 'city/location': '0/17', 'pole position': '0/17', 'winning driver': '0/17', 'winning team': '0/17', 'report': '0/17'}
+Columns that match with input_schema:
+ 203_181.csv :  {'date': 'date', 'circuit': 'circuit', 'pole position': 'pole position', 'winning driver': 'winning driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+203_408.csv(1989 Formula One season)
+Missing Values(NANs score):  {'rd ': '0/16', 'grand prix': '0/16', 'date': '0/16', 'location': '0/16', 'pole position': '0/16', 'fastest lap': '0/16', 'winning driver': '0/16', 'constructor': '0/16', 'report': '0/16'}
+Columns that match with input_schema:
+ 203_408.csv :  {'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+203_514.csv(2008 Superleague Formula season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'race': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning club': '0/12', 'winning team': '0/12', 'report': '0/12'}
+Columns that match with input_schema:
+ 203_514.csv :  {'round': 'round', 'round 1': 'round 1', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.6428571428571429
+
+203_742.csv(1995 IndyCar season)
+Missing Values(NANs score):  {'rnd': '0/17', 'date': '0/17', 'race name': '0/17', 'circuit': '0/17', 'city/location': '0/17', 'pole position': '0/17', 'fastest lap': '0/17', 'winning driver': '0/17', 'winning team': '0/17', 'report': '0/17'}
+Columns that match with input_schema:
+ 203_742.csv :  {'date': 'date', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_253.csv(1990 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/26', 'round 1': '0/26', 'circuit': '0/26', 'date': '0/26', 'pole position': '0/26', 'fastest lap': '0/26', 'winning rider': '0/26'}
+Columns that match with input_schema:
+ 204_253.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+204_40.csv(2008 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/28', 'round 1': '0/28', 'country': '0/28', 'circuit': '0/28', 'date': '0/28', 'pole position': '0/28', 'fastest lap': '0/28', 'winning rider': '0/28', 'winning team': '0/28', 'report': '0/28'}
+Columns that match with input_schema:
+ 204_40.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+204_455.csv(1989 Formula One season)
+Missing Values(NANs score):  {'rd ': '0/16', 'grand prix': '0/16', 'date': '0/16', 'location': '0/16', 'pole position': '0/16', 'fastest lap': '0/16', 'winning driver': '0/16', 'constructor': '0/16', 'report': '0/16'}
+Columns that match with input_schema:
+ 204_455.csv :  {'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+204_569.csv(1998 Swedish Touring Car Championship season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'circuit': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning driver': '0/12', 'winning team': '0/12', 'winning privateer': '0/12'}
+Columns that match with input_schema:
+ 204_569.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  1.0 	 Completeness Score :  0.9285714285714286
+
+204_63.csv(2002 Italian Formula Three season)
+Missing Values(NANs score):  {'round': '0/9', 'circuit': '0/9', 'date': '0/9', 'pole position': '0/9', 'winning driver': '0/9', 'winning team': '0/9', 'trophy winner': '0/9'}
+Columns that match with input_schema:
+ 204_63.csv :  {'round': 'round', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'winning driver': 'winning driver'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_845.csv(2003 Barber Dodge Pro Series season)
+Missing Values(NANs score):  {'round': '0/10', 'circuit': '0/10', 'location': '0/10', 'date': '0/10', 'pole position': '0/10', 'fastest lap': '0/10', 'winning driver': '0/10', 'headline event': '0/10'}
+Columns that match with input_schema:
+ 204_845.csv :  {'round': 'round', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+203_181.csv(1990 IndyCar season)
+Missing Values(NANs score):  {'date': '0/17', 'rnd': '0/17', 'race name': '0/17', 'circuit': '0/17', 'city/location': '0/17', 'pole position': '0/17', 'winning driver': '0/17', 'winning team': '0/17', 'report': '0/17'}
+Columns that match with input_schema:
+ 203_181.csv :  {'date': 'date', 'circuit': 'circuit', 'pole position': 'pole position', 'winning driver': 'winning driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+203_408.csv(1989 Formula One season)
+Missing Values(NANs score):  {'rd ': '0/16', 'grand prix': '0/16', 'date': '0/16', 'location': '0/16', 'pole position': '0/16', 'fastest lap': '0/16', 'winning driver': '0/16', 'constructor': '0/16', 'report': '0/16'}
+Columns that match with input_schema:
+ 203_408.csv :  {'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+203_514.csv(2008 Superleague Formula season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'race': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning club': '0/12', 'winning team': '0/12', 'report': '0/12'}
+Columns that match with input_schema:
+ 203_514.csv :  {'round': 'round', 'round 1': 'round 1', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.6428571428571429
+
+203_742.csv(1995 IndyCar season)
+Missing Values(NANs score):  {'rnd': '0/17', 'date': '0/17', 'race name': '0/17', 'circuit': '0/17', 'city/location': '0/17', 'pole position': '0/17', 'fastest lap': '0/17', 'winning driver': '0/17', 'winning team': '0/17', 'report': '0/17'}
+Columns that match with input_schema:
+ 203_742.csv :  {'date': 'date', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_253.csv(1990 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/26', 'round 1': '0/26', 'circuit': '0/26', 'date': '0/26', 'pole position': '0/26', 'fastest lap': '0/26', 'winning rider': '0/26'}
+Columns that match with input_schema:
+ 204_253.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+204_40.csv(2008 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/28', 'round 1': '0/28', 'country': '0/28', 'circuit': '0/28', 'date': '0/28', 'pole position': '0/28', 'fastest lap': '0/28', 'winning rider': '0/28', 'winning team': '0/28', 'report': '0/28'}
+Columns that match with input_schema:
+ 204_40.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+204_455.csv(1989 Formula One season)
+Missing Values(NANs score):  {'rd ': '0/16', 'grand prix': '0/16', 'date': '0/16', 'location': '0/16', 'pole position': '0/16', 'fastest lap': '0/16', 'winning driver': '0/16', 'constructor': '0/16', 'report': '0/16'}
+Columns that match with input_schema:
+ 204_455.csv :  {'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+204_569.csv(1998 Swedish Touring Car Championship season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'circuit': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning driver': '0/12', 'winning team': '0/12', 'winning privateer': '0/12'}
+Columns that match with input_schema:
+ 204_569.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  1.0 	 Completeness Score :  0.9285714285714286
+
+204_63.csv(2002 Italian Formula Three season)
+Missing Values(NANs score):  {'round': '0/9', 'circuit': '0/9', 'date': '0/9', 'pole position': '0/9', 'winning driver': '0/9', 'winning team': '0/9', 'trophy winner': '0/9'}
+Columns that match with input_schema:
+ 204_63.csv :  {'round': 'round', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'winning driver': 'winning driver'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_845.csv(2003 Barber Dodge Pro Series season)
+Missing Values(NANs score):  {'round': '0/10', 'circuit': '0/10', 'location': '0/10', 'date': '0/10', 'pole position': '0/10', 'fastest lap': '0/10', 'winning driver': '0/10', 'headline event': '0/10'}
+Columns that match with input_schema:
+ 204_845.csv :  {'round': 'round', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+203_181.csv(1990 IndyCar season)
+Missing Values(NANs score):  {'date': '0/17', 'rnd': '0/17', 'race name': '0/17', 'circuit': '0/17', 'city/location': '0/17', 'pole position': '0/17', 'winning driver': '0/17', 'winning team': '0/17', 'report': '0/17'}
+Columns that match with input_schema:
+ 203_181.csv :  {'date': 'date', 'circuit': 'circuit', 'pole position': 'pole position', 'winning driver': 'winning driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+203_408.csv(1989 Formula One season)
+Missing Values(NANs score):  {'rd ': '0/16', 'grand prix': '0/16', 'date': '0/16', 'location': '0/16', 'pole position': '0/16', 'fastest lap': '0/16', 'winning driver': '0/16', 'constructor': '0/16', 'report': '0/16'}
+Columns that match with input_schema:
+ 203_408.csv :  {'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+203_514.csv(2008 Superleague Formula season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'race': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning club': '0/12', 'winning team': '0/12', 'report': '0/12'}
+Columns that match with input_schema:
+ 203_514.csv :  {'round': 'round', 'round 1': 'round 1', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.6428571428571429
+
+203_742.csv(1995 IndyCar season)
+Missing Values(NANs score):  {'rnd': '0/17', 'date': '0/17', 'race name': '0/17', 'circuit': '0/17', 'city/location': '0/17', 'pole position': '0/17', 'fastest lap': '0/17', 'winning driver': '0/17', 'winning team': '0/17', 'report': '0/17'}
+Columns that match with input_schema:
+ 203_742.csv :  {'date': 'date', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_253.csv(1990 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/26', 'round 1': '0/26', 'circuit': '0/26', 'date': '0/26', 'pole position': '0/26', 'fastest lap': '0/26', 'winning rider': '0/26'}
+Columns that match with input_schema:
+ 204_253.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+204_40.csv(2008 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/28', 'round 1': '0/28', 'country': '0/28', 'circuit': '0/28', 'date': '0/28', 'pole position': '0/28', 'fastest lap': '0/28', 'winning rider': '0/28', 'winning team': '0/28', 'report': '0/28'}
+Columns that match with input_schema:
+ 204_40.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+204_455.csv(1989 Formula One season)
+Missing Values(NANs score):  {'rd ': '0/16', 'grand prix': '0/16', 'date': '0/16', 'location': '0/16', 'pole position': '0/16', 'fastest lap': '0/16', 'winning driver': '0/16', 'constructor': '0/16', 'report': '0/16'}
+Columns that match with input_schema:
+ 204_455.csv :  {'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+204_569.csv(1998 Swedish Touring Car Championship season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'circuit': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning driver': '0/12', 'winning team': '0/12', 'winning privateer': '0/12'}
+Columns that match with input_schema:
+ 204_569.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  1.0 	 Completeness Score :  0.9285714285714286
+
+204_63.csv(2002 Italian Formula Three season)
+Missing Values(NANs score):  {'round': '0/9', 'circuit': '0/9', 'date': '0/9', 'pole position': '0/9', 'winning driver': '0/9', 'winning team': '0/9', 'trophy winner': '0/9'}
+Columns that match with input_schema:
+ 204_63.csv :  {'round': 'round', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'winning driver': 'winning driver'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_845.csv(2003 Barber Dodge Pro Series season)
+Missing Values(NANs score):  {'round': '0/10', 'circuit': '0/10', 'location': '0/10', 'date': '0/10', 'pole position': '0/10', 'fastest lap': '0/10', 'winning driver': '0/10', 'headline event': '0/10'}
+Columns that match with input_schema:
+ 204_845.csv :  {'round': 'round', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+203_181.csv(1990 IndyCar season)
+Missing Values(NANs score):  {'date': '0/17', 'rnd': '0/17', 'race name': '0/17', 'circuit': '0/17', 'city/location': '0/17', 'pole position': '0/17', 'winning driver': '0/17', 'winning team': '0/17', 'report': '0/17'}
+Columns that match with input_schema:
+ 203_181.csv :  {'pole position': 'pole position', 'winning driver': 'winning driver', 'circuit': 'circuit', 'date': 'date'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+203_408.csv(1989 Formula One season)
+Missing Values(NANs score):  {'rd ': '0/16', 'grand prix': '0/16', 'date': '0/16', 'location': '0/16', 'pole position': '0/16', 'fastest lap': '0/16', 'winning driver': '0/16', 'constructor': '0/16', 'report': '0/16'}
+Columns that match with input_schema:
+ 203_408.csv :  {'fastest lap': 'fastest lap', 'date': 'date', 'pole position': 'pole position', 'winning driver': 'winning driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+203_514.csv(2008 Superleague Formula season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'race': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning club': '0/12', 'winning team': '0/12', 'report': '0/12'}
+Columns that match with input_schema:
+ 203_514.csv :  {'round 1': 'round 1', 'round': 'round', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.6428571428571429
+
+203_742.csv(1995 IndyCar season)
+Missing Values(NANs score):  {'rnd': '0/17', 'date': '0/17', 'race name': '0/17', 'circuit': '0/17', 'city/location': '0/17', 'pole position': '0/17', 'fastest lap': '0/17', 'winning driver': '0/17', 'winning team': '0/17', 'report': '0/17'}
+Columns that match with input_schema:
+ 203_742.csv :  {'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_253.csv(1990 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/26', 'round 1': '0/26', 'circuit': '0/26', 'date': '0/26', 'pole position': '0/26', 'fastest lap': '0/26', 'winning rider': '0/26'}
+Columns that match with input_schema:
+ 204_253.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+204_40.csv(2008 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/28', 'round 1': '0/28', 'country': '0/28', 'circuit': '0/28', 'date': '0/28', 'pole position': '0/28', 'fastest lap': '0/28', 'winning rider': '0/28', 'winning team': '0/28', 'report': '0/28'}
+Columns that match with input_schema:
+ 204_40.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+204_455.csv(1989 Formula One season)
+Missing Values(NANs score):  {'rd ': '0/16', 'grand prix': '0/16', 'date': '0/16', 'location': '0/16', 'pole position': '0/16', 'fastest lap': '0/16', 'winning driver': '0/16', 'constructor': '0/16', 'report': '0/16'}
+Columns that match with input_schema:
+ 204_455.csv :  {'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+204_569.csv(1998 Swedish Touring Car Championship season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'circuit': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning driver': '0/12', 'winning team': '0/12', 'winning privateer': '0/12'}
+Columns that match with input_schema:
+ 204_569.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  1.0 	 Completeness Score :  0.9285714285714286
+
+204_63.csv(2002 Italian Formula Three season)
+Missing Values(NANs score):  {'round': '0/9', 'circuit': '0/9', 'date': '0/9', 'pole position': '0/9', 'winning driver': '0/9', 'winning team': '0/9', 'trophy winner': '0/9'}
+Columns that match with input_schema:
+ 204_63.csv :  {'round': 'round', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'winning driver': 'winning driver'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_845.csv(2003 Barber Dodge Pro Series season)
+Missing Values(NANs score):  {'round': '0/10', 'circuit': '0/10', 'location': '0/10', 'date': '0/10', 'pole position': '0/10', 'fastest lap': '0/10', 'winning driver': '0/10', 'headline event': '0/10'}
+Columns that match with input_schema:
+ 204_845.csv :  {'round': 'round', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+203_181.csv(1990 IndyCar season)
+Missing Values(NANs score):  {'date': '0/17', 'rnd': '0/17', 'race name': '0/17', 'circuit': '0/17', 'city/location': '0/17', 'pole position': '0/17', 'winning driver': '0/17', 'winning team': '0/17', 'report': '0/17'}
+Columns that match with input_schema:
+ 203_181.csv :  {'pole position': 'pole position', 'winning driver': 'winning driver', 'circuit': 'circuit', 'date': 'date'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+203_408.csv(1989 Formula One season)
+Missing Values(NANs score):  {'rd ': '0/16', 'grand prix': '0/16', 'date': '0/16', 'location': '0/16', 'pole position': '0/16', 'fastest lap': '0/16', 'winning driver': '0/16', 'constructor': '0/16', 'report': '0/16'}
+Columns that match with input_schema:
+ 203_408.csv :  {'fastest lap': 'fastest lap', 'date': 'date', 'pole position': 'pole position', 'winning driver': 'winning driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+203_514.csv(2008 Superleague Formula season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'race': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning club': '0/12', 'winning team': '0/12', 'report': '0/12'}
+Columns that match with input_schema:
+ 203_514.csv :  {'round 1': 'round 1', 'round': 'round', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.6428571428571429
+
+203_742.csv(1995 IndyCar season)
+Missing Values(NANs score):  {'rnd': '0/17', 'date': '0/17', 'race name': '0/17', 'circuit': '0/17', 'city/location': '0/17', 'pole position': '0/17', 'fastest lap': '0/17', 'winning driver': '0/17', 'winning team': '0/17', 'report': '0/17'}
+Columns that match with input_schema:
+ 203_742.csv :  {'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_253.csv(1990 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/26', 'round 1': '0/26', 'circuit': '0/26', 'date': '0/26', 'pole position': '0/26', 'fastest lap': '0/26', 'winning rider': '0/26'}
+Columns that match with input_schema:
+ 204_253.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+204_40.csv(2008 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/28', 'round 1': '0/28', 'country': '0/28', 'circuit': '0/28', 'date': '0/28', 'pole position': '0/28', 'fastest lap': '0/28', 'winning rider': '0/28', 'winning team': '0/28', 'report': '0/28'}
+Columns that match with input_schema:
+ 204_40.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+204_455.csv(1989 Formula One season)
+Missing Values(NANs score):  {'rd ': '0/16', 'grand prix': '0/16', 'date': '0/16', 'location': '0/16', 'pole position': '0/16', 'fastest lap': '0/16', 'winning driver': '0/16', 'constructor': '0/16', 'report': '0/16'}
+Columns that match with input_schema:
+ 204_455.csv :  {'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+204_569.csv(1998 Swedish Touring Car Championship season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'circuit': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning driver': '0/12', 'winning team': '0/12', 'winning privateer': '0/12'}
+Columns that match with input_schema:
+ 204_569.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  1.0 	 Completeness Score :  0.9285714285714286
+
+204_63.csv(2002 Italian Formula Three season)
+Missing Values(NANs score):  {'round': '0/9', 'circuit': '0/9', 'date': '0/9', 'pole position': '0/9', 'winning driver': '0/9', 'winning team': '0/9', 'trophy winner': '0/9'}
+Columns that match with input_schema:
+ 204_63.csv :  {'round': 'round', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'winning driver': 'winning driver'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_845.csv(2003 Barber Dodge Pro Series season)
+Missing Values(NANs score):  {'round': '0/10', 'circuit': '0/10', 'location': '0/10', 'date': '0/10', 'pole position': '0/10', 'fastest lap': '0/10', 'winning driver': '0/10', 'headline event': '0/10'}
+Columns that match with input_schema:
+ 204_845.csv :  {'round': 'round', 'circuit': 'circuit', 'date': 'date', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'winning driver'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+203_514.csv(2008 Superleague Formula season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'race': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning club': '0/12', 'winning team': '0/12', 'report': '0/12'}
+Columns that match with input_schema:
+ 203_514.csv :  {'round': 'round', 'round 1': 'round 1', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5
+
+204_253.csv(1990 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/26', 'round 1': '0/26', 'circuit': '0/26', 'date': '0/26', 'pole position': '0/26', 'fastest lap': '0/26', 'winning rider': '0/26'}
+Columns that match with input_schema:
+ 204_253.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_40.csv(2008 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/28', 'round 1': '0/28', 'country': '0/28', 'circuit': '0/28', 'date': '0/28', 'pole position': '0/28', 'fastest lap': '0/28', 'winning rider': '0/28', 'winning team': '0/28', 'report': '0/28'}
+Columns that match with input_schema:
+ 204_40.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_569.csv(1998 Swedish Touring Car Championship season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'circuit': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning driver': '0/12', 'winning team': '0/12', 'winning privateer': '0/12'}
+Columns that match with input_schema:
+ 204_569.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.6428571428571429
+
+204_845.csv(2003 Barber Dodge Pro Series season)
+Missing Values(NANs score):  {'round': '0/10', 'circuit': '0/10', 'location': '0/10', 'date': '0/10', 'pole position': '0/10', 'fastest lap': '0/10', 'winning driver': '0/10', 'headline event': '0/10'}
+Columns that match with input_schema:
+ 204_845.csv :  {'round': 'round', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+203_514.csv(2008 Superleague Formula season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'race': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning club': '0/12', 'winning team': '0/12', 'report': '0/12'}
+Columns that match with input_schema:
+ 203_514.csv :  {'round 1': 'round 1', 'round': 'round', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5
+
+203_742.csv(1995 IndyCar season)
+Missing Values(NANs score):  {'rnd': '0/17', 'date': '0/17', 'race name': '0/17', 'circuit': '0/17', 'city/location': '0/17', 'pole position': '0/17', 'fastest lap': '0/17', 'winning driver': '0/17', 'winning team': '0/17', 'report': '0/17'}
+Columns that match with input_schema:
+ 203_742.csv :  {'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+204_253.csv(1990 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/26', 'round 1': '0/26', 'circuit': '0/26', 'date': '0/26', 'pole position': '0/26', 'fastest lap': '0/26', 'winning rider': '0/26'}
+Columns that match with input_schema:
+ 204_253.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_40.csv(2008 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/28', 'round 1': '0/28', 'country': '0/28', 'circuit': '0/28', 'date': '0/28', 'pole position': '0/28', 'fastest lap': '0/28', 'winning rider': '0/28', 'winning team': '0/28', 'report': '0/28'}
+Columns that match with input_schema:
+ 204_40.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_569.csv(1998 Swedish Touring Car Championship season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'circuit': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning driver': '0/12', 'winning team': '0/12', 'winning privateer': '0/12'}
+Columns that match with input_schema:
+ 204_569.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'driver'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.7857142857142857
+
+204_63.csv(2002 Italian Formula Three season)
+Missing Values(NANs score):  {'round': '0/9', 'circuit': '0/9', 'date': '0/9', 'pole position': '0/9', 'winning driver': '0/9', 'winning team': '0/9', 'trophy winner': '0/9'}
+Columns that match with input_schema:
+ 204_63.csv :  {'round': 'round', 'circuit': 'circuit', 'pole position': 'pole position', 'winning driver': 'driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+204_845.csv(2003 Barber Dodge Pro Series season)
+Missing Values(NANs score):  {'round': '0/10', 'circuit': '0/10', 'location': '0/10', 'date': '0/10', 'pole position': '0/10', 'fastest lap': '0/10', 'winning driver': '0/10', 'headline event': '0/10'}
+Columns that match with input_schema:
+ 204_845.csv :  {'round': 'round', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'driver'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+203_514.csv(2008 Superleague Formula season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'race': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning club': '0/12', 'winning team': '0/12', 'report': '0/12'}
+Columns that match with input_schema:
+ 203_514.csv :  {'round 1': 'round 1', 'round': 'round', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5
+
+203_742.csv(1995 IndyCar season)
+Missing Values(NANs score):  {'rnd': '0/17', 'date': '0/17', 'race name': '0/17', 'circuit': '0/17', 'city/location': '0/17', 'pole position': '0/17', 'fastest lap': '0/17', 'winning driver': '0/17', 'winning team': '0/17', 'report': '0/17'}
+Columns that match with input_schema:
+ 203_742.csv :  {'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+204_253.csv(1990 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/26', 'round 1': '0/26', 'circuit': '0/26', 'date': '0/26', 'pole position': '0/26', 'fastest lap': '0/26', 'winning rider': '0/26'}
+Columns that match with input_schema:
+ 204_253.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_40.csv(2008 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/28', 'round 1': '0/28', 'country': '0/28', 'circuit': '0/28', 'date': '0/28', 'pole position': '0/28', 'fastest lap': '0/28', 'winning rider': '0/28', 'winning team': '0/28', 'report': '0/28'}
+Columns that match with input_schema:
+ 204_40.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_569.csv(1998 Swedish Touring Car Championship season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'circuit': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning driver': '0/12', 'winning team': '0/12', 'winning privateer': '0/12'}
+Columns that match with input_schema:
+ 204_569.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'driver'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.7857142857142857
+
+204_63.csv(2002 Italian Formula Three season)
+Missing Values(NANs score):  {'round': '0/9', 'circuit': '0/9', 'date': '0/9', 'pole position': '0/9', 'winning driver': '0/9', 'winning team': '0/9', 'trophy winner': '0/9'}
+Columns that match with input_schema:
+ 204_63.csv :  {'round': 'round', 'circuit': 'circuit', 'pole position': 'pole position', 'winning driver': 'driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+204_845.csv(2003 Barber Dodge Pro Series season)
+Missing Values(NANs score):  {'round': '0/10', 'circuit': '0/10', 'location': '0/10', 'date': '0/10', 'pole position': '0/10', 'fastest lap': '0/10', 'winning driver': '0/10', 'headline event': '0/10'}
+Columns that match with input_schema:
+ 204_845.csv :  {'round': 'round', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'driver'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+203_514.csv(2008 Superleague Formula season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'race': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning club': '0/12', 'winning team': '0/12', 'report': '0/12'}
+Columns that match with input_schema:
+ 203_514.csv :  {'round 1': 'round 1', 'round': 'round', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5
+
+203_742.csv(1995 IndyCar season)
+Missing Values(NANs score):  {'rnd': '0/17', 'date': '0/17', 'race name': '0/17', 'circuit': '0/17', 'city/location': '0/17', 'pole position': '0/17', 'fastest lap': '0/17', 'winning driver': '0/17', 'winning team': '0/17', 'report': '0/17'}
+Columns that match with input_schema:
+ 203_742.csv :  {'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+204_253.csv(1990 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/26', 'round 1': '0/26', 'circuit': '0/26', 'date': '0/26', 'pole position': '0/26', 'fastest lap': '0/26', 'winning rider': '0/26'}
+Columns that match with input_schema:
+ 204_253.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_40.csv(2008 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/28', 'round 1': '0/28', 'country': '0/28', 'circuit': '0/28', 'date': '0/28', 'pole position': '0/28', 'fastest lap': '0/28', 'winning rider': '0/28', 'winning team': '0/28', 'report': '0/28'}
+Columns that match with input_schema:
+ 204_40.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_569.csv(1998 Swedish Touring Car Championship season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'circuit': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning driver': '0/12', 'winning team': '0/12', 'winning privateer': '0/12'}
+Columns that match with input_schema:
+ 204_569.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'driver'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.7857142857142857
+
+204_63.csv(2002 Italian Formula Three season)
+Missing Values(NANs score):  {'round': '0/9', 'circuit': '0/9', 'date': '0/9', 'pole position': '0/9', 'winning driver': '0/9', 'winning team': '0/9', 'trophy winner': '0/9'}
+Columns that match with input_schema:
+ 204_63.csv :  {'round': 'round', 'circuit': 'circuit', 'pole position': 'pole position', 'winning driver': 'driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+204_845.csv(2003 Barber Dodge Pro Series season)
+Missing Values(NANs score):  {'round': '0/10', 'circuit': '0/10', 'location': '0/10', 'date': '0/10', 'pole position': '0/10', 'fastest lap': '0/10', 'winning driver': '0/10', 'headline event': '0/10'}
+Columns that match with input_schema:
+ 204_845.csv :  {'round': 'round', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'driver'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+203_514.csv(2008 Superleague Formula season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'race': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning club': '0/12', 'winning team': '0/12', 'report': '0/12'}
+Columns that match with input_schema:
+ 203_514.csv :  {'round 1': 'round 1', 'round': 'round', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5
+
+203_742.csv(1995 IndyCar season)
+Missing Values(NANs score):  {'rnd': '0/17', 'date': '0/17', 'race name': '0/17', 'circuit': '0/17', 'city/location': '0/17', 'pole position': '0/17', 'fastest lap': '0/17', 'winning driver': '0/17', 'winning team': '0/17', 'report': '0/17'}
+Columns that match with input_schema:
+ 203_742.csv :  {'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+204_253.csv(1990 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/26', 'round 1': '0/26', 'circuit': '0/26', 'date': '0/26', 'pole position': '0/26', 'fastest lap': '0/26', 'winning rider': '0/26'}
+Columns that match with input_schema:
+ 204_253.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_40.csv(2008 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/28', 'round 1': '0/28', 'country': '0/28', 'circuit': '0/28', 'date': '0/28', 'pole position': '0/28', 'fastest lap': '0/28', 'winning rider': '0/28', 'winning team': '0/28', 'report': '0/28'}
+Columns that match with input_schema:
+ 204_40.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_569.csv(1998 Swedish Touring Car Championship season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'circuit': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning driver': '0/12', 'winning team': '0/12', 'winning privateer': '0/12'}
+Columns that match with input_schema:
+ 204_569.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'driver'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.7857142857142857
+
+204_63.csv(2002 Italian Formula Three season)
+Missing Values(NANs score):  {'round': '0/9', 'circuit': '0/9', 'date': '0/9', 'pole position': '0/9', 'winning driver': '0/9', 'winning team': '0/9', 'trophy winner': '0/9'}
+Columns that match with input_schema:
+ 204_63.csv :  {'round': 'round', 'circuit': 'circuit', 'pole position': 'pole position', 'winning driver': 'driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+204_845.csv(2003 Barber Dodge Pro Series season)
+Missing Values(NANs score):  {'round': '0/10', 'circuit': '0/10', 'location': '0/10', 'date': '0/10', 'pole position': '0/10', 'fastest lap': '0/10', 'winning driver': '0/10', 'headline event': '0/10'}
+Columns that match with input_schema:
+ 204_845.csv :  {'round': 'round', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'driver'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+203_514.csv(2008 Superleague Formula season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'race': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning club': '0/12', 'winning team': '0/12', 'report': '0/12'}
+Columns that match with input_schema:
+ 203_514.csv :  {'round 1': 'round 1', 'round': 'round', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5
+
+203_742.csv(1995 IndyCar season)
+Missing Values(NANs score):  {'rnd': '0/17', 'date': '0/17', 'race name': '0/17', 'circuit': '0/17', 'city/location': '0/17', 'pole position': '0/17', 'fastest lap': '0/17', 'winning driver': '0/17', 'winning team': '0/17', 'report': '0/17'}
+Columns that match with input_schema:
+ 203_742.csv :  {'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+204_253.csv(1990 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/26', 'round 1': '0/26', 'circuit': '0/26', 'date': '0/26', 'pole position': '0/26', 'fastest lap': '0/26', 'winning rider': '0/26'}
+Columns that match with input_schema:
+ 204_253.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_40.csv(2008 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/28', 'round 1': '0/28', 'country': '0/28', 'circuit': '0/28', 'date': '0/28', 'pole position': '0/28', 'fastest lap': '0/28', 'winning rider': '0/28', 'winning team': '0/28', 'report': '0/28'}
+Columns that match with input_schema:
+ 204_40.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_569.csv(1998 Swedish Touring Car Championship season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'circuit': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning driver': '0/12', 'winning team': '0/12', 'winning privateer': '0/12'}
+Columns that match with input_schema:
+ 204_569.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'driver'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.7857142857142857
+
+204_63.csv(2002 Italian Formula Three season)
+Missing Values(NANs score):  {'round': '0/9', 'circuit': '0/9', 'date': '0/9', 'pole position': '0/9', 'winning driver': '0/9', 'winning team': '0/9', 'trophy winner': '0/9'}
+Columns that match with input_schema:
+ 204_63.csv :  {'round': 'round', 'circuit': 'circuit', 'pole position': 'pole position', 'winning driver': 'driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+204_845.csv(2003 Barber Dodge Pro Series season)
+Missing Values(NANs score):  {'round': '0/10', 'circuit': '0/10', 'location': '0/10', 'date': '0/10', 'pole position': '0/10', 'fastest lap': '0/10', 'winning driver': '0/10', 'headline event': '0/10'}
+Columns that match with input_schema:
+ 204_845.csv :  {'round': 'round', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'driver'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+203_514.csv(2008 Superleague Formula season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'race': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning club': '0/12', 'winning team': '0/12', 'report': '0/12'}
+Columns that match with input_schema:
+ 203_514.csv :  {'round 1': 'round 1', 'round': 'round', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5
+
+203_742.csv(1995 IndyCar season)
+Missing Values(NANs score):  {'rnd': '0/17', 'date': '0/17', 'race name': '0/17', 'circuit': '0/17', 'city/location': '0/17', 'pole position': '0/17', 'fastest lap': '0/17', 'winning driver': '0/17', 'winning team': '0/17', 'report': '0/17'}
+Columns that match with input_schema:
+ 203_742.csv :  {'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+204_253.csv(1990 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/26', 'round 1': '0/26', 'circuit': '0/26', 'date': '0/26', 'pole position': '0/26', 'fastest lap': '0/26', 'winning rider': '0/26'}
+Columns that match with input_schema:
+ 204_253.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_40.csv(2008 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/28', 'round 1': '0/28', 'country': '0/28', 'circuit': '0/28', 'date': '0/28', 'pole position': '0/28', 'fastest lap': '0/28', 'winning rider': '0/28', 'winning team': '0/28', 'report': '0/28'}
+Columns that match with input_schema:
+ 204_40.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_569.csv(1998 Swedish Touring Car Championship season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'circuit': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning driver': '0/12', 'winning team': '0/12', 'winning privateer': '0/12'}
+Columns that match with input_schema:
+ 204_569.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'driver'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.7857142857142857
+
+204_63.csv(2002 Italian Formula Three season)
+Missing Values(NANs score):  {'round': '0/9', 'circuit': '0/9', 'date': '0/9', 'pole position': '0/9', 'winning driver': '0/9', 'winning team': '0/9', 'trophy winner': '0/9'}
+Columns that match with input_schema:
+ 204_63.csv :  {'round': 'round', 'circuit': 'circuit', 'pole position': 'pole position', 'winning driver': 'driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+204_845.csv(2003 Barber Dodge Pro Series season)
+Missing Values(NANs score):  {'round': '0/10', 'circuit': '0/10', 'location': '0/10', 'date': '0/10', 'pole position': '0/10', 'fastest lap': '0/10', 'winning driver': '0/10', 'headline event': '0/10'}
+Columns that match with input_schema:
+ 204_845.csv :  {'round': 'round', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'winning driver': 'driver'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+203_181.csv(1990 IndyCar season)
+Missing Values(NANs score):  {'date': '0/17', 'rnd': '0/17', 'race name': '0/17', 'circuit': '0/17', 'city/location': '0/17', 'pole position': '0/17', 'winning driver': '0/17', 'winning team': '0/17', 'report': '0/17'}
+Columns that match with input_schema:
+ 203_181.csv :  {'circuit': 'circuit', 'pole position': 'pole position', 'date': 'day', 'winning driver': 'driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+203_408.csv(1989 Formula One season)
+Missing Values(NANs score):  {'rd ': '0/16', 'grand prix': '0/16', 'date': '0/16', 'location': '0/16', 'pole position': '0/16', 'fastest lap': '0/16', 'winning driver': '0/16', 'constructor': '0/16', 'report': '0/16'}
+Columns that match with input_schema:
+ 203_408.csv :  {'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day', 'winning driver': 'driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+203_514.csv(2008 Superleague Formula season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'race': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning club': '0/12', 'winning team': '0/12', 'report': '0/12'}
+Columns that match with input_schema:
+ 203_514.csv :  {'round': 'round', 'round 1': 'round 1', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.6428571428571429
+
+203_742.csv(1995 IndyCar season)
+Missing Values(NANs score):  {'rnd': '0/17', 'date': '0/17', 'race name': '0/17', 'circuit': '0/17', 'city/location': '0/17', 'pole position': '0/17', 'fastest lap': '0/17', 'winning driver': '0/17', 'winning team': '0/17', 'report': '0/17'}
+Columns that match with input_schema:
+ 203_742.csv :  {'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day', 'winning driver': 'driver'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_253.csv(1990 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/26', 'round 1': '0/26', 'circuit': '0/26', 'date': '0/26', 'pole position': '0/26', 'fastest lap': '0/26', 'winning rider': '0/26'}
+Columns that match with input_schema:
+ 204_253.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+204_40.csv(2008 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/28', 'round 1': '0/28', 'country': '0/28', 'circuit': '0/28', 'date': '0/28', 'pole position': '0/28', 'fastest lap': '0/28', 'winning rider': '0/28', 'winning team': '0/28', 'report': '0/28'}
+Columns that match with input_schema:
+ 204_40.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+204_455.csv(1989 Formula One season)
+Missing Values(NANs score):  {'rd ': '0/16', 'grand prix': '0/16', 'date': '0/16', 'location': '0/16', 'pole position': '0/16', 'fastest lap': '0/16', 'winning driver': '0/16', 'constructor': '0/16', 'report': '0/16'}
+Columns that match with input_schema:
+ 204_455.csv :  {'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day', 'winning driver': 'driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+204_569.csv(1998 Swedish Touring Car Championship season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'circuit': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning driver': '0/12', 'winning team': '0/12', 'winning privateer': '0/12'}
+Columns that match with input_schema:
+ 204_569.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day', 'winning driver': 'driver'}
+Coverage Score :  1.0 	 Completeness Score :  0.9285714285714286
+
+204_63.csv(2002 Italian Formula Three season)
+Missing Values(NANs score):  {'round': '0/9', 'circuit': '0/9', 'date': '0/9', 'pole position': '0/9', 'winning driver': '0/9', 'winning team': '0/9', 'trophy winner': '0/9'}
+Columns that match with input_schema:
+ 204_63.csv :  {'round': 'round', 'circuit': 'circuit', 'pole position': 'pole position', 'date': 'day', 'winning driver': 'driver'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_845.csv(2003 Barber Dodge Pro Series season)
+Missing Values(NANs score):  {'round': '0/10', 'circuit': '0/10', 'location': '0/10', 'date': '0/10', 'pole position': '0/10', 'fastest lap': '0/10', 'winning driver': '0/10', 'headline event': '0/10'}
+Columns that match with input_schema:
+ 204_845.csv :  {'round': 'round', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day', 'winning driver': 'driver'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+203_181.csv(1990 IndyCar season)
+Missing Values(NANs score):  {'date': '0/17', 'rnd': '0/17', 'race name': '0/17', 'circuit': '0/17', 'city/location': '0/17', 'pole position': '0/17', 'winning driver': '0/17', 'winning team': '0/17', 'report': '0/17'}
+Columns that match with input_schema:
+ 203_181.csv :  {'circuit': 'circuit', 'pole position': 'pole position', 'date': 'day', 'winning driver': 'driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+203_408.csv(1989 Formula One season)
+Missing Values(NANs score):  {'rd ': '0/16', 'grand prix': '0/16', 'date': '0/16', 'location': '0/16', 'pole position': '0/16', 'fastest lap': '0/16', 'winning driver': '0/16', 'constructor': '0/16', 'report': '0/16'}
+Columns that match with input_schema:
+ 203_408.csv :  {'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day', 'winning driver': 'driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+203_514.csv(2008 Superleague Formula season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'race': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning club': '0/12', 'winning team': '0/12', 'report': '0/12'}
+Columns that match with input_schema:
+ 203_514.csv :  {'round': 'round', 'round 1': 'round 1', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.6428571428571429
+
+203_742.csv(1995 IndyCar season)
+Missing Values(NANs score):  {'rnd': '0/17', 'date': '0/17', 'race name': '0/17', 'circuit': '0/17', 'city/location': '0/17', 'pole position': '0/17', 'fastest lap': '0/17', 'winning driver': '0/17', 'winning team': '0/17', 'report': '0/17'}
+Columns that match with input_schema:
+ 203_742.csv :  {'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day', 'winning driver': 'driver'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_253.csv(1990 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/26', 'round 1': '0/26', 'circuit': '0/26', 'date': '0/26', 'pole position': '0/26', 'fastest lap': '0/26', 'winning rider': '0/26'}
+Columns that match with input_schema:
+ 204_253.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+204_40.csv(2008 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/28', 'round 1': '0/28', 'country': '0/28', 'circuit': '0/28', 'date': '0/28', 'pole position': '0/28', 'fastest lap': '0/28', 'winning rider': '0/28', 'winning team': '0/28', 'report': '0/28'}
+Columns that match with input_schema:
+ 204_40.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+204_455.csv(1989 Formula One season)
+Missing Values(NANs score):  {'rd ': '0/16', 'grand prix': '0/16', 'date': '0/16', 'location': '0/16', 'pole position': '0/16', 'fastest lap': '0/16', 'winning driver': '0/16', 'constructor': '0/16', 'report': '0/16'}
+Columns that match with input_schema:
+ 204_455.csv :  {'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day', 'winning driver': 'driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+204_569.csv(1998 Swedish Touring Car Championship season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'circuit': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning driver': '0/12', 'winning team': '0/12', 'winning privateer': '0/12'}
+Columns that match with input_schema:
+ 204_569.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day', 'winning driver': 'driver'}
+Coverage Score :  1.0 	 Completeness Score :  0.9285714285714286
+
+204_63.csv(2002 Italian Formula Three season)
+Missing Values(NANs score):  {'round': '0/9', 'circuit': '0/9', 'date': '0/9', 'pole position': '0/9', 'winning driver': '0/9', 'winning team': '0/9', 'trophy winner': '0/9'}
+Columns that match with input_schema:
+ 204_63.csv :  {'round': 'round', 'circuit': 'circuit', 'pole position': 'pole position', 'date': 'day', 'winning driver': 'driver'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_845.csv(2003 Barber Dodge Pro Series season)
+Missing Values(NANs score):  {'round': '0/10', 'circuit': '0/10', 'location': '0/10', 'date': '0/10', 'pole position': '0/10', 'fastest lap': '0/10', 'winning driver': '0/10', 'headline event': '0/10'}
+Columns that match with input_schema:
+ 204_845.csv :  {'round': 'round', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day', 'winning driver': 'driver'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+203_514.csv(2008 Superleague Formula season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'race': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning club': '0/12', 'winning team': '0/12', 'report': '0/12'}
+Columns that match with input_schema:
+ 203_514.csv :  {'round': 'round', 'round 1': 'round 1', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5
+
+204_253.csv(1990 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/26', 'round 1': '0/26', 'circuit': '0/26', 'date': '0/26', 'pole position': '0/26', 'fastest lap': '0/26', 'winning rider': '0/26'}
+Columns that match with input_schema:
+ 204_253.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_40.csv(2008 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/28', 'round 1': '0/28', 'country': '0/28', 'circuit': '0/28', 'date': '0/28', 'pole position': '0/28', 'fastest lap': '0/28', 'winning rider': '0/28', 'winning team': '0/28', 'report': '0/28'}
+Columns that match with input_schema:
+ 204_40.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_569.csv(1998 Swedish Touring Car Championship season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'circuit': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning driver': '0/12', 'winning team': '0/12', 'winning privateer': '0/12'}
+Columns that match with input_schema:
+ 204_569.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.6428571428571429
+
+204_845.csv(2003 Barber Dodge Pro Series season)
+Missing Values(NANs score):  {'round': '0/10', 'circuit': '0/10', 'location': '0/10', 'date': '0/10', 'pole position': '0/10', 'fastest lap': '0/10', 'winning driver': '0/10', 'headline event': '0/10'}
+Columns that match with input_schema:
+ 204_845.csv :  {'round': 'round', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+203_514.csv(2008 Superleague Formula season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'race': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning club': '0/12', 'winning team': '0/12', 'report': '0/12'}
+Columns that match with input_schema:
+ 203_514.csv :  {'round': 'round', 'round 1': 'round 1', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5
+
+204_253.csv(1990 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/26', 'round 1': '0/26', 'circuit': '0/26', 'date': '0/26', 'pole position': '0/26', 'fastest lap': '0/26', 'winning rider': '0/26'}
+Columns that match with input_schema:
+ 204_253.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_40.csv(2008 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/28', 'round 1': '0/28', 'country': '0/28', 'circuit': '0/28', 'date': '0/28', 'pole position': '0/28', 'fastest lap': '0/28', 'winning rider': '0/28', 'winning team': '0/28', 'report': '0/28'}
+Columns that match with input_schema:
+ 204_40.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_569.csv(1998 Swedish Touring Car Championship season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'circuit': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning driver': '0/12', 'winning team': '0/12', 'winning privateer': '0/12'}
+Columns that match with input_schema:
+ 204_569.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.6428571428571429
+
+204_845.csv(2003 Barber Dodge Pro Series season)
+Missing Values(NANs score):  {'round': '0/10', 'circuit': '0/10', 'location': '0/10', 'date': '0/10', 'pole position': '0/10', 'fastest lap': '0/10', 'winning driver': '0/10', 'headline event': '0/10'}
+Columns that match with input_schema:
+ 204_845.csv :  {'round': 'round', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+203_514.csv(2008 Superleague Formula season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'race': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning club': '0/12', 'winning team': '0/12', 'report': '0/12'}
+Columns that match with input_schema:
+ 203_514.csv :  {'round': 'round', 'round 1': 'round 1', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5
+
+204_253.csv(1990 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/26', 'round 1': '0/26', 'circuit': '0/26', 'date': '0/26', 'pole position': '0/26', 'fastest lap': '0/26', 'winning rider': '0/26'}
+Columns that match with input_schema:
+ 204_253.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_40.csv(2008 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/28', 'round 1': '0/28', 'country': '0/28', 'circuit': '0/28', 'date': '0/28', 'pole position': '0/28', 'fastest lap': '0/28', 'winning rider': '0/28', 'winning team': '0/28', 'report': '0/28'}
+Columns that match with input_schema:
+ 204_40.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_569.csv(1998 Swedish Touring Car Championship season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'circuit': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning driver': '0/12', 'winning team': '0/12', 'winning privateer': '0/12'}
+Columns that match with input_schema:
+ 204_569.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.6428571428571429
+
+204_845.csv(2003 Barber Dodge Pro Series season)
+Missing Values(NANs score):  {'round': '0/10', 'circuit': '0/10', 'location': '0/10', 'date': '0/10', 'pole position': '0/10', 'fastest lap': '0/10', 'winning driver': '0/10', 'headline event': '0/10'}
+Columns that match with input_schema:
+ 204_845.csv :  {'round': 'round', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+203_181.csv(1990 IndyCar season)
+Missing Values(NANs score):  {'date': '0/17', 'rnd': '0/17', 'race name': '0/17', 'circuit': '0/17', 'city/location': '0/17', 'pole position': '0/17', 'winning driver': '0/17', 'winning team': '0/17', 'report': '0/17'}
+Columns that match with input_schema:
+ 203_181.csv :  {'circuit': 'circuit', 'pole position': 'pole position', 'date': 'day', 'winning driver': 'driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+203_408.csv(1989 Formula One season)
+Missing Values(NANs score):  {'rd ': '0/16', 'grand prix': '0/16', 'date': '0/16', 'location': '0/16', 'pole position': '0/16', 'fastest lap': '0/16', 'winning driver': '0/16', 'constructor': '0/16', 'report': '0/16'}
+Columns that match with input_schema:
+ 203_408.csv :  {'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day', 'winning driver': 'driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+203_514.csv(2008 Superleague Formula season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'race': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning club': '0/12', 'winning team': '0/12', 'report': '0/12'}
+Columns that match with input_schema:
+ 203_514.csv :  {'round': 'round', 'round 1': 'round 1', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.6428571428571429
+
+203_742.csv(1995 IndyCar season)
+Missing Values(NANs score):  {'rnd': '0/17', 'date': '0/17', 'race name': '0/17', 'circuit': '0/17', 'city/location': '0/17', 'pole position': '0/17', 'fastest lap': '0/17', 'winning driver': '0/17', 'winning team': '0/17', 'report': '0/17'}
+Columns that match with input_schema:
+ 203_742.csv :  {'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day', 'winning driver': 'driver'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_253.csv(1990 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/26', 'round 1': '0/26', 'circuit': '0/26', 'date': '0/26', 'pole position': '0/26', 'fastest lap': '0/26', 'winning rider': '0/26'}
+Columns that match with input_schema:
+ 204_253.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+204_40.csv(2008 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/28', 'round 1': '0/28', 'country': '0/28', 'circuit': '0/28', 'date': '0/28', 'pole position': '0/28', 'fastest lap': '0/28', 'winning rider': '0/28', 'winning team': '0/28', 'report': '0/28'}
+Columns that match with input_schema:
+ 204_40.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+204_455.csv(1989 Formula One season)
+Missing Values(NANs score):  {'rd ': '0/16', 'grand prix': '0/16', 'date': '0/16', 'location': '0/16', 'pole position': '0/16', 'fastest lap': '0/16', 'winning driver': '0/16', 'constructor': '0/16', 'report': '0/16'}
+Columns that match with input_schema:
+ 204_455.csv :  {'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day', 'winning driver': 'driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+204_569.csv(1998 Swedish Touring Car Championship season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'circuit': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning driver': '0/12', 'winning team': '0/12', 'winning privateer': '0/12'}
+Columns that match with input_schema:
+ 204_569.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day', 'winning driver': 'driver'}
+Coverage Score :  1.0 	 Completeness Score :  0.9285714285714286
+
+204_63.csv(2002 Italian Formula Three season)
+Missing Values(NANs score):  {'round': '0/9', 'circuit': '0/9', 'date': '0/9', 'pole position': '0/9', 'winning driver': '0/9', 'winning team': '0/9', 'trophy winner': '0/9'}
+Columns that match with input_schema:
+ 204_63.csv :  {'round': 'round', 'circuit': 'circuit', 'pole position': 'pole position', 'date': 'day', 'winning driver': 'driver'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_845.csv(2003 Barber Dodge Pro Series season)
+Missing Values(NANs score):  {'round': '0/10', 'circuit': '0/10', 'location': '0/10', 'date': '0/10', 'pole position': '0/10', 'fastest lap': '0/10', 'winning driver': '0/10', 'headline event': '0/10'}
+Columns that match with input_schema:
+ 204_845.csv :  {'round': 'round', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day', 'winning driver': 'driver'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+203_514.csv(2008 Superleague Formula season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'race': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning club': '0/12', 'winning team': '0/12', 'report': '0/12'}
+Columns that match with input_schema:
+ 203_514.csv :  {'round': 'round', 'round 1': 'round 1', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5
+
+204_253.csv(1990 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/26', 'round 1': '0/26', 'circuit': '0/26', 'date': '0/26', 'pole position': '0/26', 'fastest lap': '0/26', 'winning rider': '0/26'}
+Columns that match with input_schema:
+ 204_253.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_40.csv(2008 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/28', 'round 1': '0/28', 'country': '0/28', 'circuit': '0/28', 'date': '0/28', 'pole position': '0/28', 'fastest lap': '0/28', 'winning rider': '0/28', 'winning team': '0/28', 'report': '0/28'}
+Columns that match with input_schema:
+ 204_40.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_569.csv(1998 Swedish Touring Car Championship season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'circuit': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning driver': '0/12', 'winning team': '0/12', 'winning privateer': '0/12'}
+Columns that match with input_schema:
+ 204_569.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.6428571428571429
+
+204_845.csv(2003 Barber Dodge Pro Series season)
+Missing Values(NANs score):  {'round': '0/10', 'circuit': '0/10', 'location': '0/10', 'date': '0/10', 'pole position': '0/10', 'fastest lap': '0/10', 'winning driver': '0/10', 'headline event': '0/10'}
+Columns that match with input_schema:
+ 204_845.csv :  {'round': 'round', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+203_181.csv(1990 IndyCar season)
+Missing Values(NANs score):  {'date': '0/17', 'rnd': '0/17', 'race name': '0/17', 'circuit': '0/17', 'city/location': '0/17', 'pole position': '0/17', 'winning driver': '0/17', 'winning team': '0/17', 'report': '0/17'}
+Columns that match with input_schema:
+ 203_181.csv :  {'circuit': 'circuit', 'pole position': 'pole position', 'date': 'day', 'winning driver': 'driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+203_408.csv(1989 Formula One season)
+Missing Values(NANs score):  {'rd ': '0/16', 'grand prix': '0/16', 'date': '0/16', 'location': '0/16', 'pole position': '0/16', 'fastest lap': '0/16', 'winning driver': '0/16', 'constructor': '0/16', 'report': '0/16'}
+Columns that match with input_schema:
+ 203_408.csv :  {'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day', 'winning driver': 'driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+203_514.csv(2008 Superleague Formula season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'race': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning club': '0/12', 'winning team': '0/12', 'report': '0/12'}
+Columns that match with input_schema:
+ 203_514.csv :  {'round': 'round', 'round 1': 'round 1', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.6428571428571429
+
+203_742.csv(1995 IndyCar season)
+Missing Values(NANs score):  {'rnd': '0/17', 'date': '0/17', 'race name': '0/17', 'circuit': '0/17', 'city/location': '0/17', 'pole position': '0/17', 'fastest lap': '0/17', 'winning driver': '0/17', 'winning team': '0/17', 'report': '0/17'}
+Columns that match with input_schema:
+ 203_742.csv :  {'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day', 'winning driver': 'driver'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_253.csv(1990 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/26', 'round 1': '0/26', 'circuit': '0/26', 'date': '0/26', 'pole position': '0/26', 'fastest lap': '0/26', 'winning rider': '0/26'}
+Columns that match with input_schema:
+ 204_253.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+204_40.csv(2008 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/28', 'round 1': '0/28', 'country': '0/28', 'circuit': '0/28', 'date': '0/28', 'pole position': '0/28', 'fastest lap': '0/28', 'winning rider': '0/28', 'winning team': '0/28', 'report': '0/28'}
+Columns that match with input_schema:
+ 204_40.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+204_455.csv(1989 Formula One season)
+Missing Values(NANs score):  {'rd ': '0/16', 'grand prix': '0/16', 'date': '0/16', 'location': '0/16', 'pole position': '0/16', 'fastest lap': '0/16', 'winning driver': '0/16', 'constructor': '0/16', 'report': '0/16'}
+Columns that match with input_schema:
+ 204_455.csv :  {'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day', 'winning driver': 'driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+204_569.csv(1998 Swedish Touring Car Championship season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'circuit': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning driver': '0/12', 'winning team': '0/12', 'winning privateer': '0/12'}
+Columns that match with input_schema:
+ 204_569.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day', 'winning driver': 'driver'}
+Coverage Score :  1.0 	 Completeness Score :  0.9285714285714286
+
+204_63.csv(2002 Italian Formula Three season)
+Missing Values(NANs score):  {'round': '0/9', 'circuit': '0/9', 'date': '0/9', 'pole position': '0/9', 'winning driver': '0/9', 'winning team': '0/9', 'trophy winner': '0/9'}
+Columns that match with input_schema:
+ 204_63.csv :  {'round': 'round', 'circuit': 'circuit', 'pole position': 'pole position', 'date': 'day', 'winning driver': 'driver'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_845.csv(2003 Barber Dodge Pro Series season)
+Missing Values(NANs score):  {'round': '0/10', 'circuit': '0/10', 'location': '0/10', 'date': '0/10', 'pole position': '0/10', 'fastest lap': '0/10', 'winning driver': '0/10', 'headline event': '0/10'}
+Columns that match with input_schema:
+ 204_845.csv :  {'round': 'round', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day', 'winning driver': 'driver'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+203_181.csv(1990 IndyCar season)
+Missing Values(NANs score):  {'date': '0/17', 'rnd': '0/17', 'race name': '0/17', 'circuit': '0/17', 'city/location': '0/17', 'pole position': '0/17', 'winning driver': '0/17', 'winning team': '0/17', 'report': '0/17'}
+Columns that match with input_schema:
+ 203_181.csv :  {'circuit': 'circuit', 'pole position': 'pole position', 'date': 'day', 'winning driver': 'driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+203_514.csv(2008 Superleague Formula season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'race': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning club': '0/12', 'winning team': '0/12', 'report': '0/12'}
+Columns that match with input_schema:
+ 203_514.csv :  {'round': 'round', 'round 1': 'round 1', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.6428571428571429
+
+203_742.csv(1995 IndyCar season)
+Missing Values(NANs score):  {'rnd': '0/17', 'date': '0/17', 'race name': '0/17', 'circuit': '0/17', 'city/location': '0/17', 'pole position': '0/17', 'fastest lap': '0/17', 'winning driver': '0/17', 'winning team': '0/17', 'report': '0/17'}
+Columns that match with input_schema:
+ 203_742.csv :  {'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day', 'winning driver': 'driver'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_253.csv(1990 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/26', 'round 1': '0/26', 'circuit': '0/26', 'date': '0/26', 'pole position': '0/26', 'fastest lap': '0/26', 'winning rider': '0/26'}
+Columns that match with input_schema:
+ 204_253.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+204_569.csv(1998 Swedish Touring Car Championship season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'circuit': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning driver': '0/12', 'winning team': '0/12', 'winning privateer': '0/12'}
+Columns that match with input_schema:
+ 204_569.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day', 'winning driver': 'driver'}
+Coverage Score :  1.0 	 Completeness Score :  0.9285714285714286
+
+204_63.csv(2002 Italian Formula Three season)
+Missing Values(NANs score):  {'round': '0/9', 'circuit': '0/9', 'date': '0/9', 'pole position': '0/9', 'winning driver': '0/9', 'winning team': '0/9', 'trophy winner': '0/9'}
+Columns that match with input_schema:
+ 204_63.csv :  {'round': 'round', 'circuit': 'circuit', 'pole position': 'pole position', 'date': 'day', 'winning driver': 'driver'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+202_117.csv(German submarine U-559)
+Missing Values(NANs score):  {'date': '0/6', 'ship': '0/6', 'nationality': '0/6', 'tonnage': '0/6', 'fate': '0/6'}
+Columns that match with input_schema:
+ 202_117.csv :  {'date': 'date', 'ship': 'ship', 'nationality': 'nationality', 'fate': 'fate', 'tonnage': 'tonnage (grt)'}
+Coverage Score :  1.0 	 Completeness Score :  1.0
+
+203_148.csv(German submarine U-9 (1935))
+Missing Values(NANs score):  {'date': '0/9', 'name': '0/9', 'nationality': '0/9', 'tonnage (grt)': '0/9', 'fate': '0/9'}
+Columns that match with input_schema:
+ 203_148.csv :  {'date': 'date', 'nationality': 'nationality', 'tonnage (grt)': 'tonnage (grt)', 'fate': 'fate'}
+Coverage Score :  0.8 	 Completeness Score :  0.8
+
+203_268.csv(German submarine U-502)
+Missing Values(NANs score):  {'date': '0/16', 'name': '0/16', 'nationality': '0/16', 'tonnage (grt)': '0/16', 'fate': '0/16'}
+Columns that match with input_schema:
+ 203_268.csv :  {'date': 'date', 'nationality': 'nationality', 'tonnage (grt)': 'tonnage (grt)', 'fate': 'fate'}
+Coverage Score :  0.8 	 Completeness Score :  0.8
+
+204_100.csv(Hans-Rudolf Rosing)
+Missing Values(NANs score):  {'date': '0/13', 'name of ship': '0/13', 'nationality': '0/13', 'tonnage': '0/13', 'fate': '0/13'}
+Columns that match with input_schema:
+ 204_100.csv :  {'date': 'date', 'nationality': 'nationality', 'fate': 'fate', 'tonnage': 'tonnage (grt)', 'name of ship': 'ship'}
+Coverage Score :  1.0 	 Completeness Score :  1.0
+
+204_806.csv(List of castles in the Pays de la Loire)
+Missing Values(NANs score):  {'name': '0/12', 'date': '0/12', 'condition': '0/12', 'ownership / access': '5/12', 'notes': '1/12'}
+Columns that match with input_schema:
+ 204_806.csv :  {'date': 'date', 'condition': 'fate', 'ownership / access': 'ship'}
+Coverage Score :  0.6 	 Completeness Score :  0.5166666666666667
+
+******************************
+
+All Possible Matches
+
+Matching Tables :  ['202_117.csv', '203_148.csv', '203_268.csv', '204_100.csv', '204_806.csv']
+
+No Transformations In Input Schema
+
+1.csv : 202_117.csv		203_148.csv		203_268.csv		
+Missing Values(NANs):  {'date': '0/31', 'ship': '25/31', 'nationality': '0/31', 'tonnage (grt)': '0/31', 'fate': '0/31', 'name': '6/31'}
+Columns that match with input_schema: 
+202_117.csv :  {'date': 'date', 'ship': 'ship', 'nationality': 'nationality', 'fate': 'fate', 'tonnage': 'tonnage (grt)'}
+203_148.csv :  {'date': 'date', 'nationality': 'nationality', 'tonnage (grt)': 'tonnage (grt)', 'fate': 'fate'}
+203_268.csv :  {'date': 'date', 'nationality': 'nationality', 'tonnage (grt)': 'tonnage (grt)', 'fate': 'fate'}
+Coverage Score :  1.0 	 Completeness Score :  0.8387096774193548
+
+2.csv : 202_117.csv		203_148.csv		
+Missing Values(NANs):  {'date': '0/15', 'ship': '9/15', 'nationality': '0/15', 'tonnage (grt)': '0/15', 'fate': '0/15'}
+Columns that match with input_schema: 
+202_117.csv :  {'date': 'date', 'ship': 'ship', 'nationality': 'nationality', 'fate': 'fate', 'tonnage': 'tonnage (grt)'}
+203_148.csv :  {'date': 'date', 'nationality': 'nationality', 'tonnage (grt)': 'tonnage (grt)', 'fate': 'fate'}
+Coverage Score :  1.0 	 Completeness Score :  0.8800000000000001
+
+3.csv : 202_117.csv		203_268.csv		
+Missing Values(NANs):  {'date': '0/22', 'ship': '16/22', 'nationality': '0/22', 'tonnage (grt)': '0/22', 'fate': '0/22', 'name': '6/22'}
+Columns that match with input_schema: 
+202_117.csv :  {'date': 'date', 'ship': 'ship', 'nationality': 'nationality', 'fate': 'fate', 'tonnage': 'tonnage (grt)'}
+203_268.csv :  {'date': 'date', 'nationality': 'nationality', 'tonnage (grt)': 'tonnage (grt)', 'fate': 'fate'}
+Coverage Score :  1.0 	 Completeness Score :  0.8545454545454545
+
+4.csv : 203_148.csv		203_268.csv		
+Missing Values(NANs):  {'date': '0/25', 'name': '0/25', 'nationality': '0/25', 'tonnage (grt)': '0/25', 'fate': '0/25'}
+Columns that match with input_schema: 
+203_148.csv :  {'date': 'date', 'nationality': 'nationality', 'tonnage (grt)': 'tonnage (grt)', 'fate': 'fate'}
+203_268.csv :  {'date': 'date', 'nationality': 'nationality', 'tonnage (grt)': 'tonnage (grt)', 'fate': 'fate'}
+Coverage Score :  0.8 	 Completeness Score :  0.8
+
+202_117.csv(German submarine U-559)
+Missing Values(NANs score):  {'date': '0/6', 'ship': '0/6', 'nationality': '0/6', 'tonnage': '0/6', 'fate': '0/6'}
+Columns that match with input_schema:
+ 202_117.csv :  {'date': 'date', 'ship': 'ship', 'nationality': 'nationality', 'fate': 'fate', 'tonnage': 'tonnage (grt)'}
+Coverage Score :  1.0 	 Completeness Score :  1.0
+
+203_148.csv(German submarine U-9 (1935))
+Missing Values(NANs score):  {'date': '0/9', 'name': '0/9', 'nationality': '0/9', 'tonnage (grt)': '0/9', 'fate': '0/9'}
+Columns that match with input_schema:
+ 203_148.csv :  {'date': 'date', 'nationality': 'nationality', 'tonnage (grt)': 'tonnage (grt)', 'fate': 'fate'}
+Coverage Score :  0.8 	 Completeness Score :  0.8
+
+203_268.csv(German submarine U-502)
+Missing Values(NANs score):  {'date': '0/16', 'name': '0/16', 'nationality': '0/16', 'tonnage (grt)': '0/16', 'fate': '0/16'}
+Columns that match with input_schema:
+ 203_268.csv :  {'date': 'date', 'nationality': 'nationality', 'tonnage (grt)': 'tonnage (grt)', 'fate': 'fate'}
+Coverage Score :  0.8 	 Completeness Score :  0.8
+
+204_100.csv(Hans-Rudolf Rosing)
+Missing Values(NANs score):  {'date': '0/13', 'name of ship': '0/13', 'nationality': '0/13', 'tonnage': '0/13', 'fate': '0/13'}
+Columns that match with input_schema:
+ 204_100.csv :  {'date': 'date', 'nationality': 'nationality', 'fate': 'fate', 'tonnage': 'tonnage (grt)', 'name of ship': 'ship'}
+Coverage Score :  1.0 	 Completeness Score :  1.0
+
+204_806.csv(List of castles in the Pays de la Loire)
+Missing Values(NANs score):  {'name': '0/12', 'date': '0/12', 'condition': '0/12', 'ownership / access': '5/12', 'notes': '1/12'}
+Columns that match with input_schema:
+ 204_806.csv :  {'date': 'date', 'condition': 'fate', 'ownership / access': 'ship'}
+Coverage Score :  0.6 	 Completeness Score :  0.5166666666666667
+
+******************************
+202_117.csv(German submarine U-559)
+Missing Values(NANs score):  {'date': '0/6', 'ship': '0/6', 'nationality': '0/6', 'tonnage': '0/6', 'fate': '0/6'}
+Columns that match with input_schema:
+ 202_117.csv :  {'date': 'date', 'ship': 'ship', 'nationality': 'nationality', 'fate': 'fate', 'tonnage': 'tonnage (grt)'}
+Coverage Score :  1.0 	 Completeness Score :  1.0
+
+203_148.csv(German submarine U-9 (1935))
+Missing Values(NANs score):  {'date': '0/9', 'name': '0/9', 'nationality': '0/9', 'tonnage (grt)': '0/9', 'fate': '0/9'}
+Columns that match with input_schema:
+ 203_148.csv :  {'date': 'date', 'nationality': 'nationality', 'tonnage (grt)': 'tonnage (grt)', 'fate': 'fate'}
+Coverage Score :  0.8 	 Completeness Score :  0.8
+
+203_268.csv(German submarine U-502)
+Missing Values(NANs score):  {'date': '0/16', 'name': '0/16', 'nationality': '0/16', 'tonnage (grt)': '0/16', 'fate': '0/16'}
+Columns that match with input_schema:
+ 203_268.csv :  {'date': 'date', 'nationality': 'nationality', 'tonnage (grt)': 'tonnage (grt)', 'fate': 'fate'}
+Coverage Score :  0.8 	 Completeness Score :  0.8
+
+204_100.csv(Hans-Rudolf Rosing)
+Missing Values(NANs score):  {'date': '0/13', 'name of ship': '0/13', 'nationality': '0/13', 'tonnage': '0/13', 'fate': '0/13'}
+Columns that match with input_schema:
+ 204_100.csv :  {'date': 'date', 'nationality': 'nationality', 'fate': 'fate', 'tonnage': 'tonnage (grt)', 'name of ship': 'ship'}
+Coverage Score :  1.0 	 Completeness Score :  1.0
+
+204_806.csv(List of castles in the Pays de la Loire)
+Missing Values(NANs score):  {'name': '0/12', 'date': '0/12', 'condition': '0/12', 'ownership / access': '5/12', 'notes': '1/12'}
+Columns that match with input_schema:
+ 204_806.csv :  {'date': 'date', 'condition': 'fate', 'ownership / access': 'ship'}
+Coverage Score :  0.6 	 Completeness Score :  0.5166666666666667
+
+******************************
+
+All Possible Matches
+
+Matching Tables :  ['202_117.csv', '203_148.csv', '203_268.csv', '204_100.csv', '204_806.csv']
+
+No Transformations In Input Schema
+
+1.csv : 202_117.csv		203_148.csv		203_268.csv		
+Missing Values(NANs):  {'date': '0/31', 'ship': '25/31', 'nationality': '0/31', 'tonnage (grt)': '0/31', 'fate': '0/31', 'name': '6/31'}
+Columns that match with input_schema: 
+202_117.csv :  {'date': 'date', 'ship': 'ship', 'nationality': 'nationality', 'fate': 'fate', 'tonnage': 'tonnage (grt)'}
+203_148.csv :  {'date': 'date', 'nationality': 'nationality', 'tonnage (grt)': 'tonnage (grt)', 'fate': 'fate'}
+203_268.csv :  {'date': 'date', 'nationality': 'nationality', 'tonnage (grt)': 'tonnage (grt)', 'fate': 'fate'}
+Coverage Score :  1.0 	 Completeness Score :  0.8387096774193548
+
+2.csv : 202_117.csv		203_148.csv		
+Missing Values(NANs):  {'date': '0/15', 'ship': '9/15', 'nationality': '0/15', 'tonnage (grt)': '0/15', 'fate': '0/15'}
+Columns that match with input_schema: 
+202_117.csv :  {'date': 'date', 'ship': 'ship', 'nationality': 'nationality', 'fate': 'fate', 'tonnage': 'tonnage (grt)'}
+203_148.csv :  {'date': 'date', 'nationality': 'nationality', 'tonnage (grt)': 'tonnage (grt)', 'fate': 'fate'}
+Coverage Score :  1.0 	 Completeness Score :  0.8800000000000001
+
+3.csv : 202_117.csv		203_268.csv		
+Missing Values(NANs):  {'date': '0/22', 'ship': '16/22', 'nationality': '0/22', 'tonnage (grt)': '0/22', 'fate': '0/22', 'name': '6/22'}
+Columns that match with input_schema: 
+202_117.csv :  {'date': 'date', 'ship': 'ship', 'nationality': 'nationality', 'fate': 'fate', 'tonnage': 'tonnage (grt)'}
+203_268.csv :  {'date': 'date', 'nationality': 'nationality', 'tonnage (grt)': 'tonnage (grt)', 'fate': 'fate'}
+Coverage Score :  1.0 	 Completeness Score :  0.8545454545454545
+
+4.csv : 203_148.csv		203_268.csv		
+Missing Values(NANs):  {'date': '0/25', 'name': '0/25', 'nationality': '0/25', 'tonnage (grt)': '0/25', 'fate': '0/25'}
+Columns that match with input_schema: 
+203_148.csv :  {'date': 'date', 'nationality': 'nationality', 'tonnage (grt)': 'tonnage (grt)', 'fate': 'fate'}
+203_268.csv :  {'date': 'date', 'nationality': 'nationality', 'tonnage (grt)': 'tonnage (grt)', 'fate': 'fate'}
+Coverage Score :  0.8 	 Completeness Score :  0.8
+
+202_117.csv(German submarine U-559)
+Missing Values(NANs score):  {'date': '0/6', 'ship': '0/6', 'nationality': '0/6', 'tonnage': '0/6', 'fate': '0/6'}
+Columns that match with input_schema:
+ 202_117.csv :  {'date': 'date', 'ship': 'ship', 'nationality': 'nationality', 'fate': 'fate', 'tonnage': 'tonnage (grt)'}
+Coverage Score :  1.0 	 Completeness Score :  1.0
+
+203_148.csv(German submarine U-9 (1935))
+Missing Values(NANs score):  {'date': '0/9', 'name': '0/9', 'nationality': '0/9', 'tonnage (grt)': '0/9', 'fate': '0/9'}
+Columns that match with input_schema:
+ 203_148.csv :  {'date': 'date', 'nationality': 'nationality', 'tonnage (grt)': 'tonnage (grt)', 'fate': 'fate'}
+Coverage Score :  0.8 	 Completeness Score :  0.8
+
+203_268.csv(German submarine U-502)
+Missing Values(NANs score):  {'date': '0/16', 'name': '0/16', 'nationality': '0/16', 'tonnage (grt)': '0/16', 'fate': '0/16'}
+Columns that match with input_schema:
+ 203_268.csv :  {'date': 'date', 'nationality': 'nationality', 'tonnage (grt)': 'tonnage (grt)', 'fate': 'fate'}
+Coverage Score :  0.8 	 Completeness Score :  0.8
+
+204_100.csv(Hans-Rudolf Rosing)
+Missing Values(NANs score):  {'date': '0/13', 'name of ship': '0/13', 'nationality': '0/13', 'tonnage': '0/13', 'fate': '0/13'}
+Columns that match with input_schema:
+ 204_100.csv :  {'date': 'date', 'nationality': 'nationality', 'fate': 'fate', 'tonnage': 'tonnage (grt)', 'name of ship': 'ship'}
+Coverage Score :  1.0 	 Completeness Score :  1.0
+
+204_806.csv(List of castles in the Pays de la Loire)
+Missing Values(NANs score):  {'name': '0/12', 'date': '0/12', 'condition': '0/12', 'ownership / access': '5/12', 'notes': '1/12'}
+Columns that match with input_schema:
+ 204_806.csv :  {'date': 'date', 'condition': 'fate', 'ownership / access': 'ship'}
+Coverage Score :  0.6 	 Completeness Score :  0.5166666666666667
+
+******************************
+202_117.csv(German submarine U-559)
+Missing Values(NANs score):  {'date': '0/6', 'ship': '0/6', 'nationality': '0/6', 'tonnage': '0/6', 'fate': '0/6'}
+Columns that match with input_schema:
+ 202_117.csv :  {'ship': 'ship', 'nationality': 'nationality', 'fate': 'fate', 'tonnage': 'tonnage (grt)'}
+Coverage Score :  1.0 	 Completeness Score :  1.0
+
+203_148.csv(German submarine U-9 (1935))
+Missing Values(NANs score):  {'date': '0/9', 'name': '0/9', 'nationality': '0/9', 'tonnage (grt)': '0/9', 'fate': '0/9'}
+Columns that match with input_schema:
+ 203_148.csv :  {'nationality': 'nationality', 'tonnage (grt)': 'tonnage (grt)', 'fate': 'fate'}
+Coverage Score :  0.75 	 Completeness Score :  0.75
+
+203_268.csv(German submarine U-502)
+Missing Values(NANs score):  {'date': '0/16', 'name': '0/16', 'nationality': '0/16', 'tonnage (grt)': '0/16', 'fate': '0/16'}
+Columns that match with input_schema:
+ 203_268.csv :  {'nationality': 'nationality', 'tonnage (grt)': 'tonnage (grt)', 'fate': 'fate'}
+Coverage Score :  0.75 	 Completeness Score :  0.75
+
+204_100.csv(Hans-Rudolf Rosing)
+Missing Values(NANs score):  {'date': '0/13', 'name of ship': '0/13', 'nationality': '0/13', 'tonnage': '0/13', 'fate': '0/13'}
+Columns that match with input_schema:
+ 204_100.csv :  {'nationality': 'nationality', 'fate': 'fate', 'tonnage': 'tonnage (grt)', 'name of ship': 'ship'}
+Coverage Score :  1.0 	 Completeness Score :  1.0
+
+******************************
+
+All Possible Matches
+
+Matching Tables :  ['202_117.csv', '203_148.csv', '203_268.csv', '204_100.csv']
+
+No Transformations In Input Schema
+
+1.csv : 202_117.csv		203_148.csv		203_268.csv		
+Missing Values(NANs):  {'date': '0/31', 'ship': '25/31', 'nationality': '0/31', 'tonnage (grt)': '0/31', 'fate': '0/31', 'name': '6/31'}
+Columns that match with input_schema: 
+202_117.csv :  {'ship': 'ship', 'nationality': 'nationality', 'fate': 'fate', 'tonnage': 'tonnage (grt)'}
+203_148.csv :  {'nationality': 'nationality', 'tonnage (grt)': 'tonnage (grt)', 'fate': 'fate'}
+203_268.csv :  {'nationality': 'nationality', 'tonnage (grt)': 'tonnage (grt)', 'fate': 'fate'}
+Coverage Score :  1.0 	 Completeness Score :  0.7983870967741935
+
+2.csv : 202_117.csv		203_148.csv		
+Missing Values(NANs):  {'date': '0/15', 'ship': '9/15', 'nationality': '0/15', 'tonnage (grt)': '0/15', 'fate': '0/15'}
+Columns that match with input_schema: 
+202_117.csv :  {'ship': 'ship', 'nationality': 'nationality', 'fate': 'fate', 'tonnage': 'tonnage (grt)'}
+203_148.csv :  {'nationality': 'nationality', 'tonnage (grt)': 'tonnage (grt)', 'fate': 'fate'}
+Coverage Score :  1.0 	 Completeness Score :  0.85
+
+3.csv : 202_117.csv		203_268.csv		
+Missing Values(NANs):  {'date': '0/22', 'ship': '16/22', 'nationality': '0/22', 'tonnage (grt)': '0/22', 'fate': '0/22', 'name': '6/22'}
+Columns that match with input_schema: 
+202_117.csv :  {'ship': 'ship', 'nationality': 'nationality', 'fate': 'fate', 'tonnage': 'tonnage (grt)'}
+203_268.csv :  {'nationality': 'nationality', 'tonnage (grt)': 'tonnage (grt)', 'fate': 'fate'}
+Coverage Score :  1.0 	 Completeness Score :  0.8181818181818181
+
+4.csv : 203_148.csv		203_268.csv		
+Missing Values(NANs):  {'date': '0/25', 'name': '0/25', 'nationality': '0/25', 'tonnage (grt)': '0/25', 'fate': '0/25'}
+Columns that match with input_schema: 
+203_148.csv :  {'nationality': 'nationality', 'tonnage (grt)': 'tonnage (grt)', 'fate': 'fate'}
+203_268.csv :  {'nationality': 'nationality', 'tonnage (grt)': 'tonnage (grt)', 'fate': 'fate'}
+Coverage Score :  0.75 	 Completeness Score :  0.75
+
+202_117.csv(German submarine U-559)
+Missing Values(NANs score):  {'date': '0/6', 'ship': '0/6', 'nationality': '0/6', 'tonnage': '0/6', 'fate': '0/6'}
+Columns that match with input_schema:
+ 202_117.csv :  {'ship': 'ship', 'nationality': 'nationality', 'fate': 'fate', 'tonnage': 'tonnage (grt)'}
+Coverage Score :  1.0 	 Completeness Score :  1.0
+
+203_148.csv(German submarine U-9 (1935))
+Missing Values(NANs score):  {'date': '0/9', 'name': '0/9', 'nationality': '0/9', 'tonnage (grt)': '0/9', 'fate': '0/9'}
+Columns that match with input_schema:
+ 203_148.csv :  {'nationality': 'nationality', 'tonnage (grt)': 'tonnage (grt)', 'fate': 'fate'}
+Coverage Score :  0.75 	 Completeness Score :  0.75
+
+203_268.csv(German submarine U-502)
+Missing Values(NANs score):  {'date': '0/16', 'name': '0/16', 'nationality': '0/16', 'tonnage (grt)': '0/16', 'fate': '0/16'}
+Columns that match with input_schema:
+ 203_268.csv :  {'nationality': 'nationality', 'tonnage (grt)': 'tonnage (grt)', 'fate': 'fate'}
+Coverage Score :  0.75 	 Completeness Score :  0.75
+
+204_100.csv(Hans-Rudolf Rosing)
+Missing Values(NANs score):  {'date': '0/13', 'name of ship': '0/13', 'nationality': '0/13', 'tonnage': '0/13', 'fate': '0/13'}
+Columns that match with input_schema:
+ 204_100.csv :  {'nationality': 'nationality', 'fate': 'fate', 'tonnage': 'tonnage (grt)', 'name of ship': 'ship'}
+Coverage Score :  1.0 	 Completeness Score :  1.0
+
+******************************
+202_117.csv(German submarine U-559)
+Missing Values(NANs score):  {'date': '0/6', 'ship': '0/6', 'nationality': '0/6', 'tonnage': '0/6', 'fate': '0/6'}
+Columns that match with input_schema:
+ 202_117.csv :  {'ship': 'ship', 'nationality': 'nationality', 'fate': 'fate', 'tonnage': 'tonnage (grt)'}
+Coverage Score :  1.0 	 Completeness Score :  1.0
+
+203_148.csv(German submarine U-9 (1935))
+Missing Values(NANs score):  {'date': '0/9', 'name': '0/9', 'nationality': '0/9', 'tonnage (grt)': '0/9', 'fate': '0/9'}
+Columns that match with input_schema:
+ 203_148.csv :  {'nationality': 'nationality', 'tonnage (grt)': 'tonnage (grt)', 'fate': 'fate'}
+Coverage Score :  0.75 	 Completeness Score :  0.75
+
+203_268.csv(German submarine U-502)
+Missing Values(NANs score):  {'date': '0/16', 'name': '0/16', 'nationality': '0/16', 'tonnage (grt)': '0/16', 'fate': '0/16'}
+Columns that match with input_schema:
+ 203_268.csv :  {'nationality': 'nationality', 'tonnage (grt)': 'tonnage (grt)', 'fate': 'fate'}
+Coverage Score :  0.75 	 Completeness Score :  0.75
+
+204_100.csv(Hans-Rudolf Rosing)
+Missing Values(NANs score):  {'date': '0/13', 'name of ship': '0/13', 'nationality': '0/13', 'tonnage': '0/13', 'fate': '0/13'}
+Columns that match with input_schema:
+ 204_100.csv :  {'nationality': 'nationality', 'fate': 'fate', 'tonnage': 'tonnage (grt)', 'name of ship': 'ship'}
+Coverage Score :  1.0 	 Completeness Score :  1.0
+
+******************************
+
+All Possible Matches
+
+Matching Tables :  ['202_117.csv', '203_148.csv', '203_268.csv', '204_100.csv']
+
+No Transformations In Input Schema
+
+1.csv : 202_117.csv		203_148.csv		203_268.csv		
+Missing Values(NANs):  {'date': '0/31', 'ship': '0/31', 'nationality': '0/31', 'tonnage (grt)': '0/31', 'fate': '0/31'}
+Columns that match with input_schema: 
+202_117.csv :  {'ship': 'ship', 'nationality': 'nationality', 'fate': 'fate', 'tonnage': 'tonnage (grt)'}
+203_148.csv :  {'nationality': 'nationality', 'tonnage (grt)': 'tonnage (grt)', 'fate': 'fate'}
+203_268.csv :  {'nationality': 'nationality', 'tonnage (grt)': 'tonnage (grt)', 'fate': 'fate'}
+Coverage Score :  1.0 	 Completeness Score :  1.0
+
+2.csv : 202_117.csv		203_148.csv		
+Missing Values(NANs):  {'date': '0/15', 'ship': '0/15', 'nationality': '0/15', 'tonnage (grt)': '0/15', 'fate': '0/15'}
+Columns that match with input_schema: 
+202_117.csv :  {'ship': 'ship', 'nationality': 'nationality', 'fate': 'fate', 'tonnage': 'tonnage (grt)'}
+203_148.csv :  {'nationality': 'nationality', 'tonnage (grt)': 'tonnage (grt)', 'fate': 'fate'}
+Coverage Score :  1.0 	 Completeness Score :  1.0
+
+3.csv : 202_117.csv		203_268.csv		
+Missing Values(NANs):  {'date': '0/22', 'ship': '0/22', 'nationality': '0/22', 'tonnage (grt)': '0/22', 'fate': '0/22'}
+Columns that match with input_schema: 
+202_117.csv :  {'ship': 'ship', 'nationality': 'nationality', 'fate': 'fate', 'tonnage': 'tonnage (grt)'}
+203_268.csv :  {'nationality': 'nationality', 'tonnage (grt)': 'tonnage (grt)', 'fate': 'fate'}
+Coverage Score :  1.0 	 Completeness Score :  1.0
+
+4.csv : 203_148.csv		203_268.csv		
+Missing Values(NANs):  {'date': '0/25', 'name': '0/25', 'nationality': '0/25', 'tonnage (grt)': '0/25', 'fate': '0/25'}
+Columns that match with input_schema: 
+203_148.csv :  {'nationality': 'nationality', 'tonnage (grt)': 'tonnage (grt)', 'fate': 'fate'}
+203_268.csv :  {'nationality': 'nationality', 'tonnage (grt)': 'tonnage (grt)', 'fate': 'fate'}
+Coverage Score :  0.75 	 Completeness Score :  0.75
+
+202_117.csv(German submarine U-559)
+Missing Values(NANs score):  {'date': '0/6', 'ship': '0/6', 'nationality': '0/6', 'tonnage': '0/6', 'fate': '0/6'}
+Columns that match with input_schema:
+ 202_117.csv :  {'ship': 'ship', 'nationality': 'nationality', 'fate': 'fate', 'tonnage': 'tonnage (grt)'}
+Coverage Score :  1.0 	 Completeness Score :  1.0
+
+203_148.csv(German submarine U-9 (1935))
+Missing Values(NANs score):  {'date': '0/9', 'name': '0/9', 'nationality': '0/9', 'tonnage (grt)': '0/9', 'fate': '0/9'}
+Columns that match with input_schema:
+ 203_148.csv :  {'nationality': 'nationality', 'tonnage (grt)': 'tonnage (grt)', 'fate': 'fate'}
+Coverage Score :  0.75 	 Completeness Score :  0.75
+
+203_268.csv(German submarine U-502)
+Missing Values(NANs score):  {'date': '0/16', 'name': '0/16', 'nationality': '0/16', 'tonnage (grt)': '0/16', 'fate': '0/16'}
+Columns that match with input_schema:
+ 203_268.csv :  {'nationality': 'nationality', 'tonnage (grt)': 'tonnage (grt)', 'fate': 'fate'}
+Coverage Score :  0.75 	 Completeness Score :  0.75
+
+204_100.csv(Hans-Rudolf Rosing)
+Missing Values(NANs score):  {'date': '0/13', 'name of ship': '0/13', 'nationality': '0/13', 'tonnage': '0/13', 'fate': '0/13'}
+Columns that match with input_schema:
+ 204_100.csv :  {'nationality': 'nationality', 'fate': 'fate', 'tonnage': 'tonnage (grt)', 'name of ship': 'ship'}
+Coverage Score :  1.0 	 Completeness Score :  1.0
+
+******************************
+203_181.csv(1990 IndyCar season)
+Missing Values(NANs score):  {'date': '0/17', 'rnd': '0/17', 'race name': '0/17', 'circuit': '0/17', 'city/location': '0/17', 'pole position': '0/17', 'winning driver': '0/17', 'winning team': '0/17', 'report': '0/17'}
+Columns that match with input_schema:
+ 203_181.csv :  {'circuit': 'circuit', 'pole position': 'pole position', 'date': 'day', 'winning driver': 'driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+203_408.csv(1989 Formula One season)
+Missing Values(NANs score):  {'rd ': '0/16', 'grand prix': '0/16', 'date': '0/16', 'location': '0/16', 'pole position': '0/16', 'fastest lap': '0/16', 'winning driver': '0/16', 'constructor': '0/16', 'report': '0/16'}
+Columns that match with input_schema:
+ 203_408.csv :  {'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day', 'winning driver': 'driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+203_514.csv(2008 Superleague Formula season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'race': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning club': '0/12', 'winning team': '0/12', 'report': '0/12'}
+Columns that match with input_schema:
+ 203_514.csv :  {'round': 'round', 'round 1': 'round 1', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.6428571428571429
+
+203_742.csv(1995 IndyCar season)
+Missing Values(NANs score):  {'rnd': '0/17', 'date': '0/17', 'race name': '0/17', 'circuit': '0/17', 'city/location': '0/17', 'pole position': '0/17', 'fastest lap': '0/17', 'winning driver': '0/17', 'winning team': '0/17', 'report': '0/17'}
+Columns that match with input_schema:
+ 203_742.csv :  {'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day', 'winning driver': 'driver'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_253.csv(1990 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/26', 'round 1': '0/26', 'circuit': '0/26', 'date': '0/26', 'pole position': '0/26', 'fastest lap': '0/26', 'winning rider': '0/26'}
+Columns that match with input_schema:
+ 204_253.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+204_40.csv(2008 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/28', 'round 1': '0/28', 'country': '0/28', 'circuit': '0/28', 'date': '0/28', 'pole position': '0/28', 'fastest lap': '0/28', 'winning rider': '0/28', 'winning team': '0/28', 'report': '0/28'}
+Columns that match with input_schema:
+ 204_40.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+204_455.csv(1989 Formula One season)
+Missing Values(NANs score):  {'rd ': '0/16', 'grand prix': '0/16', 'date': '0/16', 'location': '0/16', 'pole position': '0/16', 'fastest lap': '0/16', 'winning driver': '0/16', 'constructor': '0/16', 'report': '0/16'}
+Columns that match with input_schema:
+ 204_455.csv :  {'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day', 'winning driver': 'driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+204_569.csv(1998 Swedish Touring Car Championship season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'circuit': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning driver': '0/12', 'winning team': '0/12', 'winning privateer': '0/12'}
+Columns that match with input_schema:
+ 204_569.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day', 'winning driver': 'driver'}
+Coverage Score :  1.0 	 Completeness Score :  0.9285714285714286
+
+204_63.csv(2002 Italian Formula Three season)
+Missing Values(NANs score):  {'round': '0/9', 'circuit': '0/9', 'date': '0/9', 'pole position': '0/9', 'winning driver': '0/9', 'winning team': '0/9', 'trophy winner': '0/9'}
+Columns that match with input_schema:
+ 204_63.csv :  {'round': 'round', 'circuit': 'circuit', 'pole position': 'pole position', 'date': 'day', 'winning driver': 'driver'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_845.csv(2003 Barber Dodge Pro Series season)
+Missing Values(NANs score):  {'round': '0/10', 'circuit': '0/10', 'location': '0/10', 'date': '0/10', 'pole position': '0/10', 'fastest lap': '0/10', 'winning driver': '0/10', 'headline event': '0/10'}
+Columns that match with input_schema:
+ 204_845.csv :  {'round': 'round', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day', 'winning driver': 'driver'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+203_181.csv(1990 IndyCar season)
+Missing Values(NANs score):  {'date': '0/17', 'rnd': '0/17', 'race name': '0/17', 'circuit': '0/17', 'city/location': '0/17', 'pole position': '0/17', 'winning driver': '0/17', 'winning team': '0/17', 'report': '0/17'}
+Columns that match with input_schema:
+ 203_181.csv :  {'circuit': 'circuit', 'pole position': 'pole position', 'date': 'day', 'winning driver': 'driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+203_408.csv(1989 Formula One season)
+Missing Values(NANs score):  {'rd ': '0/16', 'grand prix': '0/16', 'date': '0/16', 'location': '0/16', 'pole position': '0/16', 'fastest lap': '0/16', 'winning driver': '0/16', 'constructor': '0/16', 'report': '0/16'}
+Columns that match with input_schema:
+ 203_408.csv :  {'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day', 'winning driver': 'driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+203_514.csv(2008 Superleague Formula season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'race': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning club': '0/12', 'winning team': '0/12', 'report': '0/12'}
+Columns that match with input_schema:
+ 203_514.csv :  {'round': 'round', 'round 1': 'round 1', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.6428571428571429
+
+203_742.csv(1995 IndyCar season)
+Missing Values(NANs score):  {'rnd': '0/17', 'date': '0/17', 'race name': '0/17', 'circuit': '0/17', 'city/location': '0/17', 'pole position': '0/17', 'fastest lap': '0/17', 'winning driver': '0/17', 'winning team': '0/17', 'report': '0/17'}
+Columns that match with input_schema:
+ 203_742.csv :  {'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day', 'winning driver': 'driver'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_253.csv(1990 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/26', 'round 1': '0/26', 'circuit': '0/26', 'date': '0/26', 'pole position': '0/26', 'fastest lap': '0/26', 'winning rider': '0/26'}
+Columns that match with input_schema:
+ 204_253.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+204_40.csv(2008 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/28', 'round 1': '0/28', 'country': '0/28', 'circuit': '0/28', 'date': '0/28', 'pole position': '0/28', 'fastest lap': '0/28', 'winning rider': '0/28', 'winning team': '0/28', 'report': '0/28'}
+Columns that match with input_schema:
+ 204_40.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+204_455.csv(1989 Formula One season)
+Missing Values(NANs score):  {'rd ': '0/16', 'grand prix': '0/16', 'date': '0/16', 'location': '0/16', 'pole position': '0/16', 'fastest lap': '0/16', 'winning driver': '0/16', 'constructor': '0/16', 'report': '0/16'}
+Columns that match with input_schema:
+ 204_455.csv :  {'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day', 'winning driver': 'driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+204_569.csv(1998 Swedish Touring Car Championship season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'circuit': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning driver': '0/12', 'winning team': '0/12', 'winning privateer': '0/12'}
+Columns that match with input_schema:
+ 204_569.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day', 'winning driver': 'driver'}
+Coverage Score :  1.0 	 Completeness Score :  0.9285714285714286
+
+204_63.csv(2002 Italian Formula Three season)
+Missing Values(NANs score):  {'round': '0/9', 'circuit': '0/9', 'date': '0/9', 'pole position': '0/9', 'winning driver': '0/9', 'winning team': '0/9', 'trophy winner': '0/9'}
+Columns that match with input_schema:
+ 204_63.csv :  {'round': 'round', 'circuit': 'circuit', 'pole position': 'pole position', 'date': 'day', 'winning driver': 'driver'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_845.csv(2003 Barber Dodge Pro Series season)
+Missing Values(NANs score):  {'round': '0/10', 'circuit': '0/10', 'location': '0/10', 'date': '0/10', 'pole position': '0/10', 'fastest lap': '0/10', 'winning driver': '0/10', 'headline event': '0/10'}
+Columns that match with input_schema:
+ 204_845.csv :  {'round': 'round', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day', 'winning driver': 'driver'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+203_181.csv(1990 IndyCar season)
+Missing Values(NANs score):  {'date': '0/17', 'rnd': '0/17', 'race name': '0/17', 'circuit': '0/17', 'city/location': '0/17', 'pole position': '0/17', 'winning driver': '0/17', 'winning team': '0/17', 'report': '0/17'}
+Columns that match with input_schema:
+ 203_181.csv :  {'circuit': 'circuit', 'pole position': 'pole position', 'date': 'day', 'winning driver': 'driver'}
+Coverage Score :  0.5714285714285714 	 Completeness Score :  0.5714285714285714
+
+203_514.csv(2008 Superleague Formula season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'race': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning club': '0/12', 'winning team': '0/12', 'report': '0/12'}
+Columns that match with input_schema:
+ 203_514.csv :  {'round': 'round', 'round 1': 'round 1', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.6428571428571429
+
+203_742.csv(1995 IndyCar season)
+Missing Values(NANs score):  {'rnd': '0/17', 'date': '0/17', 'race name': '0/17', 'circuit': '0/17', 'city/location': '0/17', 'pole position': '0/17', 'fastest lap': '0/17', 'winning driver': '0/17', 'winning team': '0/17', 'report': '0/17'}
+Columns that match with input_schema:
+ 203_742.csv :  {'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day', 'winning driver': 'driver'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
+204_253.csv(1990 Superbike World Championship season)
+Missing Values(NANs score):  {'round': '0/26', 'round 1': '0/26', 'circuit': '0/26', 'date': '0/26', 'pole position': '0/26', 'fastest lap': '0/26', 'winning rider': '0/26'}
+Columns that match with input_schema:
+ 204_253.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day'}
+Coverage Score :  0.8571428571428571 	 Completeness Score :  0.8571428571428571
+
+204_569.csv(1998 Swedish Touring Car Championship season)
+Missing Values(NANs score):  {'round': '0/12', 'round 1': '0/12', 'circuit': '0/12', 'date': '0/12', 'pole position': '6/12', 'fastest lap': '0/12', 'winning driver': '0/12', 'winning team': '0/12', 'winning privateer': '0/12'}
+Columns that match with input_schema:
+ 204_569.csv :  {'round': 'round', 'round 1': 'round 1', 'circuit': 'circuit', 'pole position': 'pole position', 'fastest lap': 'fastest lap', 'date': 'day', 'winning driver': 'driver'}
+Coverage Score :  1.0 	 Completeness Score :  0.9285714285714286
+
+204_63.csv(2002 Italian Formula Three season)
+Missing Values(NANs score):  {'round': '0/9', 'circuit': '0/9', 'date': '0/9', 'pole position': '0/9', 'winning driver': '0/9', 'winning team': '0/9', 'trophy winner': '0/9'}
+Columns that match with input_schema:
+ 204_63.csv :  {'round': 'round', 'circuit': 'circuit', 'pole position': 'pole position', 'date': 'day', 'winning driver': 'driver'}
+Coverage Score :  0.7142857142857143 	 Completeness Score :  0.7142857142857143
+
